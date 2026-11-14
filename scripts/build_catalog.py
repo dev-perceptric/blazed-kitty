@@ -66,6 +66,10 @@ for drop, D in (('drop2', D2), ('drop1', D1)):
             sizes = sorted({x['size'] for x in vs}, key=lambda z: ORDER.index(z) if z in ORDER else 99)
             if pid == 669:
                 cols = [{'name': 'Full print', 'hex': '#ffffff'}]
+            elif pid == 967:  # raglan: white body + colored sleeves, show both on the swatch
+                SLEEVE = {'White /True Royal': '#2347d1', 'White/Baby Blue': '#9ec9f0', 'White/Black': '#151515',
+                          'White/Navy': '#243048', 'White/Pink': '#f7c5d3', 'White/Red': '#d11f2f'}
+                cols = [{'name': c, 'hex': f'linear-gradient(135deg, #ffffff 50%, {SLEEVE[c]} 50%)'} for c in s['colors'] if c in hexes]
             else:
                 cols = [{'name': c, 'hex': hexes[c]} for c in s['colors'] if c in hexes]
             count[cat] += 1

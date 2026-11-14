@@ -22,7 +22,8 @@ export default function ProductView({ product }: { product: Product }) {
 
   function pickColor(c: typeof color) {
     setColor(c);
-    setActive(0);
+    // Jump to Printful's product shot in the picked color (the model photo stays first in the row).
+    setActive(shotsFor(product, c.name)[0]?.style === 'Model' ? 1 : 0);
   }
 
   function addToBag() {
