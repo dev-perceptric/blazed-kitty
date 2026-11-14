@@ -51,7 +51,7 @@ const BIKINI_DETAILS = ['Recycled polyester with elastane, double layered', 'UPF
 export const PRODUCTS: Product[] = [
   {
     slug: 'blazed-kitty-logo-crop', code: 'BK-T01', name: 'Blazed Kitty Logo Crop', category: 'tees', garment: 'crop',
-    design: 'logo', price: 36, colors: [CROP.black, CROP.bubblegum], sizes: CROP_SIZES, printful: CROP_BLANK, details: CROP_DETAILS,
+    design: 'logo', price: 36, colors: [CROP.black], sizes: CROP_SIZES, printful: CROP_BLANK, details: CROP_DETAILS,
     blurb: 'The pink chrome kitty face, front and center. The one that started it all.',
   },
   {

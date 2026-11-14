@@ -202,6 +202,41 @@ export function productSVG(p: Product, hex: string, view: 'garment' | 'print' = 
   return garmentSVG(p, hex, label);
 }
 
+/** Raw front print for a design, drawn in a 400x400 box (no background). */
+export function printArt(design: string) {
+  return PRINTS[design]();
+}
+
+/** Full bikini fabric for Printful all-over print files, at print scale. */
+export function fabricSVG(design: string, w: number, h: number) {
+  // Scale tiles so motifs land around 1 to 2 inches on the fabric.
+  const k = design === 'patLeopard' ? 4.5 : 6;
+  let tile = '';
+  let size = 56;
+  let bg = '#0e0a12';
+  if (design === 'patEars') {
+    tile = miniEars(14, 14, '#ff2e93') + miniEars(42, 42, '#ff9bd2');
+  } else if (design === 'patLeopard') {
+    size = 110;
+    tile = leopard();
+    bg = '#ff2e93';
+  } else if (design === 'patFaces') {
+    size = 64;
+    bg = '#ffb8dd';
+    tile = miniKitty(16, 17, 0.1, '#2a1030', '#ffb8dd') + miniKitty(48, 49, 0.1, '#ff2e93', '#2a1030');
+  } else {
+    size = 90;
+    bg = '#1a0f1f';
+    tile = `<text class="fs" x="22" y="34" font-size="22" fill="#ff2e93" transform="rotate(-8 22 34)">kitty</text>` +
+      `<text class="fs" x="64" y="80" font-size="22" fill="#ff9bd2" transform="rotate(-8 64 80)">kitty</text>` +
+      `<circle cx="74" cy="22" r="5" fill="none" stroke="#ff9bd2" stroke-width="1.6"/><circle cx="16" cy="70" r="3.5" fill="none" stroke="#ff2e93" stroke-width="1.4"/>`;
+  }
+  const s = size * k;
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">
+    <defs><pattern id="fab" width="${s}" height="${s}" patternUnits="userSpaceOnUse"><rect width="${s}" height="${s}" fill="${bg}"/><g transform="scale(${k})">${tile.replace('<rect width="110" height="110" fill="#ff2e93"/>', '')}</g></pattern></defs>
+    <rect width="${w}" height="${h}" fill="url(#fab)"/></svg>`;
+}
+
 export function logoSVG(label = 'Blazed Kitty', flat?: string) {
   return `<svg viewBox="0 0 400 400" role="img" aria-label="${label}">${logoMark(flat)}</svg>`;
 }
