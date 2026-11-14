@@ -1,710 +1,290 @@
 {
- "blazed-kitty-logo-crop": [
+ "in-a-situationship-with-my-grinder-crop-tee": [
   {
-   "src": "/mockups/blazed-kitty-logo-crop/1.jpg",
-   "color": "Black",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/models/in-a-situationship-with-my-grinder-crop-tee.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/in-a-situationship-with-my-grinder-crop-tee/light-washed-denim-0.jpg",
+   "color": "Light Washed Denim",
    "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/blazed-kitty-logo-crop/2.jpg",
-   "color": "Black",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/in-a-situationship-with-my-grinder-crop-tee/light-washed-denim-1.jpg",
+   "color": "Light Washed Denim",
    "style": "Flat",
    "option": "Front"
   },
   {
-   "src": "/mockups/blazed-kitty-logo-crop/3.jpg",
-   "color": "Black",
-   "style": "Women's",
-   "option": "Right Front"
-  },
-  {
-   "src": "/mockups/blazed-kitty-logo-crop/4.jpg",
-   "color": "Black",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/blazed-kitty-logo-crop/5.jpg",
-   "color": "Black",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/blazed-kitty-logo-crop/6.jpg",
-   "color": "Black",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
-  }
- ],
- "pet-me-im-high-crop": [
-  {
-   "src": "/mockups/pet-me-im-high-crop/1.jpg",
-   "color": "Black",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/in-a-situationship-with-my-grinder-crop-tee/vintage-white-0.jpg",
+   "color": "Vintage White",
    "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/pet-me-im-high-crop/2.jpg",
-   "color": "Black",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/in-a-situationship-with-my-grinder-crop-tee/vintage-white-1.jpg",
+   "color": "Vintage White",
+   "style": "Flat",
+   "option": "Front"
+  }
+ ],
+ "too-hot-to-be-sober-rib-tank": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/models/too-hot-to-be-sober-rib-tank.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-hot-to-be-sober-rib-tank/athletic-heather-0.jpg",
+   "color": "Athletic Heather",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-hot-to-be-sober-rib-tank/athletic-heather-1.jpg",
+   "color": "Athletic Heather",
    "style": "Flat",
    "option": "Front"
   },
   {
-   "src": "/mockups/pet-me-im-high-crop/3.jpg",
-   "color": "Black",
-   "style": "Women's",
-   "option": "Right Front"
-  },
-  {
-   "src": "/mockups/pet-me-im-high-crop/4.jpg",
-   "color": "Black",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/pet-me-im-high-crop/5.jpg",
-   "color": "Black",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/pet-me-im-high-crop/6.jpg",
-   "color": "Black",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
-  }
- ],
- "nine-lives-crop": [
-  {
-   "src": "/mockups/nine-lives-crop/1.jpg",
-   "color": "Black",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-hot-to-be-sober-rib-tank/solid-baby-blue-blend-0.jpg",
+   "color": "Solid Baby Blue Blend",
    "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/nine-lives-crop/2.jpg",
-   "color": "Black",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-hot-to-be-sober-rib-tank/solid-baby-blue-blend-1.jpg",
+   "color": "Solid Baby Blue Blend",
    "style": "Flat",
    "option": "Front"
   },
   {
-   "src": "/mockups/nine-lives-crop/3.jpg",
-   "color": "Black",
-   "style": "Women's",
-   "option": "Right Front"
-  },
-  {
-   "src": "/mockups/nine-lives-crop/4.jpg",
-   "color": "Black",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/nine-lives-crop/5.jpg",
-   "color": "Black",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/nine-lives-crop/6.jpg",
-   "color": "Black",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
-  }
- ],
- "kitty-wants-a-snack-crop": [
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/1.jpg",
-   "color": "Bubblegum",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-hot-to-be-sober-rib-tank/solid-pink-blend-0.jpg",
+   "color": "Solid Pink Blend",
    "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/kitty-wants-a-snack-crop/2.jpg",
-   "color": "Bubblegum",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-hot-to-be-sober-rib-tank/solid-pink-blend-1.jpg",
+   "color": "Solid Pink Blend",
    "style": "Flat",
    "option": "Front"
   },
   {
-   "src": "/mockups/kitty-wants-a-snack-crop/3.jpg",
-   "color": "Bubblegum",
-   "style": "Women's",
-   "option": "Right Front"
-  },
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/4.jpg",
-   "color": "Bubblegum",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/5.jpg",
-   "color": "Bubblegum",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/6.jpg",
-   "color": "Bubblegum",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/7.jpg",
-   "color": "Pale Pink",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-hot-to-be-sober-rib-tank/solid-white-blend-0.jpg",
+   "color": "Solid White Blend",
    "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/kitty-wants-a-snack-crop/8.jpg",
-   "color": "Pale Pink",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-hot-to-be-sober-rib-tank/solid-white-blend-1.jpg",
+   "color": "Solid White Blend",
    "style": "Flat",
    "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/9.jpg",
-   "color": "Pale Pink",
-   "style": "Women's",
-   "option": "Right Front"
-  },
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/10.jpg",
-   "color": "Pale Pink",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/11.jpg",
-   "color": "Pale Pink",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/12.jpg",
-   "color": "Pale Pink",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/13.jpg",
-   "color": "White",
-   "style": "Main",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/14.jpg",
-   "color": "White",
-   "style": "Flat",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/15.jpg",
-   "color": "White",
-   "style": "Women's",
-   "option": "Right Front"
-  },
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/16.jpg",
-   "color": "White",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/17.jpg",
-   "color": "White",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-wants-a-snack-crop/18.jpg",
-   "color": "White",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
   }
  ],
- "bad-kitty-club-crop": [
+ "pet-me-harder-string-bottom": [
   {
-   "src": "/mockups/bad-kitty-club-crop/1.jpg",
-   "color": "Bubblegum",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/models/pet-me-harder-string-bottom.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/pet-me-harder-string-bottom/white-0.jpg",
+   "color": "Full print",
    "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/bad-kitty-club-crop/2.jpg",
-   "color": "Bubblegum",
-   "style": "Flat",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/bad-kitty-club-crop/3.jpg",
-   "color": "Bubblegum",
-   "style": "Women's",
-   "option": "Right Front"
-  },
-  {
-   "src": "/mockups/bad-kitty-club-crop/4.jpg",
-   "color": "Bubblegum",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/bad-kitty-club-crop/5.jpg",
-   "color": "Bubblegum",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/bad-kitty-club-crop/6.jpg",
-   "color": "Bubblegum",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/bad-kitty-club-crop/7.jpg",
-   "color": "White",
-   "style": "Main",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/bad-kitty-club-crop/8.jpg",
-   "color": "White",
-   "style": "Flat",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/bad-kitty-club-crop/9.jpg",
-   "color": "White",
-   "style": "Women's",
-   "option": "Right Front"
-  },
-  {
-   "src": "/mockups/bad-kitty-club-crop/10.jpg",
-   "color": "White",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/bad-kitty-club-crop/11.jpg",
-   "color": "White",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/bad-kitty-club-crop/12.jpg",
-   "color": "White",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/pet-me-harder-string-bottom/white-1.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
- "purr-puff-pass-crop": [
+ "lick-me-im-sticky-string-bottom": [
   {
-   "src": "/mockups/purr-puff-pass-crop/1.jpg",
-   "color": "Black",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/models/lick-me-im-sticky-string-bottom.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/lick-me-im-sticky-string-bottom/white-0.jpg",
+   "color": "Full print",
    "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/purr-puff-pass-crop/2.jpg",
-   "color": "Black",
-   "style": "Flat",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/purr-puff-pass-crop/3.jpg",
-   "color": "Black",
-   "style": "Women's",
-   "option": "Right Front"
-  },
-  {
-   "src": "/mockups/purr-puff-pass-crop/4.jpg",
-   "color": "Black",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/purr-puff-pass-crop/5.jpg",
-   "color": "Black",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/purr-puff-pass-crop/6.jpg",
-   "color": "Black",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/lick-me-im-sticky-string-bottom/white-1.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
- "streets-and-sheets-tank": [
+ "come-get-this-kitty-string-bottom": [
   {
-   "src": "/mockups/streets-and-sheets-tank/1.jpg",
-   "color": "Black",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/models/come-get-this-kitty-string-bottom.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/come-get-this-kitty-string-bottom/white-0.jpg",
+   "color": "Full print",
    "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/streets-and-sheets-tank/2.jpg",
-   "color": "Black",
-   "style": "Flat Lifesytle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/streets-and-sheets-tank/3.jpg",
-   "color": "Black",
-   "style": "Women's",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/streets-and-sheets-tank/4.jpg",
-   "color": "Black",
-   "style": "Women's",
-   "option": "Left Front"
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/come-get-this-kitty-string-bottom/white-1.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
- "high-maintenance-tank": [
+ "eat-my-munchies-string-bottom": [
   {
-   "src": "/mockups/high-maintenance-tank/1.jpg",
-   "color": "Pink",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/models/eat-my-munchies-string-bottom.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/eat-my-munchies-string-bottom/white-0.jpg",
+   "color": "Full print",
    "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/high-maintenance-tank/2.jpg",
-   "color": "Pink",
-   "style": "Flat Lifesytle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/high-maintenance-tank/3.jpg",
-   "color": "Pink",
-   "style": "Women's",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/high-maintenance-tank/4.jpg",
-   "color": "Pink",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/high-maintenance-tank/5.jpg",
-   "color": "White",
-   "style": "Main",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/high-maintenance-tank/6.jpg",
-   "color": "White",
-   "style": "Flat Lifesytle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/high-maintenance-tank/7.jpg",
-   "color": "White",
-   "style": "Women's",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/high-maintenance-tank/8.jpg",
-   "color": "White",
-   "style": "Women's",
-   "option": "Left Front"
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/eat-my-munchies-string-bottom/white-1.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
- "smoke-ears-string-bikini": [
+ "good-girls-smoke-too-string-bottom": [
   {
-   "src": "/mockups/smoke-ears-string-bikini/1.jpg",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/models/good-girls-smoke-too-string-bottom.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/good-girls-smoke-too-string-bottom/white-0.jpg",
    "color": "Full print",
    "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/smoke-ears-string-bikini/2.jpg",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/good-girls-smoke-too-string-bottom/white-1.jpg",
    "color": "Full print",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/smoke-ears-string-bikini/3.jpg",
-   "color": "Full print",
-   "style": "Flat Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/smoke-ears-string-bikini/4.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/smoke-ears-string-bikini/5.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/smoke-ears-string-bikini/6.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front 2"
-  },
-  {
-   "src": "/mockups/smoke-ears-string-bikini/7.jpg",
-   "color": "Full print",
-   "style": "Main",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/smoke-ears-string-bikini/8.jpg",
-   "color": "Full print",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/smoke-ears-string-bikini/9.jpg",
-   "color": "Full print",
-   "style": "Flat Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/smoke-ears-string-bikini/10.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/smoke-ears-string-bikini/11.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/smoke-ears-string-bikini/12.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front 2"
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
- "pink-leopard-string-bikini": [
+ "wet-like-a-bong-string-bottom": [
   {
-   "src": "/mockups/pink-leopard-string-bikini/1.jpg",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/models/wet-like-a-bong-string-bottom.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/wet-like-a-bong-string-bottom/white-0.jpg",
    "color": "Full print",
    "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/pink-leopard-string-bikini/2.jpg",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/wet-like-a-bong-string-bottom/white-1.jpg",
    "color": "Full print",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/pink-leopard-string-bikini/3.jpg",
-   "color": "Full print",
-   "style": "Flat Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/pink-leopard-string-bikini/4.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/pink-leopard-string-bikini/5.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/pink-leopard-string-bikini/6.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front 2"
-  },
-  {
-   "src": "/mockups/pink-leopard-string-bikini/7.jpg",
-   "color": "Full print",
-   "style": "Main",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/pink-leopard-string-bikini/8.jpg",
-   "color": "Full print",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/pink-leopard-string-bikini/9.jpg",
-   "color": "Full print",
-   "style": "Flat Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/pink-leopard-string-bikini/10.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/pink-leopard-string-bikini/11.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/pink-leopard-string-bikini/12.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front 2"
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
- "kitty-faces-string-bikini": [
+ "roll-it-lick-it-light-it-string-bottom": [
   {
-   "src": "/mockups/kitty-faces-string-bikini/1.jpg",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/models/roll-it-lick-it-light-it-string-bottom.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/roll-it-lick-it-light-it-string-bottom/white-0.jpg",
    "color": "Full print",
    "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/kitty-faces-string-bikini/2.jpg",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/roll-it-lick-it-light-it-string-bottom/white-1.jpg",
    "color": "Full print",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/kitty-faces-string-bikini/3.jpg",
-   "color": "Full print",
-   "style": "Flat Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-faces-string-bikini/4.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-faces-string-bikini/5.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-faces-string-bikini/6.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front 2"
-  },
-  {
-   "src": "/mockups/kitty-faces-string-bikini/7.jpg",
-   "color": "Full print",
-   "style": "Main",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-faces-string-bikini/8.jpg",
-   "color": "Full print",
-   "style": "Women's",
-   "option": "Left Front"
-  },
-  {
-   "src": "/mockups/kitty-faces-string-bikini/9.jpg",
-   "color": "Full print",
-   "style": "Flat Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-faces-string-bikini/10.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-faces-string-bikini/11.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-faces-string-bikini/12.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front 2"
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
- "kitty-script-string-bikini": [
+ "ride-the-high-string-bottom": [
   {
-   "src": "/mockups/kitty-script-string-bikini/1.jpg",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/models/ride-the-high-string-bottom.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/ride-the-high-string-bottom/white-0.jpg",
    "color": "Full print",
    "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/kitty-script-string-bikini/2.jpg",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/ride-the-high-string-bottom/white-1.jpg",
    "color": "Full print",
-   "style": "Women's",
-   "option": "Left Front"
-  },
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
+ "kitty-is-hungry-string-bottom": [
   {
-   "src": "/mockups/kitty-script-string-bikini/3.jpg",
-   "color": "Full print",
-   "style": "Flat Lifestyle",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/models/kitty-is-hungry-string-bottom.jpg",
+   "color": "*",
+   "style": "Model",
    "option": "Front"
   },
   {
-   "src": "/mockups/kitty-script-string-bikini/4.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-script-string-bikini/5.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-script-string-bikini/6.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front 2"
-  },
-  {
-   "src": "/mockups/kitty-script-string-bikini/7.jpg",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/kitty-is-hungry-string-bottom/white-0.jpg",
    "color": "Full print",
    "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/kitty-script-string-bikini/8.jpg",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/kitty-is-hungry-string-bottom/white-1.jpg",
    "color": "Full print",
-   "style": "Women's",
-   "option": "Left Front"
-  },
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
+ "bad-kitty-needs-a-spanking-string-bottom": [
   {
-   "src": "/mockups/kitty-script-string-bikini/9.jpg",
-   "color": "Full print",
-   "style": "Flat Lifestyle",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/models/bad-kitty-needs-a-spanking-string-bottom.jpg",
+   "color": "*",
+   "style": "Model",
    "option": "Front"
   },
   {
-   "src": "/mockups/kitty-script-string-bikini/10.jpg",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/bad-kitty-needs-a-spanking-string-bottom/white-0.jpg",
    "color": "Full print",
-   "style": "Women's Lifestyle",
+   "style": "Main",
    "option": "Front"
   },
   {
-   "src": "/mockups/kitty-script-string-bikini/11.jpg",
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/bad-kitty-needs-a-spanking-string-bottom/white-1.jpg",
    "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front"
-  },
-  {
-   "src": "/mockups/kitty-script-string-bikini/12.jpg",
-   "color": "Full print",
-   "style": "Women's Lifestyle 2",
-   "option": "Front 2"
+   "style": "Product details",
+   "option": "Product details"
   }
  ]
 }

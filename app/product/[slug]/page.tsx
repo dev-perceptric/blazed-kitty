@@ -5,7 +5,7 @@ import { PRODUCTS, getProduct } from '@/lib/products';
 import ProductView from '@/components/ProductView';
 import ProductCard from '@/components/ProductCard';
 
-const CAT_LABEL = { tees: 'Baby Tees', tanks: 'Tanks', bikinis: 'Swim' } as const;
+const CAT_LABEL = { tees: 'Baby Tees', tanks: 'Tanks', panties: 'Panties' } as const;
 
 export function generateStaticParams() {
   return PRODUCTS.map((p) => ({ slug: p.slug }));

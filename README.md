@@ -1,6 +1,6 @@
 # Blazed Kitty storefront
 
-Nine lives, all of them baked. A Next.js 14 store for the Blazed Kitty print-on-demand brand: cropped baby tees, micro-rib tanks and string bikinis, printed by Printful.
+Nine lives, all of them baked. A Next.js 14 store for the Blazed Kitty print-on-demand brand: raglan baby tees, micro-rib tanks, cropped tees and string bottoms, printed by Printful.
 
 ## Run it
 
@@ -15,8 +15,8 @@ Open http://localhost:3000.
 
 | Path | What it does |
 |---|---|
-| `lib/products.ts` | The catalog: 12 products, retail prices, colors, sizes and the Printful blank each one prints on |
-| `lib/art.ts` | All artwork as SVG strings: the Pink Chrome logo, front prints, bikini patterns and garment mockups |
+| `lib/products.ts` | The catalog: 54 products generated from the Printful store, with prices, colors, sizes and Printful IDs |
+| `lib/mockups.json` | Photos per product: one model photo first, then Printful product-only shots per color (hosted on Cloudflare R2) |
 | `app/page.tsx` | Home: hero, categories, Drop 01, After Dark, newsletter |
 | `app/shop/page.tsx` | Shop with tabs for tees, tanks, bikinis and After Dark |
 | `app/product/[slug]` | Product page with color, size, quantity and add to bag |
@@ -31,12 +31,22 @@ Copy `.env.example` to `.env.local` and fill in keys as each service gets connec
 
 | Product type | Printful catalog ID | Blank |
 |---|---|---|
-| Baby tees | 636 | AS Colour 4062 Women's Crop Tee |
+| Raglan baby tees | 967 | Bella+Canvas 1201 Micro Rib Raglan Baby Tee |
 | Tanks | 780 | Bella+Canvas 1012 Micro-Rib Tank |
-| String bikinis | 667 | All-Over Print String Bikini |
+| Cropped tees | 1579 | Bella+Canvas 6882GD Garment Dye Cropped Tee |
+| String bottoms | 669 | All-Over Print Recycled String Bikini Bottom |
+
+## Updating products
+
+Images live on Cloudflare R2 (`blazed-kitty` bucket). To refresh the catalog after changing the Printful store:
+
+1. `scripts/printful_product_shots.py` makes Printful product-only photos for every store product.
+2. `scripts/pick_models.py` uploads one model photo per product.
+3. `scripts/build_catalog.py` writes `lib/products.ts` and `lib/mockups.json`.
+
+These read design data from the `brand-assets` branch.
 
 ## Next up
 
-- Printful sync: upload print files, create store products and pull real mockups
 - Stripe webhook that creates and confirms the Printful order after payment
 - Order and shipping emails through Resend

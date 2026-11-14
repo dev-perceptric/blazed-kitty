@@ -10,23 +10,29 @@ export interface Shot {
 
 const MOCKUPS = data as Record<string, Shot[]>;
 
-// On-model lifestyle photos first, then on-model studio, then flat lays.
+// Our model photo first, then Printful's product-only shots (ghost, then flat).
 function rank(s: Shot) {
   const t = `${s.style} ${s.option}`.toLowerCase();
-  if (t.includes('lifestyle') && !t.includes('flat')) return 0;
-  if (t.includes('women')) return 1;
-  if (t.includes('flat lifes')) return 2;
+  if (s.style === 'Model') return 0;
+  if (t.includes('main') || t.includes('ghost')) return 1;
+  if (t.includes('flat')) return 2;
   return 3;
 }
 
 /** Photos for a product, best first. Filtered to one color when given. */
 export function shotsFor(p: Product, color?: string): Shot[] {
   const all = [...(MOCKUPS[p.slug] ?? [])].sort((a, b) => rank(a) - rank(b));
-  const byColor = color ? all.filter((s) => s.color === color) : all;
-  return byColor.length ? byColor : all;
+  const model = all.filter((s) => s.color === '*');
+  const rest = all.filter((s) => s.color !== '*');
+  const byColor = color ? rest.filter((s) => s.color === color) : rest;
+  // Show one product shot per color in the default view so cards stay clean.
+  const pick = byColor.length ? byColor : rest.filter((s) => s.color === rest[0]?.color);
+  return [...model, ...pick];
 }
+
+const CDN = 'https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev';
 
 /** The print file itself, used when no photo exists yet. */
 export function printSrc(p: Product) {
-  return `/prints/${p.design}.${p.garment === 'bikini' ? 'jpg' : 'png'}`;
+  return `${CDN}/printful/${p.design}__${p.printful.productId}.png`;
 }

@@ -13,7 +13,7 @@ export default function Header() {
           <Link href="/shop">Shop</Link>
           <Link href="/shop?c=tees">Tees</Link>
           <Link href="/shop?c=tanks">Tanks</Link>
-          <Link href="/shop?c=bikinis">Swim</Link>
+          <Link href="/shop?c=panties">Panties</Link>
           <Link href="/shop?c=after-dark">After Dark</Link>
         </nav>
         <Link href="/" className="brand" aria-label="Blazed Kitty home">

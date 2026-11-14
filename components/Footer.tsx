@@ -9,7 +9,7 @@ export default function Footer() {
           <h4>Shop</h4>
           <Link href="/shop?c=tees">Baby Tees</Link>
           <Link href="/shop?c=tanks">Tanks</Link>
-          <Link href="/shop?c=bikinis">Swim</Link>
+          <Link href="/shop?c=panties">Panties</Link>
           <Link href="/shop?c=after-dark">After Dark</Link>
         </nav>
         <div>

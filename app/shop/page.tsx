@@ -8,7 +8,7 @@ const TABS = [
   { id: 'all', label: 'All' },
   { id: 'tees', label: 'Baby Tees' },
   { id: 'tanks', label: 'Tanks' },
-  { id: 'bikinis', label: 'Swim' },
+  { id: 'panties', label: 'Panties' },
   { id: 'after-dark', label: 'After Dark' },
 ];
 

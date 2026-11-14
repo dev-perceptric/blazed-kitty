@@ -6,16 +6,16 @@ import { AdultBlur, AdultConfirm } from '@/components/Adult';
 import Newsletter from '@/components/Newsletter';
 
 const CATS = [
-  { id: 'tees', label: 'Baby Tees', slug: 'pet-me-im-high-crop' },
-  { id: 'tanks', label: 'Tanks', slug: 'high-maintenance-tank' },
-  { id: 'bikinis', label: 'Swim', slug: 'smoke-ears-string-bikini' },
+  { id: 'tees', label: 'Baby Tees', slug: 'my-love-language-is-passing-the-lighter-baby-tee' },
+  { id: 'tanks', label: 'Tanks', slug: 'too-hot-to-be-sober-rib-tank' },
+  { id: 'panties', label: 'Panties', slug: 'slightly-stoned-but-very-hot-string-bottom' },
 ];
 
 export default function Home() {
-  const left = getProduct('blazed-kitty-logo-crop')!;
-  const right = getProduct('pink-leopard-string-bikini')!;
+  const left = getProduct('in-a-situationship-with-my-grinder-baby-tee')!;
+  const right = getProduct('university-of-bad-bitches-baby-tee')!;
   const newIn = PRODUCTS.filter((p) => !p.afterDark).slice(0, 8);
-  const afterDark = PRODUCTS.filter((p) => p.afterDark);
+  const afterDark = PRODUCTS.filter((p) => p.afterDark).slice(0, 6);
 
   return (
     <>
@@ -29,7 +29,7 @@ export default function Home() {
           </Link>
         </div>
         <div className="hero-copy">
-          <p className="eyebrow">Drop 01</p>
+          <p className="eyebrow">Drop 02</p>
           <h1>Nine lives.<br />All of them baked.</h1>
           <p className="whisper">cute face, dirty mouth</p>
           <Link href="/shop" className="btn">Shop the drop</Link>
