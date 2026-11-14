@@ -1,16 +1,14 @@
 import type { Metadata, Viewport } from 'next';
-import { Titan_One, Yellowtail, Outfit, IBM_Plex_Mono } from 'next/font/google';
+import { Anton, Inter, Instrument_Serif } from 'next/font/google';
 import './globals.css';
-import { svgDefs } from '@/lib/art';
 import CartProvider from '@/components/CartProvider';
 import Header from '@/components/Header';
 import CartDrawer from '@/components/CartDrawer';
 import Footer from '@/components/Footer';
 
-const titan = Titan_One({ weight: '400', subsets: ['latin'], variable: '--font-titan', display: 'swap' });
-const yellowtail = Yellowtail({ weight: '400', subsets: ['latin'], variable: '--font-script', display: 'swap' });
-const outfit = Outfit({ subsets: ['latin'], variable: '--font-body', display: 'swap' });
-const plex = IBM_Plex_Mono({ weight: ['500', '600'], subsets: ['latin'], variable: '--font-mono', display: 'swap' });
+const anton = Anton({ weight: '400', subsets: ['latin'], variable: '--font-display', display: 'swap' });
+const inter = Inter({ subsets: ['latin'], variable: '--font-body', display: 'swap' });
+const serif = Instrument_Serif({ weight: '400', style: ['italic'], subsets: ['latin'], variable: '--font-serif', display: 'swap' });
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
@@ -18,19 +16,14 @@ export const metadata: Metadata = {
   description: 'Nine lives, all of them baked. Baby tees, tanks and string bikinis for girls who roll their own.',
 };
 
-export const viewport: Viewport = { themeColor: '#0e0a12', viewportFit: 'cover' };
+export const viewport: Viewport = { themeColor: '#0c0b0c', viewportFit: 'cover' };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${titan.variable} ${yellowtail.variable} ${outfit.variable} ${plex.variable}`}>
+    <html lang="en" className={`${anton.variable} ${inter.variable} ${serif.variable}`}>
       <body>
-        <svg width="0" height="0" style={{ position: 'absolute' }} aria-hidden="true" focusable="false">
-          <defs dangerouslySetInnerHTML={{ __html: svgDefs() }} />
-        </svg>
         <CartProvider>
-          <div className="announce">
-            <div className="wrap">Made when you order · Baby tees XS–2XL · Bikinis 2XS–6XL</div>
-          </div>
+          <div className="announce">Made when you order · Ships worldwide</div>
           <Header />
           <main>{children}</main>
           <Footer />

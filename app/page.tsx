@@ -1,99 +1,82 @@
 import Link from 'next/link';
-import { PRODUCTS, CATEGORIES } from '@/lib/products';
+import { PRODUCTS, getProduct } from '@/lib/products';
 import ProductCard from '@/components/ProductCard';
-import { ProductArt, Logo } from '@/components/Art';
+import { ProductPhoto } from '@/components/Media';
 import { AdultBlur, AdultConfirm } from '@/components/Adult';
 import Newsletter from '@/components/Newsletter';
 
-const TICKER = ['PET ME I’M HIGH', 'PURR PUFF PASS', 'BAD KITTY CLUB', 'NINE LIVES', 'KITTY WANTS A SNACK', 'STREETS & SHEETS'];
-const TILE: Record<string, { bg: string; ink: string; slug: string }> = {
-  tees: { bg: 'var(--gum)', ink: 'var(--ink)', slug: 'blazed-kitty-logo-crop' },
-  tanks: { bg: 'var(--lav)', ink: 'var(--ink)', slug: 'high-maintenance-tank' },
-  bikinis: { bg: 'var(--pink)', ink: 'var(--ink)', slug: 'pink-leopard-string-bikini' },
-};
+const CATS = [
+  { id: 'tees', label: 'Baby Tees', slug: 'pet-me-im-high-crop' },
+  { id: 'tanks', label: 'Tanks', slug: 'high-maintenance-tank' },
+  { id: 'bikinis', label: 'Swim', slug: 'smoke-ears-string-bikini' },
+];
 
 export default function Home() {
-  const drop = PRODUCTS.filter((p) => !p.afterDark).slice(0, 8);
+  const left = getProduct('blazed-kitty-logo-crop')!;
+  const right = getProduct('pink-leopard-string-bikini')!;
+  const newIn = PRODUCTS.filter((p) => !p.afterDark).slice(0, 8);
   const afterDark = PRODUCTS.filter((p) => p.afterDark);
+
   return (
     <>
       <section className="hero">
-        <div className="wrap hero-grid">
-          <div className="hero-copy">
-            <p className="kicker">Drop 01 · Now showing</p>
-            <h1>Nine lives.<br />All of them <span className="pink">baked.</span></h1>
-            <p className="script hero-script">cute face, dirty mouth</p>
-            <p className="lede">Cropped baby tees, micro-rib tanks and string bikinis with a sleepy pink kitty and jokes your mom won’t get. Printed when you order.</p>
-            <div className="hero-ctas">
-              <Link href="/shop" className="btn btn-pink">Shop the drop</Link>
-              <Link href="/shop?c=after-dark" className="btn btn-ghost">After Dark</Link>
-            </div>
-          </div>
-          <div className="hero-stage">
-            <Logo className="hero-logo" label="Blazed Kitty logo" />
-            <span className="sticker s1">DROP 01</span>
-            <span className="sticker s2">EST 4:20</span>
-            <span className="sticker s3">9 LIVES</span>
-          </div>
+        <div className="hero-media">
+          <Link href={`/product/${left.slug}`} className="hero-half" aria-label={left.name}>
+            <ProductPhoto product={left} eager />
+          </Link>
+          <Link href={`/product/${right.slug}`} className="hero-half" aria-label={right.name}>
+            <ProductPhoto product={right} eager />
+          </Link>
         </div>
-      </section>
-
-      <div className="ticker" aria-hidden="true">
-        <div className="ticker-track">
-          {[...TICKER, ...TICKER, ...TICKER].map((t, i) => <span key={i}>{t}<b>✦</b></span>)}
-        </div>
-      </div>
-
-      <section className="sec">
-        <div className="wrap">
-          <div className="sec-head">
-            <h2>Pick your poison</h2>
-          </div>
-          <div className="tiles">
-            {CATEGORIES.map((c) => {
-              const t = TILE[c.id];
-              const p = PRODUCTS.find((x) => x.slug === t.slug)!;
-              const n = PRODUCTS.filter((x) => x.category === c.id).length;
-              return (
-                <Link key={c.id} href={`/shop?c=${c.id}`} className="tile" style={{ background: t.bg, color: t.ink }}>
-                  <ProductArt product={p} className="tile-art" />
-                  <div className="tile-label">
-                    <strong>{c.label}</strong>
-                    <span>{c.blurb}</span>
-                  </div>
-                  <span className="tile-count">{n} styles →</span>
-                </Link>
-              );
-            })}
-          </div>
+        <div className="hero-copy">
+          <p className="eyebrow">Drop 01</p>
+          <h1>Nine lives.<br />All of them baked.</h1>
+          <p className="whisper">cute face, dirty mouth</p>
+          <Link href="/shop" className="btn">Shop the drop</Link>
         </div>
       </section>
 
       <section className="sec">
         <div className="wrap">
           <div className="sec-head">
-            <h2>Drop 01</h2>
-            <Link href="/shop" className="link-arrow">Shop all {PRODUCTS.length} →</Link>
+            <h2>New in</h2>
+            <Link href="/shop" className="link">View all</Link>
           </div>
           <div className="grid">
-            {drop.map((p) => <ProductCard key={p.slug} product={p} />)}
+            {newIn.map((p, i) => <ProductCard key={p.slug} product={p} eager={i < 4} />)}
           </div>
         </div>
       </section>
 
-      <section className="sec after-dark">
-        <div className="wrap after-grid">
-          <div>
-            <p className="kicker">For grown-ups</p>
+      <section className="sec cats">
+        <div className="wrap cats-row">
+          {CATS.map((c) => {
+            const p = getProduct(c.slug)!;
+            return (
+              <Link key={c.id} href={`/shop?c=${c.id}`} className="cat">
+                <ProductPhoto product={p} />
+                <span className="cat-label">{c.label}</span>
+              </Link>
+            );
+          })}
+        </div>
+      </section>
+
+      <section className="sec after">
+        <div className="wrap after-row">
+          <div className="after-copy">
+            <p className="eyebrow">18+</p>
             <h2>After Dark</h2>
-            <p className="lede">The ruder lines. Kept behind a blur so nobody gets surprised at work.</p>
-            <AdultConfirm />
-            <p><Link href="/shop?c=after-dark" className="link-arrow">See the After Dark pieces →</Link></p>
+            <p className="lede">The ruder lines. Blurred until you say you’re a grown-up.</p>
+            <div className="after-actions">
+              <AdultConfirm />
+              <Link href="/shop?c=after-dark" className="link">See the pieces</Link>
+            </div>
           </div>
-          <div className="after-row">
+          <div className="after-media">
             {afterDark.map((p) => (
-              <Link key={p.slug} href={`/product/${p.slug}`} className="after-card">
-                <AdultBlur><ProductArt product={p} /></AdultBlur>
+              <Link key={p.slug} href={`/product/${p.slug}`} className="after-item">
+                <AdultBlur><ProductPhoto product={p} /></AdultBlur>
                 <span>{p.name}</span>
               </Link>
             ))}
@@ -101,19 +84,11 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="sec">
-        <div className="wrap facts">
-          <div><span className="fact-num">01</span><h3>Made when you order</h3><p>Nothing sits in a warehouse. Your piece gets printed after you check out, then ships.</p></div>
-          <div><span className="fact-num">02</span><h3>Sizes for real bodies</h3><p>Baby tees and tanks run XS to 2XL. String bikinis run 2XS to 6XL.</p></div>
-          <div><span className="fact-num">03</span><h3>Soft stuff only</h3><p>Combed cotton crops, micro-rib tanks and double-layer UPF 50+ bikinis.</p></div>
-        </div>
-      </section>
-
       <section className="sec club">
-        <div className="wrap club-grid">
+        <div className="wrap club-row">
           <div>
-            <h2>Join the Bad Kitty Club</h2>
-            <p className="lede">New drops, early access and the occasional bad idea. No spam, just kitty.</p>
+            <h2>Bad Kitty Club</h2>
+            <p className="lede">New drops and early access. No spam, just kitty.</p>
           </div>
           <Newsletter />
         </div>

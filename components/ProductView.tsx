@@ -3,19 +3,27 @@
 import { useState } from 'react';
 import type { Product } from '@/lib/products';
 import { formatPrice } from '@/lib/products';
-import { ProductArt } from './Art';
+import { shotsFor, printSrc } from '@/lib/images';
 import { AdultBlur, AdultConfirm } from './Adult';
 import { useCart } from './CartProvider';
-import { tileColor } from './ProductCard';
 
 export default function ProductView({ product }: { product: Product }) {
   const [color, setColor] = useState(product.colors[0]);
-  const [view, setView] = useState<'garment' | 'print'>('garment');
+  const [active, setActive] = useState(0);
   const [size, setSize] = useState('');
   const [qty, setQty] = useState(1);
   const [added, setAdded] = useState(false);
   const { add, setOpen } = useCart();
   const isBikini = product.garment === 'bikini';
+
+  const shots = shotsFor(product, color.name);
+  const gallery = shots.length ? shots.map((s) => s.src) : [printSrc(product)];
+  const current = gallery[Math.min(active, gallery.length - 1)];
+
+  function pickColor(c: typeof color) {
+    setColor(c);
+    setActive(0);
+  }
 
   function addToBag() {
     if (!size) return;
@@ -25,25 +33,29 @@ export default function ProductView({ product }: { product: Product }) {
     setTimeout(() => setAdded(false), 2000);
   }
 
-  const art = <ProductArt product={product} hex={color.hex} view={view} />;
+  const main = (
+    <div className={`photo pdp-photo${shots.length ? '' : ' photo-print'}`} style={shots.length ? undefined : { background: isBikini ? '#151315' : color.hex }}>
+      <img src={current} alt={product.name} />
+    </div>
+  );
 
   return (
     <div className="pdp">
-      <div className="pdp-media">
-        <div className="pdp-stage" style={{ background: view === 'print' ? color.hex : tileColor({ ...product, colors: [color] }) }}>
-          {product.afterDark ? <AdultBlur>{art}</AdultBlur> : art}
-        </div>
-        {!isBikini && (
-          <div className="seg" role="group" aria-label="Picture">
-            <button type="button" id="view-front" aria-pressed={view === 'garment'} onClick={() => setView('garment')}>On the tee</button>
-            <button type="button" id="view-print" aria-pressed={view === 'print'} onClick={() => setView('print')}>Print up close</button>
+      <div className="pdp-gallery">
+        {product.afterDark ? <AdultBlur>{main}</AdultBlur> : main}
+        {gallery.length > 1 && (
+          <div className="thumbs" role="group" aria-label="More photos">
+            {gallery.map((src, i) => (
+              <button key={src} type="button" id={`thumb-${i}`} className={`thumb${i === active ? ' is-on' : ''}`} onClick={() => setActive(i)} aria-label={`Photo ${i + 1}`} aria-pressed={i === active}>
+                <img src={src} alt="" loading="lazy" />
+              </button>
+            ))}
           </div>
         )}
-        {product.afterDark && <AdultConfirm className="pdp-adult" />}
+        {product.afterDark && <AdultConfirm />}
       </div>
 
       <div className="pdp-info">
-        <span className="code">{product.code}{product.afterDark ? ' · After Dark' : ''}</span>
         <h1>{product.name}</h1>
         <p className="pdp-price">{formatPrice(product.price)}</p>
         <p className="pdp-blurb">{product.blurb}</p>
@@ -51,16 +63,16 @@ export default function ProductView({ product }: { product: Product }) {
         {!isBikini && (
           <fieldset className="opt">
             <legend>Color <span>{color.name}</span></legend>
-            <div className="color-row">
+            <div className="swatch-row">
               {product.colors.map((c) => (
-                <button key={c.name} type="button" id={`color-${c.name.toLowerCase().replace(/\s+/g, '-')}`} className={`color-dot${c.name === color.name ? ' is-on' : ''}`} style={{ background: c.hex }} onClick={() => setColor(c)} aria-label={c.name} aria-pressed={c.name === color.name} />
+                <button key={c.name} type="button" id={`color-${c.name.toLowerCase().replace(/\s+/g, '-')}`} className={`swatch${c.name === color.name ? ' is-on' : ''}`} style={{ background: c.hex }} onClick={() => pickColor(c)} aria-label={c.name} aria-pressed={c.name === color.name} />
               ))}
             </div>
           </fieldset>
         )}
 
         <fieldset className="opt">
-          <legend>Size {size ? <span>{size}</span> : <span className="muted">Pick one</span>}</legend>
+          <legend>Size {size ? <span>{size}</span> : null}</legend>
           <div className="size-row">
             {product.sizes.map((s) => (
               <button key={s} type="button" id={`size-${s}`} className={`size${s === size ? ' is-on' : ''}`} onClick={() => setSize(s)} aria-pressed={s === size}>{s}</button>
@@ -74,15 +86,22 @@ export default function ProductView({ product }: { product: Product }) {
             <span aria-live="polite">{qty}</span>
             <button type="button" onClick={() => setQty(Math.min(10, qty + 1))} aria-label="One more">+</button>
           </div>
-          <button type="button" className="btn btn-pink btn-grow" onClick={addToBag} disabled={!size}>
-            {!size ? 'Pick a size' : added ? 'Added to bag' : `Add to bag · ${formatPrice(product.price * qty)}`}
+          <button type="button" className="btn btn-grow" onClick={addToBag} disabled={!size}>
+            {!size ? 'Select a size' : added ? 'Added' : 'Add to bag'}
           </button>
         </div>
 
-        <ul className="details">
-          {product.details.map((d) => <li key={d}>{d}</li>)}
-          <li>Blank: {product.printful.blank}</li>
-        </ul>
+        <details className="acc" open>
+          <summary>Details</summary>
+          <ul>
+            {product.details.map((d) => <li key={d}>{d}</li>)}
+            <li>{product.printful.blank}</li>
+          </ul>
+        </details>
+        <details className="acc">
+          <summary>Shipping</summary>
+          <p>Each piece is printed after you order. Shipping cost and timing show at checkout.</p>
+        </details>
       </div>
     </div>
   );

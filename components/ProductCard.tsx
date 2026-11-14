@@ -1,35 +1,24 @@
 import Link from 'next/link';
 import type { Product } from '@/lib/products';
 import { formatPrice } from '@/lib/products';
-import { isDark } from '@/lib/art';
-import { ProductArt } from './Art';
+import { ProductPhoto } from './Media';
 import { AdultBlur } from './Adult';
 
-export function tileColor(p: Product) {
-  if (p.garment === 'bikini') return 'var(--lav)';
-  return isDark(p.colors[0].hex) ? 'var(--gum)' : 'var(--plum)';
-}
-
-export default function ProductCard({ product }: { product: Product }) {
-  const art = <ProductArt product={product} />;
+export default function ProductCard({ product, eager = false }: { product: Product; eager?: boolean }) {
+  const photo = <ProductPhoto product={product} hover eager={eager} />;
   return (
-    <Link href={`/product/${product.slug}`} className="card">
-      <div className="card-art" style={{ background: tileColor(product) }}>
-        {product.afterDark ? <AdultBlur>{art}</AdultBlur> : art}
+    <Link href={`/product/${product.slug}`} className="tile">
+      <div className="tile-media">
+        {product.afterDark ? <AdultBlur>{photo}</AdultBlur> : photo}
+        {product.afterDark && <span className="badge">After Dark</span>}
       </div>
-      <div className="card-meta">
-        <div className="card-top">
-          <span className="code">{product.code}</span>
-          {product.afterDark && <span className="tag tag-dark">After Dark</span>}
-        </div>
-        <h3>{product.name}</h3>
-        <div className="card-bottom">
-          <span className="price">{formatPrice(product.price)}</span>
-          <span className="swatches" aria-label={`${product.colors.length} color${product.colors.length > 1 ? 's' : ''}`}>
-            {product.garment !== 'bikini' && product.colors.map((c) => <i key={c.name} style={{ background: c.hex }} title={c.name} />)}
-          </span>
-        </div>
+      <div className="tile-info">
+        <span className="tile-name">{product.name}</span>
+        <span className="tile-price">{formatPrice(product.price)}</span>
       </div>
+      {product.garment !== 'bikini' && product.colors.length > 1 && (
+        <span className="tile-colors">{product.colors.length} colors</span>
+      )}
     </Link>
   );
 }

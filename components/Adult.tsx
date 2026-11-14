@@ -33,13 +33,13 @@ export function useAdult(): [boolean, () => void] {
   return [ok, confirm];
 }
 
-/** Blurs After Dark artwork until the visitor says they are 18 or older. */
+/** Blurs After Dark photos until the visitor says they are 18 or older. */
 export function AdultBlur({ children }: { children: React.ReactNode }) {
   const [ok] = useAdult();
   return (
     <div className={`adult-blur${ok ? ' is-open' : ''}`}>
       {children}
-      {!ok && <span className="adult-label">After Dark · 18+</span>}
+      {!ok && <span className="adult-label">18+</span>}
     </div>
   );
 }
@@ -48,8 +48,8 @@ export function AdultConfirm({ className = '' }: { className?: string }) {
   const [ok, confirm] = useAdult();
   if (ok) return <p className={`adult-ok ${className}`}>After Dark is unlocked on this device.</p>;
   return (
-    <button type="button" className={`btn btn-ghost ${className}`} onClick={confirm}>
-      I’m 18 or older, show me
+    <button type="button" className={`btn btn-line ${className}`} onClick={confirm}>
+      I’m 18 or older
     </button>
   );
 }

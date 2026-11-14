@@ -4,10 +4,10 @@ export default function NotFound() {
   return (
     <section className="sec">
       <div className="wrap notfound">
-        <p className="script">this kitty wandered off</p>
-        <h1 className="page-title">Page not found</h1>
-        <p className="lede">The link might be old, or the piece sold out of lives.</p>
-        <Link href="/shop" className="btn btn-pink">Back to the shop</Link>
+        <p className="whisper">this kitty wandered off</p>
+        <h1>Page not found</h1>
+        <p className="lede">The link might be old, or the piece is gone.</p>
+        <Link href="/shop" className="btn">Back to the shop</Link>
       </div>
     </section>
   );

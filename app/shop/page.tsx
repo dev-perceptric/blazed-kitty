@@ -5,10 +5,10 @@ import ProductCard from '@/components/ProductCard';
 import { AdultConfirm } from '@/components/Adult';
 
 const TABS = [
-  { id: 'all', label: 'Everything' },
+  { id: 'all', label: 'All' },
   { id: 'tees', label: 'Baby Tees' },
   { id: 'tanks', label: 'Tanks' },
-  { id: 'bikinis', label: 'String Bikinis' },
+  { id: 'bikinis', label: 'Swim' },
   { id: 'after-dark', label: 'After Dark' },
 ];
 
@@ -21,9 +21,9 @@ export default function Shop({ searchParams }: { searchParams: { c?: string } })
   return (
     <section className="sec shop">
       <div className="wrap">
-        <div className="sec-head">
-          <h1 className="page-title">{tab.label}</h1>
-          <span className="count">{list.length} {list.length === 1 ? 'style' : 'styles'}</span>
+        <div className="shop-head">
+          <h1>{tab.id === 'all' ? 'Shop' : tab.label}</h1>
+          <span className="count">{list.length} {list.length === 1 ? 'piece' : 'pieces'}</span>
         </div>
         <nav className="tabs" aria-label="Filter products">
           {TABS.map((t) => (
@@ -34,12 +34,12 @@ export default function Shop({ searchParams }: { searchParams: { c?: string } })
         </nav>
         {c === 'after-dark' && (
           <div className="notice">
-            <p>These are the ruder pieces, blurred until you confirm you’re 18 or older.</p>
+            <p>These are blurred until you confirm you’re 18 or older.</p>
             <AdultConfirm />
           </div>
         )}
         <div className="grid">
-          {list.map((p) => <ProductCard key={p.slug} product={p} />)}
+          {list.map((p, i) => <ProductCard key={p.slug} product={p} eager={i < 4} />)}
         </div>
       </div>
     </section>
