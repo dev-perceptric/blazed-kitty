@@ -95,3 +95,4 @@
 ## Deploy
 - blazedkitty.com runs on the Hostinger VPS (srv2139771) in /opt/blazed-kitty (Docker + Traefik).
 - Push to main -> GitHub builds the image -> deploy job SSHes in and runs docker compose pull/up. Secrets: VPS_HOST, VPS_USER, VPS_SSH_KEY.
+- Site photos v2 (live): photos/site_v2. Slim models only (no plus-size). Nothing covering the print. Images on R2 at site/web/ (web-sized).
