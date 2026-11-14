@@ -74,5 +74,227 @@
    "style": "Women's Lifestyle 2",
    "option": "Front"
   }
+ ],
+ "nine-lives-crop": [
+  {
+   "src": "/mockups/nine-lives-crop/1.jpg",
+   "color": "Black",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/nine-lives-crop/2.jpg",
+   "color": "Black",
+   "style": "Flat",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/nine-lives-crop/3.jpg",
+   "color": "Black",
+   "style": "Women's",
+   "option": "Right Front"
+  },
+  {
+   "src": "/mockups/nine-lives-crop/4.jpg",
+   "color": "Black",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/nine-lives-crop/5.jpg",
+   "color": "Black",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/nine-lives-crop/6.jpg",
+   "color": "Black",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  }
+ ],
+ "kitty-wants-a-snack-crop": [
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/1.jpg",
+   "color": "Bubblegum",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/2.jpg",
+   "color": "Bubblegum",
+   "style": "Flat",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/3.jpg",
+   "color": "Bubblegum",
+   "style": "Women's",
+   "option": "Right Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/4.jpg",
+   "color": "Bubblegum",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/5.jpg",
+   "color": "Bubblegum",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/6.jpg",
+   "color": "Bubblegum",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/7.jpg",
+   "color": "Pale Pink",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/8.jpg",
+   "color": "Pale Pink",
+   "style": "Flat",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/9.jpg",
+   "color": "Pale Pink",
+   "style": "Women's",
+   "option": "Right Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/10.jpg",
+   "color": "Pale Pink",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/11.jpg",
+   "color": "Pale Pink",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/12.jpg",
+   "color": "Pale Pink",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/13.jpg",
+   "color": "White",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/14.jpg",
+   "color": "White",
+   "style": "Flat",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/15.jpg",
+   "color": "White",
+   "style": "Women's",
+   "option": "Right Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/16.jpg",
+   "color": "White",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/17.jpg",
+   "color": "White",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-wants-a-snack-crop/18.jpg",
+   "color": "White",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  }
+ ],
+ "bad-kitty-club-crop": [
+  {
+   "src": "/mockups/bad-kitty-club-crop/1.jpg",
+   "color": "Bubblegum",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/bad-kitty-club-crop/2.jpg",
+   "color": "Bubblegum",
+   "style": "Flat",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/bad-kitty-club-crop/3.jpg",
+   "color": "Bubblegum",
+   "style": "Women's",
+   "option": "Right Front"
+  },
+  {
+   "src": "/mockups/bad-kitty-club-crop/4.jpg",
+   "color": "Bubblegum",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/bad-kitty-club-crop/5.jpg",
+   "color": "Bubblegum",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/bad-kitty-club-crop/6.jpg",
+   "color": "Bubblegum",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/bad-kitty-club-crop/7.jpg",
+   "color": "White",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/bad-kitty-club-crop/8.jpg",
+   "color": "White",
+   "style": "Flat",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/bad-kitty-club-crop/9.jpg",
+   "color": "White",
+   "style": "Women's",
+   "option": "Right Front"
+  },
+  {
+   "src": "/mockups/bad-kitty-club-crop/10.jpg",
+   "color": "White",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/bad-kitty-club-crop/11.jpg",
+   "color": "White",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/bad-kitty-club-crop/12.jpg",
+   "color": "White",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  }
  ]
 }
