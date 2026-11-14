@@ -1,21 +1,18 @@
 import Link from 'next/link';
 import { PRODUCTS, getProduct } from '@/lib/products';
+import { NEWEST_DROP, shopHref } from '@/lib/collections';
+import { DEPTS, LINES } from '@/lib/taxonomy';
 import ProductCard from '@/components/ProductCard';
 import { ProductPhoto } from '@/components/Media';
 import { AdultBlur, AdultConfirm } from '@/components/Adult';
 import Newsletter from '@/components/Newsletter';
 
-const CATS = [
-  { id: 'tees', label: 'Baby Tees', slug: 'my-love-language-is-passing-the-lighter-baby-tee' },
-  { id: 'tanks', label: 'Tanks', slug: 'too-hot-to-be-sober-rib-tank' },
-  { id: 'panties', label: 'Panties', slug: 'slightly-stoned-but-very-hot-string-bottom' },
-];
-
 export default function Home() {
   const left = getProduct('in-a-situationship-with-my-grinder-baby-tee')!;
   const right = getProduct('university-of-bad-bitches-baby-tee')!;
-  const newIn = PRODUCTS.filter((p) => !p.afterDark).slice(0, 8);
+  const newIn = PRODUCTS.filter((p) => !p.afterDark && p.drop === NEWEST_DROP).slice(0, 8);
   const afterDark = PRODUCTS.filter((p) => p.afterDark).slice(0, 6);
+  const dropNo = NEWEST_DROP.replace(/\D/g, '').padStart(2, '0');
 
   return (
     <>
@@ -29,10 +26,13 @@ export default function Home() {
           </Link>
         </div>
         <div className="hero-copy">
-          <p className="eyebrow">Drop 02</p>
+          <p className="eyebrow">Drop {dropNo}</p>
           <h1>Nine lives.<br />All of them baked.</h1>
           <p className="whisper">cute face, dirty mouth</p>
-          <Link href="/shop" className="btn">Shop the drop</Link>
+          <div className="hero-actions">
+            <Link href={shopHref('women')} className="btn">Shop Women</Link>
+            <Link href={shopHref('men')} className="btn btn-line btn-glass">Shop Men</Link>
+          </div>
         </div>
       </section>
 
@@ -40,7 +40,7 @@ export default function Home() {
         <div className="wrap">
           <div className="sec-head">
             <h2>New in</h2>
-            <Link href="/shop" className="link">View all</Link>
+            <Link href={shopHref('new')} className="link">View all</Link>
           </div>
           <div className="grid">
             {newIn.map((p, i) => <ProductCard key={p.slug} product={p} eager={i < 4} />)}
@@ -48,17 +48,42 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="sec cats">
-        <div className="wrap cats-row">
-          {CATS.map((c) => {
-            const p = getProduct(c.slug)!;
+      <section className="sec depts">
+        <div className="wrap depts-row">
+          {DEPTS.map((d) => {
+            const n = PRODUCTS.filter((p) => p.depts.includes(d.id)).length;
             return (
-              <Link key={c.id} href={`/shop?c=${c.id}`} className="cat">
-                <ProductPhoto product={p} />
-                <span className="cat-label">{c.label}</span>
+              <Link key={d.id} href={shopHref(d.id)} className="dept">
+                <div className="photo"><img src={d.image} alt="" loading="lazy" /></div>
+                <div className="dept-copy">
+                  <span className="dept-label">{d.label}</span>
+                  <span className="eyebrow">{n ? `${n} pieces` : 'First drop soon'}</span>
+                </div>
               </Link>
             );
           })}
+        </div>
+      </section>
+
+      <section className="sec lines">
+        <div className="wrap">
+          <div className="sec-head">
+            <h2>Shop the lines</h2>
+            <Link href="/shop" className="link">Shop all</Link>
+          </div>
+          <div className="lines-row">
+            {LINES.map((l) => {
+              const n = PRODUCTS.filter((p) => p.line === l.id).length;
+              return (
+                <Link key={l.id} href={shopHref(l.id)} className="line-tile">
+                  <div className="photo"><img src={l.image} alt="" loading="lazy" /></div>
+                  {n === 0 && <span className="badge">Soon</span>}
+                  <span className="line-label">{l.label}</span>
+                  <span className="line-blurb">{l.blurb}</span>
+                </Link>
+              );
+            })}
+          </div>
         </div>
       </section>
 
@@ -70,7 +95,7 @@ export default function Home() {
             <p className="lede">The ruder lines. Blurred until you say you’re a grown-up.</p>
             <div className="after-actions">
               <AdultConfirm />
-              <Link href="/shop?c=after-dark" className="link">See the pieces</Link>
+              <Link href={shopHref('after-dark')} className="link">See the pieces</Link>
             </div>
           </div>
           <div className="after-media">

@@ -13,7 +13,7 @@ const serif = Instrument_Serif({ weight: '400', style: ['italic'], subsets: ['la
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
   title: { default: 'Blazed Kitty', template: '%s · Blazed Kitty' },
-  description: 'Nine lives, all of them baked. Baby tees, tanks and string bikinis for girls who roll their own.',
+  description: 'Nine lives, all of them baked. Tees, tanks, swim, lounge, hats and stash gear for women and men who roll their own.',
 };
 
 export const viewport: Viewport = { themeColor: '#0c0b0c', viewportFit: 'cover' };

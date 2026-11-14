@@ -1,8 +1,9 @@
 'use client';
 
-import { useState } from 'react';
+import { useId, useState } from 'react';
 
 export default function Newsletter() {
+  const id = useId();
   const [email, setEmail] = useState('');
   const [state, setState] = useState<'idle' | 'busy' | 'done' | 'error'>('idle');
   const [msg, setMsg] = useState('');
@@ -32,8 +33,8 @@ export default function Newsletter() {
 
   return (
     <form className="news-form" onSubmit={submit}>
-      <label htmlFor="news-email" className="sr-only">Email address</label>
-      <input id="news-email" type="email" required placeholder="you@email.com" value={email} onChange={(e) => setEmail(e.target.value)} disabled={state === 'busy' || state === 'done'} />
+      <label htmlFor={id} className="sr-only">Email address</label>
+      <input id={id} type="email" required placeholder="you@email.com" value={email} onChange={(e) => setEmail(e.target.value)} disabled={state === 'busy' || state === 'done'} />
       <button type="submit" className="btn btn-pink" disabled={state === 'busy' || state === 'done'}>
         {state === 'busy' ? 'Joining…' : state === 'done' ? 'Joined' : 'Join the club'}
       </button>

@@ -10,11 +10,11 @@ import { useCart } from './CartProvider';
 export default function ProductView({ product }: { product: Product }) {
   const [color, setColor] = useState(product.colors[0]);
   const [active, setActive] = useState(0);
-  const [size, setSize] = useState('');
+  const [size, setSize] = useState(product.sizes.length === 1 ? product.sizes[0] : '');
   const [qty, setQty] = useState(1);
   const [added, setAdded] = useState(false);
   const { add, setOpen } = useCart();
-  const isBikini = product.garment === 'bikini';
+  const isBikini = !!product.allOver;
 
   const shots = shotsFor(product, color.name);
   const gallery = shots.length ? shots.map((s) => s.src) : [printSrc(product)];
