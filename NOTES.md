@@ -91,3 +91,7 @@
 - Prices: baby tee 967 $36, tank 780 $34, crop tee 1579 $36, string bottom 669 $30
 - Colors: dark/colored ink -> 6 raglan baby tees + light tanks (no pink tank for pink ink, no navy for black ink); white ink -> black/navy tank + washed black crop tee
 - Print files hosted on R2 at printful/<design>__<productId>.png
+
+## Deploy
+- blazedkitty.com runs on the Hostinger VPS (srv2139771) in /opt/blazed-kitty (Docker + Traefik).
+- Push to main -> GitHub builds the image -> deploy job SSHes in and runs docker compose pull/up. Secrets: VPS_HOST, VPS_USER, VPS_SSH_KEY.
