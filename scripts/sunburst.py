@@ -6,6 +6,7 @@ Options via env: QUALITY (default high), SIZE (default portrait_4_3), N (default
 Auth: FAL_KEY env var, or a proxy that injects the key for fal.run.
 Saves to generated/<out_name>-<n>.jpg
 """
+import base64
 import json
 import os
 import sys
@@ -15,8 +16,16 @@ import urllib.request
 ENDPOINT = "https://fal.run/openai/gpt-image-2.5/sunburst/edit"
 
 
+def as_url(ref):
+    """Local files are sent inline as data URIs; URLs pass through."""
+    if os.path.exists(ref):
+        kind = "png" if ref.endswith(".png") else "jpeg"
+        return f"data:image/{kind};base64," + base64.b64encode(open(ref, "rb").read()).decode()
+    return ref
+
+
 def main():
-    name, prompt, refs = sys.argv[1], sys.argv[2], sys.argv[3:]
+    name, prompt, refs = sys.argv[1], sys.argv[2], [as_url(r) for r in sys.argv[3:]]
     body = {
         "prompt": prompt,
         "image_urls": refs,

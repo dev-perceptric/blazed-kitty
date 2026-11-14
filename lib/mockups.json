@@ -296,5 +296,415 @@
    "style": "Women's Lifestyle 2",
    "option": "Front"
   }
+ ],
+ "purr-puff-pass-crop": [
+  {
+   "src": "/mockups/purr-puff-pass-crop/1.jpg",
+   "color": "Black",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/purr-puff-pass-crop/2.jpg",
+   "color": "Black",
+   "style": "Flat",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/purr-puff-pass-crop/3.jpg",
+   "color": "Black",
+   "style": "Women's",
+   "option": "Right Front"
+  },
+  {
+   "src": "/mockups/purr-puff-pass-crop/4.jpg",
+   "color": "Black",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/purr-puff-pass-crop/5.jpg",
+   "color": "Black",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/purr-puff-pass-crop/6.jpg",
+   "color": "Black",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  }
+ ],
+ "streets-and-sheets-tank": [
+  {
+   "src": "/mockups/streets-and-sheets-tank/1.jpg",
+   "color": "Black",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/streets-and-sheets-tank/2.jpg",
+   "color": "Black",
+   "style": "Flat Lifesytle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/streets-and-sheets-tank/3.jpg",
+   "color": "Black",
+   "style": "Women's",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/streets-and-sheets-tank/4.jpg",
+   "color": "Black",
+   "style": "Women's",
+   "option": "Left Front"
+  }
+ ],
+ "high-maintenance-tank": [
+  {
+   "src": "/mockups/high-maintenance-tank/1.jpg",
+   "color": "Pink",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/high-maintenance-tank/2.jpg",
+   "color": "Pink",
+   "style": "Flat Lifesytle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/high-maintenance-tank/3.jpg",
+   "color": "Pink",
+   "style": "Women's",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/high-maintenance-tank/4.jpg",
+   "color": "Pink",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/high-maintenance-tank/5.jpg",
+   "color": "White",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/high-maintenance-tank/6.jpg",
+   "color": "White",
+   "style": "Flat Lifesytle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/high-maintenance-tank/7.jpg",
+   "color": "White",
+   "style": "Women's",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/high-maintenance-tank/8.jpg",
+   "color": "White",
+   "style": "Women's",
+   "option": "Left Front"
+  }
+ ],
+ "smoke-ears-string-bikini": [
+  {
+   "src": "/mockups/smoke-ears-string-bikini/1.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/smoke-ears-string-bikini/2.jpg",
+   "color": "Full print",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/smoke-ears-string-bikini/3.jpg",
+   "color": "Full print",
+   "style": "Flat Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/smoke-ears-string-bikini/4.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/smoke-ears-string-bikini/5.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/smoke-ears-string-bikini/6.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front 2"
+  },
+  {
+   "src": "/mockups/smoke-ears-string-bikini/7.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/smoke-ears-string-bikini/8.jpg",
+   "color": "Full print",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/smoke-ears-string-bikini/9.jpg",
+   "color": "Full print",
+   "style": "Flat Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/smoke-ears-string-bikini/10.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/smoke-ears-string-bikini/11.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/smoke-ears-string-bikini/12.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front 2"
+  }
+ ],
+ "pink-leopard-string-bikini": [
+  {
+   "src": "/mockups/pink-leopard-string-bikini/1.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/pink-leopard-string-bikini/2.jpg",
+   "color": "Full print",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/pink-leopard-string-bikini/3.jpg",
+   "color": "Full print",
+   "style": "Flat Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/pink-leopard-string-bikini/4.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/pink-leopard-string-bikini/5.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/pink-leopard-string-bikini/6.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front 2"
+  },
+  {
+   "src": "/mockups/pink-leopard-string-bikini/7.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/pink-leopard-string-bikini/8.jpg",
+   "color": "Full print",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/pink-leopard-string-bikini/9.jpg",
+   "color": "Full print",
+   "style": "Flat Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/pink-leopard-string-bikini/10.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/pink-leopard-string-bikini/11.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/pink-leopard-string-bikini/12.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front 2"
+  }
+ ],
+ "kitty-faces-string-bikini": [
+  {
+   "src": "/mockups/kitty-faces-string-bikini/1.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-faces-string-bikini/2.jpg",
+   "color": "Full print",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/kitty-faces-string-bikini/3.jpg",
+   "color": "Full print",
+   "style": "Flat Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-faces-string-bikini/4.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-faces-string-bikini/5.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-faces-string-bikini/6.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front 2"
+  },
+  {
+   "src": "/mockups/kitty-faces-string-bikini/7.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-faces-string-bikini/8.jpg",
+   "color": "Full print",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/kitty-faces-string-bikini/9.jpg",
+   "color": "Full print",
+   "style": "Flat Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-faces-string-bikini/10.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-faces-string-bikini/11.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-faces-string-bikini/12.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front 2"
+  }
+ ],
+ "kitty-script-string-bikini": [
+  {
+   "src": "/mockups/kitty-script-string-bikini/1.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-script-string-bikini/2.jpg",
+   "color": "Full print",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/kitty-script-string-bikini/3.jpg",
+   "color": "Full print",
+   "style": "Flat Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-script-string-bikini/4.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-script-string-bikini/5.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-script-string-bikini/6.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front 2"
+  },
+  {
+   "src": "/mockups/kitty-script-string-bikini/7.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-script-string-bikini/8.jpg",
+   "color": "Full print",
+   "style": "Women's",
+   "option": "Left Front"
+  },
+  {
+   "src": "/mockups/kitty-script-string-bikini/9.jpg",
+   "color": "Full print",
+   "style": "Flat Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-script-string-bikini/10.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-script-string-bikini/11.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front"
+  },
+  {
+   "src": "/mockups/kitty-script-string-bikini/12.jpg",
+   "color": "Full print",
+   "style": "Women's Lifestyle 2",
+   "option": "Front 2"
+  }
  ]
 }
