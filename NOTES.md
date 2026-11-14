@@ -72,3 +72,6 @@
 - CherryKitten's own fonts (DON'T use): Cooper Black, Helvetica caps, Baskerville italic, Road Rage, Barbie-style, Maneater script
 - Panty set shots: top is PLAIN (no print), only the panty carries the design
 - Batch2 standing poses (owner ref: hand on hip, sunglasses, lollipop, hard wall shadow), plain tops on panty sets: ck/photos/batch2/final (49 kept). Script tools/batch_submit2.py
+
+## Storage
+- Everything is saved on GitHub: dev-perceptric/blazed-kitty, branch `brand-assets` (separate from main, no deploy). Add new keepers there.
