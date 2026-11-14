@@ -85,3 +85,9 @@
 - Layout: drop1|drop2/<design>/photos/<shoot>/, /mockups/, /print/ ; shared/, boards/, archive/
 - Upload script: tools/r2_upload.py (uses Cloudflare API token saved as network secret for api.cloudflare.com)
 - Drop 2 zoomed realistic photos (47): photos/drop2_zoom. Zoom is done in code (tools/zoom_crop.py) since the model ignores tight-crop prompts.
+
+## Printful (store 'Blazed Kitty', id 19064428, API/native)
+- 54 products, 898 variants, all synced. Script: tools/printful_sync.py (skips names already in store, waits on rate limits)
+- Prices: baby tee 967 $36, tank 780 $34, crop tee 1579 $36, string bottom 669 $30
+- Colors: dark/colored ink -> 6 raglan baby tees + light tanks (no pink tank for pink ink, no navy for black ink); white ink -> black/navy tank + washed black crop tee
+- Print files hosted on R2 at printful/<design>__<productId>.png
