@@ -4,6 +4,7 @@ import json, re
 REPO = '/home/user/blazed-kitty'
 D1 = json.load(open('/home/user/brand/tools/ck_designs.json'))
 D2 = json.load(open('/home/user/brand/tools/ck_designs_drop2.json'))
+D3 = json.load(open('/home/user/brand/tools/ck_designs_vcut.json'))  # V-cut panty drop
 SHOTS = json.load(open('/home/user/brand/ck/site_shots.json'))
 MODELS = json.load(open('/home/user/brand/ck/site_models.json'))
 
@@ -89,8 +90,12 @@ BLURB = {
     'goodgirls': 'Good girls smoke too. Ask around.', 'wetbong': 'Wet like a bong. You heard it here.',
     'rollit': 'Three steps. She knows them by heart.', 'ridehigh': 'Saddle up.',
     'kittyhungry': 'Feed the kitty.', 'spanking': 'Bad kitty. You know what to do.',
+    'smokebreaks': 'Reserved for the good part of the day.', 'fourtwenty': 'Fluent in one language only.',
+    'munchonthis': 'Snack time.', 'propertysesh': 'Claimed by the circle.', 'stonedhorny': 'Two moods, both at once.',
+    'rollmeup': 'Twist, lick, light.', 'highmaint': 'Expensive taste, no patience.', 'hitit': 'Words to live by.',
+    'kushcush': 'Exactly where it should be.', 'lighternot': 'Bring your own.',
 }
-ADULT = {k for k, v in D2.items() if v.get('pantyonly')} | {'pussy'}
+ADULT = {k for k, v in D2.items() if v.get('pantyonly')} | {'pussy'} | {k for k, v in D3.items() if v.get('afterDark')}
 ORDER = ['2XS', 'XS', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL', '5XL', '6XL']
 # Product code letter per category. Tees and crop tees share T so old codes stay put.
 PREFIX = {'baby-tees': 'T', 'crop-tees': 'T', 'tees': 'T', 'tanks': 'K', 'long-sleeves': 'L', 'panties': 'P', 'bikinis': 'B',
@@ -106,7 +111,7 @@ def title(v):
 
 
 prods, mock, count = [], {}, {}
-for drop, D in (('drop2', D2), ('drop1', D1)):
+for drop, D in (('drop3', D3), ('drop2', D2), ('drop1', D1)):
     for d, v in D.items():
         for pid in PIDS:
             if pid not in CAT:
