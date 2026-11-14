@@ -102,3 +102,4 @@
 - Panty model style (CherryKitten-like): light gray studio, chest-to-thigh, plain pastel tee, pulling side string. Photos: photos/panties_v3. Script: batch_panties.py
 - Panties show product photo first, model on hover.
 - NOTE: another Claude session rebuilt the store (Women/Men, lines, lib/taxonomy.ts). Use the repo's scripts/build_catalog.py, not the old tools copy.
+- String-bottom (669) prints must sit inside Printful's dotted safe area (front piece). tools/panty_refit.py fits each design as big as it goes. Product photos now 2000px (Printful max) -> 1600px web copies.
