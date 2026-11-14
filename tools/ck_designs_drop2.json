@@ -1,0 +1,266 @@
+{
+ "lovelang": {
+  "font": "PlayfairDisplay-900-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "my love",
+   "language is",
+   "passing",
+   "the lighter"
+  ],
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ]
+ },
+ "textme": {
+  "font": "LibreFranklin-900-italic",
+  "color": "#C81E32",
+  "lines": [
+   "text me when",
+   "you’re high",
+   "(i’m usually free)"
+  ],
+  "tops": [
+   [
+    "bt",
+    "red"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ]
+ },
+ "situationship": {
+  "font": "Tinos-700-italic",
+  "color": "#1A1A1A",
+  "lines": [
+   "in a",
+   "situationship",
+   "with my grinder"
+  ],
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "ct",
+    "vintagewhite"
+   ]
+  ]
+ },
+ "pussy": {
+  "font": "SourceSerif4-900-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "my pussy",
+   "taste like",
+   "edibles"
+  ],
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true
+ },
+ "university": {
+  "font": "Graduate-400-normal",
+  "color": "#FF4F9A",
+  "lines": [
+   "UNIVERSITY",
+   "OF BAD",
+   "BITCHES"
+  ],
+  "img": {
+   "file": "/home/user/brand/art/drop2/girl_pink.png",
+   "h": 2.4,
+   "at": 0
+  },
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ]
+ },
+ "highclub": {
+  "font": "Cinzel-900-normal",
+  "color": "#1A1A1A",
+  "lines": [
+   "HIGH",
+   "CLUB"
+  ],
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "ct",
+    "vintagewhite"
+   ]
+  ],
+  "scale": 1.2
+ },
+ "highncute": {
+  "font": "ZillaSlab-700-normal",
+  "color": "#FF4F9A",
+  "lines": [
+   "high n",
+   "cute"
+  ],
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "babyblue"
+   ]
+  ],
+  "scale": 1.2
+ },
+ "toohot": {
+  "font": "Anton-400-normal",
+  "color": "#C81E32",
+  "lines": [
+   "TOO HOT",
+   "TO BE SOBER"
+  ],
+  "tops": [
+   [
+    "bt",
+    "red"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "scale": 1.1
+ },
+ "petmeharder": {
+  "font": "SourceSerif4-900-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "pet me",
+   "harder"
+  ],
+  "panty": true,
+  "pantyonly": true
+ },
+ "lickme": {
+  "font": "PlayfairDisplay-900-italic",
+  "color": "#C81E32",
+  "lines": [
+   "lick me,",
+   "i’m sticky"
+  ],
+  "panty": true,
+  "pantyonly": true
+ },
+ "comegetkitty": {
+  "font": "ArchivoBlack-400-normal",
+  "color": "#FF4F9A",
+  "lines": [
+   "COME",
+   "GET THIS",
+   "KITTY"
+  ],
+  "panty": true,
+  "pantyonly": true
+ },
+ "munchies": {
+  "font": "Tinos-700-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "eat my",
+   "munchies"
+  ],
+  "panty": true,
+  "pantyonly": true
+ },
+ "goodgirls": {
+  "font": "LibreFranklin-900-italic",
+  "color": "#C81E32",
+  "lines": [
+   "good girls",
+   "smoke too"
+  ],
+  "panty": true,
+  "pantyonly": true
+ },
+ "wetbong": {
+  "font": "Anton-400-normal",
+  "color": "#FFFFFF",
+  "lines": [
+   "WET LIKE",
+   "A BONG"
+  ],
+  "panty": true,
+  "pantyonly": true
+ },
+ "rollit": {
+  "font": "ZillaSlab-700-normal",
+  "color": "#FF4F9A",
+  "lines": [
+   "roll it,",
+   "lick it,",
+   "light it"
+  ],
+  "panty": true,
+  "pantyonly": true
+ },
+ "ridehigh": {
+  "font": "PirataOne-400-normal",
+  "color": "#1A1A1A",
+  "lines": [
+   "Ride the",
+   "High"
+  ],
+  "panty": true,
+  "pantyonly": true,
+  "scale": 1.3
+ },
+ "kittyhungry": {
+  "font": "BarlowCondensed-800-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "KITTY IS",
+   "HUNGRY"
+  ],
+  "panty": true,
+  "pantyonly": true,
+  "scale": 1.1
+ },
+ "spanking": {
+  "font": "PlayfairDisplay-900-italic",
+  "color": "#FFFFFF",
+  "lines": [
+   "bad kitty",
+   "needs a",
+   "spanking"
+  ],
+  "panty": true,
+  "pantyonly": true
+ }
+}

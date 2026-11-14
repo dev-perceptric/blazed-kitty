@@ -75,3 +75,7 @@
 
 ## Storage
 - Everything is saved on GitHub: dev-perceptric/blazed-kitty, branch `brand-assets` (separate from main, no deploy). Add new keepers there.
+
+## Drop 2 (18 designs)
+- Designs: tools/ck_designs_drop2.json. Print files print/drop2, panties print/panty_669 (bigger: shared scale 0.80, max 10 in wide).
+- Photos: photos/drop2 (51). Panty set shots use a PLAIN tank.

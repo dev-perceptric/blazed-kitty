@@ -60,7 +60,7 @@ def process(src,dst,print_path=PRINT,ink_hex='#FF4F9A'):
         ys,xs=np.nonzero(blk); ty0,ty1,tx0,tx1=ys.min()+y0,ys.max()+y0,xs.min()+x0,xs.max()+x0
         # angle of the text block from its pixel spread
         cy,cx=ys.mean(),xs.mean(); cov=np.cov(np.vstack([xs-cx,ys-cy])); ang=np.degrees(0.5*np.arctan2(2*cov[0,1],cov[0,0]-cov[1,1]))
-        ang=float(np.clip(ang,-20,20))
+        ang=float(np.clip(ang,-8,8))
         # erase AI text
         # paste exact design sized to the AI text block, rotated, shaded by the fabric
         w=tx1-tx0; h=ty1-ty0
