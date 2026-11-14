@@ -28,6 +28,8 @@ export function shotsFor(p: Product, color?: string): Shot[] {
   const byColor = color ? rest.filter((s) => s.color === color) : rest;
   // Show one product shot per color in the default view so cards stay clean.
   const pick = byColor.length ? byColor : rest.filter((s) => s.color === rest[0]?.color);
+  // Panties: product photo first, model second (so the card shows the model on hover).
+  if (p.category === 'panties' && pick.length) return [pick[0], ...model, ...pick.slice(1)];
   return [...model, ...pick];
 }
 
