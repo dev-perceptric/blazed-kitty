@@ -80,6 +80,9 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 /* Photos */
 .photo { position: relative; overflow: hidden; background: var(--surface); aspect-ratio: 4 / 5; }
 .photo img { width: 100%; height: 100%; object-fit: cover; }
+/* Printful product photos are square on white: show them whole instead of cropping. */
+.photo img.is-product { object-fit: contain; background: #fff; }
+.photo:has(> img.is-product:not(.photo-alt)) { background: #fff; }
 .photo-print img { object-fit: contain; padding: 14%; }
 .photo .photo-alt { position: absolute; inset: 0; opacity: 0; transition: opacity 0.35s ease; }
 .tile:hover .photo.has-hover .photo-alt { opacity: 1; }

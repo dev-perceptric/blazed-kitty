@@ -14,8 +14,8 @@ export function ProductPhoto({ product, color, hover = false, eager = false, cla
   }
   return (
     <div className={`photo ${hover && shots[1] ? 'has-hover' : ''} ${className}`}>
-      <img src={shots[0].src} alt={product.name} loading={eager ? 'eager' : 'lazy'} />
-      {hover && shots[1] && <img className="photo-alt" src={shots[1].src} alt="" aria-hidden="true" loading="lazy" />}
+      <img src={shots[0].src} alt={product.name} loading={eager ? 'eager' : 'lazy'} className={shots[0].style === 'Model' ? undefined : 'is-product'} />
+      {hover && shots[1] && <img className={`photo-alt${shots[1].style === 'Model' ? '' : ' is-product'}`} src={shots[1].src} alt="" aria-hidden="true" loading="lazy" />}
     </div>
   );
 }

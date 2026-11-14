@@ -19,6 +19,7 @@ export default function ProductView({ product }: { product: Product }) {
   const shots = shotsFor(product, color.name);
   const gallery = shots.length ? shots.map((s) => s.src) : [printSrc(product)];
   const current = gallery[Math.min(active, gallery.length - 1)];
+  const currentIsProduct = shots.length > 0 && shots[Math.min(active, shots.length - 1)].style !== 'Model';
 
   function pickColor(c: typeof color) {
     setColor(c);
@@ -36,7 +37,7 @@ export default function ProductView({ product }: { product: Product }) {
 
   const main = (
     <div className={`photo pdp-photo${shots.length ? '' : ' photo-print'}`} style={shots.length ? undefined : { background: isBikini ? '#151315' : color.hex }}>
-      <img src={current} alt={product.name} />
+      <img src={current} alt={product.name} className={currentIsProduct ? 'is-product' : undefined} />
     </div>
   );
 
