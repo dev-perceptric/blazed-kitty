@@ -1,5 +1,6 @@
 import data from './mockups.json';
 import type { Product } from './products';
+import { CDN } from './taxonomy';
 
 export interface Shot {
   src: string;
@@ -30,7 +31,6 @@ export function shotsFor(p: Product, color?: string): Shot[] {
   return [...model, ...pick];
 }
 
-const CDN = 'https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev';
 
 /** The print file itself, used when no photo exists yet. */
 export function printSrc(p: Product) {

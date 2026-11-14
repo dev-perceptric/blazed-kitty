@@ -7,7 +7,7 @@ export function ProductPhoto({ product, color, hover = false, eager = false, cla
   const hex = (product.colors.find((c) => c.name === color) ?? product.colors[0]).hex;
   if (!shots.length) {
     return (
-      <div className={`photo photo-print ${className}`} style={{ background: product.garment === 'bikini' ? '#151315' : hex }}>
+      <div className={`photo photo-print ${className}`} style={{ background: product.allOver ? '#151315' : hex }}>
         <img src={printSrc(product)} alt={`${product.name} print`} loading={eager ? 'eager' : 'lazy'} />
       </div>
     );

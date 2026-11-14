@@ -72,7 +72,7 @@ export default function CartDrawer() {
                     </Link>
                     <div className="line-info">
                       <strong>{p.name}</strong>
-                      <span className="line-opts">{p.garment === 'bikini' ? '' : `${item.color} · `}{item.size}</span>
+                      <span className="line-opts">{p.allOver ? '' : `${item.color} · `}{item.size}</span>
                       <div className="qty">
                         <button type="button" onClick={() => setQty(i, item.qty - 1)} aria-label={`One less ${p.name}`}>−</button>
                         <span aria-live="polite">{item.qty}</span>

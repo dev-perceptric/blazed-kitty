@@ -1,6 +1,6 @@
 # Blazed Kitty storefront
 
-Nine lives, all of them baked. A Next.js 14 store for the Blazed Kitty print-on-demand brand: raglan baby tees, micro-rib tanks, cropped tees and string bottoms, printed by Printful.
+Nine lives, all of them baked. A Next.js 14 store for the Blazed Kitty print-on-demand brand, printed by Printful. The store is set up for Women and Men across six product lines: Tops, Couch Lock (lounge), Swim & Underwear, Headwear, The Stash and Hotbox Home.
 
 ## Run it
 
@@ -15,10 +15,12 @@ Open http://localhost:3000.
 
 | Path | What it does |
 |---|---|
-| `lib/products.ts` | The catalog: 54 products generated from the Printful store, with prices, colors, sizes and Printful IDs |
+| `lib/taxonomy.ts` | Departments, product lines and categories. Add a category here and it shows up in the menu, footer and shop pages |
+| `lib/collections.ts` | Turns a `/shop/...` path into a list of products, crumbs and sub-links |
+| `lib/products.ts` | The catalog, generated from the Printful store: department, line, category, prices, colors, sizes and Printful IDs |
 | `lib/mockups.json` | Photos per product: one model photo first, then Printful product-only shots per color (hosted on Cloudflare R2) |
-| `app/page.tsx` | Home: hero, categories, Drop 01, After Dark, newsletter |
-| `app/shop/page.tsx` | Shop with tabs for tees, tanks, bikinis and After Dark |
+| `app/page.tsx` | Home: hero, new in, Women and Men, the six lines, After Dark, newsletter |
+| `app/shop/[[...path]]` | Every shop page: `/shop`, `/shop/new`, `/shop/women`, `/shop/women/tops`, `/shop/women/tops/baby-tees`, `/shop/stash/socks`, `/shop/after-dark`. Empty ones show a "coming soon" sign-up |
 | `app/product/[slug]` | Product page with color, size, quantity and add to bag |
 | `components/CartDrawer.tsx` | The bag, saved in the browser |
 | `components/Adult.tsx` | Blurs After Dark art until the visitor confirms they are 18+ |
@@ -27,14 +29,24 @@ Open http://localhost:3000.
 
 Copy `.env.example` to `.env.local` and fill in keys as each service gets connected. Without keys the store still runs; checkout and sign-up show a plain "not connected yet" message.
 
+## Store layout
+
+| Line | Women | Men |
+|---|---|---|
+| Tops | Baby Tees, Crop Tees, Tanks, Long Sleeves | Tees, Tanks, Long Sleeves |
+| Couch Lock | Hoodies, Sweatpants, Shorts, Pajamas | Hoodies, Sweatpants, Shorts |
+| Swim & Underwear | Panties, Bikinis | Boxers, Swim Trunks |
+| Headwear | Hats, Beanies, Bucket Hats | same |
+| The Stash (unisex) | Stickers, Glassware, Stash Bags, Socks, Tech | same |
+| Hotbox Home (unisex) | Blankets, Wall Art, Candles, Rolling Mats | same |
+
+Old links like `/shop?c=tees` redirect to the new pages.
+
 ## Printful blanks
 
-| Product type | Printful catalog ID | Blank |
-|---|---|---|
-| Raglan baby tees | 967 | Bella+Canvas 1201 Micro Rib Raglan Baby Tee |
-| Tanks | 780 | Bella+Canvas 1012 Micro-Rib Tank |
-| Cropped tees | 1579 | Bella+Canvas 6882GD Garment Dye Cropped Tee |
-| String bottoms | 669 | All-Over Print Recycled String Bikini Bottom |
+`scripts/build_catalog.py` has a `TYPES` table that maps each Printful catalog ID to its line, category, departments, price and details. Live now: 967 (baby tee), 1579 (crop tee), 780 (rib tank), 669 (string bottom). The table already lists the planned blanks (hoodies, sweats, swim, boxers, hats, stickers, glassware, candles and more), so new Printful products drop into the right page when the catalog is rebuilt.
+
+Line photos for the menu and empty pages live in R2 under `site/web/lines/`.
 
 ## Updating products
 

@@ -16,7 +16,7 @@ export default function ProductCard({ product, eager = false }: { product: Produ
         <span className="tile-name">{product.name}</span>
         <span className="tile-price">{formatPrice(product.price)}</span>
       </div>
-      {product.garment !== 'bikini' && product.colors.length > 1 && (
+      {!product.allOver && product.colors.length > 1 && (
         <span className="tile-colors">{product.colors.length} colors</span>
       )}
     </Link>
