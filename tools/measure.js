@@ -1,0 +1,11 @@
+const {chromium}=require('playwright');
+(async()=>{const b=await chromium.launch();const p=await b.newPage();
+require('fs').writeFileSync('/home/user/brand/tools/_m.html',`<style>@font-face{font-family:A;src:url(file:///home/user/brand/fonts/Anton-400-normal.woff2)}@font-face{font-family:C;font-weight:700;src:url(file:///home/user/brand/fonts/CourierPrime-700-normal.woff2)}span{white-space:nowrap}</style><div id=d></div>`);await p.goto('file:///home/user/brand/tools/_m.html');await p.evaluate(()=>document.fonts.ready);await p.waitForTimeout(300);
+const big=['VERY','HOT','PET','ME','HOT &','BAKED','A JOINT','JOINT','FORCED','TO WORK','I’M','THE','LIGHTER','ME.','I’M HIGH.','HIGH.','BETTER','SMOKE','BUDDY'];
+const small=['slightly stoned but','i’m high so','sorry for being so','mommy needs','born to smoke,','the rumors are true:','do not pass me','under any circumstances','who’s a good girl?','best ex-girlfriend'];
+const r=await p.evaluate(([big,small])=>{const d=document.getElementById('d');const m=(t,f,w,ls)=>{const s=document.createElement('span');s.style.cssText=`font-family:${f};font-weight:${w};font-size:100px;letter-spacing:${ls}`;s.textContent=t;d.appendChild(s);return s.getBoundingClientRect().width};
+return {big:big.map(t=>[t,m(t,'A',400,'0.008em')]),small:small.map(t=>[t,m(t,'C',700,'0.025em')])}},[big,small]);
+await p.evaluate(()=>document.fonts.ready);
+const r2=await p.evaluate(([big,small])=>{const d=document.getElementById('d');d.innerHTML='';const m=(t,f,w,ls)=>{const s=document.createElement('span');s.style.cssText=`font-family:${f};font-weight:${w};font-size:100px;letter-spacing:${ls}`;s.textContent=t;d.appendChild(s);return +(s.getBoundingClientRect().width/100).toFixed(3)};
+return {big:big.map(t=>[t,m(t,'A',400,'0.008em')]),small:small.map(t=>[t,m(t,'C',700,'0.025em')])}},[big,small]);
+console.log(JSON.stringify(r2));await b.close()})();

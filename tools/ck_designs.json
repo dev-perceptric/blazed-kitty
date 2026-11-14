@@ -1,0 +1,88 @@
+{
+ "veryhot": {
+  "font": "Anton-400-normal",
+  "color": "#C81E32",
+  "lines": [
+   "SLIGHTLY",
+   "STONED BUT",
+   "VERY HOT"
+  ],
+  "scale": 1.2
+ },
+ "hotbaked": {
+  "font": "Tinos-700-italic",
+  "color": "#FFFFFF",
+  "lines": [
+   "sorry for",
+   "being so hot",
+   "and baked,",
+   "it’s a lot"
+  ]
+ },
+ "petme": {
+  "font": "SourceSerif4-900-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "pet me,",
+   "i’m high"
+  ],
+  "scale": 1.1
+ },
+ "exgf": {
+  "font": "PlayfairDisplay-900-italic",
+  "color": "#1A1A1A",
+  "lines": [
+   "best",
+   "ex-girlfriend,",
+   "better",
+   "smoke buddy"
+  ]
+ },
+ "goodgirl": {
+  "font": "LibreFranklin-900-italic",
+  "color": "#C81E32",
+  "lines": [
+   "who’s a",
+   "good girl?",
+   "me. i’m high."
+  ]
+ },
+ "mommy": {
+  "font": "ArchivoBlack-400-normal",
+  "color": "#FF4F9A",
+  "lines": [
+   "MOMMY",
+   "NEEDS",
+   "A JOINT"
+  ]
+ },
+ "born": {
+  "font": "PirataOne-400-normal",
+  "color": "#1A1A1A",
+  "lines": [
+   "Born to Smoke",
+   "Forced to Work"
+  ],
+  "scale": 1.4
+ },
+ "rumors": {
+  "font": "ZillaSlab-700-normal",
+  "color": "#FF4F9A",
+  "lines": [
+   "the rumors",
+   "are true,",
+   "i’m baked"
+  ]
+ },
+ "lighter": {
+  "font": "BarlowCondensed-800-italic",
+  "color": "#FFFFFF",
+  "lines": [
+   "DO NOT PASS ME",
+   "THE LIGHTER",
+   "UNDER ANY",
+   "CIRCUMSTANCES"
+  ],
+  "scale": 1.1
+ }
+}
