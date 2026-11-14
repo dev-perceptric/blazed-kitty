@@ -8,6 +8,7 @@ Writes public/mockups/<slug>/<n>.jpg and lib/mockups.json.
 """
 import json
 import os
+import shutil
 import subprocess
 import sys
 import time
@@ -23,6 +24,8 @@ STYLES = {
     "bikini": ["Women's Lifestyle", "Women's Lifestyle 2", "Women's", "Flat Lifestyle"],
 }
 AREA = {"crop": (1500, 1500), "tank": (1050, 1200), "bikini": (7500, 3300)}
+# Front-facing views only; the designs have no back print.
+VIEWS = {"crop": ["Front", "Left Front", "Right Front"], "tank": ["Front", "Left Front"], "bikini": ["Front", "Front 2", "Left Front"]}
 
 
 def call(method, path, body=None):
@@ -31,6 +34,7 @@ def call(method, path, body=None):
         if TOKEN:
             req.add_header("Authorization", f"Bearer {TOKEN}")
         req.add_header("Content-Type", "application/json")
+        req.add_header("User-Agent", "blazed-kitty-mockups/1.0")
         data = json.dumps(body).encode() if body is not None else None
         try:
             with urllib.request.urlopen(req, data, timeout=60) as r:
@@ -87,6 +91,7 @@ def main():
             "format": "jpg",
             "files": files,
             "option_groups": STYLES[g],
+            "options": VIEWS[g],
         })["result"]
         key = task["task_key"]
         for _ in range(60):
@@ -101,17 +106,20 @@ def main():
 
         color_by_vid = {vid: name for name, vid in variants}
         folder = f"public/mockups/{p['slug']}"
+        shutil.rmtree(folder, ignore_errors=True)
         os.makedirs(folder, exist_ok=True)
         images = []
         n = 0
         for m in res["mockups"]:
             color = next((color_by_vid[v] for v in m["variant_ids"] if v in color_by_vid), p["colors"][0]["name"])
-            shots = [{"url": m["mockup_url"], "style": m.get("placement", "front"), "option": "Main"}]
-            shots += [{"url": e["url"], "style": e.get("title", ""), "option": e.get("option", "")} for e in m.get("extra", [])]
+            shots = [{"url": m["mockup_url"], "style": "Main", "option": "Front"}]
+            shots += [{"url": e["url"], "style": e.get("option_group", ""), "option": e.get("option", "")} for e in m.get("extra", [])]
             for s in shots:
                 n += 1
                 path = f"{folder}/{n}.jpg"
-                urllib.request.urlretrieve(s["url"], path)
+                dl = urllib.request.Request(s["url"], headers={"User-Agent": "blazed-kitty-mockups/1.0"})
+                with urllib.request.urlopen(dl, timeout=120) as r, open(path, "wb") as fh:
+                    fh.write(r.read())
                 images.append({"src": f"/mockups/{p['slug']}/{n}.jpg", "color": color, "style": s["style"], "option": s["option"]})
         manifest[p["slug"]] = images
         print(f"  saved {len(images)} images")
