@@ -18,9 +18,9 @@ def web_copy(url):
     key = url.replace(PUB + '/', '')
     new_key = 'site/web/' + key.split('site/', 1)[-1]
     im = Image.open(io.BytesIO(urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 bk-web'}), timeout=120).read())).convert('RGB')
-    im.thumbnail((900, 1125), Image.LANCZOS)
+    im.thumbnail((1600, 2000), Image.LANCZOS)
     buf = io.BytesIO()
-    im.save(buf, 'JPEG', quality=80, optimize=True, progressive=True)
+    im.save(buf, 'JPEG', quality=84, optimize=True, progressive=True)
     api = f'https://api.cloudflare.com/client/v4/accounts/{A}/r2/buckets/blazed-kitty/objects/{urllib.parse.quote(new_key)}'
     urllib.request.urlopen(urllib.request.Request(api, data=buf.getvalue(), method='PUT',
                            headers={'Authorization': 'Bearer dummy', 'Content-Type': 'image/jpeg'}), timeout=120)
