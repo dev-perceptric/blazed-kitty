@@ -96,3 +96,9 @@
 - blazedkitty.com runs on the Hostinger VPS (srv2139771) in /opt/blazed-kitty (Docker + Traefik).
 - Push to main -> GitHub builds the image -> deploy job SSHes in and runs docker compose pull/up. Secrets: VPS_HOST, VPS_USER, VPS_SSH_KEY.
 - Site photos v2 (live): photos/site_v2. Slim models only (no plus-size). Nothing covering the print. Images on R2 at site/web/ (web-sized).
+
+## Drop 3: V-cut panties (Printful 872, $36)
+- 10 designs in tools/ck_designs_vcut.json, colored fabric. Print files print/vcut_872. Scripts: vcut_files.py, printful_vcut.py
+- Panty model style (CherryKitten-like): light gray studio, chest-to-thigh, plain pastel tee, pulling side string. Photos: photos/panties_v3. Script: batch_panties.py
+- Panties show product photo first, model on hover.
+- NOTE: another Claude session rebuilt the store (Women/Men, lines, lib/taxonomy.ts). Use the repo's scripts/build_catalog.py, not the old tools copy.

@@ -1,0 +1,12 @@
+{
+ "smokebreaks":{"font":"PlayfairDisplay-900-italic","color":"#FF4F9A","fabric":"#151515","lines":["for smoke","breaks only"]},
+ "fourtwenty":{"font":"Anton-400-normal","color":"#FFFFFF","fabric":"#FF4F9A","lines":["4:20 IS MY","LOVE","LANGUAGE"]},
+ "munchonthis":{"font":"Tinos-700-italic","color":"#FFFFFF","fabric":"#C81E32","lines":["munch","on this"],"afterDark":true},
+ "propertysesh":{"font":"PirataOne-400-normal","color":"#C81E32","fabric":"#FFFFFF","lines":["Property","of the","Sesh"],"scale":1.2},
+ "stonedhorny":{"font":"SourceSerif4-900-italic","color":"#FF4F9A","fabric":"#A9D4F5","lines":["stoned","& horny"],"afterDark":true},
+ "rollmeup":{"font":"ArchivoBlack-400-normal","color":"#FFFFFF","fabric":"#151515","lines":["ROLL","ME UP"]},
+ "highmaint":{"font":"LibreFranklin-900-italic","color":"#FF4F9A","fabric":"#FFFFFF","lines":["high","maintenance,","low tolerance"]},
+ "hitit":{"font":"BarlowCondensed-800-italic","color":"#FFFFFF","fabric":"#C81E32","lines":["HIT IT,","DON’T","QUIT IT"],"afterDark":true,"scale":1.1},
+ "kushcush":{"font":"ZillaSlab-700-normal","color":"#151515","fabric":"#FF4F9A","lines":["kush in","my cush"],"afterDark":true},
+ "lighternot":{"font":"Cinzel-900-normal","color":"#FF4F9A","fabric":"#151515","lines":["LIGHTER","NOT","INCLUDED"]}
+}
