@@ -35,6 +35,7 @@ def _bf(img,m,r):
         bad=(wv<0.15)[...,None]|(res.max(-1,keepdims=True)>260)|(res.min(-1,keepdims=True)<0)
         res=np.where(bad,fb,res)
     return np.clip(res,0,255)
+BOXES={}
 def process(src,dst,print_path=PRINT,ink_hex='#FF4F9A'):
     im=Image.open(src).convert('RGB'); im=im.resize((im.width*2,im.height*2),Image.LANCZOS)
     a=np.asarray(im).astype(float); r,g,b=a[...,0],a[...,1],a[...,2]
@@ -65,7 +66,7 @@ def process(src,dst,print_path=PRINT,ink_hex='#FF4F9A'):
         # paste exact design sized to the AI text block, rotated, shaded by the fabric
         w=tx1-tx0; h=ty1-ty0
         ar=(w/h)/(design.width/design.height)
-        if not (0.7<ar<1.45) or w>0.42*im.width: continue          # block doesn't look like our print (sleeves merged etc.) -> leave as is
+        if not (0.7<ar<1.45) or w>0.8*im.width: continue          # block doesn't look like our print (sleeves merged etc.) -> leave as is
         Y0,Y1,X0,X1=max(0,ty0-14),ty1+15,max(0,tx0-14),tx1+15
         sub=a[Y0:Y1,X0:X1]; sr,sg,sb=sub[...,0],sub[...,1],sub[...,2]
         if kind=='white': soft=(sub.min(-1)>150)&((sub.max(-1)-sub.min(-1))<50)
@@ -80,6 +81,7 @@ def process(src,dst,print_path=PRINT,ink_hex='#FF4F9A'):
         shade=np.clip(fl/235,0.55,1.05) if kind!='white' else np.clip(0.75+fl/255,0.8,1.0)
         al=da[...,3:4]/255; ink_rgb=da[...,:3]*shade
         out[py:py+H,px:px+W]=reg*(1-al)+ink_rgb*al; n+=1
+        BOXES.setdefault(os.path.basename(dst),[]).append([int(px),int(py),int(W),int(H),int(im.width),int(im.height)])
     Image.fromarray(np.clip(out,0,255).astype('uint8')).save(dst,quality=93); return n
 if __name__=='__main__':
     import json
@@ -88,6 +90,7 @@ if __name__=='__main__':
         for f in sorted(glob.glob(sys.argv[1]+'/*.jpg')):
             k=os.path.basename(f).split('__')[0]; k=k if k in D else k.split('_')[0]; v=D[k]
             print(os.path.basename(f),'prints replaced:',process(f,os.path.join(sys.argv[2],os.path.basename(f)),f'/home/user/brand/ck/print/{k}.png',v['color']),flush=True)
+        json.dump(BOXES,open(os.path.join(sys.argv[2],'_boxes.json'),'w'))
     else:
         for f in sorted(glob.glob(sys.argv[1]+'/*.jpg')):
             print(os.path.basename(f),'prints replaced:',process(f,os.path.join(sys.argv[2],os.path.basename(f))))

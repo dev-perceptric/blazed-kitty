@@ -79,3 +79,9 @@
 ## Drop 2 (18 designs)
 - Designs: tools/ck_designs_drop2.json. Print files print/drop2, panties print/panty_669 (bigger: shared scale 0.80, max 10 in wide).
 - Photos: photos/drop2 (51). Panty set shots use a PLAIN tank.
+
+## Cloudflare R2 (main image storage)
+- Bucket: blazed-kitty. Public URL: https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/<key>
+- Layout: drop1|drop2/<design>/photos/<shoot>/, /mockups/, /print/ ; shared/, boards/, archive/
+- Upload script: tools/r2_upload.py (uses Cloudflare API token saved as network secret for api.cloudflare.com)
+- Drop 2 zoomed realistic photos (47): photos/drop2_zoom. Zoom is done in code (tools/zoom_crop.py) since the model ignores tight-crop prompts.
