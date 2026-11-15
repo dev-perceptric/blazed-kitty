@@ -21,7 +21,7 @@ def slug(s):
 W, M, U = ['women'], ['men'], ['women', 'men']
 TYPES = {
     # Tops
-    636: ('Fitted Baby Tee', 'tops', 'baby-tees', W, 'AS Colour 4062 Women\'s Crop Top', 34, ['Soft 100% combed cotton', 'Fitted baby-tee cut, cropped', 'Printed when you order', 'AS Colour 4062']),
+    636: ('Fitted Baby Tee', 'tops', 'baby-tees', W, 'AS Colour 4062 Women\'s Crop Top', 34, ['Soft 100% combed cotton', 'Fitted baby-tee cut, cropped', 'Printed when you order', 'AS Colour 4062'], False),
     967: ('Baby Tee', 'tops', 'baby-tees', W, 'Bella+Canvas 1201 Micro Rib Raglan Baby Tee', 36,
           ['Micro-rib, 52% Airlume cotton and 48% polyester', 'Fitted baby-tee cut with contrast raglan sleeves', 'Printed when you order'], False),
     1579: ('Crop Tee', 'tops', 'crop-tees', W, 'Bella+Canvas 6882GD Garment Dye Cropped Tee', 36,
