@@ -7,6 +7,7 @@ D2 = json.load(open('/home/user/brand/tools/ck_designs_drop2.json'))
 D3 = json.load(open('/home/user/brand/tools/ck_designs_vcut.json'))  # V-cut panty drop
 D4 = json.load(open('/home/user/brand/tools/ck_designs_drop4.json'))  # queer stoner drop
 D5 = json.load(open('/home/user/brand/tools/ck_designs_drop5.json'))  # lustful stoner drop
+D6 = json.load(open('/home/user/brand/tools/ck_designs_drop6.json'))  # hot stoner girl drop
 SHOTS = json.load(open('/home/user/brand/ck/site_shots.json'))
 MODELS = json.load(open('/home/user/brand/ck/site_models.json'))
 
@@ -98,6 +99,21 @@ BLURB = {
     'kushcush': 'Exactly where it should be.', 'lighternot': 'Bring your own.',
     'biandhigh': 'Both. Always both.', 'gaybaked': 'The two main food groups.', 'shesmyplug': 'Wear it to match her lighter.',
     'shesmylighter': 'Wear it to match her plug.',
+    'hotgirls': 'Facts.',
+    'stonerprincess': 'Crown sold separately.',
+    'sativadiva': 'Up, up and away.',
+    'indicaqueen': 'Ruling from the couch.',
+    'hybridhottie': 'Best of both strains.',
+    'weedwife': 'Wifey with a stash.',
+    'certstoner': 'Officially licensed.',
+    'toopretty': 'Someone else is buying.',
+    'puffpretty': 'Pass it, then pose.',
+    'crossfaded': 'Still cute though.',
+    'bakedbratty': 'Feed me and nobody gets hurt.',
+    'spoiledstoned': 'Living the dream.',
+    'weedera': 'Not leaving it.',
+    'prerolled': 'Always prepared.',
+    'redlipstick': 'Every girl needs both.',
     'spankme': 'Ask nicely. Or don’t.',
     'eatme': 'Instructions included.',
     'princess': 'Treat her like one.',
@@ -169,7 +185,7 @@ def title(v):
 
 prods, mock, count = [], {}, {}
 # Newest drop is added last so older product codes never change; it is moved to the front below.
-for drop, D in (('drop3', D3), ('drop2', D2), ('drop1', D1), ('drop4', D4), ('drop5', D5)):
+for drop, D in (('drop3', D3), ('drop2', D2), ('drop1', D1), ('drop4', D4), ('drop5', D5), ('drop6', D6)):
     for d, v in D.items():
         for pid in PIDS:
             if pid not in CAT:
@@ -210,7 +226,7 @@ for drop, D in (('drop3', D3), ('drop2', D2), ('drop1', D1), ('drop4', D4), ('dr
                 shots.append({**sh, 'color': 'Full print' if all_over else sh['color']})
             mock[sl] = shots
 
-NEW = ['drop5', 'drop4']  # newest first on the site
+NEW = ['drop6', 'drop5', 'drop4']  # newest first on the site
 prods = [p for d in NEW for p in prods if p['drop'] == d] + [p for p in prods if p['drop'] not in NEW]
 
 HEAD = """import type { CategoryId, Dept, LineId } from './taxonomy';
