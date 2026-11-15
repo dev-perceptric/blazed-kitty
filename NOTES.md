@@ -69,16 +69,12 @@
 - Cheap pipeline (owner approved): Gemini 2.5 Flash Image 1K (tools/shoot_flash.py, ~$0.04/img) -> tools/print_paste.py (2x upscale, erase AI print, paste exact print file). Output ck/photos/v2final
 - Batch1 (2.5 Flash batch, 48 shots, ~$1): ck/photos/batch1/final (45 kept). Scripts: tools/batch_submit.py, tools/batch_poll.py, tools/print_paste.py raw final ck_designs.json
 - Watch: AI snack bags can look like real brands (Doritos/Lay's lookalikes) — avoid in ads
-- CherryKitten's own fonts (DON'T use): Cooper Black, Helvetica caps, Baskerville italic, Road Rage, Barbie-style, Maneater script
+- CherryKitten fonts (owner now OK with look-alikes, 2026-11-15): Caprasimo=Cooper Black, Arimo caps=Helvetica, Libre Baskerville italic=Baskerville, Road Rage, Yellowtail=Maneater. Their originals: Cooper Black, Helvetica caps, Baskerville italic, Road Rage, Barbie-style, Maneater script
 - Panty set shots: top is PLAIN (no print), only the panty carries the design
 - Batch2 standing poses (owner ref: hand on hip, sunglasses, lollipop, hard wall shadow), plain tops on panty sets: ck/photos/batch2/final (49 kept). Script tools/batch_submit2.py
 
 ## Storage
 - Everything is saved on GitHub: dev-perceptric/blazed-kitty, branch `brand-assets` (separate from main, no deploy). Add new keepers there.
-
-## Drop 2 (18 designs)
-- Designs: tools/ck_designs_drop2.json. Print files print/drop2, panties print/panty_669 (bigger: shared scale 0.80, max 10 in wide).
-- Photos: photos/drop2 (51). Panty set shots use a PLAIN tank.
 
 ## Cloudflare R2 (main image storage)
 - Bucket: blazed-kitty. Public URL: https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/<key>
@@ -103,3 +99,4 @@
 - Panties show product photo first, model on hover.
 - NOTE: another Claude session rebuilt the store (Women/Men, lines, lib/taxonomy.ts). Use the repo's scripts/build_catalog.py, not the old tools copy.
 - String-bottom (669) prints must sit inside Printful's dotted safe area (front piece). tools/panty_refit.py fits each design as big as it goes. Product photos now 2000px (Printful max) -> 1600px web copies.
+- Font picks from owner: DM Serif Display Italic, Abril Fatface, Source Serif Black Italic, Zilla Slab Bold, Space Grotesk Bold, Unbounded Black (+ CK look-alikes). Pirata One is OUT.

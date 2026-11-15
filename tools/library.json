@@ -1,0 +1,4907 @@
+{
+ "born__bt_black__00a": {
+  "file": "/home/user/brand/ck/library/967_black/born__bt_black__00a.jpg",
+  "pid": 967,
+  "color": "black",
+  "box": {
+   "x": 673,
+   "y": 1128,
+   "w": 485,
+   "h": 159,
+   "ang": 3.2074220374920728
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/born__bt_black__00a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "born__bt_black__00b": {
+  "file": "/home/user/brand/ck/library/967_black/born__bt_black__00b.jpg",
+  "pid": 967,
+  "color": "black",
+  "box": {
+   "x": 717,
+   "y": 1030,
+   "w": 429,
+   "h": 171,
+   "ang": 5.103200942777423
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/born__bt_black__00b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "born__bt_black__01a": {
+  "file": "/home/user/brand/ck/library/967_black/born__bt_black__01a.jpg",
+  "pid": 967,
+  "color": "black",
+  "box": {
+   "x": 667,
+   "y": 1218,
+   "w": 514,
+   "h": 172,
+   "ang": 1.8835400681492636
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/born__bt_black__01a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "born__set__20a": {
+  "file": "/home/user/brand/ck/library/669_white/born__set__20a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 750,
+   "y": 1774,
+   "w": 248,
+   "h": 86,
+   "ang": 0.1445640449053166
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/born__set__20a.jpg",
+  "fabric_rgb": [
+   205.0,
+   201.0,
+   202.0
+  ],
+  "ok": true
+ },
+ "born__set__20b": {
+  "file": "/home/user/brand/ck/library/669_red/born__set__20b.jpg",
+  "pid": 669,
+  "color": "red",
+  "box": {
+   "x": 1205,
+   "y": 2238,
+   "w": 37,
+   "h": 15,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/born__set__20b.jpg",
+  "fabric_rgb": [
+   153.0,
+   101.0,
+   60.0
+  ],
+  "ok": false
+ },
+ "born__set__21b": {
+  "file": "/home/user/brand/ck/library/669_white/born__set__21b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 798,
+   "y": 1673,
+   "w": 283,
+   "h": 118,
+   "ang": -6.599859043340321
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/born__set__21b.jpg",
+  "fabric_rgb": [
+   217.0,
+   214.0,
+   218.0
+  ],
+  "ok": true
+ },
+ "born__tk_heather__10a": {
+  "file": "/home/user/brand/ck/library/780_heather/born__tk_heather__10a.jpg",
+  "pid": 780,
+  "color": "heather",
+  "box": {
+   "x": 710,
+   "y": 1282,
+   "w": 408,
+   "h": 144,
+   "ang": 4.441084430519416
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/born__tk_heather__10a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "born__tk_heather__10b": {
+  "file": "/home/user/brand/ck/library/780_heather/born__tk_heather__10b.jpg",
+  "pid": 780,
+  "color": "heather",
+  "box": {
+   "x": 740,
+   "y": 1165,
+   "w": 323,
+   "h": 108,
+   "ang": 2.846088747729993
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/born__tk_heather__10b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "born__tk_heather__11a": {
+  "file": "/home/user/brand/ck/library/780_heather/born__tk_heather__11a.jpg",
+  "pid": 780,
+  "color": "heather",
+  "box": {
+   "x": 699,
+   "y": 1008,
+   "w": 485,
+   "h": 189,
+   "ang": 7.629021735481942
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/born__tk_heather__11a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "comegetkitty__set__00a": {
+  "file": "/home/user/brand/ck/library/669_white/comegetkitty__set__00a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 794,
+   "y": 1633,
+   "w": 251,
+   "h": 138,
+   "ang": -7.100699755472201
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/comegetkitty__set__00a.jpg",
+  "fabric_rgb": [
+   213.0,
+   210.0,
+   213.0
+  ],
+  "ok": true
+ },
+ "comegetkitty__set__00b": {
+  "file": "/home/user/brand/ck/library/669_white/comegetkitty__set__00b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 767,
+   "y": 1673,
+   "w": 278,
+   "h": 152,
+   "ang": -7.010346294440895
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/comegetkitty__set__00b.jpg",
+  "fabric_rgb": [
+   211.0,
+   210.0,
+   212.0
+  ],
+  "ok": true
+ },
+ "comegetkitty__set__01b": {
+  "file": "/home/user/brand/ck/library/669_white/comegetkitty__set__01b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 792,
+   "y": 1774,
+   "w": 282,
+   "h": 150,
+   "ang": -7.477470213352155
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/comegetkitty__set__01b.jpg",
+  "fabric_rgb": [
+   207.0,
+   209.0,
+   204.0
+  ],
+  "ok": true
+ },
+ "exgf__bt_black__00a": {
+  "file": "/home/user/brand/ck/library/967_black/exgf__bt_black__00a.jpg",
+  "pid": 967,
+  "color": "black",
+  "box": {
+   "x": 689,
+   "y": 1214,
+   "w": 379,
+   "h": 216,
+   "ang": -3.949980530115214
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/exgf__bt_black__00a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "exgf__bt_black__00b": {
+  "file": "/home/user/brand/ck/library/967_black/exgf__bt_black__00b.jpg",
+  "pid": 967,
+  "color": "black",
+  "box": {
+   "x": 808,
+   "y": 951,
+   "w": 648,
+   "h": 570,
+   "ang": 8.0
+  },
+  "extra": 4,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/exgf__bt_black__00b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "exgf__bt_black__01a": {
+  "file": "/home/user/brand/ck/library/967_black/exgf__bt_black__01a.jpg",
+  "pid": 967,
+  "color": "black",
+  "box": {
+   "x": 733,
+   "y": 1065,
+   "w": 311,
+   "h": 193,
+   "ang": -0.957471789795506
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/exgf__bt_black__01a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "exgf__set__20a": {
+  "file": "/home/user/brand/ck/library/669_white/exgf__set__20a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 780,
+   "y": 1766,
+   "w": 214,
+   "h": 120,
+   "ang": -1.403295955952785
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/exgf__set__20a.jpg",
+  "fabric_rgb": [
+   213.0,
+   214.0,
+   210.0
+  ],
+  "ok": true
+ },
+ "exgf__set__20b": {
+  "file": "/home/user/brand/ck/library/669_white/exgf__set__20b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 803,
+   "y": 1720,
+   "w": 236,
+   "h": 143,
+   "ang": -8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/exgf__set__20b.jpg",
+  "fabric_rgb": [
+   215.0,
+   214.0,
+   218.0
+  ],
+  "ok": true
+ },
+ "exgf__set__21b": {
+  "file": "/home/user/brand/ck/library/669_white/exgf__set__21b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 776,
+   "y": 1687,
+   "w": 259,
+   "h": 156,
+   "ang": -2.490025986354297
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/exgf__set__21b.jpg",
+  "fabric_rgb": [
+   206.0,
+   202.0,
+   199.0
+  ],
+  "ok": true
+ },
+ "exgf__tk_white__10a": {
+  "file": "/home/user/brand/ck/library/780_white/exgf__tk_white__10a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 759,
+   "y": 1302,
+   "w": 316,
+   "h": 200,
+   "ang": 1.1550566935854836
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/exgf__tk_white__10a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "exgf__tk_white__10b": {
+  "file": "/home/user/brand/ck/library/780_white/exgf__tk_white__10b.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 786,
+   "y": 1118,
+   "w": 285,
+   "h": 176,
+   "ang": -2.13127828461454
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/exgf__tk_white__10b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "exgf__tk_white__11a": {
+  "file": "/home/user/brand/ck/library/780_white/exgf__tk_white__11a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 796,
+   "y": 1013,
+   "w": 269,
+   "h": 160,
+   "ang": 0.1595628176104145
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/exgf__tk_white__11a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "goodgirl__bt_red__00a": {
+  "file": "/home/user/brand/ck/library/967_red/goodgirl__bt_red__00a.jpg",
+  "pid": 967,
+  "color": "red",
+  "box": {
+   "x": 517,
+   "y": 710,
+   "w": 910,
+   "h": 464,
+   "ang": -1.62471266527966
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/goodgirl__bt_red__00a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "goodgirl__bt_red__00b": {
+  "file": "/home/user/brand/ck/library/967_red/goodgirl__bt_red__00b.jpg",
+  "pid": 967,
+  "color": "red",
+  "box": {
+   "x": 736,
+   "y": 1083,
+   "w": 353,
+   "h": 156,
+   "ang": 0.4149921617274621
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/goodgirl__bt_red__00b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "goodgirl__bt_red__01a": {
+  "file": "/home/user/brand/ck/library/967_red/goodgirl__bt_red__01a.jpg",
+  "pid": 967,
+  "color": "red",
+  "box": {
+   "x": 664,
+   "y": 1212,
+   "w": 408,
+   "h": 173,
+   "ang": 0.43403996362098296
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/goodgirl__bt_red__01a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "goodgirl__set__20a": {
+  "file": "/home/user/brand/ck/library/669_white/goodgirl__set__20a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 623,
+   "y": 1845,
+   "w": 624,
+   "h": 458,
+   "ang": 3.6428493931338948
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/goodgirl__set__20a.jpg",
+  "fabric_rgb": [
+   214.0,
+   209.0,
+   209.0
+  ],
+  "ok": true
+ },
+ "goodgirl__set__20b": {
+  "file": "/home/user/brand/ck/library/669_white/goodgirl__set__20b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 751,
+   "y": 1671,
+   "w": 327,
+   "h": 159,
+   "ang": -1.9214875223086325
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/goodgirl__set__20b.jpg",
+  "fabric_rgb": [
+   218.0,
+   212.0,
+   214.0
+  ],
+  "ok": true
+ },
+ "goodgirl__set__21b": {
+  "file": "/home/user/brand/ck/library/669_white/goodgirl__set__21b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 782,
+   "y": 1832,
+   "w": 311,
+   "h": 151,
+   "ang": -5.324264063959077
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/goodgirl__set__21b.jpg",
+  "fabric_rgb": [
+   215.0,
+   214.0,
+   213.0
+  ],
+  "ok": true
+ },
+ "goodgirl__tk_babyblue__10a": {
+  "file": "/home/user/brand/ck/library/780_babyblue/goodgirl__tk_babyblue__10a.jpg",
+  "pid": 780,
+  "color": "babyblue",
+  "box": {
+   "x": 730,
+   "y": 1360,
+   "w": 319,
+   "h": 136,
+   "ang": 2.2935958631965225
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/goodgirl__tk_babyblue__10a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "goodgirl__tk_babyblue__10b": {
+  "file": "/home/user/brand/ck/library/780_babyblue/goodgirl__tk_babyblue__10b.jpg",
+  "pid": 780,
+  "color": "babyblue",
+  "box": {
+   "x": 754,
+   "y": 1167,
+   "w": 287,
+   "h": 145,
+   "ang": 3.9421762605864785
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/goodgirl__tk_babyblue__10b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "goodgirl__tk_babyblue__11a": {
+  "file": "/home/user/brand/ck/library/780_babyblue/goodgirl__tk_babyblue__11a.jpg",
+  "pid": 780,
+  "color": "babyblue",
+  "box": {
+   "x": 813,
+   "y": 1229,
+   "w": 248,
+   "h": 115,
+   "ang": 2.5888108190319623
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/goodgirl__tk_babyblue__11a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "goodgirls__set__00a": {
+  "file": "/home/user/brand/ck/library/669_white/goodgirls__set__00a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 794,
+   "y": 1641,
+   "w": 219,
+   "h": 80,
+   "ang": -2.369008785133049
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/goodgirls__set__00a.jpg",
+  "fabric_rgb": [
+   216.0,
+   215.0,
+   216.0
+  ],
+  "ok": true
+ },
+ "goodgirls__set__00b": {
+  "file": "/home/user/brand/ck/library/669_white/goodgirls__set__00b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 784,
+   "y": 1828,
+   "w": 212,
+   "h": 78,
+   "ang": -2.707110991707907
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/goodgirls__set__00b.jpg",
+  "fabric_rgb": [
+   203.0,
+   202.0,
+   203.0
+  ],
+  "ok": true
+ },
+ "goodgirls__set__01b": {
+  "file": "/home/user/brand/ck/library/669_white/goodgirls__set__01b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 809,
+   "y": 1882,
+   "w": 231,
+   "h": 88,
+   "ang": -1.6581894117575513
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/goodgirls__set__01b.jpg",
+  "fabric_rgb": [
+   218.0,
+   212.0,
+   210.0
+  ],
+  "ok": true
+ },
+ "highclub__bt_black__00a": {
+  "file": "/home/user/brand/ck/library/967_black/highclub__bt_black__00a.jpg",
+  "pid": 967,
+  "color": "black",
+  "box": {
+   "x": 822,
+   "y": 1112,
+   "w": 360,
+   "h": 230,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/highclub__bt_black__00a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "highclub__bt_black__00b": {
+  "file": "/home/user/brand/ck/library/967_black/highclub__bt_black__00b.jpg",
+  "pid": 967,
+  "color": "black",
+  "box": {
+   "x": 815,
+   "y": 1089,
+   "w": 246,
+   "h": 147,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/highclub__bt_black__00b.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "highclub__bt_black__01a": {
+  "file": "/home/user/brand/ck/library/967_black/highclub__bt_black__01a.jpg",
+  "pid": 967,
+  "color": "black",
+  "box": {
+   "x": 384,
+   "y": 1719,
+   "w": 955,
+   "h": 584,
+   "ang": -2.797711106134496
+  },
+  "extra": 5,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/highclub__bt_black__01a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "highclub__ct_vintagewhite__10a": {
+  "file": "/home/user/brand/ck/library/1579_vintagewhite/highclub__ct_vintagewhite__10a.jpg",
+  "pid": 1579,
+  "color": "vintagewhite",
+  "box": {
+   "x": 805,
+   "y": 938,
+   "w": 238,
+   "h": 143,
+   "ang": 6.295682840142088
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/highclub__ct_vintagewhite__10a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "highclub__ct_vintagewhite__10b": {
+  "file": "/home/user/brand/ck/library/1579_vintagewhite/highclub__ct_vintagewhite__10b.jpg",
+  "pid": 1579,
+  "color": "vintagewhite",
+  "box": {
+   "x": 505,
+   "y": 1628,
+   "w": 774,
+   "h": 675,
+   "ang": -8.0
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/highclub__ct_vintagewhite__10b.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "highclub__ct_vintagewhite__11a": {
+  "file": "/home/user/brand/ck/library/1579_vintagewhite/highclub__ct_vintagewhite__11a.jpg",
+  "pid": 1579,
+  "color": "vintagewhite",
+  "box": {
+   "x": 807,
+   "y": 2123,
+   "w": 183,
+   "h": 180,
+   "ang": -8.0
+  },
+  "extra": 3,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/highclub__ct_vintagewhite__11a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "highncute__bt_pink__00a": {
+  "file": "/home/user/brand/ck/library/967_pink/highncute__bt_pink__00a.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 826,
+   "y": 1293,
+   "w": 284,
+   "h": 174,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/highncute__bt_pink__00a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "highncute__bt_pink__00b": {
+  "file": "/home/user/brand/ck/library/967_pink/highncute__bt_pink__00b.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 817,
+   "y": 978,
+   "w": 188,
+   "h": 119,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/highncute__bt_pink__00b.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "highncute__bt_pink__01a": {
+  "file": "/home/user/brand/ck/library/967_pink/highncute__bt_pink__01a.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 834,
+   "y": 1155,
+   "w": 283,
+   "h": 174,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/highncute__bt_pink__01a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "highncute__tk_babyblue__10a": {
+  "file": "/home/user/brand/ck/library/780_babyblue/highncute__tk_babyblue__10a.jpg",
+  "pid": 780,
+  "color": "babyblue",
+  "box": {
+   "x": 863,
+   "y": 1149,
+   "w": 177,
+   "h": 112,
+   "ang": 6.533488483702146
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/highncute__tk_babyblue__10a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "highncute__tk_babyblue__10b": {
+  "file": "/home/user/brand/ck/library/780_babyblue/highncute__tk_babyblue__10b.jpg",
+  "pid": 780,
+  "color": "babyblue",
+  "box": {
+   "x": 856,
+   "y": 1012,
+   "w": 153,
+   "h": 92,
+   "ang": 7.000124072836701
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/highncute__tk_babyblue__10b.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "highncute__tk_babyblue__11a": {
+  "file": "/home/user/brand/ck/library/780_babyblue/highncute__tk_babyblue__11a.jpg",
+  "pid": 780,
+  "color": "babyblue",
+  "box": {
+   "x": 835,
+   "y": 1397,
+   "w": 178,
+   "h": 127,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/highncute__tk_babyblue__11a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "hotbaked__ct_washedblack__10a": {
+  "file": "/home/user/brand/ck/library/1579_washedblack/hotbaked__ct_washedblack__10a.jpg",
+  "pid": 1579,
+  "color": "washedblack",
+  "box": {
+   "x": 730,
+   "y": 1209,
+   "w": 391,
+   "h": 311,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/hotbaked__ct_washedblack__10a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "hotbaked__ct_washedblack__10b": {
+  "file": "/home/user/brand/ck/library/1579_washedblack/hotbaked__ct_washedblack__10b.jpg",
+  "pid": 1579,
+  "color": "washedblack",
+  "box": {
+   "x": 754,
+   "y": 1271,
+   "w": 322,
+   "h": 245,
+   "ang": 7.480331146882715
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/hotbaked__ct_washedblack__10b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "hotbaked__ct_washedblack__11a": {
+  "file": "/home/user/brand/ck/library/1579_washedblack/hotbaked__ct_washedblack__11a.jpg",
+  "pid": 1579,
+  "color": "washedblack",
+  "box": {
+   "x": 765,
+   "y": 1102,
+   "w": 366,
+   "h": 292,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/hotbaked__ct_washedblack__11a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "hotbaked__set__20a": {
+  "file": "/home/user/brand/ck/library/669_black/hotbaked__set__20a.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 823,
+   "y": 1613,
+   "w": 257,
+   "h": 208,
+   "ang": -8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/hotbaked__set__20a.jpg",
+  "fabric_rgb": [
+   18.0,
+   29.0,
+   26.0
+  ],
+  "ok": true
+ },
+ "hotbaked__set__20b": {
+  "file": "/home/user/brand/ck/library/669_black/hotbaked__set__20b.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 802,
+   "y": 1836,
+   "w": 260,
+   "h": 190,
+   "ang": -2.5648138509365235
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/hotbaked__set__20b.jpg",
+  "fabric_rgb": [
+   20.0,
+   31.0,
+   33.0
+  ],
+  "ok": true
+ },
+ "hotbaked__set__21b": {
+  "file": "/home/user/brand/ck/library/669_black/hotbaked__set__21b.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 799,
+   "y": 1813,
+   "w": 246,
+   "h": 177,
+   "ang": 0.48415521183541116
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/hotbaked__set__21b.jpg",
+  "fabric_rgb": [
+   15.0,
+   24.0,
+   25.0
+  ],
+  "ok": true
+ },
+ "hotbaked__tk_black__00a": {
+  "file": "/home/user/brand/ck/library/780_black/hotbaked__tk_black__00a.jpg",
+  "pid": 780,
+  "color": "black",
+  "box": {
+   "x": 761,
+   "y": 1281,
+   "w": 303,
+   "h": 230,
+   "ang": 3.3271760773696
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/hotbaked__tk_black__00a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "hotbaked__tk_black__00b": {
+  "file": "/home/user/brand/ck/library/780_black/hotbaked__tk_black__00b.jpg",
+  "pid": 780,
+  "color": "black",
+  "box": {
+   "x": 802,
+   "y": 981,
+   "w": 231,
+   "h": 165,
+   "ang": 3.598871991266832
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/hotbaked__tk_black__00b.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "hotbaked__tk_black__01a": {
+  "file": "/home/user/brand/ck/library/780_black/hotbaked__tk_black__01a.jpg",
+  "pid": 780,
+  "color": "black",
+  "box": {
+   "x": 791,
+   "y": 1303,
+   "w": 271,
+   "h": 200,
+   "ang": 3.5518180013987264
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/hotbaked__tk_black__01a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "kittyhungry__set__00a": {
+  "file": "/home/user/brand/ck/library/669_white/kittyhungry__set__00a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 757,
+   "y": 1796,
+   "w": 175,
+   "h": 107,
+   "ang": -1.7024061634093037
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/kittyhungry__set__00a.jpg",
+  "fabric_rgb": [
+   212.0,
+   211.0,
+   212.0
+  ],
+  "ok": true
+ },
+ "kittyhungry__set__00b": {
+  "file": "/home/user/brand/ck/library/669_white/kittyhungry__set__00b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 817,
+   "y": 1892,
+   "w": 183,
+   "h": 113,
+   "ang": -2.740089305470478
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/kittyhungry__set__00b.jpg",
+  "fabric_rgb": [
+   212.0,
+   214.0,
+   208.0
+  ],
+  "ok": true
+ },
+ "kittyhungry__set__01b": {
+  "file": "/home/user/brand/ck/library/669_white/kittyhungry__set__01b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 799,
+   "y": 1751,
+   "w": 177,
+   "h": 104,
+   "ang": -2.6868617760685365
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/kittyhungry__set__01b.jpg",
+  "fabric_rgb": [
+   207.0,
+   202.0,
+   196.0
+  ],
+  "ok": true
+ },
+ "lickme__set__00b": {
+  "file": "/home/user/brand/ck/library/669_white/lickme__set__00b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 784,
+   "y": 1812,
+   "w": 218,
+   "h": 84,
+   "ang": 3.624663035064681
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lickme__set__00b.jpg",
+  "fabric_rgb": [
+   216.0,
+   213.0,
+   215.0
+  ],
+  "ok": true
+ },
+ "lickme__set__01b": {
+  "file": "/home/user/brand/ck/library/669_white/lickme__set__01b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 790,
+   "y": 1641,
+   "w": 224,
+   "h": 86,
+   "ang": 3.22489455311391
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lickme__set__01b.jpg",
+  "fabric_rgb": [
+   211.0,
+   210.0,
+   205.0
+  ],
+  "ok": true
+ },
+ "lighter__ct_washedblack__10a": {
+  "file": "/home/user/brand/ck/library/1579_washedblack/lighter__ct_washedblack__10a.jpg",
+  "pid": 1579,
+  "color": "washedblack",
+  "box": {
+   "x": 666,
+   "y": 1006,
+   "w": 461,
+   "h": 360,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lighter__ct_washedblack__10a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "lighter__ct_washedblack__10b": {
+  "file": "/home/user/brand/ck/library/1579_washedblack/lighter__ct_washedblack__10b.jpg",
+  "pid": 1579,
+  "color": "washedblack",
+  "box": {
+   "x": 708,
+   "y": 1039,
+   "w": 465,
+   "h": 331,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lighter__ct_washedblack__10b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "lighter__ct_washedblack__11a": {
+  "file": "/home/user/brand/ck/library/1579_washedblack/lighter__ct_washedblack__11a.jpg",
+  "pid": 1579,
+  "color": "washedblack",
+  "box": {
+   "x": 692,
+   "y": 1230,
+   "w": 535,
+   "h": 359,
+   "ang": 0.636670893251152
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lighter__ct_washedblack__11a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "lighter__set__20b": {
+  "file": "/home/user/brand/ck/library/669_black/lighter__set__20b.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 770,
+   "y": 1843,
+   "w": 275,
+   "h": 177,
+   "ang": -1.8625081032801194
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lighter__set__20b.jpg",
+  "fabric_rgb": [
+   20.0,
+   27.0,
+   30.0
+  ],
+  "ok": true
+ },
+ "lighter__set__21b": {
+  "file": "/home/user/brand/ck/library/669_black/lighter__set__21b.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 728,
+   "y": 1693,
+   "w": 286,
+   "h": 204,
+   "ang": 2.7847221418276513
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lighter__set__21b.jpg",
+  "fabric_rgb": [
+   13.0,
+   23.0,
+   24.0
+  ],
+  "ok": true
+ },
+ "lighter__tk_navy__00a": {
+  "file": "/home/user/brand/ck/library/780_navy/lighter__tk_navy__00a.jpg",
+  "pid": 780,
+  "color": "navy",
+  "box": {
+   "x": 758,
+   "y": 1229,
+   "w": 341,
+   "h": 214,
+   "ang": -0.8552283437441389
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lighter__tk_navy__00a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "lighter__tk_navy__00b": {
+  "file": "/home/user/brand/ck/library/780_navy/lighter__tk_navy__00b.jpg",
+  "pid": 780,
+  "color": "navy",
+  "box": {
+   "x": 766,
+   "y": 1071,
+   "w": 373,
+   "h": 254,
+   "ang": 5.988219894059448
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lighter__tk_navy__00b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "lighter__tk_navy__01a": {
+  "file": "/home/user/brand/ck/library/780_navy/lighter__tk_navy__01a.jpg",
+  "pid": 780,
+  "color": "navy",
+  "box": {
+   "x": 710,
+   "y": 1297,
+   "w": 353,
+   "h": 219,
+   "ang": -7.080703467185231
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lighter__tk_navy__01a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "lovelang__bt_pink__00a": {
+  "file": "/home/user/brand/ck/library/967_pink/lovelang__bt_pink__00a.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 776,
+   "y": 1186,
+   "w": 391,
+   "h": 296,
+   "ang": 2.8327969104159303
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lovelang__bt_pink__00a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "lovelang__bt_pink__00b": {
+  "file": "/home/user/brand/ck/library/967_pink/lovelang__bt_pink__00b.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 778,
+   "y": 1113,
+   "w": 293,
+   "h": 229,
+   "ang": -3.0876104095235357
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lovelang__bt_pink__00b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "lovelang__bt_pink__01a": {
+  "file": "/home/user/brand/ck/library/967_pink/lovelang__bt_pink__01a.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 788,
+   "y": 1001,
+   "w": 278,
+   "h": 216,
+   "ang": 5.994249564117026
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lovelang__bt_pink__01a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "lovelang__tk_white__10a": {
+  "file": "/home/user/brand/ck/library/780_white/lovelang__tk_white__10a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 815,
+   "y": 1126,
+   "w": 252,
+   "h": 182,
+   "ang": -0.15487747069665955
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lovelang__tk_white__10a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "lovelang__tk_white__10b": {
+  "file": "/home/user/brand/ck/library/780_white/lovelang__tk_white__10b.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 772,
+   "y": 1342,
+   "w": 252,
+   "h": 179,
+   "ang": 2.66459052392596
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lovelang__tk_white__10b.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "lovelang__tk_white__11a": {
+  "file": "/home/user/brand/ck/library/780_white/lovelang__tk_white__11a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 797,
+   "y": 1177,
+   "w": 267,
+   "h": 181,
+   "ang": 0.01031550664147449
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/lovelang__tk_white__11a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "mommy__bt_pink__00a": {
+  "file": "/home/user/brand/ck/library/967_pink/mommy__bt_pink__00a.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 766,
+   "y": 950,
+   "w": 272,
+   "h": 157,
+   "ang": 1.7656994321550374
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/mommy__bt_pink__00a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "mommy__bt_pink__00b": {
+  "file": "/home/user/brand/ck/library/967_pink/mommy__bt_pink__00b.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 768,
+   "y": 1176,
+   "w": 302,
+   "h": 186,
+   "ang": 3.2871404147675456
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/mommy__bt_pink__00b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "mommy__bt_pink__01a": {
+  "file": "/home/user/brand/ck/library/967_pink/mommy__bt_pink__01a.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 769,
+   "y": 1290,
+   "w": 321,
+   "h": 191,
+   "ang": 5.716210886453239
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/mommy__bt_pink__01a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "mommy__set__20a": {
+  "file": "/home/user/brand/ck/library/669_white/mommy__set__20a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 804,
+   "y": 1620,
+   "w": 215,
+   "h": 139,
+   "ang": 2.226031118202301
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/mommy__set__20a.jpg",
+  "fabric_rgb": [
+   209.0,
+   209.0,
+   209.0
+  ],
+  "ok": true
+ },
+ "mommy__set__20b": {
+  "file": "/home/user/brand/ck/library/669_hotpink/mommy__set__20b.jpg",
+  "pid": 669,
+  "color": "hotpink",
+  "box": {
+   "x": 974,
+   "y": 12,
+   "w": 66,
+   "h": 45,
+   "ang": -5.377373339620202
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/mommy__set__20b.jpg",
+  "fabric_rgb": [
+   189.0,
+   146.0,
+   112.0
+  ],
+  "ok": false
+ },
+ "mommy__set__21b": {
+  "file": "/home/user/brand/ck/library/669_white/mommy__set__21b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 801,
+   "y": 1696,
+   "w": 294,
+   "h": 193,
+   "ang": 4.107040924350316
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/mommy__set__21b.jpg",
+  "fabric_rgb": [
+   211.0,
+   212.0,
+   205.0
+  ],
+  "ok": true
+ },
+ "mommy__tk_white__10a": {
+  "file": "/home/user/brand/ck/library/780_white/mommy__tk_white__10a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 704,
+   "y": 1334,
+   "w": 287,
+   "h": 164,
+   "ang": 1.9328831389246668
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/mommy__tk_white__10a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "mommy__tk_white__10b": {
+  "file": "/home/user/brand/ck/library/780_white/mommy__tk_white__10b.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 679,
+   "y": 1358,
+   "w": 303,
+   "h": 176,
+   "ang": -1.4790853179836845
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/mommy__tk_white__10b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "mommy__tk_white__11a": {
+  "file": "/home/user/brand/ck/library/780_white/mommy__tk_white__11a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 717,
+   "y": 1442,
+   "w": 321,
+   "h": 173,
+   "ang": 4.595367488042274
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/mommy__tk_white__11a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "munchies__set__00a": {
+  "file": "/home/user/brand/ck/library/669_white/munchies__set__00a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 799,
+   "y": 1669,
+   "w": 193,
+   "h": 73,
+   "ang": -2.166496660957012
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/munchies__set__00a.jpg",
+  "fabric_rgb": [
+   206.0,
+   207.0,
+   201.0
+  ],
+  "ok": true
+ },
+ "munchies__set__01b": {
+  "file": "/home/user/brand/ck/library/669_white/munchies__set__01b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 771,
+   "y": 1785,
+   "w": 218,
+   "h": 79,
+   "ang": -0.35249156829979494
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/munchies__set__01b.jpg",
+  "fabric_rgb": [
+   201.0,
+   208.0,
+   201.0
+  ],
+  "ok": true
+ },
+ "petme__bt_pink__00a": {
+  "file": "/home/user/brand/ck/library/967_pink/petme__bt_pink__00a.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 838,
+   "y": 1113,
+   "w": 287,
+   "h": 157,
+   "ang": 7.824580138505171
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/petme__bt_pink__00a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "petme__bt_pink__00b": {
+  "file": "/home/user/brand/ck/library/967_pink/petme__bt_pink__00b.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 798,
+   "y": 1110,
+   "w": 216,
+   "h": 115,
+   "ang": 7.888586645908759
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/petme__bt_pink__00b.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "petme__bt_pink__01a": {
+  "file": "/home/user/brand/ck/library/967_pink/petme__bt_pink__01a.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 798,
+   "y": 991,
+   "w": 222,
+   "h": 117,
+   "ang": 7.976244949922187
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/petme__bt_pink__01a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "petme__set__20a": {
+  "file": "/home/user/brand/ck/library/669_white/petme__set__20a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 782,
+   "y": 1915,
+   "w": 190,
+   "h": 98,
+   "ang": 6.661084310878416
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/petme__set__20a.jpg",
+  "fabric_rgb": [
+   211.0,
+   211.0,
+   211.0
+  ],
+  "ok": true
+ },
+ "petme__set__20b": {
+  "file": "/home/user/brand/ck/library/669_white/petme__set__20b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 794,
+   "y": 1934,
+   "w": 223,
+   "h": 108,
+   "ang": 2.4441098361957856
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/petme__set__20b.jpg",
+  "fabric_rgb": [
+   219.0,
+   218.0,
+   218.0
+  ],
+  "ok": true
+ },
+ "petme__set__21b": {
+  "file": "/home/user/brand/ck/library/669_white/petme__set__21b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 817,
+   "y": 1699,
+   "w": 224,
+   "h": 120,
+   "ang": 4.954865724237704
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/petme__set__21b.jpg",
+  "fabric_rgb": [
+   210.0,
+   211.0,
+   212.0
+  ],
+  "ok": true
+ },
+ "petme__tk_white__10a": {
+  "file": "/home/user/brand/ck/library/780_white/petme__tk_white__10a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 744,
+   "y": 1271,
+   "w": 369,
+   "h": 181,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/petme__tk_white__10a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "petme__tk_white__10b": {
+  "file": "/home/user/brand/ck/library/780_white/petme__tk_white__10b.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 822,
+   "y": 1270,
+   "w": 179,
+   "h": 90,
+   "ang": 6.083186182044841
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/petme__tk_white__10b.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "petme__tk_white__11a": {
+  "file": "/home/user/brand/ck/library/780_white/petme__tk_white__11a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 840,
+   "y": 1095,
+   "w": 199,
+   "h": 98,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/petme__tk_white__11a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "petmeharder__set__00a": {
+  "file": "/home/user/brand/ck/library/669_white/petmeharder__set__00a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 819,
+   "y": 1813,
+   "w": 156,
+   "h": 80,
+   "ang": -0.4266417938141198
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/petmeharder__set__00a.jpg",
+  "fabric_rgb": [
+   220.0,
+   220.0,
+   221.0
+  ],
+  "ok": true
+ },
+ "petmeharder__set__00b": {
+  "file": "/home/user/brand/ck/library/669_white/petmeharder__set__00b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 834,
+   "y": 1830,
+   "w": 144,
+   "h": 76,
+   "ang": -2.787701078506625
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/petmeharder__set__00b.jpg",
+  "fabric_rgb": [
+   204.0,
+   205.0,
+   200.0
+  ],
+  "ok": true
+ },
+ "petmeharder__set__01b": {
+  "file": "/home/user/brand/ck/library/669_white/petmeharder__set__01b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 833,
+   "y": 1667,
+   "w": 152,
+   "h": 83,
+   "ang": -2.8098509767063726
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/petmeharder__set__01b.jpg",
+  "fabric_rgb": [
+   203.0,
+   205.0,
+   204.0
+  ],
+  "ok": true
+ },
+ "pussy__bt_pink__00a": {
+  "file": "/home/user/brand/ck/library/967_pink/pussy__bt_pink__00a.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 782,
+   "y": 966,
+   "w": 208,
+   "h": 142,
+   "ang": 4.781668750524079
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/pussy__bt_pink__00a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "pussy__bt_pink__00b": {
+  "file": "/home/user/brand/ck/library/967_pink/pussy__bt_pink__00b.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 799,
+   "y": 1124,
+   "w": 221,
+   "h": 148,
+   "ang": 0.194597696455992
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/pussy__bt_pink__00b.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "pussy__bt_pink__01a": {
+  "file": "/home/user/brand/ck/library/967_pink/pussy__bt_pink__01a.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 824,
+   "y": 1230,
+   "w": 269,
+   "h": 179,
+   "ang": 1.7258510221569943
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/pussy__bt_pink__01a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "pussy__set__20a": {
+  "file": "/home/user/brand/ck/library/669_white/pussy__set__20a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 762,
+   "y": 1878,
+   "w": 215,
+   "h": 148,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/pussy__set__20a.jpg",
+  "fabric_rgb": [
+   210.0,
+   208.0,
+   204.0
+  ],
+  "ok": true
+ },
+ "pussy__set__20b": {
+  "file": "/home/user/brand/ck/library/669_white/pussy__set__20b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 777,
+   "y": 1724,
+   "w": 178,
+   "h": 122,
+   "ang": -1.0010511316309114
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/pussy__set__20b.jpg",
+  "fabric_rgb": [
+   209.0,
+   217.0,
+   217.0
+  ],
+  "ok": true
+ },
+ "pussy__set__21b": {
+  "file": "/home/user/brand/ck/library/669_red/pussy__set__21b.jpg",
+  "pid": 669,
+  "color": "red",
+  "box": {
+   "x": 414,
+   "y": 2280,
+   "w": 23,
+   "h": 23,
+   "ang": -8.0
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/pussy__set__21b.jpg",
+  "fabric_rgb": [
+   126.0,
+   81.0,
+   50.0
+  ],
+  "ok": false
+ },
+ "pussy__tk_white__10a": {
+  "file": "/home/user/brand/ck/library/780_white/pussy__tk_white__10a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 785,
+   "y": 1284,
+   "w": 229,
+   "h": 152,
+   "ang": -1.831190842514231
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/pussy__tk_white__10a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "pussy__tk_white__10b": {
+  "file": "/home/user/brand/ck/library/780_white/pussy__tk_white__10b.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 815,
+   "y": 1177,
+   "w": 183,
+   "h": 111,
+   "ang": 0.22083639598231392
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/pussy__tk_white__10b.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "pussy__tk_white__11a": {
+  "file": "/home/user/brand/ck/library/780_white/pussy__tk_white__11a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 816,
+   "y": 1202,
+   "w": 200,
+   "h": 125,
+   "ang": 3.4083428828378577
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/pussy__tk_white__11a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "ridehigh__set__00a": {
+  "file": "/home/user/brand/ck/library/669_white/ridehigh__set__00a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 850,
+   "y": 1730,
+   "w": 147,
+   "h": 107,
+   "ang": 4.893247918809067
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/ridehigh__set__00a.jpg",
+  "fabric_rgb": [
+   205.0,
+   205.0,
+   207.0
+  ],
+  "ok": true
+ },
+ "ridehigh__set__00b": {
+  "file": "/home/user/brand/ck/library/669_white/ridehigh__set__00b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 845,
+   "y": 1826,
+   "w": 166,
+   "h": 113,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/ridehigh__set__00b.jpg",
+  "fabric_rgb": [
+   220.0,
+   219.0,
+   223.0
+  ],
+  "ok": true
+ },
+ "ridehigh__set__01b": {
+  "file": "/home/user/brand/ck/library/669_white/ridehigh__set__01b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 856,
+   "y": 1714,
+   "w": 155,
+   "h": 112,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/ridehigh__set__01b.jpg",
+  "fabric_rgb": [
+   209.0,
+   205.0,
+   203.0
+  ],
+  "ok": true
+ },
+ "rollit__set__00a": {
+  "file": "/home/user/brand/ck/library/669_white/rollit__set__00a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 833,
+   "y": 1783,
+   "w": 172,
+   "h": 163,
+   "ang": -8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/rollit__set__00a.jpg",
+  "fabric_rgb": [
+   210.0,
+   208.0,
+   205.0
+  ],
+  "ok": true
+ },
+ "rollit__set__00b": {
+  "file": "/home/user/brand/ck/library/669_white/rollit__set__00b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 852,
+   "y": 1940,
+   "w": 189,
+   "h": 171,
+   "ang": -8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/rollit__set__00b.jpg",
+  "fabric_rgb": [
+   212.0,
+   207.0,
+   204.0
+  ],
+  "ok": true
+ },
+ "rollit__set__01b": {
+  "file": "/home/user/brand/ck/library/669_white/rollit__set__01b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 780,
+   "y": 1753,
+   "w": 149,
+   "h": 135,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/rollit__set__01b.jpg",
+  "fabric_rgb": [
+   218.0,
+   217.0,
+   218.0
+  ],
+  "ok": true
+ },
+ "rumors__bt_pink__00a": {
+  "file": "/home/user/brand/ck/library/967_pink/rumors__bt_pink__00a.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 785,
+   "y": 1242,
+   "w": 326,
+   "h": 198,
+   "ang": 6.736988157266005
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/rumors__bt_pink__00a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "rumors__bt_pink__00b": {
+  "file": "/home/user/brand/ck/library/967_pink/rumors__bt_pink__00b.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 786,
+   "y": 1024,
+   "w": 279,
+   "h": 155,
+   "ang": 5.439822214062811
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/rumors__bt_pink__00b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "rumors__bt_pink__01a": {
+  "file": "/home/user/brand/ck/library/967_pink/rumors__bt_pink__01a.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 740,
+   "y": 994,
+   "w": 367,
+   "h": 231,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/rumors__bt_pink__01a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "rumors__set__20a": {
+  "file": "/home/user/brand/ck/library/669_white/rumors__set__20a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 754,
+   "y": 1687,
+   "w": 295,
+   "h": 169,
+   "ang": 4.384492270935416
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/rumors__set__20a.jpg",
+  "fabric_rgb": [
+   213.0,
+   212.0,
+   207.0
+  ],
+  "ok": true
+ },
+ "rumors__set__20b": {
+  "file": "/home/user/brand/ck/library/669_white/rumors__set__20b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 759,
+   "y": 1731,
+   "w": 235,
+   "h": 155,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/rumors__set__20b.jpg",
+  "fabric_rgb": [
+   212.0,
+   210.0,
+   210.0
+  ],
+  "ok": true
+ },
+ "rumors__set__21b": {
+  "file": "/home/user/brand/ck/library/669_white/rumors__set__21b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 799,
+   "y": 1678,
+   "w": 240,
+   "h": 136,
+   "ang": 1.0789987730465267
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/rumors__set__21b.jpg",
+  "fabric_rgb": [
+   215.0,
+   215.0,
+   210.0
+  ],
+  "ok": true
+ },
+ "rumors__tk_white__10a": {
+  "file": "/home/user/brand/ck/library/780_white/rumors__tk_white__10a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 766,
+   "y": 1382,
+   "w": 317,
+   "h": 173,
+   "ang": 5.721420487938496
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/rumors__tk_white__10a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "rumors__tk_white__10b": {
+  "file": "/home/user/brand/ck/library/780_white/rumors__tk_white__10b.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 694,
+   "y": 1300,
+   "w": 343,
+   "h": 199,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/rumors__tk_white__10b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "rumors__tk_white__11a": {
+  "file": "/home/user/brand/ck/library/780_white/rumors__tk_white__11a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 762,
+   "y": 1269,
+   "w": 316,
+   "h": 184,
+   "ang": 7.855270056574031
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/rumors__tk_white__11a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "situationship__bt_black__00a": {
+  "file": "/home/user/brand/ck/library/967_black/situationship__bt_black__00a.jpg",
+  "pid": 967,
+  "color": "black",
+  "box": {
+   "x": 683,
+   "y": 1164,
+   "w": 479,
+   "h": 213,
+   "ang": 4.449728685547845
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/situationship__bt_black__00a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "situationship__bt_black__00b": {
+  "file": "/home/user/brand/ck/library/967_black/situationship__bt_black__00b.jpg",
+  "pid": 967,
+  "color": "black",
+  "box": {
+   "x": 90,
+   "y": 1456,
+   "w": 1300,
+   "h": 847,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/situationship__bt_black__00b.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "situationship__bt_black__01a": {
+  "file": "/home/user/brand/ck/library/967_black/situationship__bt_black__01a.jpg",
+  "pid": 967,
+  "color": "black",
+  "box": {
+   "x": 730,
+   "y": 1020,
+   "w": 419,
+   "h": 181,
+   "ang": 0.266709491535683
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/situationship__bt_black__01a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "situationship__ct_vintagewhite__10a": {
+  "file": "/home/user/brand/ck/library/1579_vintagewhite/situationship__ct_vintagewhite__10a.jpg",
+  "pid": 1579,
+  "color": "vintagewhite",
+  "box": {
+   "x": 786,
+   "y": 1050,
+   "w": 415,
+   "h": 188,
+   "ang": -1.841608872193327
+  },
+  "extra": 3,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/situationship__ct_vintagewhite__10a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "situationship__ct_vintagewhite__10b": {
+  "file": "/home/user/brand/ck/library/1579_vintagewhite/situationship__ct_vintagewhite__10b.jpg",
+  "pid": 1579,
+  "color": "vintagewhite",
+  "box": {
+   "x": 722,
+   "y": 1066,
+   "w": 367,
+   "h": 164,
+   "ang": -1.3980275788241532
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/situationship__ct_vintagewhite__10b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "situationship__ct_vintagewhite__11a": {
+  "file": "/home/user/brand/ck/library/1579_vintagewhite/situationship__ct_vintagewhite__11a.jpg",
+  "pid": 1579,
+  "color": "vintagewhite",
+  "box": {
+   "x": 740,
+   "y": 905,
+   "w": 351,
+   "h": 164,
+   "ang": 0.33584347385317953
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/situationship__ct_vintagewhite__11a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "spanking__set__00a": {
+  "file": "/home/user/brand/ck/library/669_black/spanking__set__00a.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 795,
+   "y": 1783,
+   "w": 220,
+   "h": 129,
+   "ang": -2.0267536631841043
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/spanking__set__00a.jpg",
+  "fabric_rgb": [
+   11.0,
+   21.0,
+   20.0
+  ],
+  "ok": true
+ },
+ "spanking__set__00b": {
+  "file": "/home/user/brand/ck/library/669_black/spanking__set__00b.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 796,
+   "y": 1835,
+   "w": 215,
+   "h": 128,
+   "ang": 0.3341726728732165
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/spanking__set__00b.jpg",
+  "fabric_rgb": [
+   18.0,
+   26.0,
+   24.0
+  ],
+  "ok": true
+ },
+ "spanking__set__01b": {
+  "file": "/home/user/brand/ck/library/669_black/spanking__set__01b.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 828,
+   "y": 1864,
+   "w": 212,
+   "h": 129,
+   "ang": 2.066058011475004
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/spanking__set__01b.jpg",
+  "fabric_rgb": [
+   13.0,
+   21.0,
+   22.0
+  ],
+  "ok": true
+ },
+ "textme__bt_red__00a": {
+  "file": "/home/user/brand/ck/library/967_red/textme__bt_red__00a.jpg",
+  "pid": 967,
+  "color": "red",
+  "box": {
+   "x": 710,
+   "y": 1146,
+   "w": 520,
+   "h": 231,
+   "ang": 7.396412546492192
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/textme__bt_red__00a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "textme__bt_red__00b": {
+  "file": "/home/user/brand/ck/library/967_red/textme__bt_red__00b.jpg",
+  "pid": 967,
+  "color": "red",
+  "box": {
+   "x": 750,
+   "y": 1185,
+   "w": 505,
+   "h": 209,
+   "ang": 4.565794380363634
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/textme__bt_red__00b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "textme__bt_red__01a": {
+  "file": "/home/user/brand/ck/library/967_red/textme__bt_red__01a.jpg",
+  "pid": 967,
+  "color": "red",
+  "box": {
+   "x": 785,
+   "y": 1079,
+   "w": 358,
+   "h": 150,
+   "ang": 2.7586002769274356
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/textme__bt_red__01a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "textme__tk_white__10a": {
+  "file": "/home/user/brand/ck/library/780_white/textme__tk_white__10a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 754,
+   "y": 1020,
+   "w": 294,
+   "h": 103,
+   "ang": 1.40335340387618
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/textme__tk_white__10a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "textme__tk_white__10b": {
+  "file": "/home/user/brand/ck/library/780_white/textme__tk_white__10b.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 782,
+   "y": 1154,
+   "w": 325,
+   "h": 107,
+   "ang": 1.555685399030507
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/textme__tk_white__10b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "textme__tk_white__11a": {
+  "file": "/home/user/brand/ck/library/780_white/textme__tk_white__11a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 720,
+   "y": 1191,
+   "w": 360,
+   "h": 124,
+   "ang": 1.6413305481634695
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/textme__tk_white__11a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "toohot__bt_red__00a": {
+  "file": "/home/user/brand/ck/library/967_red/toohot__bt_red__00a.jpg",
+  "pid": 967,
+  "color": "red",
+  "box": {
+   "x": 274,
+   "y": 778,
+   "w": 1233,
+   "h": 656,
+   "ang": 2.9810126704695334
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/toohot__bt_red__00a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "toohot__bt_red__00b": {
+  "file": "/home/user/brand/ck/library/967_red/toohot__bt_red__00b.jpg",
+  "pid": 967,
+  "color": "red",
+  "box": {
+   "x": 588,
+   "y": 1618,
+   "w": 500,
+   "h": 227,
+   "ang": 5.589499234801918
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/toohot__bt_red__00b.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "toohot__bt_red__01a": {
+  "file": "/home/user/brand/ck/library/967_red/toohot__bt_red__01a.jpg",
+  "pid": 967,
+  "color": "red",
+  "box": {
+   "x": 791,
+   "y": 947,
+   "w": 243,
+   "h": 109,
+   "ang": 5.654194758153517
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/toohot__bt_red__01a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "toohot__tk_white__10a": {
+  "file": "/home/user/brand/ck/library/780_white/toohot__tk_white__10a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 524,
+   "y": 1994,
+   "w": 193,
+   "h": 116,
+   "ang": 2.587961977885554
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/toohot__tk_white__10a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "toohot__tk_white__10b": {
+  "file": "/home/user/brand/ck/library/780_white/toohot__tk_white__10b.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 831,
+   "y": 1168,
+   "w": 234,
+   "h": 107,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/toohot__tk_white__10b.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "toohot__tk_white__11a": {
+  "file": "/home/user/brand/ck/library/780_white/toohot__tk_white__11a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 800,
+   "y": 1230,
+   "w": 263,
+   "h": 110,
+   "ang": 5.488161657451397
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/toohot__tk_white__11a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "university__bt_pink__00a": {
+  "file": "/home/user/brand/ck/library/967_pink/university__bt_pink__00a.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 758,
+   "y": 1160,
+   "w": 428,
+   "h": 352,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/university__bt_pink__00a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "university__bt_pink__00b": {
+  "file": "/home/user/brand/ck/library/967_pink/university__bt_pink__00b.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 741,
+   "y": 920,
+   "w": 274,
+   "h": 290,
+   "ang": -8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/university__bt_pink__00b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "university__bt_pink__01a": {
+  "file": "/home/user/brand/ck/library/967_pink/university__bt_pink__01a.jpg",
+  "pid": 967,
+  "color": "pink",
+  "box": {
+   "x": 722,
+   "y": 1109,
+   "w": 380,
+   "h": 328,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/university__bt_pink__01a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "university__tk_white__10a": {
+  "file": "/home/user/brand/ck/library/780_white/university__tk_white__10a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 823,
+   "y": 1206,
+   "w": 292,
+   "h": 230,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/university__tk_white__10a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "university__tk_white__10b": {
+  "file": "/home/user/brand/ck/library/780_white/university__tk_white__10b.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 723,
+   "y": 1015,
+   "w": 299,
+   "h": 236,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/university__tk_white__10b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "university__tk_white__11a": {
+  "file": "/home/user/brand/ck/library/780_white/university__tk_white__11a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 775,
+   "y": 1050,
+   "w": 271,
+   "h": 215,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/university__tk_white__11a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "veryhot__bt_red__00a": {
+  "file": "/home/user/brand/ck/library/967_red/veryhot__bt_red__00a.jpg",
+  "pid": 967,
+  "color": "red",
+  "box": {
+   "x": 725,
+   "y": 937,
+   "w": 312,
+   "h": 209,
+   "ang": 5.679370233631579
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/veryhot__bt_red__00a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "veryhot__bt_red__00b": {
+  "file": "/home/user/brand/ck/library/967_red/veryhot__bt_red__00b.jpg",
+  "pid": 967,
+  "color": "red",
+  "box": {
+   "x": 741,
+   "y": 1196,
+   "w": 375,
+   "h": 226,
+   "ang": 2.0436344431708116
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/veryhot__bt_red__00b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "veryhot__bt_red__01a": {
+  "file": "/home/user/brand/ck/library/967_red/veryhot__bt_red__01a.jpg",
+  "pid": 967,
+  "color": "red",
+  "box": {
+   "x": 235,
+   "y": 848,
+   "w": 1312,
+   "h": 1292,
+   "ang": -8.0
+  },
+  "extra": 3,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/veryhot__bt_red__01a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "veryhot__set__20a": {
+  "file": "/home/user/brand/ck/library/669_white/veryhot__set__20a.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 828,
+   "y": 1678,
+   "w": 206,
+   "h": 141,
+   "ang": 1.9530965544578445
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/veryhot__set__20a.jpg",
+  "fabric_rgb": [
+   214.0,
+   215.0,
+   210.0
+  ],
+  "ok": true
+ },
+ "veryhot__set__20b": {
+  "file": "/home/user/brand/ck/library/669_white/veryhot__set__20b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 808,
+   "y": 1667,
+   "w": 208,
+   "h": 150,
+   "ang": -6.9222446025889965
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/veryhot__set__20b.jpg",
+  "fabric_rgb": [
+   218.0,
+   217.0,
+   219.0
+  ],
+  "ok": true
+ },
+ "veryhot__set__21b": {
+  "file": "/home/user/brand/ck/library/669_white/veryhot__set__21b.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 821,
+   "y": 1790,
+   "w": 217,
+   "h": 150,
+   "ang": -4.313283501085286
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/veryhot__set__21b.jpg",
+  "fabric_rgb": [
+   220.0,
+   220.0,
+   220.0
+  ],
+  "ok": true
+ },
+ "veryhot__tk_white__10a": {
+  "file": "/home/user/brand/ck/library/780_white/veryhot__tk_white__10a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 793,
+   "y": 1120,
+   "w": 191,
+   "h": 120,
+   "ang": -0.5008424149853993
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/veryhot__tk_white__10a.jpg",
+  "fabric_rgb": null,
+  "ok": false
+ },
+ "veryhot__tk_white__10b": {
+  "file": "/home/user/brand/ck/library/780_white/veryhot__tk_white__10b.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 827,
+   "y": 1234,
+   "w": 324,
+   "h": 206,
+   "ang": 4.414100324605168
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/veryhot__tk_white__10b.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "veryhot__tk_white__11a": {
+  "file": "/home/user/brand/ck/library/780_white/veryhot__tk_white__11a.jpg",
+  "pid": 780,
+  "color": "white",
+  "box": {
+   "x": 773,
+   "y": 1332,
+   "w": 289,
+   "h": 171,
+   "ang": 1.4835106463083398
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/veryhot__tk_white__11a.jpg",
+  "fabric_rgb": null,
+  "ok": true
+ },
+ "wetbong__set__00a": {
+  "file": "/home/user/brand/ck/library/669_black/wetbong__set__00a.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 842,
+   "y": 1870,
+   "w": 159,
+   "h": 93,
+   "ang": 1.3337600397489509
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/wetbong__set__00a.jpg",
+  "fabric_rgb": [
+   18.0,
+   29.0,
+   25.0
+  ],
+  "ok": true
+ },
+ "wetbong__set__00b": {
+  "file": "/home/user/brand/ck/library/669_black/wetbong__set__00b.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 796,
+   "y": 1913,
+   "w": 207,
+   "h": 120,
+   "ang": 3.1630395686829957
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/wetbong__set__00b.jpg",
+  "fabric_rgb": [
+   13.0,
+   27.0,
+   28.0
+  ],
+  "ok": true
+ },
+ "wetbong__set__01b": {
+  "file": "/home/user/brand/ck/library/669_black/wetbong__set__01b.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 821,
+   "y": 1669,
+   "w": 161,
+   "h": 93,
+   "ang": 1.8899822400892266
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/b6all/raw/wetbong__set__01b.jpg",
+  "fabric_rgb": [
+   20.0,
+   30.0,
+   22.0
+  ],
+  "ok": true
+ },
+ "born__set__1": {
+  "file": "/home/user/brand/ck/library/669_white/born__set__1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 565,
+   "y": 0,
+   "w": 157,
+   "h": 42,
+   "ang": -8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/born__set__1.jpg",
+  "fabric_rgb": [
+   216.0,
+   215.0,
+   221.0
+  ],
+  "ok": true
+ },
+ "comegetkitty__set__0": {
+  "file": "/home/user/brand/ck/library/669_white/comegetkitty__set__0.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 728,
+   "y": 1399,
+   "w": 360,
+   "h": 197,
+   "ang": -3.650143312644144
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/comegetkitty__set__0.jpg",
+  "fabric_rgb": [
+   207.0,
+   207.0,
+   220.0
+  ],
+  "ok": true
+ },
+ "comegetkitty__set__1": {
+  "file": "/home/user/brand/ck/library/669_white/comegetkitty__set__1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 758,
+   "y": 1408,
+   "w": 345,
+   "h": 197,
+   "ang": -8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/comegetkitty__set__1.jpg",
+  "fabric_rgb": [
+   215.0,
+   214.0,
+   220.0
+  ],
+  "ok": true
+ },
+ "comegetkitty__set__2": {
+  "file": "/home/user/brand/ck/library/669_black/comegetkitty__set__2.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 716,
+   "y": 1139,
+   "w": 379,
+   "h": 200,
+   "ang": -1.5404014286270227
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/comegetkitty__set__2.jpg",
+  "fabric_rgb": [
+   20.0,
+   18.0,
+   19.0
+  ],
+  "ok": true
+ },
+ "exgf__set__0": {
+  "file": "/home/user/brand/ck/library/669_hotpink/exgf__set__0.jpg",
+  "pid": 669,
+  "color": "hotpink",
+  "box": {
+   "x": 456,
+   "y": 1235,
+   "w": 983,
+   "h": 530,
+   "ang": -8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/exgf__set__0.jpg",
+  "fabric_rgb": [
+   204.0,
+   174.0,
+   150.0
+  ],
+  "ok": false
+ },
+ "exgf__set__1": {
+  "file": "/home/user/brand/ck/library/669_hotpink/exgf__set__1.jpg",
+  "pid": 669,
+  "color": "hotpink",
+  "box": {
+   "x": 332,
+   "y": 1074,
+   "w": 1069,
+   "h": 765,
+   "ang": 3.931199860503723
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/exgf__set__1.jpg",
+  "fabric_rgb": [
+   202.0,
+   150.0,
+   116.0
+  ],
+  "ok": false
+ },
+ "exgf__set__2": {
+  "file": "/home/user/brand/ck/library/669_hotpink/exgf__set__2.jpg",
+  "pid": 669,
+  "color": "hotpink",
+  "box": {
+   "x": 395,
+   "y": 985,
+   "w": 990,
+   "h": 728,
+   "ang": 1.3196937231706474
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/exgf__set__2.jpg",
+  "fabric_rgb": [
+   205.0,
+   160.0,
+   136.0
+  ],
+  "ok": false
+ },
+ "fourtwenty__vcut__0": {
+  "file": "/home/user/brand/ck/library/872_hotpink/fourtwenty__vcut__0.jpg",
+  "pid": 872,
+  "color": "hotpink",
+  "box": {
+   "x": 851,
+   "y": 1581,
+   "w": 131,
+   "h": 94,
+   "ang": -8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/fourtwenty__vcut__0.jpg",
+  "fabric_rgb": [
+   225.0,
+   87.0,
+   149.0
+  ],
+  "ok": true
+ },
+ "fourtwenty__vcut__1": {
+  "file": "/home/user/brand/ck/library/872_hotpink/fourtwenty__vcut__1.jpg",
+  "pid": 872,
+  "color": "hotpink",
+  "box": {
+   "x": 735,
+   "y": 1555,
+   "w": 143,
+   "h": 108,
+   "ang": -8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/fourtwenty__vcut__1.jpg",
+  "fabric_rgb": [
+   229.0,
+   91.0,
+   153.0
+  ],
+  "ok": true
+ },
+ "fourtwenty__vcut__2": {
+  "file": "/home/user/brand/ck/library/872_hotpink/fourtwenty__vcut__2.jpg",
+  "pid": 872,
+  "color": "hotpink",
+  "box": {
+   "x": 811,
+   "y": 1454,
+   "w": 154,
+   "h": 109,
+   "ang": -8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/fourtwenty__vcut__2.jpg",
+  "fabric_rgb": [
+   231.0,
+   76.0,
+   150.0
+  ],
+  "ok": true
+ },
+ "goodgirl__set__1": {
+  "file": "/home/user/brand/ck/library/669_white/goodgirl__set__1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 774,
+   "y": 1418,
+   "w": 280,
+   "h": 131,
+   "ang": 0.598413071562276
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/goodgirl__set__1.jpg",
+  "fabric_rgb": [
+   218.0,
+   217.0,
+   222.0
+  ],
+  "ok": true
+ },
+ "goodgirl__set__2": {
+  "file": "/home/user/brand/ck/library/669_white/goodgirl__set__2.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 750,
+   "y": 1390,
+   "w": 301,
+   "h": 145,
+   "ang": 1.6292932074648359
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/goodgirl__set__2.jpg",
+  "fabric_rgb": [
+   219.0,
+   218.0,
+   225.0
+  ],
+  "ok": true
+ },
+ "goodgirls__set__1": {
+  "file": "/home/user/brand/ck/library/669_white/goodgirls__set__1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 723,
+   "y": 1340,
+   "w": 247,
+   "h": 88,
+   "ang": 1.729063695997295
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/goodgirls__set__1.jpg",
+  "fabric_rgb": [
+   209.0,
+   206.0,
+   211.0
+  ],
+  "ok": true
+ },
+ "goodgirls__set__2": {
+  "file": "/home/user/brand/ck/library/669_white/goodgirls__set__2.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 771,
+   "y": 1305,
+   "w": 279,
+   "h": 104,
+   "ang": -2.0242039523999846
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/goodgirls__set__2.jpg",
+  "fabric_rgb": [
+   208.0,
+   207.0,
+   214.0
+  ],
+  "ok": true
+ },
+ "highmaint__vcut__0": {
+  "file": "/home/user/brand/ck/library/872_white/highmaint__vcut__0.jpg",
+  "pid": 872,
+  "color": "white",
+  "box": {
+   "x": 872,
+   "y": 1525,
+   "w": 218,
+   "h": 105,
+   "ang": -6.432818047345374
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/highmaint__vcut__0.jpg",
+  "fabric_rgb": [
+   214.0,
+   212.0,
+   217.0
+  ],
+  "ok": true
+ },
+ "highmaint__vcut__1": {
+  "file": "/home/user/brand/ck/library/872_white/highmaint__vcut__1.jpg",
+  "pid": 872,
+  "color": "white",
+  "box": {
+   "x": 767,
+   "y": 1472,
+   "w": 266,
+   "h": 119,
+   "ang": 0.22275415944999608
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/highmaint__vcut__1.jpg",
+  "fabric_rgb": [
+   220.0,
+   221.0,
+   228.0
+  ],
+  "ok": true
+ },
+ "highmaint__vcut__2": {
+  "file": "/home/user/brand/ck/library/872_white/highmaint__vcut__2.jpg",
+  "pid": 872,
+  "color": "white",
+  "box": {
+   "x": 820,
+   "y": 1418,
+   "w": 226,
+   "h": 97,
+   "ang": -1.0876248289599522
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/highmaint__vcut__2.jpg",
+  "fabric_rgb": [
+   212.0,
+   212.0,
+   220.0
+  ],
+  "ok": true
+ },
+ "hitit__vcut__0": {
+  "file": "/home/user/brand/ck/library/872_hotpink/hitit__vcut__0.jpg",
+  "pid": 872,
+  "color": "hotpink",
+  "box": {
+   "x": 837,
+   "y": 1432,
+   "w": 140,
+   "h": 158,
+   "ang": -8.0
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/hitit__vcut__0.jpg",
+  "fabric_rgb": [
+   188.0,
+   116.0,
+   100.0
+  ],
+  "ok": false
+ },
+ "hitit__vcut__1": {
+  "file": "/home/user/brand/ck/library/872_black/hitit__vcut__1.jpg",
+  "pid": 872,
+  "color": "black",
+  "box": {
+   "x": 905,
+   "y": 1797,
+   "w": 26,
+   "h": 48,
+   "ang": -8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/hitit__vcut__1.jpg",
+  "fabric_rgb": [
+   83.0,
+   34.0,
+   23.0
+  ],
+  "ok": false
+ },
+ "hitit__vcut__2": {
+  "file": "/home/user/brand/ck/library/872_red/hitit__vcut__2.jpg",
+  "pid": 872,
+  "color": "red",
+  "box": {
+   "x": 832,
+   "y": 1421,
+   "w": 129,
+   "h": 148,
+   "ang": -8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/hitit__vcut__2.jpg",
+  "fabric_rgb": [
+   174.0,
+   26.0,
+   38.0
+  ],
+  "ok": true
+ },
+ "hotbaked__set__0": {
+  "file": "/home/user/brand/ck/library/669_black/hotbaked__set__0.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 957,
+   "y": 1716,
+   "w": 32,
+   "h": 35,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/hotbaked__set__0.jpg",
+  "fabric_rgb": [
+   108.0,
+   57.0,
+   37.0
+  ],
+  "ok": false
+ },
+ "hotbaked__set__1": {
+  "file": "/home/user/brand/ck/library/669_hotpink/hotbaked__set__1.jpg",
+  "pid": 669,
+  "color": "hotpink",
+  "box": {
+   "x": 456,
+   "y": 1229,
+   "w": 999,
+   "h": 510,
+   "ang": -1.3722285939052181
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/hotbaked__set__1.jpg",
+  "fabric_rgb": [
+   183.0,
+   130.0,
+   96.0
+  ],
+  "ok": false
+ },
+ "hotbaked__set__2": {
+  "file": "/home/user/brand/ck/library/669_black/hotbaked__set__2.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 794,
+   "y": 1425,
+   "w": 218,
+   "h": 160,
+   "ang": -2.0351734937467985
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/hotbaked__set__2.jpg",
+  "fabric_rgb": [
+   22.0,
+   22.0,
+   22.0
+  ],
+  "ok": true
+ },
+ "kittyhungry__set__0": {
+  "file": "/home/user/brand/ck/library/669_white/kittyhungry__set__0.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 805,
+   "y": 1416,
+   "w": 204,
+   "h": 129,
+   "ang": 3.616656692238331
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/kittyhungry__set__0.jpg",
+  "fabric_rgb": [
+   215.0,
+   214.0,
+   221.0
+  ],
+  "ok": true
+ },
+ "kittyhungry__set__1": {
+  "file": "/home/user/brand/ck/library/669_black/kittyhungry__set__1.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 755,
+   "y": 1426,
+   "w": 209,
+   "h": 120,
+   "ang": -2.138208855522379
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/kittyhungry__set__1.jpg",
+  "fabric_rgb": [
+   26.0,
+   21.0,
+   23.0
+  ],
+  "ok": true
+ },
+ "kittyhungry__set__2": {
+  "file": "/home/user/brand/ck/library/669_white/kittyhungry__set__2.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 764,
+   "y": 1474,
+   "w": 226,
+   "h": 136,
+   "ang": 0.7427446328942753
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/kittyhungry__set__2.jpg",
+  "fabric_rgb": [
+   214.0,
+   213.0,
+   219.0
+  ],
+  "ok": true
+ },
+ "kushcush__vcut__0": {
+  "file": "/home/user/brand/ck/library/872_hotpink/kushcush__vcut__0.jpg",
+  "pid": 872,
+  "color": "hotpink",
+  "box": {
+   "x": 806,
+   "y": 1472,
+   "w": 155,
+   "h": 86,
+   "ang": -1.2860311217403357
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/kushcush__vcut__0.jpg",
+  "fabric_rgb": [
+   227.0,
+   70.0,
+   144.0
+  ],
+  "ok": true
+ },
+ "kushcush__vcut__1": {
+  "file": "/home/user/brand/ck/library/872_black/kushcush__vcut__1.jpg",
+  "pid": 872,
+  "color": "black",
+  "box": {
+   "x": 629,
+   "y": 2273,
+   "w": 43,
+   "h": 30,
+   "ang": -6.984522363705893
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/kushcush__vcut__1.jpg",
+  "fabric_rgb": [
+   91.0,
+   53.0,
+   40.0
+  ],
+  "ok": false
+ },
+ "kushcush__vcut__2": {
+  "file": "/home/user/brand/ck/library/872_hotpink/kushcush__vcut__2.jpg",
+  "pid": 872,
+  "color": "hotpink",
+  "box": {
+   "x": 869,
+   "y": 1428,
+   "w": 142,
+   "h": 75,
+   "ang": -0.6220468369954085
+  },
+  "extra": 3,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/kushcush__vcut__2.jpg",
+  "fabric_rgb": [
+   233.0,
+   95.0,
+   160.0
+  ],
+  "ok": true
+ },
+ "lickme__set__0": {
+  "file": "/home/user/brand/ck/library/669_black/lickme__set__0.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 796,
+   "y": 1417,
+   "w": 219,
+   "h": 100,
+   "ang": 6.9508670626770455
+  },
+  "extra": 3,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/lickme__set__0.jpg",
+  "fabric_rgb": [
+   22.0,
+   20.0,
+   23.0
+  ],
+  "ok": true
+ },
+ "lickme__set__1": {
+  "file": "/home/user/brand/ck/library/669_white/lickme__set__1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 786,
+   "y": 1430,
+   "w": 209,
+   "h": 81,
+   "ang": 1.74411365890565
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/lickme__set__1.jpg",
+  "fabric_rgb": [
+   206.0,
+   206.0,
+   214.0
+  ],
+  "ok": true
+ },
+ "lickme__set__2": {
+  "file": "/home/user/brand/ck/library/669_white/lickme__set__2.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 827,
+   "y": 1545,
+   "w": 239,
+   "h": 96,
+   "ang": -0.4433694784080249
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/lickme__set__2.jpg",
+  "fabric_rgb": [
+   213.0,
+   212.0,
+   222.0
+  ],
+  "ok": true
+ },
+ "lighter__set__0": {
+  "file": "/home/user/brand/ck/library/669_black/lighter__set__0.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 746,
+   "y": 1402,
+   "w": 287,
+   "h": 200,
+   "ang": -7.760958132885983
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/lighter__set__0.jpg",
+  "fabric_rgb": [
+   19.0,
+   19.0,
+   20.0
+  ],
+  "ok": true
+ },
+ "lighter__set__2": {
+  "file": "/home/user/brand/ck/library/669_black/lighter__set__2.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 772,
+   "y": 1246,
+   "w": 287,
+   "h": 198,
+   "ang": -4.749578041654661
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/lighter__set__2.jpg",
+  "fabric_rgb": [
+   21.0,
+   20.0,
+   21.0
+  ],
+  "ok": true
+ },
+ "lighternot__vcut__0": {
+  "file": "/home/user/brand/ck/library/872_black/lighternot__vcut__0.jpg",
+  "pid": 872,
+  "color": "black",
+  "box": {
+   "x": 772,
+   "y": 1470,
+   "w": 216,
+   "h": 109,
+   "ang": -1.6626246441089683
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/lighternot__vcut__0.jpg",
+  "fabric_rgb": [
+   25.0,
+   22.0,
+   23.0
+  ],
+  "ok": true
+ },
+ "lighternot__vcut__1": {
+  "file": "/home/user/brand/ck/library/872_black/lighternot__vcut__1.jpg",
+  "pid": 872,
+  "color": "black",
+  "box": {
+   "x": 824,
+   "y": 1380,
+   "w": 246,
+   "h": 128,
+   "ang": -2.4331752613804176
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/lighternot__vcut__1.jpg",
+  "fabric_rgb": [
+   27.0,
+   24.0,
+   25.0
+  ],
+  "ok": true
+ },
+ "lighternot__vcut__2": {
+  "file": "/home/user/brand/ck/library/872_black/lighternot__vcut__2.jpg",
+  "pid": 872,
+  "color": "black",
+  "box": {
+   "x": 777,
+   "y": 1513,
+   "w": 205,
+   "h": 100,
+   "ang": -1.9933884071077645
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/lighternot__vcut__2.jpg",
+  "fabric_rgb": [
+   17.0,
+   16.0,
+   17.0
+  ],
+  "ok": true
+ },
+ "mommy__set__0": {
+  "file": "/home/user/brand/ck/library/669_white/mommy__set__0.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 749,
+   "y": 1561,
+   "w": 258,
+   "h": 167,
+   "ang": 2.833822653449349
+  },
+  "extra": 3,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/mommy__set__0.jpg",
+  "fabric_rgb": [
+   214.0,
+   213.0,
+   221.0
+  ],
+  "ok": true
+ },
+ "mommy__set__1": {
+  "file": "/home/user/brand/ck/library/669_white/mommy__set__1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 773,
+   "y": 1373,
+   "w": 238,
+   "h": 158,
+   "ang": 2.2058004289946256
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/mommy__set__1.jpg",
+  "fabric_rgb": [
+   220.0,
+   220.0,
+   230.0
+  ],
+  "ok": true
+ },
+ "munchies__set__0": {
+  "file": "/home/user/brand/ck/library/669_black/munchies__set__0.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 756,
+   "y": 1357,
+   "w": 259,
+   "h": 100,
+   "ang": 1.879179834769117
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/munchies__set__0.jpg",
+  "fabric_rgb": [
+   17.0,
+   16.0,
+   18.0
+  ],
+  "ok": true
+ },
+ "munchies__set__1": {
+  "file": "/home/user/brand/ck/library/669_white/munchies__set__1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 722,
+   "y": 1466,
+   "w": 227,
+   "h": 89,
+   "ang": 2.649268650152943
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/munchies__set__1.jpg",
+  "fabric_rgb": [
+   220.0,
+   221.0,
+   227.0
+  ],
+  "ok": true
+ },
+ "munchies__set__2": {
+  "file": "/home/user/brand/ck/library/669_black/munchies__set__2.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 786,
+   "y": 1422,
+   "w": 229,
+   "h": 89,
+   "ang": -0.6349086408656273
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/munchies__set__2.jpg",
+  "fabric_rgb": [
+   21.0,
+   16.0,
+   19.0
+  ],
+  "ok": true
+ },
+ "munchonthis__vcut__0": {
+  "file": "/home/user/brand/ck/library/872_red/munchonthis__vcut__0.jpg",
+  "pid": 872,
+  "color": "red",
+  "box": {
+   "x": 845,
+   "y": 1527,
+   "w": 120,
+   "h": 71,
+   "ang": -1.1170170045695271
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/munchonthis__vcut__0.jpg",
+  "fabric_rgb": [
+   180.0,
+   26.0,
+   40.0
+  ],
+  "ok": true
+ },
+ "munchonthis__vcut__1": {
+  "file": "/home/user/brand/ck/library/872_red/munchonthis__vcut__1.jpg",
+  "pid": 872,
+  "color": "red",
+  "box": {
+   "x": 857,
+   "y": 1514,
+   "w": 122,
+   "h": 75,
+   "ang": -4.159855955309643
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/munchonthis__vcut__1.jpg",
+  "fabric_rgb": [
+   183.0,
+   27.0,
+   43.0
+  ],
+  "ok": true
+ },
+ "petme__set__0": {
+  "file": "/home/user/brand/ck/library/669_black/petme__set__0.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 783,
+   "y": 1218,
+   "w": 206,
+   "h": 117,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/petme__set__0.jpg",
+  "fabric_rgb": [
+   21.0,
+   18.0,
+   21.0
+  ],
+  "ok": true
+ },
+ "petme__set__1": {
+  "file": "/home/user/brand/ck/library/669_white/petme__set__1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 796,
+   "y": 1320,
+   "w": 241,
+   "h": 134,
+   "ang": -2.6402743328666483
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/petme__set__1.jpg",
+  "fabric_rgb": [
+   217.0,
+   218.0,
+   223.0
+  ],
+  "ok": true
+ },
+ "petme__set__2": {
+  "file": "/home/user/brand/ck/library/669_white/petme__set__2.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 769,
+   "y": 1479,
+   "w": 201,
+   "h": 110,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/petme__set__2.jpg",
+  "fabric_rgb": [
+   215.0,
+   214.0,
+   221.0
+  ],
+  "ok": true
+ },
+ "petmeharder__set__0": {
+  "file": "/home/user/brand/ck/library/669_white/petmeharder__set__0.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 860,
+   "y": 1555,
+   "w": 185,
+   "h": 101,
+   "ang": -4.2427925560462025
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/petmeharder__set__0.jpg",
+  "fabric_rgb": [
+   218.0,
+   217.0,
+   223.0
+  ],
+  "ok": true
+ },
+ "petmeharder__set__1": {
+  "file": "/home/user/brand/ck/library/669_white/petmeharder__set__1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 733,
+   "y": 1414,
+   "w": 178,
+   "h": 99,
+   "ang": 2.447304358076016
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/petmeharder__set__1.jpg",
+  "fabric_rgb": [
+   218.0,
+   217.0,
+   222.0
+  ],
+  "ok": true
+ },
+ "petmeharder__set__2": {
+  "file": "/home/user/brand/ck/library/669_white/petmeharder__set__2.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 786,
+   "y": 1354,
+   "w": 213,
+   "h": 114,
+   "ang": -1.9343720392056418
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/petmeharder__set__2.jpg",
+  "fabric_rgb": [
+   217.0,
+   216.0,
+   223.0
+  ],
+  "ok": true
+ },
+ "propertysesh__vcut__0": {
+  "file": "/home/user/brand/ck/library/872_white/propertysesh__vcut__0.jpg",
+  "pid": 872,
+  "color": "white",
+  "box": {
+   "x": 846,
+   "y": 1535,
+   "w": 115,
+   "h": 107,
+   "ang": -8.0
+  },
+  "extra": 5,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/propertysesh__vcut__0.jpg",
+  "fabric_rgb": [
+   212.0,
+   213.0,
+   221.0
+  ],
+  "ok": true
+ },
+ "propertysesh__vcut__1": {
+  "file": "/home/user/brand/ck/library/872_white/propertysesh__vcut__1.jpg",
+  "pid": 872,
+  "color": "white",
+  "box": {
+   "x": 828,
+   "y": 1358,
+   "w": 137,
+   "h": 130,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/propertysesh__vcut__1.jpg",
+  "fabric_rgb": [
+   217.0,
+   218.0,
+   225.0
+  ],
+  "ok": true
+ },
+ "propertysesh__vcut__2": {
+  "file": "/home/user/brand/ck/library/872_white/propertysesh__vcut__2.jpg",
+  "pid": 872,
+  "color": "white",
+  "box": {
+   "x": 856,
+   "y": 1539,
+   "w": 127,
+   "h": 117,
+   "ang": 8.0
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/propertysesh__vcut__2.jpg",
+  "fabric_rgb": [
+   215.0,
+   216.0,
+   224.0
+  ],
+  "ok": true
+ },
+ "pussy__set__0": {
+  "file": "/home/user/brand/ck/library/669_white/pussy__set__0.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 761,
+   "y": 1306,
+   "w": 275,
+   "h": 188,
+   "ang": 2.4194234036030426
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/pussy__set__0.jpg",
+  "fabric_rgb": [
+   215.0,
+   216.0,
+   227.0
+  ],
+  "ok": true
+ },
+ "pussy__set__1": {
+  "file": "/home/user/brand/ck/library/669_white/pussy__set__1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 786,
+   "y": 1176,
+   "w": 249,
+   "h": 172,
+   "ang": 6.938097577544387
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/pussy__set__1.jpg",
+  "fabric_rgb": [
+   205.0,
+   204.0,
+   210.0
+  ],
+  "ok": true
+ },
+ "pussy__set__2": {
+  "file": "/home/user/brand/ck/library/669_black/pussy__set__2.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 780,
+   "y": 1432,
+   "w": 237,
+   "h": 153,
+   "ang": 2.2716503962996644
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/pussy__set__2.jpg",
+  "fabric_rgb": [
+   21.0,
+   18.0,
+   20.0
+  ],
+  "ok": true
+ },
+ "ridehigh__set__0": {
+  "file": "/home/user/brand/ck/library/669_white/ridehigh__set__0.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 850,
+   "y": 1559,
+   "w": 153,
+   "h": 108,
+   "ang": 0.6388296286855761
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/ridehigh__set__0.jpg",
+  "fabric_rgb": [
+   213.0,
+   217.0,
+   225.0
+  ],
+  "ok": true
+ },
+ "ridehigh__set__1": {
+  "file": "/home/user/brand/ck/library/669_hotpink/ridehigh__set__1.jpg",
+  "pid": 669,
+  "color": "hotpink",
+  "box": {
+   "x": 484,
+   "y": 1290,
+   "w": 820,
+   "h": 759,
+   "ang": 0.6155185541758371
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/ridehigh__set__1.jpg",
+  "fabric_rgb": [
+   193.0,
+   141.0,
+   108.0
+  ],
+  "ok": false
+ },
+ "rollit__set__0": {
+  "file": "/home/user/brand/ck/library/669_white/rollit__set__0.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 820,
+   "y": 1528,
+   "w": 174,
+   "h": 161,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/rollit__set__0.jpg",
+  "fabric_rgb": [
+   207.0,
+   206.0,
+   212.0
+  ],
+  "ok": true
+ },
+ "rollit__set__1": {
+  "file": "/home/user/brand/ck/library/669_white/rollit__set__1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 803,
+   "y": 1482,
+   "w": 171,
+   "h": 157,
+   "ang": -8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/rollit__set__1.jpg",
+  "fabric_rgb": [
+   213.0,
+   212.0,
+   219.0
+  ],
+  "ok": true
+ },
+ "rollit__set__2": {
+  "file": "/home/user/brand/ck/library/669_white/rollit__set__2.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 798,
+   "y": 1436,
+   "w": 205,
+   "h": 189,
+   "ang": -8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/rollit__set__2.jpg",
+  "fabric_rgb": [
+   217.0,
+   216.0,
+   221.0
+  ],
+  "ok": true
+ },
+ "rollmeup__vcut__0": {
+  "file": "/home/user/brand/ck/library/872_black/rollmeup__vcut__0.jpg",
+  "pid": 872,
+  "color": "black",
+  "box": {
+   "x": 820,
+   "y": 1590,
+   "w": 173,
+   "h": 83,
+   "ang": 1.3190021534460568
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/rollmeup__vcut__0.jpg",
+  "fabric_rgb": [
+   27.0,
+   26.0,
+   28.0
+  ],
+  "ok": true
+ },
+ "rollmeup__vcut__1": {
+  "file": "/home/user/brand/ck/library/872_black/rollmeup__vcut__1.jpg",
+  "pid": 872,
+  "color": "black",
+  "box": {
+   "x": 826,
+   "y": 1437,
+   "w": 155,
+   "h": 78,
+   "ang": 4.0345008190559914
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/rollmeup__vcut__1.jpg",
+  "fabric_rgb": [
+   27.0,
+   27.0,
+   27.0
+  ],
+  "ok": true
+ },
+ "rollmeup__vcut__2": {
+  "file": "/home/user/brand/ck/library/872_black/rollmeup__vcut__2.jpg",
+  "pid": 872,
+  "color": "black",
+  "box": {
+   "x": 831,
+   "y": 1482,
+   "w": 155,
+   "h": 74,
+   "ang": 2.333996030120679
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/rollmeup__vcut__2.jpg",
+  "fabric_rgb": [
+   22.0,
+   22.0,
+   22.0
+  ],
+  "ok": true
+ },
+ "rumors__set__0": {
+  "file": "/home/user/brand/ck/library/669_black/rumors__set__0.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 739,
+   "y": 1410,
+   "w": 298,
+   "h": 168,
+   "ang": 5.1816920646785425
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/rumors__set__0.jpg",
+  "fabric_rgb": [
+   18.0,
+   15.0,
+   16.0
+  ],
+  "ok": true
+ },
+ "rumors__set__1": {
+  "file": "/home/user/brand/ck/library/669_white/rumors__set__1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 720,
+   "y": 1366,
+   "w": 393,
+   "h": 217,
+   "ang": 8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/rumors__set__1.jpg",
+  "fabric_rgb": [
+   208.0,
+   207.0,
+   213.0
+  ],
+  "ok": true
+ },
+ "rumors__set__2": {
+  "file": "/home/user/brand/ck/library/669_white/rumors__set__2.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 746,
+   "y": 1394,
+   "w": 299,
+   "h": 171,
+   "ang": 2.6814994307067197
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/rumors__set__2.jpg",
+  "fabric_rgb": [
+   220.0,
+   221.0,
+   230.0
+  ],
+  "ok": true
+ },
+ "smokebreaks__vcut__0": {
+  "file": "/home/user/brand/ck/library/872_black/smokebreaks__vcut__0.jpg",
+  "pid": 872,
+  "color": "black",
+  "box": {
+   "x": 819,
+   "y": 1552,
+   "w": 189,
+   "h": 64,
+   "ang": -2.1743712568006277
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/smokebreaks__vcut__0.jpg",
+  "fabric_rgb": [
+   21.0,
+   17.0,
+   21.0
+  ],
+  "ok": true
+ },
+ "smokebreaks__vcut__1": {
+  "file": "/home/user/brand/ck/library/872_black/smokebreaks__vcut__1.jpg",
+  "pid": 872,
+  "color": "black",
+  "box": {
+   "x": 797,
+   "y": 1136,
+   "w": 210,
+   "h": 76,
+   "ang": -0.040917155089051464
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/smokebreaks__vcut__1.jpg",
+  "fabric_rgb": [
+   23.0,
+   21.0,
+   22.0
+  ],
+  "ok": true
+ },
+ "smokebreaks__vcut__2": {
+  "file": "/home/user/brand/ck/library/872_black/smokebreaks__vcut__2.jpg",
+  "pid": 872,
+  "color": "black",
+  "box": {
+   "x": 773,
+   "y": 1445,
+   "w": 227,
+   "h": 83,
+   "ang": 0.8674361450701837
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/smokebreaks__vcut__2.jpg",
+  "fabric_rgb": [
+   21.0,
+   18.0,
+   19.0
+  ],
+  "ok": true
+ },
+ "spanking__set__0": {
+  "file": "/home/user/brand/ck/library/669_black/spanking__set__0.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 792,
+   "y": 1475,
+   "w": 203,
+   "h": 136,
+   "ang": -1.012357039984451
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/spanking__set__0.jpg",
+  "fabric_rgb": [
+   22.0,
+   21.0,
+   22.0
+  ],
+  "ok": true
+ },
+ "spanking__set__1": {
+  "file": "/home/user/brand/ck/library/669_black/spanking__set__1.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 830,
+   "y": 1311,
+   "w": 249,
+   "h": 167,
+   "ang": 1.1286164172951605
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/spanking__set__1.jpg",
+  "fabric_rgb": [
+   22.0,
+   21.0,
+   21.0
+  ],
+  "ok": true
+ },
+ "spanking__set__2": {
+  "file": "/home/user/brand/ck/library/669_black/spanking__set__2.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 784,
+   "y": 1522,
+   "w": 226,
+   "h": 148,
+   "ang": 3.664404942837432
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/spanking__set__2.jpg",
+  "fabric_rgb": [
+   21.0,
+   20.0,
+   21.0
+  ],
+  "ok": true
+ },
+ "stonedhorny__vcut__0": {
+  "file": "/home/user/brand/ck/library/872_babyblue/stonedhorny__vcut__0.jpg",
+  "pid": 872,
+  "color": "babyblue",
+  "box": {
+   "x": 862,
+   "y": 1572,
+   "w": 142,
+   "h": 92,
+   "ang": -8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/stonedhorny__vcut__0.jpg",
+  "fabric_rgb": [
+   164.0,
+   195.0,
+   225.0
+  ],
+  "ok": true
+ },
+ "stonedhorny__vcut__1": {
+  "file": "/home/user/brand/ck/library/872_babyblue/stonedhorny__vcut__1.jpg",
+  "pid": 872,
+  "color": "babyblue",
+  "box": {
+   "x": 887,
+   "y": 1393,
+   "w": 128,
+   "h": 78,
+   "ang": -8.0
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/stonedhorny__vcut__1.jpg",
+  "fabric_rgb": [
+   168.0,
+   198.0,
+   227.0
+  ],
+  "ok": true
+ },
+ "stonedhorny__vcut__2": {
+  "file": "/home/user/brand/ck/library/872_babyblue/stonedhorny__vcut__2.jpg",
+  "pid": 872,
+  "color": "babyblue",
+  "box": {
+   "x": 856,
+   "y": 1514,
+   "w": 114,
+   "h": 65,
+   "ang": -5.248963349130663
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/stonedhorny__vcut__2.jpg",
+  "fabric_rgb": [
+   163.0,
+   195.0,
+   223.0
+  ],
+  "ok": true
+ },
+ "veryhot__set__0": {
+  "file": "/home/user/brand/ck/library/669_black/veryhot__set__0.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 756,
+   "y": 1209,
+   "w": 298,
+   "h": 210,
+   "ang": -2.053735087932608
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/veryhot__set__0.jpg",
+  "fabric_rgb": [
+   20.0,
+   18.0,
+   19.0
+  ],
+  "ok": true
+ },
+ "veryhot__set__1": {
+  "file": "/home/user/brand/ck/library/669_black/veryhot__set__1.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 775,
+   "y": 1406,
+   "w": 254,
+   "h": 171,
+   "ang": -0.3707674686904687
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/veryhot__set__1.jpg",
+  "fabric_rgb": [
+   16.0,
+   14.0,
+   15.0
+  ],
+  "ok": true
+ },
+ "veryhot__set__2": {
+  "file": "/home/user/brand/ck/library/669_white/veryhot__set__2.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 754,
+   "y": 1471,
+   "w": 258,
+   "h": 173,
+   "ang": -3.925002028830988
+  },
+  "extra": 3,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/veryhot__set__2.jpg",
+  "fabric_rgb": [
+   222.0,
+   221.0,
+   227.0
+  ],
+  "ok": true
+ },
+ "wetbong__set__0": {
+  "file": "/home/user/brand/ck/library/669_black/wetbong__set__0.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 807,
+   "y": 1432,
+   "w": 180,
+   "h": 101,
+   "ang": 3.7920744051422988
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/wetbong__set__0.jpg",
+  "fabric_rgb": [
+   18.0,
+   18.0,
+   18.0
+  ],
+  "ok": true
+ },
+ "wetbong__set__1": {
+  "file": "/home/user/brand/ck/library/669_black/wetbong__set__1.jpg",
+  "pid": 669,
+  "color": "black",
+  "box": {
+   "x": 806,
+   "y": 1457,
+   "w": 167,
+   "h": 94,
+   "ang": 3.626994925519838
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/wetbong__set__1.jpg",
+  "fabric_rgb": [
+   17.0,
+   17.0,
+   17.0
+  ],
+  "ok": true
+ },
+ "wetbong__set__2": {
+  "file": "/home/user/brand/ck/library/669_hotpink/wetbong__set__2.jpg",
+  "pid": 669,
+  "color": "hotpink",
+  "box": {
+   "x": 524,
+   "y": 1343,
+   "w": 737,
+   "h": 405,
+   "ang": -0.2568530589982577
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/raw/wetbong__set__2.jpg",
+  "fabric_rgb": [
+   192.0,
+   136.0,
+   103.0
+  ],
+  "ok": false
+ },
+ "born__set__r0": {
+  "file": "/home/user/brand/ck/library/669_white/born__set__r0.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 760,
+   "y": 1511,
+   "w": 325,
+   "h": 111,
+   "ang": -0.27222775349194106
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/redo_raw/born__set__r0.jpg",
+  "fabric_rgb": [
+   221.0,
+   221.0,
+   226.0
+  ],
+  "ok": true
+ },
+ "born__set__r1": {
+  "file": "/home/user/brand/ck/library/669_white/born__set__r1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 734,
+   "y": 1541,
+   "w": 319,
+   "h": 107,
+   "ang": -0.09447846753537487
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/redo_raw/born__set__r1.jpg",
+  "fabric_rgb": [
+   223.0,
+   223.0,
+   230.0
+  ],
+  "ok": true
+ },
+ "born__set__r2": {
+  "file": "/home/user/brand/ck/library/669_white/born__set__r2.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 776,
+   "y": 1297,
+   "w": 324,
+   "h": 114,
+   "ang": 2.337597594715399
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/redo_raw/born__set__r2.jpg",
+  "fabric_rgb": [
+   215.0,
+   215.0,
+   223.0
+  ],
+  "ok": true
+ },
+ "exgf__set__r0": {
+  "file": "/home/user/brand/ck/library/669_white/exgf__set__r0.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 761,
+   "y": 1524,
+   "w": 276,
+   "h": 168,
+   "ang": -2.57598318290821
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/redo_raw/exgf__set__r0.jpg",
+  "fabric_rgb": [
+   211.0,
+   212.0,
+   220.0
+  ],
+  "ok": true
+ },
+ "exgf__set__r1": {
+  "file": "/home/user/brand/ck/library/669_hotpink/exgf__set__r1.jpg",
+  "pid": 669,
+  "color": "hotpink",
+  "box": {
+   "x": 761,
+   "y": 3,
+   "w": 258,
+   "h": 193,
+   "ang": 8.0
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/redo_raw/exgf__set__r1.jpg",
+  "fabric_rgb": [
+   179.0,
+   134.0,
+   128.0
+  ],
+  "ok": false
+ },
+ "exgf__set__r2": {
+  "file": "/home/user/brand/ck/library/669_white/exgf__set__r2.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 798,
+   "y": 1390,
+   "w": 267,
+   "h": 167,
+   "ang": -8.0
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/redo_raw/exgf__set__r2.jpg",
+  "fabric_rgb": [
+   226.0,
+   226.0,
+   232.0
+  ],
+  "ok": true
+ },
+ "munchies__set__r0": {
+  "file": "/home/user/brand/ck/library/669_white/munchies__set__r0.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 765,
+   "y": 1255,
+   "w": 288,
+   "h": 118,
+   "ang": -0.4922461174066732
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/redo_raw/munchies__set__r0.jpg",
+  "fabric_rgb": [
+   220.0,
+   221.0,
+   230.0
+  ],
+  "ok": true
+ },
+ "munchies__set__r1": {
+  "file": "/home/user/brand/ck/library/669_white/munchies__set__r1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 791,
+   "y": 1369,
+   "w": 249,
+   "h": 99,
+   "ang": 0.4501156425043203
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/redo_raw/munchies__set__r1.jpg",
+  "fabric_rgb": [
+   217.0,
+   216.0,
+   225.0
+  ],
+  "ok": true
+ },
+ "munchies__set__r2": {
+  "file": "/home/user/brand/ck/library/669_white/munchies__set__r2.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 791,
+   "y": 1479,
+   "w": 218,
+   "h": 87,
+   "ang": -3.657170160978688
+  },
+  "extra": 2,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/redo_raw/munchies__set__r2.jpg",
+  "fabric_rgb": [
+   209.0,
+   210.0,
+   219.0
+  ],
+  "ok": true
+ },
+ "pussy__set__r0": {
+  "file": "/home/user/brand/ck/library/669_white/pussy__set__r0.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 763,
+   "y": 1328,
+   "w": 208,
+   "h": 144,
+   "ang": 2.5778719769799565
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/redo_raw/pussy__set__r0.jpg",
+  "fabric_rgb": [
+   220.0,
+   220.0,
+   226.0
+  ],
+  "ok": true
+ },
+ "pussy__set__r1": {
+  "file": "/home/user/brand/ck/library/669_white/pussy__set__r1.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 754,
+   "y": 1496,
+   "w": 245,
+   "h": 167,
+   "ang": -1.630385555478429
+  },
+  "extra": 0,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/redo_raw/pussy__set__r1.jpg",
+  "fabric_rgb": [
+   216.0,
+   215.0,
+   221.0
+  ],
+  "ok": true
+ },
+ "pussy__set__r2": {
+  "file": "/home/user/brand/ck/library/669_white/pussy__set__r2.jpg",
+  "pid": 669,
+  "color": "white",
+  "box": {
+   "x": 1441,
+   "y": 1859,
+   "w": 135,
+   "h": 109,
+   "ang": -8.0
+  },
+  "extra": 1,
+  "leftover": 0,
+  "src": "/home/user/brand/ck/photos/panties7/redo_raw/pussy__set__r2.jpg",
+  "fabric_rgb": [
+   183.0,
+   183.0,
+   183.0
+  ],
+  "ok": true
+ }
+}

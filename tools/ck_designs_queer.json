@@ -1,0 +1,381 @@
+{
+ "sapphicstoned": {
+  "font": "PlayfairDisplay-900-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "sapphic",
+   "& stoned"
+  ],
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true
+ },
+ "biandhigh": {
+  "font": "Anton-400-normal",
+  "color": "#C81E32",
+  "lines": [
+   "BI AND",
+   "HIGH"
+  ],
+  "scale": 1.2,
+  "tops": [
+   [
+    "bt",
+    "red"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ]
+ },
+ "uhaul": {
+  "font": "Tinos-700-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "u-haul packed,",
+   "joint rolled"
+  ],
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "ct",
+    "vintagewhite"
+   ]
+  ]
+ },
+ "gaybaked": {
+  "font": "ArchivoBlack-400-normal",
+  "color": "#FF4F9A",
+  "lines": [
+   "GAY",
+   "AND",
+   "BAKED"
+  ],
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ]
+ },
+ "gfrolls": {
+  "font": "LibreFranklin-900-italic",
+  "color": "#C81E32",
+  "lines": [
+   "my girlfriend",
+   "rolls better",
+   "than your",
+   "boyfriend"
+  ],
+  "tops": [
+   [
+    "bt",
+    "red"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ]
+ },
+ "shesmyplug": {
+  "font": "SourceSerif4-900-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "she’s",
+   "my plug"
+  ],
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ]
+ },
+ "shesmylighter": {
+  "font": "SourceSerif4-900-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "she’s",
+   "my lighter"
+  ],
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ]
+ },
+ "lesbianhigh": {
+  "font": "ZillaSlab-700-normal",
+  "color": "#1A1A1A",
+  "lines": [
+   "lesbian,",
+   "high &",
+   "emotionally",
+   "available"
+  ],
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "ct",
+    "vintagewhite"
+   ]
+  ]
+ },
+ "toogay": {
+  "font": "BarlowCondensed-800-italic",
+  "color": "#C81E32",
+  "lines": [
+   "TOO GAY",
+   "TO FUNCTION,",
+   "TOO HIGH",
+   "TO CARE"
+  ],
+  "tops": [
+   [
+    "bt",
+    "red"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ]
+ },
+ "kissgirls": {
+  "font": "PirataOne-400-normal",
+  "color": "#1A1A1A",
+  "lines": [
+   "Smoke Weed,",
+   "Kiss Girls"
+  ],
+  "scale": 1.2,
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "tk",
+    "heather"
+   ]
+  ],
+  "panty": true
+ },
+ "girlsgrass": {
+  "font": "Cinzel-900-normal",
+  "color": "#FF4F9A",
+  "lines": [
+   "GIRLS,",
+   "GRASS &",
+   "GLITTER"
+  ],
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ]
+ },
+ "comeoutlightup": {
+  "font": "Graduate-400-normal",
+  "color": "#C81E32",
+  "lines": [
+   "COME OUT,",
+   "LIGHT UP"
+  ],
+  "tops": [
+   [
+    "bt",
+    "red"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ]
+ },
+ "onlyrollgirls": {
+  "font": "PlayfairDisplay-900-italic",
+  "color": "#1A1A1A",
+  "lines": [
+   "sorry, i only",
+   "roll with girls"
+  ],
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ]
+ },
+ "pridehigh": {
+  "font": "Anton-400-normal",
+  "color": "#FF4F9A",
+  "lines": [
+   "PRIDE COMES",
+   "BEFORE",
+   "THE HIGH"
+  ],
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "babyblue"
+   ]
+  ]
+ },
+ "bakedgoods": {
+  "font": "Tinos-700-italic",
+  "color": "#C81E32",
+  "lines": [
+   "bisexual",
+   "baked goods"
+  ],
+  "tops": [
+   [
+    "bt",
+    "red"
+   ],
+   [
+    "ct",
+    "vintagewhite"
+   ]
+  ]
+ },
+ "mytype": {
+  "font": "LibreFranklin-900-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "my type:",
+   "girls with",
+   "lighters"
+  ],
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ]
+ },
+ "sapphicmenace": {
+  "font": "ZillaSlab-700-normal",
+  "color": "#FFFFFF",
+  "lines": [
+   "sapphic",
+   "menace,",
+   "mostly baked"
+  ],
+  "tops": [
+   [
+    "tk",
+    "black"
+   ],
+   [
+    "ct",
+    "washedblack"
+   ]
+  ],
+  "panty": true
+ },
+ "theythem": {
+  "font": "ArchivoBlack-400-normal",
+  "color": "#1A1A1A",
+  "lines": [
+   "THEY/THEM/",
+   "HIGH"
+  ],
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "tk",
+    "heather"
+   ]
+  ]
+ },
+ "puffgirls": {
+  "font": "BarlowCondensed-800-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "PUFF PUFF",
+   "PASS THE GIRLS"
+  ],
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true
+ },
+ "kittylovers": {
+  "font": "SourceSerif4-900-italic",
+  "color": "#C81E32",
+  "lines": [
+   "kitty lover,",
+   "weed smoker"
+  ],
+  "tops": [
+   [
+    "bt",
+    "red"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true,
+  "pantyonly": false
+ }
+}

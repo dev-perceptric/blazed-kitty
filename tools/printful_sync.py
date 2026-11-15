@@ -3,7 +3,7 @@ import json,os,sys,time,urllib.request,urllib.parse
 from PIL import Image
 A='8954ffc36634674f7163d2a03600e7fb'; PUB='https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev'
 CK='/home/user/brand/ck'; OUT=f'{CK}/printful_files'; os.makedirs(OUT,exist_ok=True)
-D1=json.load(open('/home/user/brand/tools/ck_designs.json')); D2=json.load(open('/home/user/brand/tools/ck_designs_drop2.json'))
+D1=json.load(open('/home/user/brand/tools/ck_designs.json')); D2=json.load(open('/home/user/brand/tools/ck_designs_drop2.json')); D4=json.load(open('/home/user/brand/tools/ck_designs_drop4.json'))
 CAT={pid:json.load(open(f'/home/user/brand/printful/cat_{pid}.json'))['result']['variants'] for pid in (967,780,1579,669)}
 PRICE={967:'36.00',780:'34.00',1579:'36.00',669:'30.00'}
 KIND={967:'Baby Tee',780:'Rib Tank',1579:'Crop Tee',669:'String Bottom'}
@@ -31,11 +31,12 @@ def print_file(d,pid):
         f=f'{OUT}/{d}__{pid}.png'; im.save(f,dpi=(300,300))
     return r2_put(f,f'printful/{d}__{pid}.png')
 def title(v): 
+    if v.get('title'): return v['title']
     t=' '.join(v['lines']).replace('  ',' ').lower()
     return ' '.join(w if w.startswith('(') else w[:1].upper()+w[1:] for w in t.split()).replace('Of Bad','of Bad').replace(' To ',' to ').replace(' A ',' a ')
 def plan():
     P=[]
-    for drop,D in (('drop1',D1),('drop2',D2)):
+    for drop,D in (('drop1',D1),('drop2',D2),('drop4',D4)):
         for d,v in D.items():
             white=v['color'].upper()=='#FFFFFF'
             if drop=='drop1': tops=[780,1579] if white else [967,780]
@@ -65,7 +66,11 @@ def make(drop,d,v,pid,white):
 if __name__=='__main__':
     P=plan(); print('products planned',len(P),'variants',sum(1 for _ in P))
     have=set()
-    r=h('/store/products?limit=100'); have={p['name'] for p in r.get('result',[])}
+    off=0
+    while True:
+        r=h(f'/store/products?limit=100&offset={off}'); res=r.get('result',[]); have|={p['name'] for p in res}
+        if len(res)<100: break
+        off+=100
     todo=[j for j in P if f"{title(j[2])} {KIND[j[3]]}" not in have]
     print('already in store',len(have),'to create',len(todo),flush=True)
     for job in todo: make(*job); time.sleep(1)
