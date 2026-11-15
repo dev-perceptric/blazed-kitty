@@ -19,7 +19,9 @@ RAW = '/home/user/brand/ck/photos/tpl/raw'
 
 def marker(a):
     r, g, b = a[..., 0], a[..., 1], a[..., 2]
-    return (g > 150) & (g - r > 70) & (g - b > 70)
+    pure = (g > 150) & (g - r > 70) & (g - b > 70)
+    lime = (g > 195) & (g - r > 35) & (g - b > 72) & (r < 205)       # pale or yellowish neon green (flash washes it out)
+    return pure | lime
 
 
 def smooth_fill(a1, m):
