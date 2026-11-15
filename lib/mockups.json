@@ -2847,6 +2847,28 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/spank-me-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "spank-me-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/spank-me-string-bottom.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/products/spank-me-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front",
+   "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/spank-me-string-bottom/white-0-hd.jpg"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/products/spank-me-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details",
+   "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/spank-me-string-bottom/white-1-hd.jpg"
+  }
+ ],
  "eat-me-crop-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/eat-me-crop-tee-t.jpg",
@@ -2884,6 +2906,28 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/eat-me-rib-tank/solid-navy-blend-big.jpg"
   }
  ],
+ "eat-me-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/eat-me-string-bottom.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/products/eat-me-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front",
+   "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/eat-me-string-bottom/white-0-hd.jpg"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/products/eat-me-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details",
+   "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/eat-me-string-bottom/white-1-hd.jpg"
+  }
+ ],
  "princess-crop-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/princess-crop-tee-t.jpg",
@@ -2919,6 +2963,28 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/princess-rib-tank/solid-navy-blend-big.jpg"
+  }
+ ],
+ "princess-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/princess-string-bottom.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/products/princess-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front",
+   "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/princess-string-bottom/white-0-hd.jpg"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/products/princess-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details",
+   "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/princess-string-bottom/white-1-hd.jpg"
   }
  ],
  "good-girl-baby-tee": [
