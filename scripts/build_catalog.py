@@ -241,6 +241,32 @@ for drop, D in (('drop3', D3), ('drop2', D2), ('drop1', D1), ('drop4', D4), ('dr
 NEW = ['drop6', 'drop5', 'drop4']  # newest first on the site
 prods = [p for d in NEW for p in prods if p['drop'] == d] + [p for p in prods if p['drop'] not in NEW]
 
+
+def mix(group, seed):
+    """Spread a drop out so the same design never sits next to itself: round-robin across designs,
+    with each design's products and the design order shuffled (fixed seed, so the order is stable between builds)."""
+    import random
+    rnd = random.Random(seed)
+    by = {}
+    for p in group: by.setdefault(p['design'], []).append(p)
+    designs = list(by); rnd.shuffle(designs)
+    for d in designs: rnd.shuffle(by[d])
+    out, r = [], 0
+    while any(by.values()):
+        row = [d for d in designs if len(by[d]) > r]
+        if not row: break
+        rnd.shuffle(row)
+        if out and row and row[0] == out[-1]['design'] and len(row) > 1: row.append(row.pop(0))
+        out += [by[d][r] for d in row]
+        r += 1
+    return out
+
+
+_order = []
+for _d in dict.fromkeys(p['drop'] for p in prods):
+    _order += mix([p for p in prods if p['drop'] == _d], _d)
+prods = _order
+
 HEAD = """import type { CategoryId, Dept, LineId } from './taxonomy';
 
 export interface Color {
