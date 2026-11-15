@@ -204,7 +204,8 @@ for drop, D in (('drop3', D3), ('drop2', D2), ('drop1', D1), ('drop4', D4), ('dr
             prods.append(p)
             shots = []
             if sl in MODELS:
-                shots.append({'src': MODELS[sl], 'color': '*', 'style': 'Model', 'option': 'Front'})
+                for u in (MODELS[sl] if isinstance(MODELS[sl], list) else [MODELS[sl]]):   # several model photos allowed
+                    shots.append({'src': u, 'color': '*', 'style': 'Model', 'option': 'Front'})
             for sh in s['shots']:
                 shots.append({**sh, 'color': 'Full print' if all_over else sh['color']})
             mock[sl] = shots
