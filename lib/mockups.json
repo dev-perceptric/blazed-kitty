@@ -460,6 +460,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/my-love-language-is-passing-the-lighter-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "my-love-language-is-passing-the-lighter-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/my-love-language-is-passing-the-lighter-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/my-love-language-is-passing-the-lighter-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/my-love-language-is-passing-the-lighter-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "my-love-language-is-passing-the-lighter-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/my-love-language-is-passing-the-lighter-fitted-baby-tee-sb.jpg",
@@ -653,6 +673,26 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/text-me-when-youre-high-im-usually-free-rib-tank/athletic-heather-big.jpg"
+  }
+ ],
+ "text-me-when-youre-high-im-usually-free-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/text-me-when-youre-high-im-usually-free-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/text-me-when-youre-high-im-usually-free-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/text-me-when-youre-high-im-usually-free-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
  "text-me-when-youre-high-im-usually-free-fitted-baby-tee": [
@@ -906,6 +946,26 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/in-a-situationship-with-my-grinder-rib-tank/athletic-heather-big.jpg"
+  }
+ ],
+ "in-a-situationship-with-my-grinder-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/in-a-situationship-with-my-grinder-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/in-a-situationship-with-my-grinder-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/in-a-situationship-with-my-grinder-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
  "in-a-situationship-with-my-grinder-fitted-baby-tee": [
@@ -1371,6 +1431,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/university-of-bad-bitches-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "university-of-bad-bitches-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/university-of-bad-bitches-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/university-of-bad-bitches-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/university-of-bad-bitches-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "university-of-bad-bitches-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/university-of-bad-bitches-fitted-baby-tee-sb.jpg",
@@ -1564,6 +1644,26 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/high-club-rib-tank/athletic-heather-big.jpg"
+  }
+ ],
+ "high-club-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/high-club-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/high-club-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/high-club-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
  "high-club-fitted-baby-tee": [
@@ -1819,6 +1919,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/high-n-cute-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "high-n-cute-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/high-n-cute-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/high-n-cute-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/high-n-cute-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "high-n-cute-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/high-n-cute-fitted-baby-tee-sb.jpg",
@@ -2012,6 +2132,26 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-hot-to-be-sober-rib-tank/athletic-heather-big.jpg"
+  }
+ ],
+ "too-hot-to-be-sober-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/too-hot-to-be-sober-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-hot-to-be-sober-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-hot-to-be-sober-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
  "too-hot-to-be-sober-fitted-baby-tee": [
@@ -18771,6 +18911,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/hot-girls-smoke-weed-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "hot-girls-smoke-weed-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/hot-girls-smoke-weed-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/hot-girls-smoke-weed-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/hot-girls-smoke-weed-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "hot-girls-smoke-weed-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/hot-girls-smoke-weed-fitted-baby-tee-sb.jpg",
@@ -18957,6 +19117,26 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/stoner-princess-rib-tank/athletic-heather-big.jpg"
+  }
+ ],
+ "stoner-princess-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/stoner-princess-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/stoner-princess-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/stoner-princess-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
  "stoner-princess-fitted-baby-tee": [
@@ -19154,6 +19334,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/sativa-diva-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "sativa-diva-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/sativa-diva-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/sativa-diva-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/sativa-diva-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "sativa-diva-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/sativa-diva-fitted-baby-tee-sb.jpg",
@@ -19203,6 +19403,38 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/sativa-diva-cropped-hoodie/storm-big.jpg"
+  }
+ ],
+ "sativa-diva-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/sativa-diva-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/sativa-diva-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/sativa-diva-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/sativa-diva-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/sativa-diva-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
   }
  ],
  "indica-queen-baby-tee": [
@@ -19313,6 +19545,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/indica-queen-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "indica-queen-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/indica-queen-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/indica-queen-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/indica-queen-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "indica-queen-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/indica-queen-fitted-baby-tee-sb.jpg",
@@ -19362,6 +19614,38 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/indica-queen-cropped-hoodie/storm-big.jpg"
+  }
+ ],
+ "indica-queen-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/indica-queen-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/indica-queen-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/indica-queen-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/indica-queen-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/indica-queen-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
   }
  ],
  "weed-wife-baby-tee": [
@@ -19472,6 +19756,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/weed-wife-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "weed-wife-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/weed-wife-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/weed-wife-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/weed-wife-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "weed-wife-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/weed-wife-fitted-baby-tee-sb.jpg",
@@ -19521,6 +19825,38 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/weed-wife-cropped-hoodie/storm-big.jpg"
+  }
+ ],
+ "weed-wife-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/weed-wife-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/weed-wife-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/weed-wife-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/weed-wife-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/weed-wife-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
   }
  ],
  "certified-stoner-girlfriend-baby-tee": [
@@ -19631,6 +19967,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/certified-stoner-girlfriend-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "certified-stoner-girlfriend-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/certified-stoner-girlfriend-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/certified-stoner-girlfriend-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/certified-stoner-girlfriend-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "certified-stoner-girlfriend-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/certified-stoner-girlfriend-fitted-baby-tee-sb.jpg",
@@ -19694,6 +20050,32 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/certified-stoner-girlfriend-cropped-hoodie/storm-big.jpg"
+  }
+ ],
+ "certified-stoner-girlfriend-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/certified-stoner-girlfriend-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/certified-stoner-girlfriend-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/certified-stoner-girlfriend-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/certified-stoner-girlfriend-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
   }
  ],
  "too-pretty-to-pay-for-weed-baby-tee": [
@@ -19797,6 +20179,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-pretty-to-pay-for-weed-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "too-pretty-to-pay-for-weed-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/too-pretty-to-pay-for-weed-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-pretty-to-pay-for-weed-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-pretty-to-pay-for-weed-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "too-pretty-to-pay-for-weed-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/too-pretty-to-pay-for-weed-fitted-baby-tee-sb.jpg",
@@ -19846,6 +20248,38 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-pretty-to-pay-for-weed-cropped-hoodie/storm-big.jpg"
+  }
+ ],
+ "too-pretty-to-pay-for-weed-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/too-pretty-to-pay-for-weed-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-pretty-to-pay-for-weed-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-pretty-to-pay-for-weed-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-pretty-to-pay-for-weed-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-pretty-to-pay-for-weed-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
   }
  ],
  "puff-puff-pretty-baby-tee": [
@@ -19956,6 +20390,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/puff-puff-pretty-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "puff-puff-pretty-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/puff-puff-pretty-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/puff-puff-pretty-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/puff-puff-pretty-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "puff-puff-pretty-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/puff-puff-pretty-fitted-baby-tee-sb.jpg",
@@ -20007,6 +20461,38 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/puff-puff-pretty-cropped-hoodie/storm-big.jpg"
   }
  ],
+ "puff-puff-pretty-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/puff-puff-pretty-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/puff-puff-pretty-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/puff-puff-pretty-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/puff-puff-pretty-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/puff-puff-pretty-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
+  }
+ ],
  "cute-but-crossfaded-crop-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/cute-but-crossfaded-crop-tee-x2.jpg",
@@ -20042,6 +20528,26 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/cute-but-crossfaded-rib-tank/solid-navy-blend-big.jpg"
+  }
+ ],
+ "cute-but-crossfaded-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/cute-but-crossfaded-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/cute-but-crossfaded-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/cute-but-crossfaded-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
  "cute-but-crossfaded-fitted-baby-tee": [
@@ -20081,6 +20587,38 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/cute-but-crossfaded-cropped-hoodie/military-green-big.jpg"
   }
  ],
+ "cute-but-crossfaded-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/cute-but-crossfaded-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/cute-but-crossfaded-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/cute-but-crossfaded-heavyweight-hoodie/vintage-black-big.jpg",
+   "color": "Vintage Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/cute-but-crossfaded-heavyweight-hoodie/navy-big.jpg",
+   "color": "Navy",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/cute-but-crossfaded-heavyweight-hoodie/forest-big.jpg",
+   "color": "Forest",
+   "style": "Ghost",
+   "option": "Front"
+  }
+ ],
  "baked-bratty-crop-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/baked-bratty-crop-tee-x2.jpg",
@@ -20118,6 +20656,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/baked-bratty-rib-tank/solid-navy-blend-big.jpg"
   }
  ],
+ "baked-bratty-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/baked-bratty-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/baked-bratty-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/baked-bratty-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "baked-bratty-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/baked-bratty-fitted-baby-tee-sb.jpg",
@@ -20153,6 +20711,38 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/baked-bratty-cropped-hoodie/military-green-big.jpg"
+  }
+ ],
+ "baked-bratty-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/baked-bratty-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/baked-bratty-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/baked-bratty-heavyweight-hoodie/vintage-black-big.jpg",
+   "color": "Vintage Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/baked-bratty-heavyweight-hoodie/navy-big.jpg",
+   "color": "Navy",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/baked-bratty-heavyweight-hoodie/forest-big.jpg",
+   "color": "Forest",
+   "style": "Ghost",
+   "option": "Front"
   }
  ],
  "spoiled-stoned-baby-tee": [
@@ -20256,6 +20846,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/spoiled-stoned-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "spoiled-stoned-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/spoiled-stoned-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/spoiled-stoned-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/spoiled-stoned-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "spoiled-stoned-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/spoiled-stoned-fitted-baby-tee-sb.jpg",
@@ -20305,6 +20915,38 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/spoiled-stoned-cropped-hoodie/storm-big.jpg"
+  }
+ ],
+ "spoiled-stoned-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/spoiled-stoned-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/spoiled-stoned-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/spoiled-stoned-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/spoiled-stoned-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/spoiled-stoned-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
   }
  ],
  "in-my-weed-era-baby-tee": [
@@ -20415,6 +21057,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/in-my-weed-era-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "in-my-weed-era-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/in-my-weed-era-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/in-my-weed-era-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/in-my-weed-era-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "in-my-weed-era-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/in-my-weed-era-fitted-baby-tee-sb.jpg",
@@ -20478,6 +21140,32 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/in-my-weed-era-cropped-hoodie/storm-big.jpg"
+  }
+ ],
+ "in-my-weed-era-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/in-my-weed-era-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/in-my-weed-era-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/in-my-weed-era-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/in-my-weed-era-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
   }
  ],
  "pre-rolled-and-ready-baby-tee": [
@@ -20588,6 +21276,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/pre-rolled-and-ready-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "pre-rolled-and-ready-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/pre-rolled-and-ready-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/pre-rolled-and-ready-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/pre-rolled-and-ready-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "pre-rolled-and-ready-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/pre-rolled-and-ready-fitted-baby-tee-sb.jpg",
@@ -20637,6 +21345,38 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/pre-rolled-and-ready-cropped-hoodie/storm-big.jpg"
+  }
+ ],
+ "pre-rolled-and-ready-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/pre-rolled-and-ready-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/pre-rolled-and-ready-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/pre-rolled-and-ready-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/pre-rolled-and-ready-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/pre-rolled-and-ready-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
   }
  ],
  "rolling-papers-red-lipstick-baby-tee": [
@@ -20747,6 +21487,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/rolling-papers-red-lipstick-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "rolling-papers-red-lipstick-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/rolling-papers-red-lipstick-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/rolling-papers-red-lipstick-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/rolling-papers-red-lipstick-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "rolling-papers-red-lipstick-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/rolling-papers-red-lipstick-fitted-baby-tee-sb.jpg",
@@ -20796,6 +21556,38 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/rolling-papers-red-lipstick-cropped-hoodie/storm-big.jpg"
+  }
+ ],
+ "rolling-papers-red-lipstick-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/rolling-papers-red-lipstick-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/rolling-papers-red-lipstick-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/rolling-papers-red-lipstick-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/rolling-papers-red-lipstick-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/rolling-papers-red-lipstick-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
   }
  ],
  "bong-app-tit-baby-tee": [
@@ -20904,6 +21696,26 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/bong-app-tit-rib-tank/athletic-heather-big.jpg"
+  }
+ ],
+ "bong-app-tit-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/bong-app-tit-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/bong-app-tit-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/bong-app-tit-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
  "bong-app-tit-fitted-baby-tee": [
@@ -21015,6 +21827,38 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/bong-app-tit-cropped-hoodie/storm-big.jpg"
   }
  ],
+ "bong-app-tit-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/bong-app-tit-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/bong-app-tit-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/bong-app-tit-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/bong-app-tit-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/bong-app-tit-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
+  }
+ ],
  "hotter-than-my-lighter-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/hotter-than-my-lighter-baby-tee-sb.jpg",
@@ -21121,6 +21965,26 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/hotter-than-my-lighter-rib-tank/athletic-heather-big.jpg"
+  }
+ ],
+ "hotter-than-my-lighter-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/hotter-than-my-lighter-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/hotter-than-my-lighter-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/hotter-than-my-lighter-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
  "hotter-than-my-lighter-fitted-baby-tee": [
@@ -21246,6 +22110,32 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/hotter-than-my-lighter-cropped-hoodie/storm-big.jpg"
   }
  ],
+ "hotter-than-my-lighter-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/hotter-than-my-lighter-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/hotter-than-my-lighter-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/hotter-than-my-lighter-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/hotter-than-my-lighter-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
+  }
+ ],
  "kush-kisses-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/kush-kisses-baby-tee-sb.jpg",
@@ -21347,6 +22237,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/kush-kisses-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "kush-kisses-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/kush-kisses-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/kush-kisses-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/kush-kisses-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "kush-kisses-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/kush-kisses-fitted-baby-tee-sb.jpg",
@@ -21396,6 +22306,38 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/kush-kisses-cropped-hoodie/storm-big.jpg"
+  }
+ ],
+ "kush-kisses-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/kush-kisses-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/kush-kisses-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/kush-kisses-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/kush-kisses-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/kush-kisses-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
   }
  ],
  "horny-for-the-munchies-baby-tee": [
@@ -21506,6 +22448,26 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/horny-for-the-munchies-rib-tank/athletic-heather-big.jpg"
   }
  ],
+ "horny-for-the-munchies-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/horny-for-the-munchies-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/horny-for-the-munchies-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/horny-for-the-munchies-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
+  }
+ ],
  "horny-for-the-munchies-fitted-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/horny-for-the-munchies-fitted-baby-tee-sb.jpg",
@@ -21557,6 +22519,38 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/horny-for-the-munchies-cropped-hoodie/storm-big.jpg"
   }
  ],
+ "horny-for-the-munchies-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/horny-for-the-munchies-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/horny-for-the-munchies-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/horny-for-the-munchies-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/horny-for-the-munchies-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/horny-for-the-munchies-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
+  }
+ ],
  "too-stoned-to-be-shy-crop-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/too-stoned-to-be-shy-crop-tee-x2.jpg",
@@ -21592,6 +22586,26 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-stoned-to-be-shy-rib-tank/solid-navy-blend-big.jpg"
+  }
+ ],
+ "too-stoned-to-be-shy-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/too-stoned-to-be-shy-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-stoned-to-be-shy-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-stoned-to-be-shy-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
  "too-stoned-to-be-shy-fitted-baby-tee": [
@@ -21673,6 +22687,38 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-stoned-to-be-shy-cropped-hoodie/military-green-big.jpg"
+  }
+ ],
+ "too-stoned-to-be-shy-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/too-stoned-to-be-shy-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-stoned-to-be-shy-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-stoned-to-be-shy-heavyweight-hoodie/vintage-black-big.jpg",
+   "color": "Vintage Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-stoned-to-be-shy-heavyweight-hoodie/navy-big.jpg",
+   "color": "Navy",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/too-stoned-to-be-shy-heavyweight-hoodie/forest-big.jpg",
+   "color": "Forest",
+   "style": "Ghost",
+   "option": "Front"
   }
  ],
  "your-moms-favorite-stoner-baby-tee": [
@@ -21781,6 +22827,26 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/your-moms-favorite-stoner-rib-tank/athletic-heather-big.jpg"
+  }
+ ],
+ "your-moms-favorite-stoner-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/your-moms-favorite-stoner-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/your-moms-favorite-stoner-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/your-moms-favorite-stoner-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
  "your-moms-favorite-stoner-fitted-baby-tee": [
@@ -21892,6 +22958,38 @@
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/your-moms-favorite-stoner-cropped-hoodie/storm-big.jpg"
   }
  ],
+ "your-moms-favorite-stoner-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/your-moms-favorite-stoner-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/your-moms-favorite-stoner-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/your-moms-favorite-stoner-heavyweight-hoodie/black-big.jpg",
+   "color": "Black",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/your-moms-favorite-stoner-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/your-moms-favorite-stoner-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
+  }
+ ],
  "stoner-lover-sinner-baby-tee": [
   {
    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/stoner-lover-sinner-baby-tee-sb.jpg",
@@ -21998,6 +23096,26 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/stoner-lover-sinner-rib-tank/athletic-heather-big.jpg"
+  }
+ ],
+ "stoner-lover-sinner-string-bottom": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/stoner-lover-sinner-string-bottom-p0v6.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/stoner-lover-sinner-string-bottom/white-0-hd.jpg",
+   "color": "Full print",
+   "style": "Main",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/stoner-lover-sinner-string-bottom/white-1-hd.jpg",
+   "color": "Full print",
+   "style": "Product details",
+   "option": "Product details"
   }
  ],
  "stoner-lover-sinner-fitted-baby-tee": [
@@ -22121,6 +23239,32 @@
    "style": "Ghost",
    "option": "Front",
    "orig": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/stoner-lover-sinner-cropped-hoodie/storm-big.jpg"
+  }
+ ],
+ "stoner-lover-sinner-heavyweight-hoodie": [
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/web/models/stoner-lover-sinner-heavyweight-hoodie-x2.jpg",
+   "color": "*",
+   "style": "Model",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/stoner-lover-sinner-heavyweight-hoodie/white-big.jpg",
+   "color": "White",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/stoner-lover-sinner-heavyweight-hoodie/athletic-heather-big.jpg",
+   "color": "Athletic Heather",
+   "style": "Ghost",
+   "option": "Front"
+  },
+  {
+   "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/site/products/stoner-lover-sinner-heavyweight-hoodie/dust-big.jpg",
+   "color": "Dust",
+   "style": "Ghost",
+   "option": "Front"
   }
  ]
 }
