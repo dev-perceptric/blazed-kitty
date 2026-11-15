@@ -1,0 +1,311 @@
+{
+ "hotgirls": {
+  "font": "Anton-400-normal",
+  "color": "#FF4F9A",
+  "lines": [
+   "HOT GIRLS",
+   "SMOKE WEED"
+  ],
+  "title": "Hot Girls Smoke Weed",
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true,
+  "scale": 1.3
+ },
+ "stonerprincess": {
+  "font": "Caprasimo-400-normal",
+  "color": "#FF4F9A",
+  "lines": [
+   "stoner",
+   "princess"
+  ],
+  "title": "Stoner Princess",
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true,
+  "scale": 1.2
+ },
+ "sativadiva": {
+  "font": "Yellowtail-400-normal",
+  "color": "#C81E32",
+  "lines": [
+   "Sativa",
+   "Diva"
+  ],
+  "title": "Sativa Diva",
+  "tops": [
+   [
+    "bt",
+    "red"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true,
+  "scale": 1.3
+ },
+ "indicaqueen": {
+  "font": "Cinzel-900-normal",
+  "color": "#7B3FE4",
+  "lines": [
+   "INDICA",
+   "QUEEN"
+  ],
+  "title": "Indica Queen",
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true,
+  "scale": 1.2
+ },
+ "hybridhottie": {
+  "font": "DMSerifDisplay-400-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "hybrid",
+   "hottie"
+  ],
+  "title": "Hybrid Hottie",
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true,
+  "scale": 1.3
+ },
+ "weedwife": {
+  "font": "AbrilFatface-400-normal",
+  "color": "#C81E32",
+  "lines": [
+   "Weed Wife"
+  ],
+  "title": "Weed Wife",
+  "tops": [
+   [
+    "bt",
+    "red"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true,
+  "scale": 1.4
+ },
+ "certstoner": {
+  "font": "SpaceGrotesk-700-normal",
+  "color": "#1A1A1A",
+  "lines": [
+   "certified",
+   "stoner",
+   "girlfriend"
+  ],
+  "title": "Certified Stoner Girlfriend",
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "tk",
+    "heather"
+   ]
+  ],
+  "panty": true
+ },
+ "toopretty": {
+  "font": "PlayfairDisplay-900-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "too pretty",
+   "to pay",
+   "for weed"
+  ],
+  "title": "Too Pretty to Pay for Weed",
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true
+ },
+ "puffpretty": {
+  "font": "Unbounded-900-normal",
+  "color": "#7B3FE4",
+  "lines": [
+   "PUFF PUFF",
+   "PRETTY"
+  ],
+  "title": "Puff Puff Pretty",
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true
+ },
+ "crossfaded": {
+  "font": "Tinos-700-italic",
+  "color": "#9FD3F5",
+  "lines": [
+   "cute but",
+   "crossfaded"
+  ],
+  "title": "Cute but Crossfaded",
+  "tops": [
+   [
+    "tk",
+    "navy"
+   ],
+   [
+    "ct",
+    "washedblack"
+   ]
+  ],
+  "panty": true
+ },
+ "bakedbratty": {
+  "font": "ArchivoBlack-400-normal",
+  "color": "#FFFFFF",
+  "lines": [
+   "BAKED &",
+   "BRATTY"
+  ],
+  "title": "Baked & Bratty",
+  "tops": [
+   [
+    "tk",
+    "black"
+   ],
+   [
+    "ct",
+    "washedblack"
+   ]
+  ],
+  "panty": true,
+  "scale": 1.2
+ },
+ "spoiledstoned": {
+  "font": "LibreFranklin-900-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "spoiled &",
+   "stoned"
+  ],
+  "title": "Spoiled & Stoned",
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true
+ },
+ "weedera": {
+  "font": "ZillaSlab-700-normal",
+  "color": "#1A1A1A",
+  "lines": [
+   "in my",
+   "weed era"
+  ],
+  "title": "In My Weed Era",
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "tk",
+    "heather"
+   ]
+  ],
+  "panty": true
+ },
+ "prerolled": {
+  "font": "BarlowCondensed-800-italic",
+  "color": "#C81E32",
+  "lines": [
+   "PRE-ROLLED",
+   "AND READY"
+  ],
+  "title": "Pre-Rolled and Ready",
+  "tops": [
+   [
+    "bt",
+    "red"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true,
+  "scale": 1.3
+ },
+ "redlipstick": {
+  "font": "SourceSerif4-900-italic",
+  "color": "#C81E32",
+  "lines": [
+   "rolling papers",
+   "& red lipstick"
+  ],
+  "title": "Rolling Papers & Red Lipstick",
+  "tops": [
+   [
+    "bt",
+    "red"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true
+ }
+}

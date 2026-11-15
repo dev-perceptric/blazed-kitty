@@ -22,6 +22,37 @@ def marker(a):
     return (g > 150) & (g - r > 70) & (g - b > 70)
 
 
+def smooth_fill(a1, m):
+    """Fill the masked area by blending straight across from the fabric on each side (rows and columns),
+    which keeps fabric shading smooth with no streaks or diamond shapes."""
+    a = a1.astype(float); out = a.copy()
+    import cv2
+    blur = cv2.GaussianBlur(a1, (0, 0), 2).astype(float)
+    ys, xs = np.nonzero(m)
+    if not len(ys): return out
+    H = np.zeros_like(a); V = np.zeros_like(a); wh = np.zeros(m.shape); wv = np.zeros(m.shape)
+    for y in range(ys.min(), ys.max() + 1):
+        row = np.nonzero(m[y])[0]
+        if not len(row): continue
+        l, r = row.min(), row.max()
+        L_ = blur[y, max(0, l - 4)]; R_ = blur[y, min(m.shape[1] - 1, r + 4)]
+        t = (np.arange(l, r + 1) - l) / max(1, r - l)
+        H[y, l:r + 1] = L_ * (1 - t)[:, None] + R_ * t[:, None]
+        d = np.minimum(np.arange(l, r + 1) - l, r - np.arange(l, r + 1)) + 1; wh[y, l:r + 1] = 1.0 / d
+    for x in range(xs.min(), xs.max() + 1):
+        col = np.nonzero(m[:, x])[0]
+        if not len(col): continue
+        t0, b0 = col.min(), col.max()
+        T_ = blur[max(0, t0 - 4), x]; B_ = blur[min(m.shape[0] - 1, b0 + 4), x]
+        t = (np.arange(t0, b0 + 1) - t0) / max(1, b0 - t0)
+        V[t0:b0 + 1, x] = T_ * (1 - t)[:, None] + B_ * t[:, None]
+        d = np.minimum(np.arange(t0, b0 + 1) - t0, b0 - np.arange(t0, b0 + 1)) + 1; wv[t0:b0 + 1, x] = 1.0 / d
+    w = (wh + wv)[..., None] + 1e-9
+    fill = (H * wh[..., None] + V * wv[..., None]) / w
+    out[m] = fill[m]
+    return out
+
+
 def process(f):
     n = os.path.basename(f)[:-4]
     m = re.match(r'tpl_(\d+)_([a-z]+)_(\d+)', n)
@@ -53,8 +84,7 @@ def process(f):
     a1 = np.asarray(Image.open(f).convert('RGB'))
     mk1 = marker(a1.astype(float)).astype('uint8') * 255
     mk1 = cv2.dilate(mk1, np.ones((7, 7), np.uint8))
-    inp = cv2.inpaint(cv2.cvtColor(a1, cv2.COLOR_RGB2BGR), mk1, 7, cv2.INPAINT_TELEA)
-    inp = cv2.cvtColor(inp, cv2.COLOR_BGR2RGB).astype(float)
+    inp = smooth_fill(a1, mk1 > 0)
     ring = cv2.dilate(mk1, np.ones((41, 41), np.uint8)) & ~mk1
     hp = a1.astype(float) - cv2.GaussianBlur(a1, (0, 0), 2).astype(float)
     sd = hp[ring > 0].std(0) if (ring > 0).any() else np.zeros(3)
@@ -80,8 +110,11 @@ if __name__ == '__main__':
     for f in files:
         n, entry, why = process(f)
         if entry:
+            if n in lib and lib[n].get('ok') is False and lib[n].get('template'): entry['ok'] = False   # keep manual removals
             lib[n] = entry; good += 1
         else:
             lib.pop(n, None); bad += 1; print('reject', n, why, flush=True)
+    for k in json.load(open(f'{LIB}/blocked.json')):          # permanent removals
+        if k in lib: lib[k]['ok'] = False
     json.dump(lib, open(f'{LIB}/library.json', 'w'), indent=1)
     print('templates ok', good, 'rejected', bad)

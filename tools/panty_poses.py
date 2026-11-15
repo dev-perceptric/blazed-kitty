@@ -33,8 +33,9 @@ def r2(path, key):
 
 if __name__ == '__main__':
     L = json.load(open(f'{LIB}/library.json'))
+    BLOCK = set(json.load(open(f'{LIB}/blocked.json')))
     def whiteish(v): r = v.get('fabric_rgb') or [0, 0, 0]; return min(r) > 160 and max(r) - min(r) < 13
-    tpl = sorted(k for k, v in L.items() if k.startswith('tpl_669_white_1') and v.get('ok') and not v.get('recolored_from') and whiteish(v))
+    tpl = sorted(k for k, v in L.items() if k.startswith('tpl_669_white_1') and v.get('ok') and not v.get('recolored_from') and whiteish(v) and k not in BLOCK)
     print('dropped (not white fabric):', sorted(k for k, v in L.items() if k.startswith('tpl_669_white_1') and not v.get('recolored_from') and not whiteish(v)))
     poses = {}
     for k in tpl: poses.setdefault((int(k.rsplit('_', 1)[1]) - 100) // 3, []).append(k)
@@ -46,7 +47,9 @@ if __name__ == '__main__':
         recolor(k, 'black', L)
     json.dump(L, open(f'{LIB}/library.json', 'w'), indent=1)
 
-    jobs = [(d, v) for drop, d, v, pid, white in plan() if pid == 669]
+    _e = open('/home/user/brand/tools/expand.py').read(); _eg = {}
+    exec(_e[:_e.rindex("if __name__ == '__main__':")].replace("MODE = sys.argv[1] if len(sys.argv) > 1 else 'plan'", "MODE = 'plan'"), _eg)
+    jobs = [(d, v) for drop, d, v, pid in _eg['jobs']() if pid == 669]
     print('panties', len(jobs), flush=True)
 
     def one(ix_job):
@@ -59,15 +62,19 @@ if __name__ == '__main__':
             pool = [(pose, k.replace('_white_', '_black_')) for pose, k in pool if k.replace('_white_', '_black_') in L and pose != 0]   # no jeans pose on black
         seen, picks = set(), []
         for step in range(len(pool)):
-            pose, k = pool[(i * 5 + step * 7) % len(pool)]
+            pose, k = pool[(i * 5 + step) % len(pool)]
             if pose in seen: continue
             seen.add(pose); picks.append(k)
             if len(picks) == 3: break
+        for step in range(len(pool)):          # fewer than 3 poses available: fill with other models
+            if len(picks) == 3: break
+            k = pool[(i * 5 + step) % len(pool)][1]
+            if k not in picks: picks.append(k)
         for j, k in enumerate(picks):
             out = f'{OUT}/{sl}__{j}.jpg'
             apply(L[k], f'/home/user/brand/ck/print/{d}.png', v['color'], out, crop=False)
             Image.open(out).convert('RGB').resize((1600, 2000), Image.LANCZOS).save(out, quality=90)
-            urls.append(r2(out, f'site/web/models/{sl}-pose{j}.jpg'))
+            urls.append(r2(out, f'site/web/models/{sl}-p{j}v6.jpg'))
         return sl, urls
 
     with ThreadPoolExecutor(6) as ex:
@@ -75,7 +82,7 @@ if __name__ == '__main__':
     M = json.load(open(MODELS_P))
     for sl, urls in res:
         old = M.get(sl); old = old if isinstance(old, list) else ([old] if old else [])
-        old = [u for u in old if '-pose' not in u]
+        old = [u for u in old if '-pose' not in u and not re.search(r'-p\dv\d', u)]
         M[sl] = urls + old[-1:]
     json.dump(M, open(MODELS_P, 'w'), indent=1)
     print('done', len(res))
