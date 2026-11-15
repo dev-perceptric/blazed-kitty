@@ -141,3 +141,47 @@ if __name__ == '__main__':
     lib = build(paths)
     ok = [k for k, v in lib.items() if v['ok']]
     print('blanks', len(lib), 'clean', len(ok))
+
+
+# ---- true-scale paste -------------------------------------------------------------------------
+# Visible chest width of each garment when worn (inches) and how wide the print really is on it.
+GARMENT_IN = {967: 15.0, 780: 13.0, 1579: 19.0, 71: 19.0, 248: 18.0}
+FILE_SCALE = {967: 1.0, 780: 0.86, 1579: 1.0, 71: 1.0, 248: 1.0}   # print file -> garment (tank file is shrunk)
+
+
+def garment_width(a, blank):
+    """Width in px of the garment across the chest, measured around the print box center."""
+    b = blank['box']; cx = int(b['x'] + b['w'] / 2); cy = int(b['y'] + b['h'] / 2)
+    sm = np.asarray(Image.fromarray(np.clip(a, 0, 255).astype('uint8')).filter(ImageFilter.GaussianBlur(3))).astype(float)
+    fab = np.median(sm[b['y']:b['y'] + b['h'], b['x']:b['x'] + b['w']].reshape(-1, 3), 0)
+    ws = []
+    fl = fab.mean() + 1e-6; fc = fab / (fab.sum() + 1e-6)
+    for y in range(max(0, cy - 80), min(a.shape[0], cy + 81), 8):
+        px = sm[y]; lum = px.mean(-1) / fl; ch = px / (px.sum(-1, keepdims=True) + 1e-6)
+        row = (np.abs(ch - fc).sum(-1) < 0.06) & (lum > 0.45) & (lum < 1.35)
+        if fab.mean() < 60:   # dark fabric: chroma is noisy, use brightness only
+            row = px.mean(-1) < fab.mean() + 45
+        l = cx
+        while l > 0 and row[l - 1]: l -= 1
+        r = cx
+        while r < a.shape[1] - 1 and row[r + 1]: r += 1
+        if row[cx]: ws.append(r - l)
+    if not ws: return None
+    w = float(np.median(ws))
+    return float(np.clip(w, 1.6 * b['w'], 4.5 * b['w']))
+
+
+def apply_true(blank, design_png, ink_hex, out_path, crop=True):
+    """Like apply(), but the print is sized to its real width on the garment."""
+    pid = blank['pid']
+    if pid not in GARMENT_IN:
+        return apply(blank, design_png, ink_hex, out_path, crop)
+    a = np.asarray(Image.open(blank['file']).convert('RGB')).astype(float)
+    gw = garment_width(a, blank)
+    design = Image.open(design_png); design = design.crop(design.getbbox())
+    ppi = gw / GARMENT_IN[pid]
+    target_w = design.width / 300 * FILE_SCALE[pid] * ppi
+    b = dict(blank['box']); cx = b['x'] + b['w'] / 2
+    s = target_w / design.width
+    nb = dict(blank, box=dict(x=int(cx - target_w / 2), y=int(b['y'] - 0.1 * b['h']), w=int(target_w), h=int(design.height * s), ang=b['ang']))
+    return apply(nb, design_png, ink_hex, out_path, crop)

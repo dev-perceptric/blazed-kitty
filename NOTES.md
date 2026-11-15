@@ -100,3 +100,5 @@
 - NOTE: another Claude session rebuilt the store (Women/Men, lines, lib/taxonomy.ts). Use the repo's scripts/build_catalog.py, not the old tools copy.
 - String-bottom (669) prints must sit inside Printful's dotted safe area (front piece). tools/panty_refit.py fits each design as big as it goes. Product photos now 2000px (Printful max) -> 1600px web copies.
 - Font picks from owner: DM Serif Display Italic, Abril Fatface, Source Serif Black Italic, Zilla Slab Bold, Space Grotesk Bold, Unbounded Black (+ CK look-alikes). Pirata One is OUT.
+- PRINT SIZE (owner, 2026-11-15): real prints must match model photos. Tops use BIG files: ck/print_big (render with BIG=1 OUT=... node ck_render.js). Widest line 8.0in, caps max 2.2in, x-height max 1.5in, block max 6in. Tank file = 0.86 scale. printful_sync uses print_big automatically. Panties keep panty_669 files.
+- Templates: tpl_gen.py (green marker #00FF00 on garment) -> tpl_lib.py (finds marker, inpaints it, adds to library.json). 184 batch: women color gaps + men tee 71 / tank 248 / boxers 428.
