@@ -3,7 +3,8 @@
   "font": "Caprasimo-400-normal",
   "color": "#FF4F9A",
   "lines": [
-   "spank me"
+   "spank",
+   "me"
   ],
   "tops": [
    [
@@ -16,71 +17,75 @@
    ]
   ],
   "panty": true,
-  "afterDark": true
+  "afterDark": true,
+  "scale": 1.5
  },
  "eatme": {
   "font": "Yellowtail-400-normal",
-  "color": "#C81E32",
+  "color": "#FFFFFF",
   "lines": [
    "Eat Me"
   ],
   "tops": [
    [
-    "bt",
-    "red"
+    "tk",
+    "black"
    ],
    [
-    "tk",
-    "white"
+    "ct",
+    "washedblack"
    ]
   ],
   "panty": true,
-  "afterDark": true
+  "afterDark": true,
+  "scale": 1.6
  },
  "princess": {
   "font": "LibreBaskerville-700-italic",
-  "color": "#FF4F9A",
+  "color": "#9FD3F5",
   "lines": [
    "princess"
   ],
   "tops": [
    [
-    "bt",
-    "pink"
+    "tk",
+    "navy"
    ],
    [
-    "tk",
-    "white"
+    "ct",
+    "washedblack"
    ]
   ],
   "panty": true,
-  "afterDark": false
+  "afterDark": false,
+  "scale": 1.5
  },
  "goodgirl": {
   "font": "DMSerifDisplay-400-italic",
-  "color": "#1A1A1A",
+  "color": "#FF4F9A",
   "lines": [
    "good girl"
   ],
   "tops": [
    [
     "bt",
-    "black"
+    "pink"
    ],
    [
     "tk",
-    "heather"
+    "white"
    ]
   ],
   "panty": true,
-  "afterDark": false
+  "afterDark": false,
+  "scale": 1.4
  },
  "ftp": {
   "font": "RoadRage-400-normal",
   "color": "#1A1A1A",
   "lines": [
-   "FUCK",
-   "THE POLICE"
+   "FUCK THE",
+   "POLICE"
   ],
   "tops": [
    [
@@ -93,7 +98,8 @@
    ]
   ],
   "panty": true,
-  "afterDark": false
+  "afterDark": false,
+  "scale": 1.35
  },
  "fucktoy": {
   "font": "PlayfairDisplay-900-italic",
@@ -117,7 +123,7 @@
  },
  "lovesorgasms": {
   "font": "AbrilFatface-400-normal",
-  "color": "#C81E32",
+  "color": "#7B3FE4",
   "lines": [
    "This Pussy",
    "Loves Orgasms"
@@ -125,7 +131,7 @@
   "tops": [
    [
     "bt",
-    "red"
+    "babyblue"
    ],
    [
     "tk",
@@ -137,26 +143,27 @@
  },
  "cumslot": {
   "font": "Unbounded-900-normal",
-  "color": "#1A1A1A",
+  "color": "#FFFFFF",
   "lines": [
    "CUMSLOT"
   ],
   "tops": [
    [
-    "bt",
+    "tk",
     "black"
    ],
    [
-    "tk",
-    "heather"
+    "ct",
+    "washedblack"
    ]
   ],
   "panty": true,
-  "afterDark": true
+  "afterDark": true,
+  "scale": 1.3
  },
  "fillme": {
   "font": "SourceSerif4-900-italic",
-  "color": "#FF4F9A",
+  "color": "#C81E32",
   "lines": [
    "fill me",
    "with cum"
@@ -164,7 +171,7 @@
   "tops": [
    [
     "bt",
-    "pink"
+    "red"
    ],
    [
     "tk",
@@ -176,10 +183,52 @@
  },
  "sitonmyface": {
   "font": "Anton-400-normal",
+  "color": "#1A1A1A",
+  "lines": [
+   "SIT",
+   "ON MY",
+   "FACE"
+  ],
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "tk",
+    "heather"
+   ]
+  ],
+  "panty": true,
+  "afterDark": true,
+  "scale": 1.45
+ },
+ "chokeme": {
+  "font": "Tinos-700-italic",
+  "color": "#7B3FE4",
+  "lines": [
+   "choke me,",
+   "daddy"
+  ],
+  "tops": [
+   [
+    "bt",
+    "babyblue"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true,
+  "afterDark": true
+ },
+ "ruinme": {
+  "font": "Cinzel-900-normal",
   "color": "#C81E32",
   "lines": [
-   "SIT ON",
-   "MY FACE"
+   "RUIN",
+   "ME"
   ],
   "tops": [
    [
@@ -192,52 +241,35 @@
    ]
   ],
   "panty": true,
-  "afterDark": true
- },
- "chokeme": {
-  "font": "Tinos-700-italic",
-  "color": "#1A1A1A",
-  "lines": [
-   "choke me,",
-   "daddy"
-  ],
-  "tops": [
-   [
-    "bt",
-    "black"
-   ],
-   [
-    "tk",
-    "heather"
-   ]
-  ],
-  "panty": true,
-  "afterDark": true
- },
- "ruinme": {
-  "font": "Cinzel-900-normal",
-  "color": "#1A1A1A",
-  "lines": [
-   "RUIN ME"
-  ],
-  "tops": [
-   [
-    "bt",
-    "black"
-   ],
-   [
-    "tk",
-    "heather"
-   ]
-  ],
-  "panty": true,
-  "afterDark": true
+  "afterDark": true,
+  "scale": 1.3
  },
  "useme": {
   "font": "ArchivoBlack-400-normal",
+  "color": "#FFFFFF",
+  "lines": [
+   "USE",
+   "ME"
+  ],
+  "tops": [
+   [
+    "tk",
+    "black"
+   ],
+   [
+    "ct",
+    "washedblack"
+   ]
+  ],
+  "panty": true,
+  "afterDark": true,
+  "scale": 1.4
+ },
+ "brat": {
+  "font": "Caprasimo-400-normal",
   "color": "#FF4F9A",
   "lines": [
-   "USE ME"
+   "brat"
   ],
   "tops": [
    [
@@ -250,13 +282,14 @@
    ]
   ],
   "panty": true,
-  "afterDark": true
+  "afterDark": false,
+  "scale": 2
  },
- "brat": {
-  "font": "Caprasimo-400-normal",
+ "obey": {
+  "font": "Arimo-700-normal",
   "color": "#C81E32",
   "lines": [
-   "brat"
+   "OBEY"
   ],
   "tops": [
    [
@@ -269,26 +302,8 @@
    ]
   ],
   "panty": true,
-  "afterDark": false
- },
- "obey": {
-  "font": "Arimo-700-normal",
-  "color": "#1A1A1A",
-  "lines": [
-   "OBEY"
-  ],
-  "tops": [
-   [
-    "bt",
-    "black"
-   ],
-   [
-    "tk",
-    "heather"
-   ]
-  ],
-  "panty": true,
-  "afterDark": true
+  "afterDark": true,
+  "scale": 1.8
  },
  "iswallow": {
   "font": "Yellowtail-400-normal",
@@ -307,52 +322,36 @@
    ]
   ],
   "panty": true,
-  "afterDark": true
+  "afterDark": true,
+  "scale": 1.3
  },
  "open247": {
   "font": "SpaceGrotesk-700-normal",
-  "color": "#C81E32",
+  "color": "#9FD3F5",
   "lines": [
-   "open 24/7"
+   "open",
+   "24/7"
   ],
   "tops": [
    [
-    "bt",
-    "red"
+    "tk",
+    "navy"
    ],
    [
-    "tk",
-    "white"
+    "ct",
+    "washedblack"
    ]
   ],
   "panty": true,
-  "afterDark": true
+  "afterDark": true,
+  "scale": 1.3
  },
  "breedme": {
   "font": "BarlowCondensed-800-italic",
-  "color": "#FF4F9A",
-  "lines": [
-   "BREED ME"
-  ],
-  "tops": [
-   [
-    "bt",
-    "pink"
-   ],
-   [
-    "tk",
-    "white"
-   ]
-  ],
-  "panty": true,
-  "afterDark": true
- },
- "fuckmestupid": {
-  "font": "ZillaSlab-700-normal",
   "color": "#1A1A1A",
   "lines": [
-   "fuck me",
-   "stupid"
+   "BREED",
+   "ME"
   ],
   "tops": [
    [
@@ -365,11 +364,32 @@
    ]
   ],
   "panty": true,
+  "afterDark": true,
+  "scale": 1.4
+ },
+ "fuckmestupid": {
+  "font": "ZillaSlab-700-normal",
+  "color": "#FFFFFF",
+  "lines": [
+   "fuck me",
+   "stupid"
+  ],
+  "tops": [
+   [
+    "tk",
+    "black"
+   ],
+   [
+    "ct",
+    "washedblack"
+   ]
+  ],
+  "panty": true,
   "afterDark": true
  },
  "prettycry": {
   "font": "LibreBaskerville-700-italic",
-  "color": "#FF4F9A",
+  "color": "#7B3FE4",
   "lines": [
    "pretty when",
    "i cry"
@@ -377,7 +397,7 @@
   "tops": [
    [
     "bt",
-    "pink"
+    "babyblue"
    ],
    [
     "tk",
@@ -391,7 +411,8 @@
   "font": "DMSerifDisplay-400-italic",
   "color": "#C81E32",
   "lines": [
-   "sorry daddy"
+   "sorry",
+   "daddy"
   ],
   "tops": [
    [
@@ -404,32 +425,14 @@
    ]
   ],
   "panty": true,
-  "afterDark": true
+  "afterDark": true,
+  "scale": 1.3
  },
  "ibite": {
   "font": "RoadRage-400-normal",
-  "color": "#C81E32",
-  "lines": [
-   "I BITE"
-  ],
-  "tops": [
-   [
-    "bt",
-    "red"
-   ],
-   [
-    "tk",
-    "white"
-   ]
-  ],
-  "panty": true,
-  "afterDark": true
- },
- "grabit": {
-  "font": "Unbounded-900-normal",
   "color": "#FF4F9A",
   "lines": [
-   "GRAB IT"
+   "I BITE"
   ],
   "tops": [
    [
@@ -442,13 +445,15 @@
    ]
   ],
   "panty": true,
-  "afterDark": true
+  "afterDark": true,
+  "scale": 1.8
  },
- "cumhere": {
-  "font": "Arimo-700-normal",
+ "grabit": {
+  "font": "Unbounded-900-normal",
   "color": "#1A1A1A",
   "lines": [
-   "CUM HERE ↓"
+   "GRAB",
+   "IT"
   ],
   "tops": [
    [
@@ -461,26 +466,48 @@
    ]
   ],
   "panty": true,
-  "afterDark": true
+  "afterDark": true,
+  "scale": 1.2
+ },
+ "cumhere": {
+  "font": "Arimo-700-normal",
+  "color": "#FFFFFF",
+  "lines": [
+   "CUM HERE ↓"
+  ],
+  "tops": [
+   [
+    "tk",
+    "black"
+   ],
+   [
+    "ct",
+    "washedblack"
+   ]
+  ],
+  "panty": true,
+  "afterDark": true,
+  "scale": 1.2
  },
  "squirt": {
   "font": "AbrilFatface-400-normal",
-  "color": "#FF4F9A",
+  "color": "#9FD3F5",
   "lines": [
    "Squirt"
   ],
   "tops": [
    [
-    "bt",
-    "pink"
+    "tk",
+    "navy"
    ],
    [
-    "tk",
-    "white"
+    "ct",
+    "washedblack"
    ]
   ],
   "panty": true,
-  "afterDark": true
+  "afterDark": true,
+  "scale": 1.7
  },
  "mommyslut": {
   "font": "LibreFranklin-900-italic",
@@ -504,29 +531,10 @@
  },
  "knees": {
   "font": "PlayfairDisplay-900-italic",
-  "color": "#1A1A1A",
+  "color": "#FF4F9A",
   "lines": [
    "knees",
    "for you"
-  ],
-  "tops": [
-   [
-    "bt",
-    "black"
-   ],
-   [
-    "tk",
-    "heather"
-   ]
-  ],
-  "panty": true,
-  "afterDark": true
- },
- "legalizeme": {
-  "font": "Anton-400-normal",
-  "color": "#FF4F9A",
-  "lines": [
-   "LEGALIZE ME"
   ],
   "tops": [
    [
@@ -539,18 +547,40 @@
    ]
   ],
   "panty": true,
-  "afterDark": false
+  "afterDark": true
  },
- "highhorny": {
-  "font": "Caprasimo-400-normal",
-  "color": "#FF4F9A",
+ "legalizeme": {
+  "font": "Anton-400-normal",
+  "color": "#1A1A1A",
   "lines": [
-   "high & horny"
+   "LEGALIZE",
+   "ME"
   ],
   "tops": [
    [
     "bt",
-    "pink"
+    "black"
+   ],
+   [
+    "tk",
+    "heather"
+   ]
+  ],
+  "panty": true,
+  "afterDark": false,
+  "scale": 1.5
+ },
+ "highhorny": {
+  "font": "Caprasimo-400-normal",
+  "color": "#7B3FE4",
+  "lines": [
+   "high &",
+   "horny"
+  ],
+  "tops": [
+   [
+    "bt",
+    "babyblue"
    ],
    [
     "tk",
@@ -562,7 +592,7 @@
  },
  "sluttystoned": {
   "font": "SourceSerif4-900-italic",
-  "color": "#C81E32",
+  "color": "#FF4F9A",
   "lines": [
    "slutty but",
    "stoned"
@@ -570,7 +600,7 @@
   "tops": [
    [
     "bt",
-    "red"
+    "pink"
    ],
    [
     "tk",
@@ -582,19 +612,19 @@
  },
  "dirtystoner": {
   "font": "Cinzel-900-normal",
-  "color": "#FF4F9A",
+  "color": "#FFFFFF",
   "lines": [
    "DIRTY LITTLE",
    "STONER"
   ],
   "tops": [
    [
-    "bt",
-    "pink"
+    "tk",
+    "black"
    ],
    [
-    "tk",
-    "white"
+    "ct",
+    "washedblack"
    ]
   ],
   "panty": true,
@@ -602,7 +632,7 @@
  },
  "slutweed": {
   "font": "ArchivoBlack-400-normal",
-  "color": "#1A1A1A",
+  "color": "#C81E32",
   "lines": [
    "SLUT",
    "FOR WEED"
@@ -610,46 +640,7 @@
   "tops": [
    [
     "bt",
-    "black"
-   ],
-   [
-    "tk",
-    "heather"
-   ]
-  ],
-  "panty": true,
-  "afterDark": true
- },
- "wetwasted": {
-  "font": "Yellowtail-400-normal",
-  "color": "#1A1A1A",
-  "lines": [
-   "Wet & Wasted"
-  ],
-  "tops": [
-   [
-    "bt",
-    "black"
-   ],
-   [
-    "tk",
-    "heather"
-   ]
-  ],
-  "panty": true,
-  "afterDark": true
- },
- "onehit": {
-  "font": "Tinos-700-italic",
-  "color": "#FF4F9A",
-  "lines": [
-   "one hit and",
-   "i’m yours"
-  ],
-  "tops": [
-   [
-    "bt",
-    "pink"
+    "red"
    ],
    [
     "tk",
@@ -659,9 +650,49 @@
   "panty": true,
   "afterDark": true
  },
+ "wetwasted": {
+  "font": "Yellowtail-400-normal",
+  "color": "#9FD3F5",
+  "lines": [
+   "Wet &",
+   "Wasted"
+  ],
+  "tops": [
+   [
+    "tk",
+    "navy"
+   ],
+   [
+    "ct",
+    "washedblack"
+   ]
+  ],
+  "panty": true,
+  "afterDark": true
+ },
+ "onehit": {
+  "font": "Tinos-700-italic",
+  "color": "#1A1A1A",
+  "lines": [
+   "one hit and",
+   "i’m yours"
+  ],
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "tk",
+    "heather"
+   ]
+  ],
+  "panty": true,
+  "afterDark": true
+ },
  "lickblunt": {
   "font": "SpaceGrotesk-700-normal",
-  "color": "#FF4F9A",
+  "color": "#C81E32",
   "lines": [
    "lick it like",
    "a blunt"
@@ -669,7 +700,7 @@
   "tops": [
    [
     "bt",
-    "pink"
+    "red"
    ],
    [
     "tk",
@@ -681,7 +712,7 @@
  },
  "bendover": {
   "font": "ZillaSlab-700-normal",
-  "color": "#C81E32",
+  "color": "#FF4F9A",
   "lines": [
    "bend me over,",
    "pass the bowl"
@@ -689,7 +720,7 @@
   "tops": [
    [
     "bt",
-    "red"
+    "pink"
    ],
    [
     "tk",
@@ -701,30 +732,10 @@
  },
  "tieme": {
   "font": "DMSerifDisplay-400-italic",
-  "color": "#FF4F9A",
+  "color": "#1A1A1A",
   "lines": [
    "tie me up,",
    "light me up"
-  ],
-  "tops": [
-   [
-    "bt",
-    "pink"
-   ],
-   [
-    "tk",
-    "white"
-   ]
-  ],
-  "panty": true,
-  "afterDark": true
- },
- "rollmeone": {
-  "font": "LibreFranklin-900-italic",
-  "color": "#1A1A1A",
-  "lines": [
-   "make me cum,",
-   "then roll me one"
   ],
   "tops": [
    [
@@ -739,32 +750,12 @@
   "panty": true,
   "afterDark": true
  },
- "deepthroat": {
-  "font": "BarlowCondensed-800-italic",
-  "color": "#C81E32",
-  "lines": [
-   "DEEP THROAT,",
-   "DEEP INHALE"
-  ],
-  "tops": [
-   [
-    "bt",
-    "red"
-   ],
-   [
-    "tk",
-    "white"
-   ]
-  ],
-  "panty": true,
-  "afterDark": true
- },
- "dodab": {
-  "font": "RoadRage-400-normal",
+ "rollmeone": {
+  "font": "LibreFranklin-900-italic",
   "color": "#FF4F9A",
   "lines": [
-   "DO ME",
-   "& DAB"
+   "make me cum,",
+   "then roll me one"
   ],
   "tops": [
    [
@@ -779,9 +770,51 @@
   "panty": true,
   "afterDark": true
  },
+ "deepthroat": {
+  "font": "BarlowCondensed-800-italic",
+  "color": "#FFFFFF",
+  "lines": [
+   "DEEP THROAT,",
+   "DEEP INHALE"
+  ],
+  "tops": [
+   [
+    "tk",
+    "black"
+   ],
+   [
+    "ct",
+    "washedblack"
+   ]
+  ],
+  "panty": true,
+  "afterDark": true,
+  "scale": 1.2
+ },
+ "dodab": {
+  "font": "RoadRage-400-normal",
+  "color": "#7B3FE4",
+  "lines": [
+   "DO ME",
+   "& DAB"
+  ],
+  "tops": [
+   [
+    "bt",
+    "babyblue"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true,
+  "afterDark": true,
+  "scale": 1.5
+ },
  "tonguetied": {
   "font": "LibreBaskerville-700-italic",
-  "color": "#C81E32",
+  "color": "#FF4F9A",
   "lines": [
    "tongue tied,",
    "fully baked"
@@ -789,7 +822,7 @@
   "tops": [
    [
     "bt",
-    "red"
+    "pink"
    ],
    [
     "tk",
@@ -801,29 +834,10 @@
  },
  "illegal": {
   "font": "AbrilFatface-400-normal",
-  "color": "#1A1A1A",
+  "color": "#C81E32",
   "lines": [
    "Pussy So Good",
    "It’s Illegal"
-  ],
-  "tops": [
-   [
-    "bt",
-    "black"
-   ],
-   [
-    "tk",
-    "heather"
-   ]
-  ],
-  "panty": true,
-  "afterDark": true
- },
- "dessert": {
-  "font": "PlayfairDisplay-900-italic",
-  "color": "#C81E32",
-  "lines": [
-   "i’m the dessert"
   ],
   "tops": [
    [
@@ -838,9 +852,29 @@
   "panty": true,
   "afterDark": true
  },
+ "dessert": {
+  "font": "PlayfairDisplay-900-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "i’m the",
+   "dessert"
+  ],
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true,
+  "afterDark": true
+ },
  "sapphicslut": {
   "font": "Unbounded-900-normal",
-  "color": "#C81E32",
+  "color": "#7B3FE4",
   "lines": [
    "SAPPHIC",
    "SLUT"
@@ -848,7 +882,7 @@
   "tops": [
    [
     "bt",
-    "red"
+    "babyblue"
    ],
    [
     "tk",
@@ -880,10 +914,30 @@
  },
  "propmommy": {
   "font": "Cinzel-900-normal",
-  "color": "#C81E32",
+  "color": "#FFFFFF",
   "lines": [
    "PROPERTY",
    "OF MOMMY"
+  ],
+  "tops": [
+   [
+    "tk",
+    "black"
+   ],
+   [
+    "ct",
+    "washedblack"
+   ]
+  ],
+  "panty": true,
+  "afterDark": true
+ },
+ "gfsfav": {
+  "font": "SourceSerif4-900-italic",
+  "color": "#C81E32",
+  "lines": [
+   "your girlfriend’s",
+   "favorite"
   ],
   "tops": [
    [
@@ -898,32 +952,32 @@
   "panty": true,
   "afterDark": true
  },
- "gfsfav": {
-  "font": "SourceSerif4-900-italic",
-  "color": "#1A1A1A",
+ "wifeyslut": {
+  "font": "ZillaSlab-700-normal",
+  "color": "#9FD3F5",
   "lines": [
-   "your girlfriend’s",
-   "favorite"
+   "wifey material,",
+   "slut energy"
   ],
   "tops": [
    [
-    "bt",
-    "black"
+    "tk",
+    "navy"
    ],
    [
-    "tk",
-    "heather"
+    "ct",
+    "washedblack"
    ]
   ],
   "panty": true,
   "afterDark": true
  },
- "wifeyslut": {
-  "font": "ZillaSlab-700-normal",
+ "tastebetter": {
+  "font": "Yellowtail-400-normal",
   "color": "#FF4F9A",
   "lines": [
-   "wifey material,",
-   "slut energy"
+   "Girls Taste",
+   "Better"
   ],
   "tops": [
    [
@@ -938,44 +992,25 @@
   "panty": true,
   "afterDark": true
  },
- "tastebetter": {
-  "font": "Yellowtail-400-normal",
-  "color": "#C81E32",
-  "lines": [
-   "Girls Taste",
-   "Better"
-  ],
-  "tops": [
-   [
-    "bt",
-    "red"
-   ],
-   [
-    "tk",
-    "white"
-   ]
-  ],
-  "panty": true,
-  "afterDark": true
- },
  "afterdark": {
   "font": "Anton-400-normal",
-  "color": "#1A1A1A",
+  "color": "#FFFFFF",
   "lines": [
    "AFTER DARK",
    "ONLY"
   ],
   "tops": [
    [
-    "bt",
+    "tk",
     "black"
    ],
    [
-    "tk",
-    "heather"
+    "ct",
+    "washedblack"
    ]
   ],
   "panty": true,
-  "afterDark": true
+  "afterDark": true,
+  "scale": 1.45
  }
 }
