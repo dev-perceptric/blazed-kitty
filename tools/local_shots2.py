@@ -13,7 +13,7 @@ _l = open('/home/user/brand/tools/local_shots.py').read()
 _g = {}
 exec(_l[:_l.index("if __name__ == '__main__':")], _g)       # compose(), tpl_image(), r2()
 compose, tpl_image, r2, TPL = _g['compose'], _g['tpl_image'], _g['r2'], _g['TPL']
-PLACEMENT = {967: 'front', 780: 'front', 1579: 'front_dtf', 71: 'front', 248: 'front', 317: 'front', 892: 'front'}
+PLACEMENT = {636: 'front', 967: 'front', 780: 'front', 1579: 'front_dtf', 71: 'front', 248: 'front', 317: 'front', 892: 'front'}
 SHOTS_P = '/home/user/brand/ck/site_shots.json'
 
 
@@ -50,7 +50,10 @@ if __name__ == '__main__':
         for c in cols:
             t = VM[pid].get(next(x['id'] for x in CAT[pid] if x['color'] == c))
             if not t: continue
-            shots.append({'src': r2(compose(t, f, v['color']), f'site/products/{sl}/{slug(c)}-big.jpg'), 'color': c, 'style': 'Ghost', 'option': 'Front'})
+            try:
+                shots.append({'src': r2(compose(t, f, v['color']), f'site/products/{sl}/{slug(c)}-big.jpg'), 'color': c, 'style': 'Ghost', 'option': 'Front'})
+            except Exception as e:
+                print('photo failed', sl, c, str(e)[:80], flush=True)
         return sl, {'name': ids[sl][1], 'printful_id': ids[sl][0], 'product_id': pid, 'colors': cols, 'shots': shots}
 
     with ThreadPoolExecutor(6) as ex:

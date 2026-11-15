@@ -7,6 +7,7 @@ while true; do
   echo "== $(date +%H:%M) cycle" >> $LOG
   python3 -I local_shots2.py >> $LOG 2>&1
   python3 -I models_expand.py >> $LOG 2>&1
+  python3 -I audit_models.py fix >> $LOG 2>&1
   python3 -I web_images.py shots >> $LOG 2>&1
   cd /home/user/blazed-kitty
   python3 scripts/build_catalog.py >> $LOG 2>&1

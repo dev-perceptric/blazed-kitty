@@ -19,6 +19,7 @@ def r2(data,key):
     urllib.request.urlopen(urllib.request.Request(url,data=data,method='PUT',headers={'Authorization':'Bearer dummy','Content-Type':'image/jpeg'}),timeout=120); return f'{PUB}/{key}'
 def slug(s): return re.sub(r'[^a-z0-9]+','-',s.lower().replace('’','').replace("'",'')).strip('-')
 man=json.load(open(OUT)) if os.path.exists(OUT) else {}
+PP='/home/user/brand/ck/print_big/pushed.json'; PUSHED=set(json.load(open(PP))) if os.path.exists(PP) else set()
 prods=[]; off=0
 while True:
     r=pf('GET',f'/store/products?limit=100&offset={off}')['result']; prods+=r
@@ -34,6 +35,7 @@ for p in prods:
     for v in sv:
         c=v.get('color') or 'White'
         if c not in bycolor or v.get('size') in ('M','S'): bycolor[c]=v['product']['variant_id']
+    if pid not in (669, 872): continue   # only panties use Printful photos; everything else is made locally
     w,h=AREA[pid]; groups,opts=STY[pid]
     pos={'area_width':w,'area_height':h,'width':w,'height':h,'top':0,'left':0}
     files=[{'placement':f['type'],'image_url':f['url'],'position':pos} for f in sv[0]['files'] if f.get('url') and f['type'] not in ('default','preview')] if pid==872 else [{'placement':PLACE[pid],'image_url':url,'position':pos}]

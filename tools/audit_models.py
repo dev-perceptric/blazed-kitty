@@ -14,7 +14,7 @@ exec(_b.replace("if __name__ == '__main__':", "if False:"), g)
 LIB = g['LIB']; L = json.load(open(f'{LIB}/library.json'))
 A = '8954ffc36634674f7163d2a03600e7fb'; PUB = 'https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev'
 D = {}
-for f in ['ck_designs.json', 'ck_designs_drop2.json', 'ck_designs_drop4.json', 'ck_designs_drop5.json']:
+for f in ['ck_designs.json', 'ck_designs_drop2.json', 'ck_designs_drop4.json', 'ck_designs_drop5.json', 'ck_designs_drop6.json']:
     D.update(json.load(open('/home/user/brand/tools/' + f)))
 KIND = {'bt': 'Baby Tee', 'tk': 'Rib Tank', 'ct': 'Crop Tee'}
 
@@ -43,7 +43,15 @@ def skin_frac(k, d):
     return float(skin.mean())
 
 
+OVR = '/home/user/brand/ck/expand/model_overrides.json'
+
+
 def items():
+    ovr = json.load(open(OVR)) if os.path.exists(OVR) else {}
+    return [(sl, d, ovr.get(sl, k), L[ovr[sl]]['color'] if sl in ovr and ovr[sl] in L else col) for sl, d, k, col in _items()]
+
+
+def _items():
     out = []
     for lf in ['/home/user/brand/ck/drop4/models/_list.json', '/home/user/brand/ck/drop5/models/_list.json']:
         for o, k in json.load(open(lf)):
@@ -53,10 +61,10 @@ def items():
     if os.path.exists(ub):
         by_slug = {}
         for d, v in D.items():
-            for kind in ('Baby Tee', 'Crop Tee', 'Rib Tank', 'Tee', 'Tank', 'Cropped Hoodie', 'Heavyweight Hoodie'):
+            for kind in ('Baby Tee', 'Fitted Baby Tee', 'Crop Tee', 'Rib Tank', 'Tee', 'Tank', 'Cropped Hoodie', 'Heavyweight Hoodie'):
                 by_slug[slug(f'{title(v)} {kind}')] = d
         for sl, k in json.load(open(ub)).items():
-            if sl in by_slug: out.append((sl, by_slug[sl], k, L[k]['color']))
+            if sl in by_slug and k in L: out.append((sl, by_slug[sl], k, L[k]['color']))
     return out
 
 
@@ -85,4 +93,5 @@ if __name__ == '__main__':
             urllib.request.urlopen(urllib.request.Request(f'https://api.cloudflare.com/client/v4/accounts/{A}/r2/buckets/blazed-kitty/objects/{urllib.parse.quote(key)}',
                                    data=buf.getvalue(), method='PUT', headers={'Authorization': 'Bearer dummy', 'Content-Type': 'image/jpeg'}), timeout=120)
             M[sl] = f'{PUB}/{key}'; print('fixed', sl, k, '->', nk)
+            ovr = json.load(open(OVR)) if os.path.exists(OVR) else {}; ovr[sl] = nk; json.dump(ovr, open(OVR, 'w'), indent=1)
         json.dump(M, open('/home/user/brand/ck/site_models.json', 'w'), indent=1)

@@ -44,7 +44,7 @@ def tpl_image(t):
 def compose(t, print_png, ink_hex):
     base = tpl_image(t).resize((OUT_PX, OUT_PX), Image.LANCZOS)
     a = np.asarray(base).astype(float); rgb, al = a[..., :3], a[..., 3:4] / 255
-    tinted = 'whitebg.png' in t['image_url']
+    tinted = 'whitebg.png' in t['image_url'] and bool(t.get('background_color'))
     s = OUT_PX / t['template_width']
     x, y, w, hh = t['print_area_left'] * s, t['print_area_top'] * s, t['print_area_width'] * s, t['print_area_height'] * s
     pr = np.asarray(Image.open(print_png).convert('RGBA').resize((round(w), round(hh)), Image.LANCZOS)).astype(float)

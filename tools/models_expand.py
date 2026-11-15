@@ -15,6 +15,7 @@ apply_true, LIB = _g['apply_true'], _g['LIB']
 from PIL import Image
 
 LIBCOL = {  # Printful color -> library color name
+    636: {'White': 'white', 'Black': 'black', 'Bubblegum': 'bubblegum'},
     967: {'White/Pink': 'pink', 'White/Red': 'red', 'White/Black': 'black', 'White /True Royal': 'trueroyal', 'White/Baby Blue': 'babyblue', 'White/Navy': 'navy'},
     780: {'Solid White Blend': 'white', 'Solid Baby Blue Blend': 'babyblue', 'Athletic Heather': 'heather', 'Solid Black Blend': 'black', 'Solid Navy Blend': 'navy'},
     1579: {'Vintage White': 'vintagewhite', 'Light Washed Denim': 'lightdenim', 'Washed Black': 'washedblack'},
