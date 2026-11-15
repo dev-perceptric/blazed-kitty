@@ -38,10 +38,10 @@ TYPES = {
     828: ('PJ Top', 'lounge', 'pajamas', W, 'All-Over Print Short Sleeve Pajama Top', 48, ['Soft brushed polyester', 'Button-up with notch collar', 'Printed edge to edge'], True),
     507: ('Biker Shorts', 'lounge', 'shorts', W, 'All-Over Print Biker Shorts', 44, ['Stretchy polyester and spandex', 'High waist', 'Printed edge to edge'], True),
     # Swim and underwear
-    669: ('String Bottom', 'swim', 'panties', W, 'All-Over Print Recycled String Bottom', 30,
-          ['Soft stretchy polyester and elastane, UPF 50+', 'String sides you tie your way', 'Printed edge to edge, then cut and sewn'], True),
+    669: ('String Bottom', 'swim', 'panties', W, 'Printed String Panty', 30,
+          ['Soft, stretchy polyester and elastane', 'Thin side strings you tie your way', 'Printed edge to edge, then cut and sewn', 'Made to order'], True),
     668: ('String Bikini Top', 'swim', 'bikinis', W, 'All-Over Print Padded String Bikini Top', 34, ['Recycled polyester and elastane, UPF 50+', 'Removable padding, ties at neck and back', 'Printed edge to edge'], True),
-    872: ('V-Cut Bottom', 'swim', 'panties', W, 'All-Over Print V-Cut Bikini Bottom', 36, ['Recycled polyester and elastane, UPF 50+', 'High-cut V front', 'Printed edge to edge'], True),
+    872: ('V-Cut Bottom', 'swim', 'panties', W, 'Printed V-Cut Panty', 36, ['Soft, stretchy polyester and elastane', 'High-cut V front, thin side straps', 'Printed edge to edge, then cut and sewn', 'Made to order'], True),
     870: ('Bandeau Bikini', 'swim', 'bikinis', W, 'All-Over Print Bandeau Bikini', 58, ['Recycled polyester and elastane, UPF 50+', 'Strapless top with matching bottom', 'Printed edge to edge'], True),
     428: ('Boxer Briefs', 'swim', 'boxers', M, 'All-Over Print Boxer Briefs', 32, ['Polyester and spandex, stretchy and soft', 'Elastic waistband', 'Printed edge to edge'], True),
     571: ('Swim Trunks', 'swim', 'trunks', M, 'All-Over Print Recycled Swim Trunks', 48, ['Recycled polyester, quick-dry', 'Mesh lining, drawstring waist', 'Printed edge to edge'], True),
@@ -77,6 +77,8 @@ def load_cat(pid):
 
 CAT = {pid: c for pid in TYPES if (c := load_cat(pid))}
 # Existing blanks first so product codes stay the same, then everything else in table order.
+DISPLAY = {669: 'String Panty', 872: 'V-Cut Panty'}
+from descriptions import describe
 PIDS = [967, 1579, 780, 669] + [pid for pid in TYPES if pid not in (967, 1579, 780, 669)]
 
 BLURB = {
@@ -200,7 +202,8 @@ for drop, D in (('drop3', D3), ('drop2', D2), ('drop1', D1), ('drop4', D4), ('dr
                 continue
             kind, line, cat, depts, blank, price, details, all_over = TYPES[pid]
             name = f'{title(v)} {kind}'
-            sl = slug(name)
+            sl = slug(name)                      # slug stays tied to the Printful name
+            name = f'{title(v)} {DISPLAY.get(pid, kind)}'
             if sl not in SHOTS:
                 continue
             s = SHOTS[sl]
@@ -225,11 +228,12 @@ for drop, D in (('drop3', D3), ('drop2', D2), ('drop1', D1), ('drop4', D4), ('dr
                 p['afterDark'] = True
             p['printful'] = {'productId': pid, 'syncProductId': s['printful_id'], 'blank': blank}
             p['details'] = details
+            p['description'] = describe(d, v, pid, [c['name'] for c in cols], name)
             prods.append(p)
             shots = []
             if sl in MODELS:
-                for u in (MODELS[sl] if isinstance(MODELS[sl], list) else [MODELS[sl]]):   # several model photos allowed
-                    shots.append({'src': u, 'color': '*', 'style': 'Model', 'option': 'Front'})
+                u = MODELS[sl][0] if isinstance(MODELS[sl], list) else MODELS[sl]   # one model photo per product
+                shots.append({'src': u, 'color': '*', 'style': 'Model', 'option': 'Front'})
             for sh in s['shots']:
                 shots.append({**sh, 'color': 'Full print' if all_over else sh['color']})
             mock[sl] = shots
@@ -263,6 +267,8 @@ export interface Product {
   afterDark?: boolean;
   printful: { productId: number; syncProductId: number; blank: string };
   details: string[];
+  /** Long description, one paragraph per entry. */
+  description?: string[];
 }
 
 // Generated from the Printful store (Blazed Kitty) by scripts/build_catalog.py.

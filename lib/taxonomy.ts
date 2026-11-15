@@ -50,7 +50,7 @@ export interface LineDef {
 export const LINES: LineDef[] = [
   { id: 'tops', label: 'Tops', blurb: 'Fitted, cropped and a little rude.', image: lineImg('women'), deptImage: { men: lineImg('men') } },
   { id: 'lounge', label: 'Couch Lock', blurb: 'Hoodies, sweats and PJs for not leaving the couch.', image: lineImg('lounge'), deptImage: { men: lineImg('menlounge') } },
-  { id: 'swim', label: 'Swim & Underwear', deptLabel: { women: 'Swim & Panties', men: 'Swim & Boxers' }, blurb: 'Printed where it counts.', image: lineImg('swim') },
+  { id: 'swim', label: 'Swim & Underwear', deptLabel: { women: 'Panties', men: 'Swim & Boxers' }, blurb: 'Printed where it counts.', image: lineImg('swim') },
   { id: 'headwear', label: 'Headwear', blurb: 'Dad hats, beanies and buckets. One size fits most heads.', image: lineImg('headwear') },
   { id: 'stash', label: 'The Stash', blurb: 'Stickers, glasses, bags and socks for the sesh.', image: lineImg('stash'), unisex: true },
   { id: 'home', label: 'Hotbox Home', blurb: 'Blankets, candles and wall art for your spot.', image: lineImg('home'), unisex: true },

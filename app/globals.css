@@ -353,3 +353,17 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 @media (prefers-reduced-motion: reduce) {
   .photo .photo-alt, .drawer, .mobile-menu, .drawer-scrim, .adult-blur > .photo img, .btn { transition: none; }
 }
+
+/* Product photo arrows, counter and long description */
+.pdp-photo { position: relative; touch-action: pan-y; }
+.pdp-arrow { position: absolute; top: 50%; transform: translateY(-50%); width: 44px; height: 44px; border-radius: 50%; border: 0;
+  background: rgba(11, 11, 11, 0.55); color: #fff; font-size: 28px; line-height: 1; cursor: pointer; display: flex; align-items: center;
+  justify-content: center; padding-bottom: 3px; opacity: 0.85; transition: opacity 0.15s, background 0.15s; z-index: 2; }
+.pdp-arrow:hover, .pdp-arrow:focus-visible { opacity: 1; background: var(--pink, #FF4F9A); }
+.pdp-prev { left: 12px; }
+.pdp-next { right: 12px; }
+.pdp-count { position: absolute; bottom: 12px; right: 12px; background: rgba(11, 11, 11, 0.55); color: #fff; font-size: 12px;
+  letter-spacing: 0.08em; padding: 4px 10px; border-radius: 999px; z-index: 2; }
+.pdp-desc { color: var(--muted); max-width: 60ch; font-size: 15px; line-height: 1.6; margin: 4px 0 20px; }
+.pdp-desc p { margin: 0 0 12px; }
+@media (max-width: 640px) { .pdp-arrow { width: 36px; height: 36px; font-size: 24px; } .pdp-prev { left: 8px; } .pdp-next { right: 8px; } }

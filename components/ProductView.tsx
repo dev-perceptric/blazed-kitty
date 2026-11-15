@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import type { Product } from '@/lib/products';
 import { formatPrice } from '@/lib/products';
 import { shotsFor, printSrc } from '@/lib/images';
@@ -20,6 +20,37 @@ export default function ProductView({ product }: { product: Product }) {
   const gallery = shots.length ? shots.map((s) => s.src) : [printSrc(product)];
   const current = gallery[Math.min(active, gallery.length - 1)];
   const currentIsProduct = shots.length > 0 && shots[Math.min(active, shots.length - 1)].style !== 'Model';
+  const count = gallery.length;
+  const go = (step: number) => setActive((i) => (Math.min(i, count - 1) + step + count) % count);
+  const touchX = useRef<number | null>(null);
+  const wheelLock = useRef(0);
+
+  // Left / right arrow keys move through the photos.
+  useEffect(() => {
+    if (count < 2) return;
+    function onKey(e: KeyboardEvent) {
+      const t = e.target as HTMLElement | null;
+      if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA')) return;
+      if (e.key === 'ArrowRight') go(1);
+      if (e.key === 'ArrowLeft') go(-1);
+    }
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  });
+
+  // Keep the picked thumbnail in view when the row scrolls sideways.
+  useEffect(() => {
+    document.getElementById(`thumb-${active}`)?.scrollIntoView({ block: 'nearest', inline: 'nearest' });
+  }, [active]);
+
+  function onWheel(e: React.WheelEvent) {
+    // Sideways trackpad scroll flips photos; normal page scrolling is left alone.
+    if (count < 2 || Math.abs(e.deltaX) < Math.abs(e.deltaY) || Math.abs(e.deltaX) < 20) return;
+    const now = Date.now();
+    if (now - wheelLock.current < 450) return;
+    wheelLock.current = now;
+    go(e.deltaX > 0 ? 1 : -1);
+  }
 
   function pickColor(c: typeof color) {
     setColor(c);
@@ -36,8 +67,26 @@ export default function ProductView({ product }: { product: Product }) {
   }
 
   const main = (
-    <div className={`photo pdp-photo${shots.length ? '' : ' photo-print'}`} style={shots.length ? undefined : { background: isBikini ? '#151315' : color.hex }}>
-      <img src={current} alt={product.name} className={currentIsProduct ? 'is-product' : undefined} />
+    <div
+      className={`photo pdp-photo${shots.length ? '' : ' photo-print'}`}
+      style={shots.length ? undefined : { background: isBikini ? '#151315' : color.hex }}
+      onWheel={onWheel}
+      onTouchStart={(e) => { touchX.current = e.touches[0].clientX; }}
+      onTouchEnd={(e) => {
+        if (touchX.current === null) return;
+        const dx = e.changedTouches[0].clientX - touchX.current;
+        touchX.current = null;
+        if (Math.abs(dx) > 40) go(dx < 0 ? 1 : -1);
+      }}
+    >
+      <img src={current} alt={product.name} className={currentIsProduct ? 'is-product' : undefined} draggable={false} />
+      {count > 1 && (
+        <>
+          <button type="button" className="pdp-arrow pdp-prev" onClick={() => go(-1)} aria-label="Previous photo">‹</button>
+          <button type="button" className="pdp-arrow pdp-next" onClick={() => go(1)} aria-label="Next photo">›</button>
+          <span className="pdp-count" aria-hidden="true">{Math.min(active, count - 1) + 1} / {count}</span>
+        </>
+      )}
     </div>
   );
 
@@ -93,7 +142,15 @@ export default function ProductView({ product }: { product: Product }) {
           </button>
         </div>
 
-        <details className="acc" open>
+        {product.description && product.description.length > 0 && (
+          <details className="acc" open>
+            <summary>Description</summary>
+            <div className="pdp-desc">
+              {product.description.map((para) => <p key={para}>{para}</p>)}
+            </div>
+          </details>
+        )}
+        <details className="acc">
           <summary>Details</summary>
           <ul>
             {product.details.map((d) => <li key={d}>{d}</li>)}
