@@ -5,6 +5,7 @@ REPO = '/home/user/blazed-kitty'
 D1 = json.load(open('/home/user/brand/tools/ck_designs.json'))
 D2 = json.load(open('/home/user/brand/tools/ck_designs_drop2.json'))
 D3 = json.load(open('/home/user/brand/tools/ck_designs_vcut.json'))  # V-cut panty drop
+D4 = json.load(open('/home/user/brand/tools/ck_designs_drop4.json'))  # queer stoner drop
 SHOTS = json.load(open('/home/user/brand/ck/site_shots.json'))
 MODELS = json.load(open('/home/user/brand/ck/site_models.json'))
 
@@ -94,6 +95,9 @@ BLURB = {
     'munchonthis': 'Snack time.', 'propertysesh': 'Claimed by the circle.', 'stonedhorny': 'Two moods, both at once.',
     'rollmeup': 'Twist, lick, light.', 'highmaint': 'Expensive taste, no patience.', 'hitit': 'Words to live by.',
     'kushcush': 'Exactly where it should be.', 'lighternot': 'Bring your own.',
+    'biandhigh': 'Both. Always both.', 'gaybaked': 'The two main food groups.', 'shesmyplug': 'Wear it to match her lighter.',
+    'shesmylighter': 'Wear it to match her plug.', 'toogay': 'Doing my best, which is lying down.',
+    'kissgirls': 'A simple plan.', 'girlsgrass': 'Everything a girl needs.', 'theythem': 'Pronouns updated.',
 }
 ADULT = {k for k, v in D2.items() if v.get('pantyonly')} | {'pussy'} | {k for k, v in D3.items() if v.get('afterDark')}
 ORDER = ['2XS', 'XS', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL', '5XL', '6XL']
@@ -105,13 +109,16 @@ PREFIX = {'baby-tees': 'T', 'crop-tees': 'T', 'tees': 'T', 'tanks': 'K', 'long-s
 
 
 def title(v):
+    if v.get('title'):
+        return v['title']
     t = ' '.join(v['lines']).replace('  ', ' ').lower()
     t = ' '.join(w if w.startswith('(') else w[:1].upper() + w[1:] for w in t.split())
     return t.replace('Of Bad', 'of Bad').replace(' To ', ' to ').replace(' A ', ' a ')
 
 
 prods, mock, count = [], {}, {}
-for drop, D in (('drop3', D3), ('drop2', D2), ('drop1', D1)):
+# Newest drop is added last so older product codes never change; it is moved to the front below.
+for drop, D in (('drop3', D3), ('drop2', D2), ('drop1', D1), ('drop4', D4)):
     for d, v in D.items():
         for pid in PIDS:
             if pid not in CAT:
@@ -150,6 +157,8 @@ for drop, D in (('drop3', D3), ('drop2', D2), ('drop1', D1)):
             for sh in s['shots']:
                 shots.append({**sh, 'color': 'Full print' if all_over else sh['color']})
             mock[sl] = shots
+
+prods = [p for p in prods if p['drop'] == 'drop4'] + [p for p in prods if p['drop'] != 'drop4']
 
 HEAD = """import type { CategoryId, Dept, LineId } from './taxonomy';
 
