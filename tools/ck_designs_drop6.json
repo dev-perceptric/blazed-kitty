@@ -83,27 +83,6 @@
   "panty": true,
   "scale": 1.2
  },
- "hybridhottie": {
-  "font": "DMSerifDisplay-400-italic",
-  "color": "#FF4F9A",
-  "lines": [
-   "hybrid",
-   "hottie"
-  ],
-  "title": "Hybrid Hottie",
-  "tops": [
-   [
-    "bt",
-    "pink"
-   ],
-   [
-    "tk",
-    "white"
-   ]
-  ],
-  "panty": true,
-  "scale": 1.3
- },
  "weedwife": {
   "font": "AbrilFatface-400-normal",
   "color": "#C81E32",
@@ -304,6 +283,150 @@
    [
     "tk",
     "white"
+   ]
+  ],
+  "panty": true
+ },
+ "bongappetit": {
+  "font": "LibreBaskerville-700-italic",
+  "color": "#C81E32",
+  "lines": [
+   "bong",
+   "appétit"
+  ],
+  "title": "Bong Appétit",
+  "tops": [
+   [
+    "bt",
+    "red"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true,
+  "scale": 1.2
+ },
+ "hotterlighter": {
+  "font": "RoadRage-400-normal",
+  "color": "#1A1A1A",
+  "lines": [
+   "HOTTER THAN",
+   "MY LIGHTER"
+  ],
+  "title": "Hotter Than My Lighter",
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "tk",
+    "heather"
+   ]
+  ],
+  "panty": true,
+  "scale": 1.3
+ },
+ "kushkisses": {
+  "font": "DMSerifDisplay-400-italic",
+  "color": "#FF4F9A",
+  "lines": [
+   "kush &",
+   "kisses"
+  ],
+  "title": "Kush & Kisses",
+  "tops": [
+   [
+    "bt",
+    "pink"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true,
+  "scale": 1.2
+ },
+ "hornymunchies": {
+  "font": "Caprasimo-400-normal",
+  "color": "#7B3FE4",
+  "lines": [
+   "horny for",
+   "the munchies"
+  ],
+  "title": "Horny for the Munchies",
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true
+ },
+ "toostoned": {
+  "font": "Arimo-700-normal",
+  "color": "#FFFFFF",
+  "lines": [
+   "TOO STONED",
+   "TO BE SHY"
+  ],
+  "title": "Too Stoned to Be Shy",
+  "tops": [
+   [
+    "tk",
+    "black"
+   ],
+   [
+    "ct",
+    "washedblack"
+   ]
+  ],
+  "panty": true
+ },
+ "momsfav": {
+  "font": "Tinos-700-italic",
+  "color": "#C81E32",
+  "lines": [
+   "your mom’s",
+   "favorite stoner"
+  ],
+  "title": "Your Mom’s Favorite Stoner",
+  "tops": [
+   [
+    "bt",
+    "red"
+   ],
+   [
+    "tk",
+    "white"
+   ]
+  ],
+  "panty": true
+ },
+ "stonerlover": {
+  "font": "AbrilFatface-400-normal",
+  "color": "#1A1A1A",
+  "lines": [
+   "Stoner,",
+   "Lover,",
+   "Sinner"
+  ],
+  "title": "Stoner, Lover, Sinner",
+  "tops": [
+   [
+    "bt",
+    "black"
+   ],
+   [
+    "tk",
+    "heather"
    ]
   ],
   "panty": true

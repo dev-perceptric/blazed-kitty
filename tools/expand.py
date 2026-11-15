@@ -13,18 +13,18 @@ sys.argv = ['x']
 _src = open('/home/user/brand/tools/printful_sync.py').read()
 exec(_src[:_src.index("if __name__")])            # D1 D2 D4 D5, title, h, r2_put, CK, OUT, CAT (967/780/1579/669)
 
-for pid in (71, 248, 317, 892):
+for pid in (71, 248, 317, 892, 636):
     CAT[pid] = json.load(open(f'/home/user/brand/printful/cat_{pid}.json'))['result']['variants']
 BIG = f'{CK}/print_big'
-KINDS = {967: 'Baby Tee', 1579: 'Crop Tee', 780: 'Rib Tank', 71: 'Tee', 248: 'Tank', 317: 'Cropped Hoodie', 892: 'Heavyweight Hoodie', 669: 'String Bottom'}
-PRICES = {967: '36.00', 1579: '36.00', 780: '34.00', 71: '34.00', 248: '32.00', 317: '58.00', 892: '68.00', 669: '30.00'}
-PLACE = {967: 'front', 1579: 'front_dtf', 780: 'front', 71: 'front', 248: 'front', 317: 'front', 892: 'front', 669: 'bottom'}
+KINDS = {636: 'Fitted Baby Tee', 967: 'Baby Tee', 1579: 'Crop Tee', 780: 'Rib Tank', 71: 'Tee', 248: 'Tank', 317: 'Cropped Hoodie', 892: 'Heavyweight Hoodie', 669: 'String Bottom'}
+PRICES = {636: '34.00', 967: '36.00', 1579: '36.00', 780: '34.00', 71: '34.00', 248: '32.00', 317: '58.00', 892: '68.00', 669: '30.00'}
+PLACE = {636: 'front', 967: 'front', 1579: 'front_dtf', 780: 'front', 71: 'front', 248: 'front', 317: 'front', 892: 'front', 669: 'bottom'}
 LIGHT = ('#FFFFFF', '#9FD3F5')
 
 MEN = ['veryhot', 'born', 'lighter', 'rumors', 'hotbaked', 'mommy', 'exgf', 'textme', 'situationship', 'highclub', 'toohot',
        'biandhigh', 'gaybaked', 'toogay', 'theythem', 'kissgirls', 'ftp', 'legalizeme', 'obey', 'highhorny', 'slutweed',
        'dirtystoner', 'onehit', 'eatpussy', 'dodab', 'wetwasted', 'sluttystoned', 'ibite', 'sitonmyface', 'afterdark',
-       'tonguetied', 'lickblunt', 'tieme']
+       'tonguetied', 'lickblunt', 'tieme', 'bongappetit', 'momsfav', 'stonerlover', 'toostoned', 'hotterlighter']
 
 
 def colors(pid, ink):
@@ -49,6 +49,11 @@ def colors(pid, ink):
         if light: return ['Black', 'Vintage Black', 'Navy', 'Forest']
         return ['White', 'Athletic Heather', 'Dust'] if black else ['White', 'Black', 'Athletic Heather', 'Dust']
     if pid == 669: return ['White']
+    if pid == 636:   # solid fitted baby tee (CherryKitten style)
+        if light: return ['Black']
+        if black: return ['Bubblegum', 'Pale Pink', 'Hazy Pink', 'White', 'Bone']
+        if ink == '#FF4F9A': return ['White', 'Black', 'Bone']
+        return ['White', 'Pale Pink', 'Bone']
     return []
 
 
@@ -58,7 +63,7 @@ def make_file(d, pid):
     im = Image.open(f'{BIG}/{d}.png')                       # 10 x 12 in @300
     if pid == 780:
         sm = im.resize((round(im.width * 0.86), round(im.height * 0.86)), Image.LANCZOS); l = (sm.width - 2100) // 2; im = sm.crop((l, 0, l + 2100, 2400))
-    elif pid in (1579, 317):
+    elif pid in (1579, 317, 636):
         im = im.crop((0, 0, 3000, 3000))
     elif pid in (71, 248):
         c = Image.new('RGBA', (3600, 4800), (0, 0, 0, 0)); c.paste(im, (300, 0), im); im = c
@@ -77,6 +82,7 @@ def jobs():
         for d, v in D.items():
             pids = [967, 1579, 780, 317, 892, 669]
             if d in MEN: pids += [71, 248]
+            pids = [636] + pids   # fitted baby tee on every design
             for pid in pids:
                 if not colors(pid, v['color']): continue
                 if pid == 669 and not os.path.exists(f'{CK}/print/panty_669/{d}.png'): continue
@@ -112,7 +118,7 @@ if __name__ == '__main__':
     from collections import Counter
     print('store has', len(have), '| to create', len(todo), dict(Counter(KINDS[j[3]] for j in todo)), flush=True)
     if MODE == 'run':
-        order = {967: 0, 1579: 1, 780: 2, 71: 3, 248: 4, 317: 5, 892: 6, 669: 7}
+        order = {636: -1, 967: 0, 1579: 1, 780: 2, 71: 3, 248: 4, 317: 5, 892: 6, 669: 7}
         for j in sorted(todo, key=lambda j: order[j[3]]):
             r = create(*j)
             ok = r.get('code') == 200
