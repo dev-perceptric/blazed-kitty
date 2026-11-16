@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import type { Product } from '@/lib/products';
-import { formatPrice } from '@/lib/products';
+import { cjVariant, formatPrice } from '@/lib/products';
 import { shotsFor, printSrc } from '@/lib/images';
 import { AdultBlur, AdultConfirm } from './Adult';
 import { useCart } from './CartProvider';
@@ -52,8 +52,12 @@ export default function ProductView({ product }: { product: Product }) {
     go(e.deltaX > 0 ? 1 : -1);
   }
 
+  // CJ products only come in the color and size combos CJ stocks. Printful pieces come in all of them.
+  const stocked = (c: string, s: string) => !product.cj || !!cjVariant(product, c, s);
+
   function pickColor(c: typeof color) {
     setColor(c);
+    if (size && !stocked(c.name, size)) setSize(product.sizes.length === 1 && stocked(c.name, product.sizes[0]) ? product.sizes[0] : '');
     // Jump to Printful's product shot in the picked color (the model photo stays first in the row).
     setActive(shotsFor(product, c.name)[0]?.style === 'Model' ? 1 : 0);
   }
@@ -126,7 +130,7 @@ export default function ProductView({ product }: { product: Product }) {
           <legend>Size {size ? <span>{size}</span> : null}</legend>
           <div className="size-row">
             {product.sizes.map((s) => (
-              <button key={s} type="button" id={`size-${s}`} className={`size${s === size ? ' is-on' : ''}`} onClick={() => setSize(s)} aria-pressed={s === size}>{s}</button>
+              <button key={s} type="button" id={`size-${s}`} className={`size${s === size ? ' is-on' : ''}`} onClick={() => setSize(s)} aria-pressed={s === size} disabled={!stocked(color.name, s)}>{s}</button>
             ))}
           </div>
         </fieldset>
@@ -154,12 +158,16 @@ export default function ProductView({ product }: { product: Product }) {
           <summary>Details</summary>
           <ul>
             {product.details.map((d) => <li key={d}>{d}</li>)}
-            <li>{product.printful.blank}</li>
+            {product.printful && <li>{product.printful.blank}</li>}
           </ul>
         </details>
         <details className="acc">
           <summary>Shipping</summary>
-          <p>Each piece is printed after you order. Shipping cost and timing show at checkout.</p>
+          <p>
+            {product.cj
+              ? `Ships from our ${product.cj.from === 'US' ? 'US' : 'overseas'} warehouse${product.cj.delivery ? ` in about ${product.cj.delivery}` : ''}. Orders with printed pieces may arrive in separate packages.`
+              : 'Each piece is printed after you order. Shipping cost and timing show at checkout.'}
+          </p>
         </details>
       </div>
     </div>

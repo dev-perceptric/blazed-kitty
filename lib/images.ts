@@ -22,6 +22,12 @@ function rank(s: Shot) {
 
 /** Photos for a product, best first. Filtered to one color when given. */
 export function shotsFor(p: Product, color?: string): Shot[] {
+  if (p.photos?.length) {
+    // CJ products: color-matched photos first, then the ones that fit every color.
+    const shots = p.photos.map((s) => ({ src: s.src, color: s.color, style: 'Product', option: '' }));
+    const forColor = color ? shots.filter((s) => s.color === color) : [];
+    return [...forColor, ...shots.filter((s) => s.color === '*' || (!color && s.color !== '*'))];
+  }
   const all = [...(MOCKUPS[p.slug] ?? [])].sort((a, b) => rank(a) - rank(b));
   const model = all.filter((s) => s.color === '*');
   const rest = all.filter((s) => s.color !== '*');
@@ -36,5 +42,6 @@ export function shotsFor(p: Product, color?: string): Shot[] {
 
 /** The print file itself, used when no photo exists yet. */
 export function printSrc(p: Product) {
+  if (!p.printful) return p.photos?.[0]?.src ?? '';
   return `${CDN}/printful/${p.design}__${p.printful.productId}.png`;
 }
