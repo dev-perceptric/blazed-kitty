@@ -30,8 +30,8 @@ export default function Home() {
         </div>
         <div className="hero-copy">
           <p className="eyebrow">Drop {dropNo}</p>
-          <h1>Nine lives.<br />All of them baked.</h1>
-          <p className="whisper">cute face, dirty mouth</p>
+          <h1>Nine lives.<br />Zero basics.</h1>
+          <p className="whisper">cute face, dark heart</p>
           <div className="hero-actions">
             <Link href={shopHref('women')} className="btn">Shop Women</Link>
             <Link href={shopHref('men')} className="btn btn-line btn-glass">Shop Men</Link>
@@ -116,7 +116,7 @@ export default function Home() {
         <div className="wrap club-row">
           <div>
             <h2>Bad Kitty Club</h2>
-            <p className="lede">New drops and early access. No spam, just kitty.</p>
+            <p className="lede">First look at new drops and members-only codes. No spam, just kitty.</p>
           </div>
           <Newsletter />
         </div>

@@ -24,9 +24,9 @@ export default function Footer() {
         <div>
           <h4>Good to know</h4>
           <p>Every order ships straight to your door.</p>
-          <p>After Dark pieces are for adults 18 and older.</p>
-          <p>We sell clothes and sesh gear. No weed here, just jokes about it.</p>
-          <p>Tag us @blazedkitty</p>
+          <p>New pieces land every week.</p>
+          <p>Pieces in one order can arrive in separate packages.</p>
+          <p>Tag your fits @blazedkitty</p>
         </div>
       </div>
       <div className="wrap footer-mark">
@@ -34,7 +34,7 @@ export default function Footer() {
       </div>
       <div className="wrap footer-bottom">
         <span>© {new Date().getFullYear()} Blazed Kitty</span>
-        <span>Nine lives, all of them baked</span>
+        <span>Nine lives, zero basics</span>
       </div>
     </footer>
   );

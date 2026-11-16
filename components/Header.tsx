@@ -24,7 +24,7 @@ function MegaPanel({ dept, onPick, afterDark }: { dept: Dept; onPick: () => void
           </div>
         ))}
         <div className="mega-col">
-          <span className="mega-head">Also for the sesh</span>
+          <span className="mega-head">Also in store</span>
           {UNISEX.map((l) => <Link key={l.id} href={shopHref(l.id)} onClick={onPick}>{l.label}</Link>)}
           {afterDark && <Link href={shopHref('after-dark')} onClick={onPick}>After Dark</Link>}
         </div>
@@ -93,7 +93,7 @@ export default function Header({ afterDark = true }: { afterDark?: boolean }) {
           ))}
           {UNISEX.map((l) => (
             <Link key={l.id} href={shopHref(l.id)} className={isOn(shopHref(l.id)) ? 'is-on' : ''} onMouseEnter={() => setMega(null)} onFocus={() => setMega(null)}>
-              {l.id === 'stash' ? 'Stash' : 'Home'}
+              {l.id === 'stash' ? 'Extras' : 'Room'}
             </Link>
           ))}
           {afterDark && <Link href={shopHref('after-dark')} className={`nav-adult${isOn(shopHref('after-dark')) ? ' is-on' : ''}`} onMouseEnter={() => setMega(null)} onFocus={() => setMega(null)}>After Dark</Link>}

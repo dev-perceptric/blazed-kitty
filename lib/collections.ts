@@ -67,7 +67,7 @@ export function resolveCollection(path: string[] = []): Collection | null {
 
   if (a === 'new' && !b) {
     return {
-      key: 'new', title: 'New In', blurb: 'The latest drop, fresh off the press.', href: shopHref('new'), crumbs: [shop],
+      key: 'new', title: 'New In', blurb: 'The latest drop. Get it before it sells out.', href: shopHref('new'), crumbs: [shop],
       products: all.filter((p) => p.drop === NEWEST_DROP && visible(p)), children: [],
     };
   }

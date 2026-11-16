@@ -1,6 +1,6 @@
 # Blazed Kitty storefront
 
-Nine lives, all of them baked. A Next.js 14 store for the Blazed Kitty print-on-demand brand, printed by Printful. The store is set up for Women and Men across six product lines: Tops, Couch Lock (lounge), Swim & Underwear, Headwear, The Stash and Hotbox Home.
+Nine lives, zero basics. A Next.js 14 store for Blazed Kitty, an alt clothing brand: baby tees, goth tops, grunge layers and y2k pieces. Pieces come from AliExpress and CJ Dropshipping; the original Printful catalog is still in the code but hidden (`SHOW_PRINTFUL` in `lib/products.ts`). Lines: Tops, Layers (lounge), Swim & Underwear, Headwear, Extras (stash) and Room (home).
 
 ## Run it
 
