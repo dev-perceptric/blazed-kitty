@@ -154,7 +154,9 @@ def build(pick, n, cats):
     name = pick.get('name') or clean_name(base.get('subject'))
     ship, delivery = ship_estimate(pid, variants[0]['skuId'])
     max_cost = max(v['cost'] for v in variants)
-    price = pick.get('price') or (math.ceil(max_cost * MARKUP + ship) - 0.01)
+    # Cheap items take the full markup; pricier ones less, so a $40 top doesn't list at $100+.
+    mult = MARKUP if max_cost < 12 else min(MARKUP, 2.0) if max_cost < 25 else min(MARKUP, 1.8)
+    price = pick.get('price') or (math.ceil(max_cost * mult + ship) - 0.01)
 
     photos = []
     for c in colors:

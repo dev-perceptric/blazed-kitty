@@ -280,12 +280,12 @@
  {
   "id": "3256808858849911",
   "category": "baby-tees",
-  "name": "Baby Tee"
+  "name": "Clean Fit Baby Tee"
  },
  {
   "id": "3256812550574359",
   "category": "long-sleeves",
-  "name": "Long Sleeve Tee",
+  "name": "Waffle Knit Long Sleeve Tee",
   "depts": [
    "women"
   ]
@@ -296,7 +296,8 @@
   "name": "Rhinestone Corset Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 77.99
  },
  {
   "id": "3256812782977204",
@@ -311,7 +312,7 @@
  {
   "id": "3256812732872026",
   "category": "baby-tees",
-  "name": "Baby Tee 2"
+  "name": "Shrunken Y2K Baby Tee"
  },
  {
   "id": "3256813405647739",
@@ -327,64 +328,14 @@
   "name": "Butterfly Graphic Baby Tee"
  },
  {
-  "id": "3256806793962642",
-  "category": "baby-tees",
-  "name": "Slogan Punk Crop Tee"
- },
- {
   "id": "3256812732734603",
   "category": "baby-tees",
   "name": "Graphic Goth Crop Tee"
  },
  {
-  "id": "3256809198686950",
-  "category": "long-sleeves",
-  "name": "Fitted Long Sleeve Tee",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "3256811397834178",
-  "category": "baby-tees",
-  "name": "Slogan Goth Baby Tee"
- },
- {
   "id": "3256813337809010",
   "category": "baby-tees",
   "name": "Vintage Fitted Baby Tee"
- },
- {
-  "id": "3256807722362845",
-  "category": "hoodies",
-  "name": "Jacket",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "3256812474189845",
-  "category": "long-sleeves",
-  "name": "Cross Goth Long Sleeve Tee",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "3256803858741454",
-  "category": "tanks",
-  "name": "Rhinestone Sequin Cami",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "3256807968108480",
-  "category": "long-sleeves",
-  "name": "Patchwork Long Sleeve Tee",
-  "depts": [
-   "women"
-  ]
  },
  {
   "id": "3256813405410233",
@@ -403,28 +354,22 @@
   ]
  },
  {
-  "id": "3256810121642981",
-  "category": "long-sleeves",
-  "name": "Fairy Goth Long Sleeve Tee",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "3256805120381251",
   "category": "tanks",
-  "name": "Rhinestone Cami",
+  "name": "Diamond Rhinestone Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 84.99
  },
  {
   "id": "3256812845206587",
   "category": "hoodies",
-  "name": "Turtleneck Jacket",
+  "name": "Turtleneck Zip Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 49.99
  },
  {
   "id": "3256807275365629",
@@ -437,10 +382,11 @@
  {
   "id": "3256805119508136",
   "category": "tanks",
-  "name": "Rhinestone Corset Cami 2",
+  "name": "Pearl Rhinestone Corset Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 79.99
  },
  {
   "id": "3256812985826984",
@@ -451,35 +397,14 @@
   ]
  },
  {
-  "id": "3256812623609900",
-  "category": "long-sleeves",
-  "name": "Patchwork Vintage Long Sleeve Tee",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "3256810160734908",
   "category": "baby-tees",
   "name": "Bow Patchwork Baby Tee"
  },
  {
-  "id": "3256809136382552",
-  "category": "long-sleeves",
-  "name": "Slogan Long Sleeve Tee",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "3256804680213398",
   "category": "baby-tees",
   "name": "Vintage Baby Tee"
- },
- {
-  "id": "3256808481432146",
-  "category": "baby-tees",
-  "name": "Fairy Graphic Crop Tee"
  },
  {
   "id": "3256806726439781",
@@ -498,41 +423,13 @@
   ]
  },
  {
-  "id": "3256812337060146",
-  "category": "tanks",
-  "name": "Cross Ruched Halter Top",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "3256812972080956",
-  "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee"
- },
- {
-  "id": "3256812739036766",
-  "category": "tanks",
-  "name": "Polka Dot Emo Cami",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "3256810579154126",
-  "category": "hoodies",
-  "name": "Turtleneck Jacket 2",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "3256810465165975",
   "category": "hoodies",
   "name": "Skull Cross Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 61.99
  },
  {
   "id": "3256812986220205",
@@ -542,7 +439,7 @@
  {
   "id": "3256806078953829",
   "category": "hoodies",
-  "name": "Hoodie",
+  "name": "Ultra Crop Hoodie",
   "depts": [
    "women"
   ]
@@ -563,7 +460,7 @@
  {
   "id": "3256807543389315",
   "category": "baby-tees",
-  "name": "Baby Tee 3"
+  "name": "Wave Print V-Neck Tee"
  },
  {
   "id": "3256810620277406",
@@ -581,7 +478,7 @@
  {
   "id": "3256805877040714",
   "category": "long-sleeves",
-  "name": "Long Sleeve Tee 2",
+  "name": "Basic Crop Long Sleeve Tee",
   "depts": [
    "women"
   ]
@@ -604,7 +501,8 @@
  {
   "id": "3256809567529614",
   "category": "baby-tees",
-  "name": "Goth Punk Crop Tee"
+  "name": "Spiked Goth Crop Top",
+  "price": 47.99
  },
  {
   "id": "3256806622950424",
@@ -620,7 +518,8 @@
   "name": "Fur Slogan Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 49.99
  },
  {
   "id": "3256812721981578",
@@ -628,30 +527,9 @@
   "name": "Goth Kawaii Crop Tee"
  },
  {
-  "id": "3256811793487531",
-  "category": "baby-tees",
-  "name": "Slogan Graphic Crop Tee"
- },
- {
-  "id": "3256810138713917",
-  "category": "long-sleeves",
-  "name": "Graphic Goth Long Sleeve Tee",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "3256809101227709",
   "category": "tanks",
   "name": "Slogan Punk Tank",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "3256812996876354",
-  "category": "hoodies",
-  "name": "Graphic Cow Hoodie",
   "depts": [
    "women"
   ]
@@ -681,14 +559,6 @@
   "id": "3256811366567783",
   "category": "long-sleeves",
   "name": "Grunge Snakeskin Long Sleeve Tee",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "3256812575709632",
-  "category": "tanks",
-  "name": "Goth Punk Tank",
   "depts": [
    "women"
   ]
@@ -736,11 +606,6 @@
   ]
  },
  {
-  "id": "3256812312643144",
-  "category": "baby-tees",
-  "name": "Baby Tee 4"
- },
- {
   "id": "3256812384294238",
   "category": "long-sleeves",
   "name": "Graphic Henley Long Sleeve Tee",
@@ -755,11 +620,6 @@
   "depts": [
    "women"
   ]
- },
- {
-  "id": "3256812248496054",
-  "category": "baby-tees",
-  "name": "Stripe Graphic Crop Tee"
  },
  {
   "id": "3256810617743623",
@@ -790,14 +650,6 @@
   "name": "Knit Layered Baby Tee"
  },
  {
-  "id": "3256812701305828",
-  "category": "hoodies",
-  "name": "Goth Punk Jacket",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "3256813037402640",
   "category": "long-sleeves",
   "name": "Cross Off-Shoulder Long Sleeve Tee",
@@ -811,7 +663,8 @@
   "name": "Stripe Knit Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 70.99
  },
  {
   "id": "3256809874670088",
@@ -828,34 +681,6 @@
   "depts": [
    "women"
   ]
- },
- {
-  "id": "3256812584453167",
-  "category": "baby-tees",
-  "name": "Star Goth Baby Tee"
- },
- {
-  "id": "3256812968963368",
-  "category": "hoodies",
-  "name": "Goth Punk Hoodie",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "3256809059225308",
-  "category": "baby-tees",
-  "name": "Graphic Crop Tee"
- },
- {
-  "id": "3256809926223738",
-  "category": "baby-tees",
-  "name": "Goth Crop Tee"
- },
- {
-  "id": "3256811936639508",
-  "category": "baby-tees",
-  "name": "Star Baby Tee"
  },
  {
   "id": "3256807869078158",
@@ -961,35 +786,18 @@
   ]
  },
  {
-  "id": "3256807758854221",
-  "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee"
- },
- {
-  "id": "3256811933304660",
-  "category": "baby-tees",
-  "name": "Graphic Goth Grunge Crop Tee"
- },
- {
   "id": "3256813267428512",
   "category": "hoodies",
-  "name": "Fur Fawn Zip Hoodie",
+  "name": "Faux Fur Fawn Zip Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 78.99
  },
  {
   "id": "3256810593689390",
   "category": "baby-tees",
   "name": "Slogan Crop Tee"
- },
- {
-  "id": "3256809040665814",
-  "category": "long-sleeves",
-  "name": "Goth Punk Long Sleeve Tee",
-  "depts": [
-   "women"
-  ]
  },
  {
   "id": "3256812443958104",
@@ -1005,33 +813,8 @@
   "name": "Fur Punk Jacket",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "3256813175087922",
-  "category": "long-sleeves",
-  "name": "Stripe Graphic Long Sleeve Tee",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "3256812425609568",
-  "category": "baby-tees",
-  "name": "Goth Kawaii Vintage Crop Tee"
- },
- {
-  "id": "3256809836908647",
-  "category": "baby-tees",
-  "name": "Slogan Graphic Baby Tee"
- },
- {
-  "id": "3256811590365382",
-  "category": "tanks",
-  "name": "Goth Tank",
-  "depts": [
-   "women"
-  ]
+  ],
+  "price": 44.99
  },
  {
   "id": "3256807774287450",
@@ -1055,22 +838,9 @@
   "name": "Kitty Rockstar Baby Tee"
  },
  {
-  "id": "3256809640613654",
-  "category": "baby-tees",
-  "name": "Baby Tee 5"
- },
- {
   "id": "3256811816847390",
   "category": "baby-tees",
   "name": "Lace Punk Crop Tee"
- },
- {
-  "id": "3256813283205349",
-  "category": "hoodies",
-  "name": "Fur Fawn Hoodie",
-  "depts": [
-   "women"
-  ]
  },
  {
   "id": "3256809717023605",
