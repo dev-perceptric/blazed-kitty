@@ -269,6 +269,7 @@ prods = _order
 
 HEAD = """import type { CategoryId, Dept, LineId } from './taxonomy';
 import CJ_PRODUCTS from './cj-products.json';
+import AE_PRODUCTS from './ae-products.json';
 
 export interface Color {
   name: string;
@@ -294,6 +295,21 @@ export interface CjInfo {
   variants: CjVariant[];
 }
 
+export interface AeVariant {
+  color: string;
+  size: string;
+  /** AliExpress sku_attr, e.g. "14:193#Black;5:100014064". Needed to order this exact variant. */
+  skuAttr: string;
+  skuId: string;
+  cost: number;
+}
+
+export interface AeInfo {
+  productId: string;
+  delivery?: string;
+  variants: AeVariant[];
+}
+
 export interface Product {
   slug: string;
   code: string;
@@ -315,6 +331,8 @@ export interface Product {
   printful?: { productId: number; syncProductId: number; blank: string };
   /** Set when CJ Dropshipping ships this piece. One entry per color and size. */
   cj?: CjInfo;
+  /** Set when AliExpress ships this piece. */
+  ae?: AeInfo;
   /** Photos for products that don't use mockups.json (CJ). color '*' means every color. */
   photos?: { src: string; color: string }[];
   details: string[];
@@ -328,7 +346,7 @@ const PRINTFUL_PRODUCTS: Product[] = [
 TAIL = """];
 
 // CJ Dropshipping products, written by scripts/cj_catalog.py from scripts/cj_picks.json.
-export const PRODUCTS: Product[] = [...PRINTFUL_PRODUCTS, ...(CJ_PRODUCTS as Product[])];
+export const PRODUCTS: Product[] = [...PRINTFUL_PRODUCTS, ...(CJ_PRODUCTS as Product[]), ...(AE_PRODUCTS as Product[])];
 
 export function getProduct(slug: string) {
   return PRODUCTS.find((p) => p.slug === slug);
@@ -337,6 +355,18 @@ export function getProduct(slug: string) {
 /** The CJ variant for a color and size, if CJ stocks that combo. */
 export function cjVariant(p: Product, color: string, size: string) {
   return p.cj?.variants.find((v) => v.color === color && v.size === size);
+}
+
+/** The AliExpress variant for a color and size, if that combo exists. */
+export function aeVariant(p: Product, color: string, size: string) {
+  return p.ae?.variants.find((v) => v.color === color && v.size === size);
+}
+
+/** Dropship items only come in the combos the supplier stocks. Printful pieces come in all of them. */
+export function inStock(p: Product, color: string, size: string) {
+  if (p.cj) return !!cjVariant(p, color, size);
+  if (p.ae) return !!aeVariant(p, color, size);
+  return true;
 }
 
 export function formatPrice(n: number) {

@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
-import { cjVariant, getProduct, type Product } from '@/lib/products';
+import { aeVariant, cjVariant, getProduct, type Product } from '@/lib/products';
+import { placeAeOrder, type AeLine, type AeOrderResult } from '@/lib/aliexpress';
 import { createCjOrder, type CjLine, type CjOrderResult, type CjRecipient } from '@/lib/cj';
 import {
   createOrder,
@@ -105,12 +106,28 @@ async function sendCj(session: CheckoutSession, lines: Line[]) {
   return results;
 }
 
-/** Turns one paid Stripe Checkout session into Printful and CJ orders. Safe to run twice. */
+/** Sends the AliExpress part of an order as one AliExpress order. AliExpress rejects repeats by our order ID. */
+async function sendAe(session: CheckoutSession, lines: Line[]) {
+  const r = recipientFrom(session);
+  const ship = session.collected_information?.shipping_details ?? session.shipping_details;
+  const aeLines: AeLine[] = lines.map((l) => {
+    const v = aeVariant(l.product, l.color, l.size);
+    if (!v) throw new Error(`No AliExpress variant for ${l.product.slug} in ${l.color} / ${l.size}`);
+    return { productId: l.product.ae!.productId, skuAttr: v.skuAttr, skuId: v.skuId, quantity: l.quantity };
+  });
+  return placeAeOrder(`${externalIdFor(session.id)}-AE`, {
+    name: r.name, address1: r.address1, address2: r.address2, city: r.city,
+    state: ship?.address?.state ?? undefined, countryCode: r.country_code, zip: r.zip, phone: r.phone,
+  }, aeLines);
+}
+
+/** Turns one paid Stripe Checkout session into Printful, CJ and AliExpress orders. Safe to run twice. */
 async function fulfil(sessionId: string) {
   const [session, lineItems] = await Promise.all([getSession(sessionId), getSessionLineItems(sessionId)]);
 
   const printfulLines: Line[] = [];
   const cjLines: Line[] = [];
+  const aeLines: Line[] = [];
   for (const li of lineItems) {
     const meta = li.price?.product?.metadata ?? {};
     const product = meta.slug ? getProduct(meta.slug) : undefined;
@@ -120,22 +137,28 @@ async function fulfil(sessionId: string) {
     }
     const line = { product, color: meta.color ?? '', size: meta.size ?? '', quantity: li.quantity ?? 1, unitCents: li.price?.unit_amount ?? null };
     if (product.cj) cjLines.push(line);
+    else if (product.ae) aeLines.push(line);
     else if (product.printful) printfulLines.push(line);
   }
 
-  const result: { printful?: Awaited<ReturnType<typeof sendPrintful>>; cj?: CjOrderResult[] } = {};
+  const result: { printful?: Awaited<ReturnType<typeof sendPrintful>>; cj?: CjOrderResult[]; aliexpress?: AeOrderResult } = {};
   if (printfulLines.length) result.printful = await sendPrintful(session, printfulLines);
   if (cjLines.length) result.cj = await sendCj(session, cjLines);
+  if (aeLines.length) result.aliexpress = await sendAe(session, aeLines);
 
   // Note the supplier orders on the Stripe payment so you can find one from the other.
   // On a retry, orders that already existed keep the tags from the first run.
   const newCj = (result.cj ?? []).filter((o) => o.status !== 'already_sent');
   const newPrintful = result.printful && result.printful.status !== 'already_sent' ? result.printful : undefined;
-  if (session.payment_intent && (newPrintful || newCj.length)) {
+  const newAe = result.aliexpress && result.aliexpress.status !== 'already_sent' ? result.aliexpress : undefined;
+  if (session.payment_intent && (newPrintful || newCj.length || newAe)) {
     const form = new URLSearchParams();
     if (newPrintful) {
       form.append('metadata[printful_order_id]', String(newPrintful.orderId));
       form.append('metadata[printful_external_id]', newPrintful.externalId);
+    }
+    if (newAe) {
+      form.append('metadata[aliexpress_orders]', `${newAe.outOrderId}:${(newAe.orderIds ?? []).join(',')}`.slice(0, 500));
     }
     if (newCj.length) {
       form.append('metadata[cj_orders]', newCj.map((o) => `${o.orderNumber}:${o.orderId ?? '?'}:${o.status}`).join(' ').slice(0, 500));

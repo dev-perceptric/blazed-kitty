@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import type { Product } from '@/lib/products';
-import { cjVariant, formatPrice } from '@/lib/products';
+import { formatPrice, inStock } from '@/lib/products';
 import { shotsFor, printSrc } from '@/lib/images';
 import { AdultBlur, AdultConfirm } from './Adult';
 import { useCart } from './CartProvider';
@@ -53,7 +53,7 @@ export default function ProductView({ product }: { product: Product }) {
   }
 
   // CJ products only come in the color and size combos CJ stocks. Printful pieces come in all of them.
-  const stocked = (c: string, s: string) => !product.cj || !!cjVariant(product, c, s);
+  const stocked = (c: string, s: string) => inStock(product, c, s);
 
   function pickColor(c: typeof color) {
     setColor(c);
@@ -115,7 +115,7 @@ export default function ProductView({ product }: { product: Product }) {
         <p className="pdp-price">{formatPrice(product.price)}</p>
         <p className="pdp-blurb">{product.blurb}</p>
 
-        {!isBikini && !(product.cj && product.colors.length === 1) && (
+        {!isBikini && !((product.cj || product.ae) && product.colors.length === 1) && (
           <fieldset className="opt">
             <legend>{product.colors.some((c) => c.image) ? 'Style' : 'Color'} <span>{color.name}</span></legend>
             <div className="swatch-row">
@@ -166,7 +166,9 @@ export default function ProductView({ product }: { product: Product }) {
           <p>
             {product.cj
               ? `Ships from our ${product.cj.from === 'US' ? 'US' : 'overseas'} warehouse${product.cj.delivery ? ` in about ${product.cj.delivery}` : ''}. Orders with printed pieces may arrive in separate packages.`
-              : 'Each piece is printed after you order. Shipping cost and timing show at checkout.'}
+              : product.ae
+                ? `Ships from our overseas partner${product.ae.delivery ? ` in about ${product.ae.delivery}` : ''}. Orders with printed pieces may arrive in separate packages.`
+                : 'Each piece is printed after you order. Shipping cost and timing show at checkout.'}
           </p>
         </details>
       </div>
