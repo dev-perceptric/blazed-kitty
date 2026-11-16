@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { aeVariant, cjVariant, getProduct, type Product } from '@/lib/products';
+import { aeVariant, cjVariant, findAnyProduct, type Product } from '@/lib/products';
 import { placeAeOrder, type AeLine, type AeOrderResult } from '@/lib/aliexpress';
 import { createCjOrder, type CjLine, type CjOrderResult, type CjRecipient } from '@/lib/cj';
 import {
@@ -130,7 +130,8 @@ async function fulfil(sessionId: string) {
   const aeLines: Line[] = [];
   for (const li of lineItems) {
     const meta = li.price?.product?.metadata ?? {};
-    const product = meta.slug ? getProduct(meta.slug) : undefined;
+    // Hidden products still get fulfilled if someone already paid for them.
+    const product = meta.slug ? findAnyProduct(meta.slug) : undefined;
     if (!product) {
       console.warn(`stripe-webhook: ${sessionId} has an item not in the catalog`, meta.slug);
       continue;

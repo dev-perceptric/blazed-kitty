@@ -346,10 +346,22 @@ const PRINTFUL_PRODUCTS: Product[] = [
 TAIL = """];
 
 // CJ Dropshipping products, written by scripts/cj_catalog.py from scripts/cj_picks.json.
-export const PRODUCTS: Product[] = [...PRINTFUL_PRODUCTS, ...(CJ_PRODUCTS as Product[]), ...(AE_PRODUCTS as Product[])];
+// Printful pieces are hidden from the store for now. Set to true to bring them back.
+const SHOW_PRINTFUL = false;
+
+/** Everything we've ever listed, hidden or not. Used to fulfil orders already paid for. */
+export const ALL_PRODUCTS: Product[] = [...PRINTFUL_PRODUCTS, ...(CJ_PRODUCTS as Product[]), ...(AE_PRODUCTS as Product[])];
+
+/** What the store shows and sells. */
+export const PRODUCTS: Product[] = ALL_PRODUCTS.filter((p) => SHOW_PRINTFUL || !p.printful);
 
 export function getProduct(slug: string) {
   return PRODUCTS.find((p) => p.slug === slug);
+}
+
+/** Finds a product even if it's hidden from the store. */
+export function findAnyProduct(slug: string) {
+  return ALL_PRODUCTS.find((p) => p.slug === slug);
 }
 
 /** The CJ variant for a color and size, if CJ stocks that combo. */

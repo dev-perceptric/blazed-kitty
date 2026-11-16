@@ -10,7 +10,7 @@ import { shopHref } from '@/lib/collections';
 
 const UNISEX = LINES.filter((l) => l.unisex);
 
-function MegaPanel({ dept, onPick }: { dept: Dept; onPick: () => void }) {
+function MegaPanel({ dept, onPick, afterDark }: { dept: Dept; onPick: () => void; afterDark: boolean }) {
   const d = DEPTS.find((x) => x.id === dept)!;
   return (
     <div className="mega-inner wrap">
@@ -26,7 +26,7 @@ function MegaPanel({ dept, onPick }: { dept: Dept; onPick: () => void }) {
         <div className="mega-col">
           <span className="mega-head">Also for the sesh</span>
           {UNISEX.map((l) => <Link key={l.id} href={shopHref(l.id)} onClick={onPick}>{l.label}</Link>)}
-          <Link href={shopHref('after-dark')} onClick={onPick}>After Dark</Link>
+          {afterDark && <Link href={shopHref('after-dark')} onClick={onPick}>After Dark</Link>}
         </div>
       </div>
       <Link href={shopHref(dept)} className="mega-feature" onClick={onPick}>
@@ -37,7 +37,8 @@ function MegaPanel({ dept, onPick }: { dept: Dept; onPick: () => void }) {
   );
 }
 
-export default function Header() {
+/** afterDark: whether the store has any 18+ pieces right now. Hides the After Dark links when it doesn't. */
+export default function Header({ afterDark = true }: { afterDark?: boolean }) {
   const { count, setOpen } = useCart();
   const pathname = usePathname();
   const [mega, setMega] = useState<Dept | null>(null);
@@ -95,7 +96,7 @@ export default function Header() {
               {l.id === 'stash' ? 'Stash' : 'Home'}
             </Link>
           ))}
-          <Link href={shopHref('after-dark')} className={`nav-adult${isOn(shopHref('after-dark')) ? ' is-on' : ''}`} onMouseEnter={() => setMega(null)} onFocus={() => setMega(null)}>After Dark</Link>
+          {afterDark && <Link href={shopHref('after-dark')} className={`nav-adult${isOn(shopHref('after-dark')) ? ' is-on' : ''}`} onMouseEnter={() => setMega(null)} onFocus={() => setMega(null)}>After Dark</Link>}
         </nav>
 
         <Link href="/" className="brand" aria-label="Blazed Kitty home">
@@ -110,7 +111,7 @@ export default function Header() {
       </div>
 
       <div className={`mega${mega ? ' is-open' : ''}`} onMouseEnter={() => mega && openMega(mega)} onMouseLeave={closeMega} hidden={!mega}>
-        {mega && <MegaPanel dept={mega} onPick={() => setMega(null)} />}
+        {mega && <MegaPanel dept={mega} onPick={() => setMega(null)} afterDark={afterDark} />}
       </div>
 
       <div id="mobile-menu" className={`mobile-root${mobile ? ' is-open' : ''}`} aria-hidden={!mobile}>
@@ -148,7 +149,7 @@ export default function Header() {
                 </div>
               </details>
             ))}
-            <Link href={shopHref('after-dark')} className="m-top">After Dark <span className="soon">18+</span></Link>
+            {afterDark && <Link href={shopHref('after-dark')} className="m-top">After Dark <span className="soon">18+</span></Link>}
           </nav>
         </aside>
       </div>

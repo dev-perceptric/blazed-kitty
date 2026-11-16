@@ -196,7 +196,7 @@ def build(pick, n, cats):
         'line': line,
         'category': cat,
         'design': 'ae',
-        'drop': 'ae',
+        'drop': os.environ.get('AE_DROP', 'drop7'),
         'price': round(price, 2),
         'colors': colors,
         'sizes': sizes,
