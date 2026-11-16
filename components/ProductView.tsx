@@ -165,9 +165,9 @@ export default function ProductView({ product }: { product: Product }) {
           <summary>Shipping</summary>
           <p>
             {product.cj
-              ? `Ships from our ${product.cj.from === 'US' ? 'US' : 'overseas'} warehouse${product.cj.delivery ? ` in about ${product.cj.delivery}` : ''}. Orders with printed pieces may arrive in separate packages.`
+              ? `Ships from our ${product.cj.from === 'US' ? 'US' : 'overseas'} warehouse${product.cj.delivery ? ` in about ${product.cj.delivery}` : ''}, straight to your door. Pieces in one order can arrive in separate packages.`
               : product.ae
-                ? `Ships from our overseas partner${product.ae.delivery ? ` in about ${product.ae.delivery}` : ''}. Orders with printed pieces may arrive in separate packages.`
+                ? `Ships from our partner warehouse${product.ae.delivery ? ` in about ${product.ae.delivery}` : ''}, straight to your door. Pieces in one order can arrive in separate packages.`
                 : 'Each piece is printed after you order. Shipping cost and timing show at checkout.'}
           </p>
         </details>

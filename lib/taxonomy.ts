@@ -9,15 +9,15 @@ export type LineId = 'tops' | 'lounge' | 'swim' | 'headwear' | 'stash' | 'home';
 export type CategoryId =
   // Tops
   | 'baby-tees' | 'crop-tees' | 'tees' | 'tanks' | 'long-sleeves'
-  // Couch Lock lounge
+  // Layers (lounge)
   | 'hoodies' | 'sweatpants' | 'shorts' | 'pajamas'
   // Swim and underwear
   | 'panties' | 'bikinis' | 'boxers' | 'trunks'
   // Headwear
   | 'hats' | 'beanies' | 'bucket-hats'
-  // The Stash
+  // Extras (stash)
   | 'stickers' | 'glassware' | 'bags' | 'socks' | 'tech'
-  // Hotbox Home
+  // Room (home)
   | 'blankets' | 'wall-art' | 'candles' | 'rolling-mats';
 
 export const CDN = 'https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev';
@@ -31,8 +31,8 @@ export interface DeptDef {
 }
 
 export const DEPTS: DeptDef[] = [
-  { id: 'women', label: 'Women', blurb: 'Baby tees, tanks, panties and the rest of the rotation.', image: lineImg('women') },
-  { id: 'men', label: 'Men', blurb: 'Tees, hoodies, boxers and hats for the guys who pass it left.', image: lineImg('men') },
+  { id: 'women', label: 'Women', blurb: 'Baby tees, goth tops, grunge layers and everything in between.', image: lineImg('women') },
+  { id: 'men', label: 'Men', blurb: 'Dark tees, hoodies and layers. More landing soon.', image: lineImg('men') },
 ];
 
 export interface LineDef {
@@ -49,11 +49,11 @@ export interface LineDef {
 
 export const LINES: LineDef[] = [
   { id: 'tops', label: 'Tops', blurb: 'Fitted, cropped and a little rude.', image: lineImg('women'), deptImage: { men: lineImg('men') } },
-  { id: 'lounge', label: 'Couch Lock', blurb: 'Hoodies, sweats and PJs for not leaving the couch.', image: lineImg('lounge'), deptImage: { men: lineImg('menlounge') } },
-  { id: 'swim', label: 'Swim & Underwear', deptLabel: { women: 'Panties', men: 'Swim & Boxers' }, blurb: 'Printed where it counts.', image: lineImg('swim') },
-  { id: 'headwear', label: 'Headwear', blurb: 'Dad hats, beanies and buckets. One size fits most heads.', image: lineImg('headwear') },
-  { id: 'stash', label: 'The Stash', blurb: 'Stickers, glasses, bags and socks for the sesh.', image: lineImg('stash'), unisex: true },
-  { id: 'home', label: 'Hotbox Home', blurb: 'Blankets, candles and wall art for your spot.', image: lineImg('home'), unisex: true },
+  { id: 'lounge', label: 'Layers', blurb: 'Zip-ups, fur trim and cardigans for cold nights out.', image: lineImg('lounge'), deptImage: { men: lineImg('menlounge') } },
+  { id: 'swim', label: 'Swim & Underwear', deptLabel: { women: 'Panties', men: 'Swim & Boxers' }, blurb: 'Swim and underwear, landing soon.', image: lineImg('swim') },
+  { id: 'headwear', label: 'Headwear', blurb: 'Beanies, caps and buckets to finish the fit.', image: lineImg('headwear') },
+  { id: 'stash', label: 'Extras', blurb: 'Trays, jars and odd little things for your room.', image: lineImg('stash'), unisex: true },
+  { id: 'home', label: 'Room', blurb: 'Decor for a room that matches your playlist.', image: lineImg('home'), unisex: true },
 ];
 
 export interface CategoryDef {

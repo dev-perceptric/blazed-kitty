@@ -113,7 +113,7 @@
   "id": "1005009464264837",
   "category": "baby-tees",
   "name": "Flower Wing V-Neck Crop Tee",
-  "blurb": "Angel on the front, devil on the sesh.",
+  "blurb": "Angel on the front, chaos everywhere else.",
   "details": [
    "Vintage flower and wing print",
    "Slim V-neck crop"
@@ -275,12 +275,14 @@
   "name": "Goth Kawaii Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "For hot days and hotter nights."
  },
  {
   "id": "3256808858849911",
   "category": "baby-tees",
-  "name": "Clean Fit Baby Tee"
+  "name": "Clean Fit Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "3256812550574359",
@@ -288,7 +290,8 @@
   "name": "Waffle Knit Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "3256804502985747",
@@ -297,22 +300,26 @@
   "depts": [
    "women"
   ],
-  "price": 77.99
+  "price": 77.99,
+  "blurb": "Straps out, eyes up."
  },
  {
   "id": "3256812782977204",
   "category": "baby-tees",
-  "name": "Cross Deep V Baby Tee"
+  "name": "Cross Deep V Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "3256812793989373",
   "category": "baby-tees",
-  "name": "Goth Emo Crop Tee"
+  "name": "Goth Emo Crop Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "3256812732872026",
   "category": "baby-tees",
-  "name": "Shrunken Y2K Baby Tee"
+  "name": "Shrunken Y2K Baby Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "3256813405647739",
@@ -320,22 +327,26 @@
   "name": "Goth Emo Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Show some skin, keep the mystery."
  },
  {
   "id": "3256812914660356",
   "category": "baby-tees",
-  "name": "Butterfly Graphic Baby Tee"
+  "name": "Butterfly Graphic Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "3256812732734603",
   "category": "baby-tees",
-  "name": "Graphic Goth Crop Tee"
+  "name": "Graphic Goth Crop Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "3256813337809010",
   "category": "baby-tees",
-  "name": "Vintage Fitted Baby Tee"
+  "name": "Vintage Fitted Baby Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "3256813405410233",
@@ -343,7 +354,8 @@
   "name": "Corset Goth Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The top that does the talking."
  },
  {
   "id": "3256807737265399",
@@ -351,7 +363,8 @@
   "name": "Fairy Lace Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "3256805120381251",
@@ -360,7 +373,8 @@
   "depts": [
    "women"
   ],
-  "price": 84.99
+  "price": 84.99,
+  "blurb": "Show some skin, keep the mystery."
  },
  {
   "id": "3256812845206587",
@@ -369,7 +383,8 @@
   "depts": [
    "women"
   ],
-  "price": 49.99
+  "price": 49.99,
+  "blurb": "Hood up, world off."
  },
  {
   "id": "3256807275365629",
@@ -377,7 +392,8 @@
   "name": "Fairy Graphic Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "3256805119508136",
@@ -386,7 +402,8 @@
   "depts": [
    "women"
   ],
-  "price": 79.99
+  "price": 79.99,
+  "blurb": "The top that does the talking."
  },
  {
   "id": "3256812985826984",
@@ -394,17 +411,20 @@
   "name": "Skeleton Graphic Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Little top, big night."
  },
  {
   "id": "3256810160734908",
   "category": "baby-tees",
-  "name": "Bow Patchwork Baby Tee"
+  "name": "Bow Patchwork Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "3256804680213398",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee"
+  "name": "Vintage Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "3256806726439781",
@@ -412,7 +432,8 @@
   "name": "Slogan Goth Zip Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "For cold nights and loud music."
  },
  {
   "id": "3256811564614510",
@@ -420,7 +441,8 @@
   "name": "Leopard Lace Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Straps out, eyes up."
  },
  {
   "id": "3256810465165975",
@@ -429,7 +451,8 @@
   "depts": [
    "women"
   ],
-  "price": 61.99
+  "price": 61.99,
+  "blurb": "Fur trim, zero chill."
  },
  {
   "id": "3256806078953829",
@@ -437,7 +460,8 @@
   "name": "Ultra Crop Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Oversized and over it."
  },
  {
   "id": "3256809522638473",
@@ -445,22 +469,26 @@
   "name": "Fur Slogan Zip Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Oversized and over it."
  },
  {
   "id": "3256812722159779",
   "category": "baby-tees",
-  "name": "Corset Emo Crop Tee"
+  "name": "Corset Emo Crop Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "3256807543389315",
   "category": "baby-tees",
-  "name": "Wave Print V-Neck Tee"
+  "name": "Wave Print V-Neck Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "3256810620277406",
   "category": "baby-tees",
-  "name": "Cherry Fitted Crop Tee"
+  "name": "Cherry Fitted Crop Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "3256811556561020",
@@ -468,7 +496,8 @@
   "name": "Cross Fur Halter Top",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Show some skin, keep the mystery."
  },
  {
   "id": "3256805877040714",
@@ -476,28 +505,33 @@
   "name": "Basic Crop Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
   "id": "3256812767381069",
   "category": "baby-tees",
-  "name": "Goth Kawaii Baby Tee"
+  "name": "Goth Kawaii Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "3256812904018374",
   "category": "baby-tees",
-  "name": "Cross Graphic Baby Tee"
+  "name": "Cross Graphic Baby Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "3256808011384198",
   "category": "baby-tees",
-  "name": "Skeleton Graphic Baby Tee"
+  "name": "Skeleton Graphic Baby Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "3256809567529614",
   "category": "baby-tees",
   "name": "Spiked Goth Crop Top",
-  "price": 47.99
+  "price": 47.99,
+  "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "3256806622950424",
@@ -505,7 +539,8 @@
   "name": "Stripe Trashy Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "3256809865549815",
@@ -514,12 +549,14 @@
   "depts": [
    "women"
   ],
-  "price": 49.99
+  "price": 49.99,
+  "blurb": "For cold nights and loud music."
  },
  {
   "id": "3256812721981578",
   "category": "baby-tees",
-  "name": "Goth Kawaii Crop Tee"
+  "name": "Goth Kawaii Crop Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "3256809101227709",
@@ -527,7 +564,8 @@
   "name": "Slogan Punk Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Little top, big night."
  },
  {
   "id": "3256810439154441",
@@ -535,7 +573,8 @@
   "name": "Fur Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Oversized and over it."
  },
  {
   "id": "3256812578083530",
@@ -543,7 +582,8 @@
   "name": "Grunge Emo Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Throw it under a jacket. Or don't."
  },
  {
   "id": "3256811366567783",
@@ -551,7 +591,8 @@
   "name": "Grunge Snakeskin Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "3256811976111583",
@@ -559,12 +600,14 @@
   "name": "Punk Layered Shorts",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Low effort, high impact."
  },
  {
   "id": "3256809386174464",
   "category": "baby-tees",
-  "name": "Cross Grunge Baby Tee"
+  "name": "Cross Grunge Baby Tee",
+  "blurb": "Cropped for a reason."
  },
  {
   "id": "3256813339590849",
@@ -572,12 +615,14 @@
   "name": "Fairy Lace Shorts",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Pairs with fishnets and confidence."
  },
  {
   "id": "3256810183426760",
   "category": "baby-tees",
-  "name": "Star Slogan Baby Tee"
+  "name": "Star Slogan Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "3256813089184164",
@@ -585,7 +630,8 @@
   "name": "Lace Patchwork Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "3256808412145872",
@@ -593,7 +639,8 @@
   "name": "Stripe Off-Shoulder Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "3256812384294238",
@@ -601,7 +648,8 @@
   "name": "Graphic Henley Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "3256813364706280",
@@ -609,7 +657,8 @@
   "name": "Fairy Polka Dot Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "3256810617743623",
@@ -617,27 +666,32 @@
   "name": "Backless Zebra Shorts",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Low effort, high impact."
  },
  {
   "id": "3256812306851658",
   "category": "baby-tees",
-  "name": "Ruched One-Shoulder Crop Tee"
+  "name": "Ruched One-Shoulder Crop Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "3256807987999969",
   "category": "baby-tees",
-  "name": "Fitted Sexy Baby Tee"
+  "name": "Fitted Sexy Baby Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "3256812434949157",
   "category": "baby-tees",
-  "name": "Stripe Square Neck Crop Tee"
+  "name": "Stripe Square Neck Crop Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "3256810153300832",
   "category": "baby-tees",
-  "name": "Knit Layered Baby Tee"
+  "name": "Knit Layered Baby Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "3256813037402640",
@@ -645,7 +699,8 @@
   "name": "Cross Off-Shoulder Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "3256813209617342",
@@ -654,7 +709,8 @@
   "depts": [
    "women"
   ],
-  "price": 70.99
+  "price": 70.99,
+  "blurb": "Oversized and over it."
  },
  {
   "id": "3256809874670088",
@@ -662,7 +718,8 @@
   "name": "Knit Sexy Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "3256807521363680",
@@ -670,7 +727,8 @@
   "name": "Slogan Ribbed Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "3256807869078158",
@@ -678,17 +736,20 @@
   "name": "Stripe Punk Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "3256809572530968",
   "category": "baby-tees",
-  "name": "Graphic Grunge Baby Tee"
+  "name": "Graphic Grunge Baby Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "3256810248354366",
   "category": "baby-tees",
-  "name": "Stripe Goth Baby Tee"
+  "name": "Stripe Goth Baby Tee",
+  "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "3256809968701678",
@@ -696,7 +757,8 @@
   "name": "Goth Grunge Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "3256812614837620",
@@ -704,7 +766,8 @@
   "name": "Coquette Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "For cold nights and loud music."
  },
  {
   "id": "3256810620151568",
@@ -712,7 +775,8 @@
   "name": "Leopard Punk Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Built for summer and sold-out shows."
  },
  {
   "id": "3256813224518541",
@@ -720,12 +784,14 @@
   "name": "Spider Web Plaid Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Built for summer and sold-out shows."
  },
  {
   "id": "3256808746278067",
   "category": "baby-tees",
-  "name": "Heart Rhinestone Baby Tee"
+  "name": "Heart Rhinestone Baby Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "3256809449688919",
@@ -733,7 +799,8 @@
   "name": "Floral Graphic Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "3256812589836794",
@@ -741,7 +808,8 @@
   "name": "Leopard Patchwork Shorts",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Pairs with fishnets and confidence."
  },
  {
   "id": "3256813037285666",
@@ -749,7 +817,8 @@
   "name": "Angel Kitty Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "3256812044415475",
@@ -757,7 +826,8 @@
   "name": "Skull Graphic Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The top that does the talking."
  },
  {
   "id": "3256812197189226",
@@ -765,7 +835,8 @@
   "name": "Fitted Tube Top",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The top that does the talking."
  },
  {
   "id": "3256809408987271",
@@ -773,7 +844,8 @@
   "name": "Turtleneck Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Show some skin, keep the mystery."
  },
  {
   "id": "3256813267428512",
@@ -782,12 +854,14 @@
   "depts": [
    "women"
   ],
-  "price": 78.99
+  "price": 78.99,
+  "blurb": "Fur trim, zero chill."
  },
  {
   "id": "3256810593689390",
   "category": "baby-tees",
-  "name": "Slogan Crop Tee"
+  "name": "Slogan Crop Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "3256812443958104",
@@ -795,7 +869,8 @@
   "name": "Corset Graphic Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The top that does the talking."
  },
  {
   "id": "3256809779592625",
@@ -804,7 +879,8 @@
   "depts": [
    "women"
   ],
-  "price": 44.99
+  "price": 44.99,
+  "blurb": "Hood up, world off."
  },
  {
   "id": "3256807774287450",
@@ -812,7 +888,8 @@
   "name": "Fur Vintage Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The layer everyone asks about."
  },
  {
   "id": "3256812557229485",
@@ -820,17 +897,20 @@
   "name": "Leopard Fitted Shorts",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Pairs with fishnets and confidence."
  },
  {
   "id": "3256811878246867",
   "category": "baby-tees",
-  "name": "Kitty Rockstar Baby Tee"
+  "name": "Kitty Rockstar Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "3256811816847390",
   "category": "baby-tees",
-  "name": "Lace Punk Crop Tee"
+  "name": "Lace Punk Crop Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "3256809717023605",
@@ -838,6 +918,7 @@
   "name": "Cherry Goth Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fur trim, zero chill."
  }
 ]

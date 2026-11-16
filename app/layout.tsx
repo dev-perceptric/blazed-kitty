@@ -14,7 +14,7 @@ const serif = Instrument_Serif({ weight: '400', style: ['italic'], subsets: ['la
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
   title: { default: 'Blazed Kitty', template: '%s · Blazed Kitty' },
-  description: 'Nine lives, all of them baked. Tees, tanks, panties, hoodies and stash gear for women and men who roll their own.',
+  description: 'Alt clothing for anyone who never grew out of their emo phase. Baby tees, goth tops, grunge layers and y2k pieces, shipped worldwide.',
 };
 
 export const viewport: Viewport = { themeColor: '#0c0b0c', viewportFit: 'cover' };
@@ -24,7 +24,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en" className={`${anton.variable} ${inter.variable} ${serif.variable}`}>
       <body>
         <CartProvider>
-          <div className="announce">New pieces every week · Ships worldwide</div>
+          <div className="announce">New alt drops every week · Ships worldwide</div>
           <Header afterDark={PRODUCTS.some((p) => p.afterDark)} />
           <main>{children}</main>
           <Footer />
