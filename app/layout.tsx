@@ -3,6 +3,7 @@ import { Anton, Inter, Instrument_Serif } from 'next/font/google';
 import './globals.css';
 import CartProvider from '@/components/CartProvider';
 import Header from '@/components/Header';
+import { PRODUCTS } from '@/lib/products';
 import CartDrawer from '@/components/CartDrawer';
 import Footer from '@/components/Footer';
 
@@ -23,8 +24,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en" className={`${anton.variable} ${inter.variable} ${serif.variable}`}>
       <body>
         <CartProvider>
-          <div className="announce">Made when you order · Ships worldwide</div>
-          <Header />
+          <div className="announce">New pieces every week · Ships worldwide</div>
+          <Header afterDark={PRODUCTS.some((p) => p.afterDark)} />
           <main>{children}</main>
           <Footer />
           <CartDrawer />

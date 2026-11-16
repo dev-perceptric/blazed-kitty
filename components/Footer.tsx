@@ -1,3 +1,4 @@
+import { PRODUCTS } from '@/lib/products';
 import Link from 'next/link';
 import { Wordmark } from './Media';
 import { DEPTS, LINES, linesFor, lineLabel } from '@/lib/taxonomy';
@@ -18,11 +19,11 @@ export default function Footer() {
           <h4>More</h4>
           <Link href={shopHref('new')}>New In</Link>
           {LINES.filter((l) => l.unisex).map((l) => <Link key={l.id} href={shopHref(l.id)}>{l.label}</Link>)}
-          <Link href={shopHref('after-dark')}>After Dark</Link>
+          {PRODUCTS.some((p) => p.afterDark) && <Link href={shopHref('after-dark')}>After Dark</Link>}
         </nav>
         <div>
           <h4>Good to know</h4>
-          <p>Clothes are printed when you order, then shipped.</p>
+          <p>Every order ships straight to your door.</p>
           <p>After Dark pieces are for adults 18 and older.</p>
           <p>We sell clothes and sesh gear. No weed here, just jokes about it.</p>
           <p>Tag us @blazedkitty</p>

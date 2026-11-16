@@ -1,6 +1,6 @@
-import { notFound } from 'next/navigation';
+import { notFound, redirect } from 'next/navigation';
 import type { Metadata } from 'next';
-import { PRODUCTS, getProduct } from '@/lib/products';
+import { PRODUCTS, findAnyProduct, getProduct } from '@/lib/products';
 import { productTrail } from '@/lib/collections';
 import ProductView from '@/components/ProductView';
 import ProductCard from '@/components/ProductCard';
@@ -17,13 +17,17 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
 
 export default function ProductPage({ params }: { params: { slug: string } }) {
   const product = getProduct(params.slug);
-  if (!product) notFound();
+  // Pieces taken off the store send old links to the shop instead of a dead page.
+  if (!product) {
+    if (findAnyProduct(params.slug)) redirect('/shop');
+    notFound();
+  }
   const others = PRODUCTS.filter((p) => p.slug !== product.slug && (product.afterDark || !p.afterDark));
   const shares = (p: (typeof PRODUCTS)[number]) => p.depts.some((d) => product.depts.includes(d));
   // Same design in another cut first (matching sets), then same category, then same line.
   const ranked = [
-    ...others.filter((p) => p.design === product.design),
-    ...others.filter((p) => p.design !== product.design && p.category === product.category && shares(p)),
+    ...(product.printful ? others.filter((p) => p.design === product.design) : []),
+    ...others.filter((p) => (!product.printful || p.design !== product.design) && p.category === product.category && shares(p)),
     ...others.filter((p) => p.design !== product.design && p.category !== product.category && p.line === product.line && shares(p)),
     ...others.filter((p) => p.line !== product.line && shares(p)),
   ];

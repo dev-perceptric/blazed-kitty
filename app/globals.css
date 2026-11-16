@@ -91,6 +91,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .hero { position: relative; }
 .hero-media { display: grid; grid-template-columns: 1fr 1fr; }
 .hero-half .photo { aspect-ratio: 4 / 5; max-height: calc(100vh - 110px); width: 100%; }
+.hero-half .photo img.is-product { object-fit: cover; }
 .hero-copy {
   position: absolute; left: 0; right: 0; bottom: 0;
   padding: 32px max(20px, env(safe-area-inset-right, 0px)) 40px max(20px, env(safe-area-inset-left, 0px));

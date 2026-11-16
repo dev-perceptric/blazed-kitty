@@ -39,7 +39,9 @@ COLOR_FIX = {'fen': 'Pink', 'hong': 'Red', 'hei': 'Black', 'bai': 'White', 'lan'
 
 
 def clean_color(c):
-    c = re.sub(r'[（(].*?[)）]', '', c)
+    c = re.sub(r'[（(].*?[)）]', '', c).strip()
+    if re.fullmatch(r'[#\s]*\d+', c):  # sellers often number their prints: "01", "02"...
+        return f'Design {int(re.sub(r"\D", "", c))}'
     c = re.sub(r'^\s*[\d#]+[\s-]*', '', c).strip(' -_/')
     c = COLOR_FIX.get(c.lower(), c)
     return ' '.join(w.capitalize() for w in c.split()) or 'Default'
@@ -151,6 +153,16 @@ def build(pick, n, cats):
             sizes.append(size)
 
     sizes.sort(key=size_key)
+    # Numbered prints: renumber "Design 10004, 10007..." as Design 1, 2... and drop the label when there's only one.
+    if colors and all(re.fullmatch(r'Design \d+', c['name']) for c in colors):
+        order = sorted(colors, key=lambda c: int(c['name'].split()[1]))
+        ren = {c['name']: ('Default' if len(order) == 1 else f'Design {i}') for i, c in enumerate(order, 1)}
+        for c in colors:
+            c['name'] = ren[c['name']]
+        for v in variants:
+            v['color'] = ren[v['color']]
+        color_img = {ren.get(k, k): u for k, u in color_img.items()}
+        colors.sort(key=lambda c: c['name'])
     name = pick.get('name') or clean_name(base.get('subject'))
     ship, delivery = ship_estimate(pid, variants[0]['skuId'])
     max_cost = max(v['cost'] for v in variants)
@@ -184,7 +196,7 @@ def build(pick, n, cats):
         'line': line,
         'category': cat,
         'design': 'ae',
-        'drop': 'ae',
+        'drop': os.environ.get('AE_DROP', 'drop7'),
         'price': round(price, 2),
         'colors': colors,
         'sizes': sizes,

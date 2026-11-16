@@ -8,8 +8,11 @@ import { AdultBlur, AdultConfirm } from '@/components/Adult';
 import Newsletter from '@/components/Newsletter';
 
 export default function Home() {
-  const left = getProduct('in-a-situationship-with-my-grinder-baby-tee')!;
-  const right = getProduct('university-of-bad-bitches-baby-tee')!;
+  // Hero: preferred pieces if they're in the store, otherwise the first two with photos.
+  const withPhotos = PRODUCTS.filter((p) => !p.afterDark && (p.photos?.length || p.printful));
+  const hero = ['one-shoulder-shrink-tee-498643', 'skinny-crop-tee-099822', 'in-a-situationship-with-my-grinder-baby-tee', 'university-of-bad-bitches-baby-tee']
+    .map((s) => getProduct(s)).filter((p): p is NonNullable<typeof p> => !!p);
+  const [left, right] = [...hero, ...withPhotos];
   const newIn = PRODUCTS.filter((p) => !p.afterDark && p.drop === NEWEST_DROP).slice(0, 8);
   const afterDark = PRODUCTS.filter((p) => p.afterDark).slice(0, 6);
   const dropNo = NEWEST_DROP.replace(/\D/g, '').padStart(2, '0');
@@ -87,7 +90,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="sec after">
+      {afterDark.length > 0 && <section className="sec after">
         <div className="wrap after-row">
           <div className="after-copy">
             <p className="eyebrow">18+</p>
@@ -107,7 +110,7 @@ export default function Home() {
             ))}
           </div>
         </div>
-      </section>
+      </section>}
 
       <section className="sec club">
         <div className="wrap club-row">
