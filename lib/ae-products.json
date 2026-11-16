@@ -4839,5 +4839,257 @@
     "color": "*"
    }
   ]
+ },
+ {
+  "slug": "goth-kawaii-cami-944260",
+  "code": "BK-AE28",
+  "name": "Goth Kawaii Cami",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "tanks",
+  "design": "ae",
+  "drop": "ae",
+  "price": 19.99,
+  "colors": [
+   {
+    "name": "White",
+    "hex": "#ffffff"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "blurb": "",
+  "details": [
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "3256813393944260",
+   "delivery": "7-13 days",
+   "variants": [
+    {
+     "color": "White",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:29",
+     "skuId": "12000061581652040",
+     "cost": 7.05
+    },
+    {
+     "color": "White",
+     "size": "L",
+     "skuAttr": "5:361385;14:29",
+     "skuId": "12000061581652039",
+     "cost": 7.05
+    },
+    {
+     "color": "White",
+     "size": "M",
+     "skuAttr": "5:361386;14:29",
+     "skuId": "12000061581652038",
+     "cost": 7.05
+    },
+    {
+     "color": "White",
+     "size": "S",
+     "skuAttr": "5:100014064;14:29",
+     "skuId": "12000061581652037",
+     "cost": 7.05
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256813393944260/1eaf28f2eab4.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "baby-tee-849911",
+  "code": "BK-AE29",
+  "name": "Baby Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 27.99,
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#151515"
+   },
+   {
+    "name": "Gray",
+    "hex": "#9a9a9a"
+   },
+   {
+    "name": "White",
+    "hex": "#ffffff"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "2XL"
+  ],
+  "blurb": "",
+  "details": [
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "3256808858849911",
+   "delivery": "7-13 days",
+   "variants": [
+    {
+     "color": "Black",
+     "size": "2XL",
+     "skuAttr": "5:4182;14:193#black;200007763:201336100",
+     "skuId": "12000061371318614",
+     "cost": 9.89
+    },
+    {
+     "color": "Black",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:193#black;200007763:201336100",
+     "skuId": "12000061371318615",
+     "cost": 9.95
+    },
+    {
+     "color": "Gray",
+     "size": "2XL",
+     "skuAttr": "5:4182;14:200006151#gray;200007763:201336100",
+     "skuId": "12000061371318612",
+     "cost": 9.89
+    },
+    {
+     "color": "Gray",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:200006151#gray;200007763:201336100",
+     "skuId": "12000061371318613",
+     "cost": 9.85
+    },
+    {
+     "color": "Gray",
+     "size": "L",
+     "skuAttr": "5:361385;14:200006151#gray;200007763:201336100",
+     "skuId": "12000061371318610",
+     "cost": 9.85
+    },
+    {
+     "color": "Gray",
+     "size": "M",
+     "skuAttr": "5:361386;14:200006151#gray;200007763:201336100",
+     "skuId": "12000061371318611",
+     "cost": 9.65
+    },
+    {
+     "color": "Black",
+     "size": "L",
+     "skuAttr": "5:361385;14:193#black;200007763:201336100",
+     "skuId": "12000061371318622",
+     "cost": 9.95
+    },
+    {
+     "color": "Gray",
+     "size": "S",
+     "skuAttr": "5:100014064;14:200006151#gray;200007763:201336100",
+     "skuId": "12000061371318620",
+     "cost": 9.79
+    },
+    {
+     "color": "White",
+     "size": "2XL",
+     "skuAttr": "5:4182;14:29#white;200007763:201336100",
+     "skuId": "12000061371318621",
+     "cost": 9.99
+    },
+    {
+     "color": "White",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:29#white;200007763:201336100",
+     "skuId": "12000061371318618",
+     "cost": 10.19
+    },
+    {
+     "color": "White",
+     "size": "L",
+     "skuAttr": "5:361385;14:29#white;200007763:201336100",
+     "skuId": "12000061371318619",
+     "cost": 10.09
+    },
+    {
+     "color": "White",
+     "size": "M",
+     "skuAttr": "5:361386;14:29#white;200007763:201336100",
+     "skuId": "12000061371318616",
+     "cost": 9.55
+    },
+    {
+     "color": "White",
+     "size": "S",
+     "skuAttr": "5:100014064;14:29#white;200007763:201336100",
+     "skuId": "12000061371318617",
+     "cost": 9.65
+    },
+    {
+     "color": "Black",
+     "size": "S",
+     "skuAttr": "5:100014064;14:193#black;200007763:201336100",
+     "skuId": "12000047698385903",
+     "cost": 9.45
+    },
+    {
+     "color": "Black",
+     "size": "M",
+     "skuAttr": "5:361386;14:193#black;200007763:201336100",
+     "skuId": "12000047698385902",
+     "cost": 10.25
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256808858849911/d7f885841be2.jpg",
+    "color": "Black"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256808858849911/c0339cff7cb2.jpg",
+    "color": "Gray"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256808858849911/77cd753478e3.jpg",
+    "color": "White"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256808858849911/d121b43f3dba.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256808858849911/380c71cc20ee.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256808858849911/c039d2dbcadd.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256808858849911/77cd753478e3.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256808858849911/f58b2984cb27.jpg",
+    "color": "*"
+   }
+  ]
  }
 ]
