@@ -25,6 +25,8 @@ Open http://localhost:3000.
 | `components/CartDrawer.tsx` | The bag, saved in the browser |
 | `components/Adult.tsx` | Blurs After Dark art until the visitor confirms they are 18+ |
 | `app/api/checkout` | Creates a Stripe Checkout session (needs `STRIPE_SECRET_KEY`) |
+| `app/api/stripe-webhook` | After Stripe confirms payment, sends the order to Printful to print and ship (needs `STRIPE_WEBHOOK_SECRET` and `PRINTFUL_API_TOKEN`) |
+| `lib/printful.ts`, `lib/stripe.ts` | Small API helpers for the webhook |
 | `app/api/newsletter` | Adds emails to a Resend audience (needs `RESEND_API_KEY` and `RESEND_AUDIENCE_ID`) |
 
 Copy `.env.example` to `.env.local` and fill in keys as each service gets connected. Without keys the store still runs; checkout and sign-up show a plain "not connected yet" message.
@@ -58,7 +60,23 @@ Images live on Cloudflare R2 (`blazed-kitty` bucket). To refresh the catalog aft
 
 These read design data from the `brand-assets` branch.
 
+## Orders
+
+1. Checkout sends the buyer to Stripe. Each line item carries the product slug, color and size.
+2. Stripe calls `/api/stripe-webhook` with `checkout.session.completed` (or `checkout.session.async_payment_succeeded` for slower payment types).
+3. The webhook checks Stripe's signature, reads the items and shipping address, finds the matching Printful store variant and creates the Printful order.
+4. The Printful order ID is saved on the Stripe payment as `printful_order_id`.
+
+Each Printful order's external ID is a hash of the Stripe session, so a repeated webhook never makes a second order. If anything fails, the webhook answers 500 and Stripe retries for up to 3 days.
+
+Set `PRINTFUL_CONFIRM_ORDERS=false` to land orders as Printful drafts while testing.
+
+### Setup
+
+1. Stripe Dashboard → Developers → Webhooks → Add endpoint: `https://blazedkitty.com/api/stripe-webhook`
+2. Events: `checkout.session.completed` and `checkout.session.async_payment_succeeded`
+3. Copy the signing secret (`whsec_...`) into `STRIPE_WEBHOOK_SECRET` on the server, along with `STRIPE_SECRET_KEY`, `PRINTFUL_API_TOKEN` and `PRINTFUL_STORE_ID`.
+
 ## Next up
 
-- Stripe webhook that creates and confirms the Printful order after payment
 - Order and shipping emails through Resend
