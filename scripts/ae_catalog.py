@@ -27,7 +27,9 @@ OUT = os.path.join(REPO, 'lib', 'ae-products.json')
 ADMIN_URL = os.environ.get('ADMIN_URL', 'https://blazedkitty.com/api/aliexpress/admin')
 ADMIN_TOKEN = os.environ.get('ADMIN_TOKEN', 'proxy-injected')
 MARKUP = float(os.environ.get('MARKUP', '2.5'))
-MAX_PHOTOS = int(os.environ.get('MAX_PHOTOS', '10'))
+MAX_PHOTOS = int(os.environ.get('MAX_PHOTOS', '8'))
+# Skip items rated below this once they have a few reviews.
+MIN_RATING = float(os.environ.get('MIN_RATING', '4.3'))
 SIZE_NAMES = re.compile(r'^(size|sizes|us size|clothing size)$', re.I)
 SKIP_PROPS = re.compile(r'^(ships from|ship from|shipping from)$', re.I)
 SIZE_ORDER = ['XXS', 'XS', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL', '5XL', '6XL', 'ONE SIZE']
@@ -104,6 +106,9 @@ def build(pick, n, cats):
     if not res:
         sys.exit(f'{pid}: AliExpress returned nothing')
     base = res.get('ae_item_base_info_dto') or {}
+    rating, reviews = to_float(base.get('avg_evaluation_rating')), int(to_float(base.get('evaluation_count')))
+    if reviews >= 5 and rating < MIN_RATING:
+        sys.exit(f'{pid}: rated {rating} from {reviews} reviews, under {MIN_RATING}')
     skus = [s for s in arr(res.get('ae_item_sku_info_dtos')) if int(s.get('sku_available_stock') or 0) > 0]
     if not skus:
         sys.exit(f'{pid}: no SKUs in stock')
@@ -149,7 +154,9 @@ def build(pick, n, cats):
     name = pick.get('name') or clean_name(base.get('subject'))
     ship, delivery = ship_estimate(pid, variants[0]['skuId'])
     max_cost = max(v['cost'] for v in variants)
-    price = pick.get('price') or (math.ceil(max_cost * MARKUP + ship) - 0.01)
+    # Cheap items take the full markup; pricier ones less, so a $40 top doesn't list at $100+.
+    mult = MARKUP if max_cost < 12 else min(MARKUP, 2.0) if max_cost < 25 else min(MARKUP, 1.8)
+    price = pick.get('price') or (math.ceil(max_cost * mult + ship) - 0.01)
 
     photos = []
     for c in colors:
@@ -196,12 +203,38 @@ def build(pick, n, cats):
 def main():
     picks = json.load(open(PICKS))
     cats = categories()
-    print(f'Building {len(picks)} AliExpress products...')
-    products = [build(p, i, cats) for i, p in enumerate(picks, 1)]
+    refresh = '--refresh' in sys.argv
+    old = {} if refresh or not os.path.exists(OUT) else {p['ae']['productId']: p for p in json.load(open(OUT))}
+    print(f'Building {len(picks)} AliExpress products ({len(old)} already built, reused)...')
+    products, failed = [], []
+    for i, pick in enumerate(picks, 1):
+        prev = old.get(str(pick['id']))
+        if prev:
+            # Keep built products, but pick up edited names, prices and text.
+            for k in ('name', 'blurb', 'description', 'depts', 'afterDark'):
+                if k in pick:
+                    prev[k] = pick[k]
+            if pick.get('price'):
+                prev['price'] = pick['price']
+            prev['details'] = (pick.get('details') or []) + ['Ships from our overseas partner']
+            prev['code'] = f'BK-AE{i}'
+            products.append(prev)
+            continue
+        try:
+            products.append(build(pick, i, cats))
+        except (SystemExit, Exception) as e:  # one bad listing shouldn't stop the batch
+            print(f'  skip {pick["id"]}: {e}')
+            failed.append(str(pick['id']))
+        with open(OUT, 'w') as f:  # save as we go
+            json.dump(products, f, indent=1, ensure_ascii=False)
+            f.write('\n')
     with open(OUT, 'w') as f:
         json.dump(products, f, indent=1, ensure_ascii=False)
         f.write('\n')
-    print(f'Wrote {len(products)} products to lib/ae-products.json')
+    if failed:
+        # Drop picks that can't be built so the picks file matches the store.
+        json.dump([p for p in picks if str(p['id']) not in failed], open(PICKS, 'w'), indent=1, ensure_ascii=False)
+    print(f'Wrote {len(products)} products to lib/ae-products.json ({len(failed)} skipped)')
 
 
 if __name__ == '__main__':
