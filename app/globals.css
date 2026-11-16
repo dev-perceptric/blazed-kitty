@@ -184,6 +184,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .size { min-width: 52px; height: 42px; padding: 0 10px; border: 1px solid var(--line); background: transparent; font-size: 13px; font-weight: 600; cursor: pointer; }
 .size:hover { border-color: var(--text); }
 .size.is-on { background: var(--text); color: var(--bg); border-color: var(--text); }
+.size:disabled { opacity: .35; text-decoration: line-through; cursor: not-allowed; }
 .buy-row { display: flex; gap: 10px; margin-top: 8px; }
 .qty { display: inline-flex; align-items: center; gap: 2px; }
 .qty button { width: 30px; height: 30px; border: 0; background: transparent; cursor: pointer; font-size: 16px; }

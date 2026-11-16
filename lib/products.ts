@@ -1,8 +1,28 @@
 import type { CategoryId, Dept, LineId } from './taxonomy';
+import CJ_PRODUCTS from './cj-products.json';
 
 export interface Color {
   name: string;
   hex: string;
+  /** Small photo for the swatch when the option is a print or finish, not a plain color (CJ). */
+  image?: string;
+}
+
+export interface CjVariant {
+  color: string;
+  size: string;
+  vid: string;
+  /** What CJ charges us, in USD, before shipping. */
+  cost: number;
+}
+
+export interface CjInfo {
+  pid: string;
+  /** Warehouse country CJ ships from (US or CN). */
+  from: string;
+  /** Typical delivery time shown on the product page, e.g. "5-9 business days". */
+  delivery?: string;
+  variants: CjVariant[];
 }
 
 export interface Product {
@@ -22,14 +42,19 @@ export interface Product {
   sizes: string[];
   blurb: string;
   afterDark?: boolean;
-  printful: { productId: number; syncProductId: number; blank: string };
+  /** Set when Printful prints and ships this piece. */
+  printful?: { productId: number; syncProductId: number; blank: string };
+  /** Set when CJ Dropshipping ships this piece. One entry per color and size. */
+  cj?: CjInfo;
+  /** Photos for products that don't use mockups.json (CJ). color '*' means every color. */
+  photos?: { src: string; color: string }[];
   details: string[];
   /** Long description, one paragraph per entry. */
   description?: string[];
 }
 
 // Generated from the Printful store (Blazed Kitty) by scripts/build_catalog.py.
-export const PRODUCTS: Product[] = [
+const PRINTFUL_PRODUCTS: Product[] = [
   {"slug": "indica-queen-heavyweight-hoodie", "code": "BK-H178", "name": "Indica Queen Heavyweight Hoodie", "depts": ["women", "men"], "line": "lounge", "category": "hoodies", "design": "indicaqueen", "drop": "drop6", "price": 68, "colors": [{"name": "White", "hex": "#ffffff"}, {"name": "Black", "hex": "#0e0b0b"}, {"name": "Athletic Heather", "hex": "#f2f2f2"}, {"name": "Dust", "hex": "#f4e7d6"}], "sizes": ["S", "M", "L", "XL", "2XL", "3XL"], "blurb": "Ruling from the couch.", "printful": {"productId": 892, "syncProductId": 494139609, "blank": "Bella+Canvas 4719 Heavyweight Hoodie"}, "details": ["10 oz heavyweight fleece", "Oversized fit, dropped shoulders", "Printed when you order"], "description": ["The Indica Queen Heavyweight Hoodie says “INDICA QUEEN” in carved, Roman-style capitals, printed in electric purple ink on two stacked lines, across the chest. The print is big and easy to read from across the room: about 8.0 inches wide and 4.2 inches tall on the real piece, the same size you see on the model.", "Fabric: Thick 10 oz cotton-blend fleece with a soft brushed inside, heavy enough to hold its shape. The cut: an oversized hoodie with dropped shoulders, a double-layer hood, a front pouch pocket and ribbed cuffs and hem.", "Available in white, black, athletic heather or dust. Every color is matched to the ink so the words always stand out. The design is printed with water-based inks directly onto the fleece.", "How to wear it: Big and cozy with sweats for a couch day, or over a skirt and boots for that oversized boyfriend look.", "Fit and sizing: It is cut oversized on purpose and fits unisex. Take your usual size for a roomy fit, or size down once for a regular fit.", "Made for you: each piece is printed after you order, which means no extra stock and no waste. Care: Machine wash cold, inside out. Tumble dry low. Do not iron the print."]},
   {"slug": "pre-rolled-and-ready-heavyweight-hoodie", "code": "BK-H196", "name": "Pre-Rolled and Ready Heavyweight Hoodie", "depts": ["women", "men"], "line": "lounge", "category": "hoodies", "design": "prerolled", "drop": "drop6", "price": 68, "colors": [{"name": "White", "hex": "#ffffff"}, {"name": "Black", "hex": "#0e0b0b"}, {"name": "Athletic Heather", "hex": "#f2f2f2"}, {"name": "Dust", "hex": "#f4e7d6"}], "sizes": ["S", "M", "L", "XL", "2XL", "3XL"], "blurb": "Always prepared.", "printful": {"productId": 892, "syncProductId": 494139748, "blank": "Bella+Canvas 4719 Heavyweight Hoodie"}, "details": ["10 oz heavyweight fleece", "Oversized fit, dropped shoulders", "Printed when you order"], "description": ["The Pre-Rolled and Ready Heavyweight Hoodie says “PRE-ROLLED AND READY” in slanted, condensed athletic capitals, printed in cherry red ink on two stacked lines, across the chest. The print is big and easy to read from across the room: about 8.0 inches wide and 3.3 inches tall on the real piece, the same size you see on the model.", "Fabric: Thick 10 oz cotton-blend fleece with a soft brushed inside, heavy enough to hold its shape. The cut: an oversized hoodie with dropped shoulders, a double-layer hood, a front pouch pocket and ribbed cuffs and hem.", "Available in white, black, athletic heather or dust. Every color is matched to the ink so the words always stand out. The design is printed with water-based inks directly onto the fleece.", "How to wear it: Big and cozy with sweats for a couch day, or over a skirt and boots for that oversized boyfriend look.", "Fit and sizing: It is cut oversized on purpose and fits unisex. Take your usual size for a roomy fit, or size down once for a regular fit.", "Made for you: each piece is printed after you order, which means no extra stock and no waste. Care: Machine wash cold, inside out. Tumble dry low. Do not iron the print."]},
   {"slug": "too-pretty-to-pay-for-weed-crop-tee", "code": "BK-T290", "name": "Too Pretty to Pay for Weed Crop Tee", "depts": ["women"], "line": "tops", "category": "crop-tees", "design": "toopretty", "drop": "drop6", "price": 36, "colors": [{"name": "Vintage White", "hex": "#f9f6f2"}, {"name": "Light Washed Denim", "hex": "#dde9f3"}], "sizes": ["S", "M", "L", "XL", "2XL"], "blurb": "Someone else is buying.", "printful": {"productId": 1579, "syncProductId": 494132109, "blank": "Bella+Canvas 6882GD Garment Dye Cropped Tee"}, "details": ["100% ring-spun cotton, heavyweight and garment-dyed", "Cropped, boxy fit with oversized sleeves", "Printed when you order"], "description": ["The Too Pretty to Pay for Weed Crop Tee says “too pretty to pay for weed” in a dramatic black-weight italic serif, printed in hot pink ink on three stacked lines, across the chest. The print is big and easy to read from across the room: about 7.9 inches wide and 5.4 inches tall on the real piece, the same size you see on the model.", "Fabric: Heavyweight 100% ring-spun cotton that is dyed after sewing, which gives it a soft, broken-in, lived-in feel and a slightly washed color. The cut: a boxy, cropped shape with dropped shoulders and wide, oversized sleeves.", "Available in vintage white or light washed denim. Every color is matched to the ink so the words always stand out. The design is printed with a direct-to-film transfer that is pressed into the cotton, which keeps the color bold on washed fabric.", "How to wear it: Over a bikini top, with bike shorts, or with high-waist jeans so the boxy crop meets the waistband.", "Fit and sizing: It is cut wide and short on purpose. Take your usual size for the boxy look. Size down once if you want it closer to the body.", "Made for you: each piece is printed after you order, which means no extra stock and no waste. Care: Machine wash cold, inside out. Garment-dyed cotton can fade a little over time, which is part of the look. Hang dry to keep the shape."]},
@@ -832,8 +857,16 @@ export const PRODUCTS: Product[] = [
   {"slug": "the-rumors-are-true-im-baked-fitted-baby-tee", "code": "BK-T84", "name": "The Rumors Are True, I’m Baked Fitted Baby Tee", "depts": ["women"], "line": "tops", "category": "baby-tees", "design": "rumors", "drop": "drop1", "price": 34, "colors": [{"name": "White", "hex": "#ffffff"}, {"name": "Black", "hex": "#151515"}, {"name": "Bone", "hex": "#ebe0d2"}], "sizes": ["XS", "S", "M", "L", "XL", "2XL"], "blurb": "Everything you heard is true.", "printful": {"productId": 636, "syncProductId": 494122584, "blank": "AS Colour 4062 Women's Crop Top"}, "details": ["Soft 100% combed cotton", "Fitted baby-tee cut, cropped", "Printed when you order", "AS Colour 4062"], "description": ["The The Rumors Are True, I’m Baked Fitted Baby Tee says “the rumors are true, i’m baked” in a bold slab serif with a typewriter attitude, printed in hot pink ink on three stacked lines, across the chest. The print is big and easy to read from across the room: about 8.0 inches wide and 4.6 inches tall on the real piece, the same size you see on the model.", "Fabric: Soft, midweight 100% combed cotton with a smooth, matte hand. The cut: a close, body-skimming baby-tee cut with short sleeves and a cropped hem that lands just above the belly button.", "Available in white, black or bone. Every color is matched to the ink so the words always stand out. The design is printed straight onto the fabric with water-based inks, so the print stays soft and moves with the shirt instead of sitting on top like a sticker.", "How to wear it: With low-rise jeans, a mini skirt or baggy cargos, a few rings and a choker. Tuck it into high-waist pants or let it ride up for a little stomach.", "Fit and sizing: It is made to fit snug like a true Y2K baby tee. Take your usual size for that fitted look, or size up once if you want it a little looser through the chest and arms.", "Made for you: each piece is printed after you order, which means no extra stock and no waste. Care: Machine wash cold, inside out, with like colors. Tumble dry low or hang dry. Do not iron directly on the print."]},
 ];
 
+// CJ Dropshipping products, written by scripts/cj_catalog.py from scripts/cj_picks.json.
+export const PRODUCTS: Product[] = [...PRINTFUL_PRODUCTS, ...(CJ_PRODUCTS as Product[])];
+
 export function getProduct(slug: string) {
   return PRODUCTS.find((p) => p.slug === slug);
+}
+
+/** The CJ variant for a color and size, if CJ stocks that combo. */
+export function cjVariant(p: Product, color: string, size: string) {
+  return p.cj?.variants.find((v) => v.color === color && v.size === size);
 }
 
 export function formatPrice(n: number) {

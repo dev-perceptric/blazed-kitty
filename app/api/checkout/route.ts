@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { getProduct } from '@/lib/products';
+import { cjVariant, getProduct } from '@/lib/products';
 
 interface Line { slug: string; color: string; size: string; qty: number }
 
@@ -20,7 +20,9 @@ export async function POST(req: Request) {
 
   const lines = items
     .map((i) => ({ i, p: getProduct(i.slug) }))
-    .filter(({ i, p }) => p && p.sizes.includes(i.size) && p.colors.some((c) => c.name === i.color) && i.qty > 0 && i.qty <= 10);
+    .filter(({ i, p }) => p && p.sizes.includes(i.size) && p.colors.some((c) => c.name === i.color) && i.qty > 0 && i.qty <= 10)
+    // CJ items only sell in the color and size combos CJ actually stocks.
+    .filter(({ i, p }) => !p!.cj || cjVariant(p!, i.color, i.size));
   if (lines.length === 0) return NextResponse.json({ error: 'Your bag is empty.' }, { status: 400 });
 
   const origin = process.env.NEXT_PUBLIC_SITE_URL || new URL(req.url).origin;
@@ -41,7 +43,13 @@ export async function POST(req: Request) {
     body.append(`line_items[${n}][price_data][product_data][metadata][slug]`, p!.slug);
     body.append(`line_items[${n}][price_data][product_data][metadata][color]`, i.color);
     body.append(`line_items[${n}][price_data][product_data][metadata][size]`, i.size);
-    body.append(`line_items[${n}][price_data][product_data][metadata][printful_product_id]`, String(p!.printful.productId));
+    if (p!.printful) {
+      body.append(`line_items[${n}][price_data][product_data][metadata][supplier]`, 'printful');
+      body.append(`line_items[${n}][price_data][product_data][metadata][printful_product_id]`, String(p!.printful.productId));
+    } else if (p!.cj) {
+      body.append(`line_items[${n}][price_data][product_data][metadata][supplier]`, 'cj');
+      body.append(`line_items[${n}][price_data][product_data][metadata][cj_vid]`, cjVariant(p!, i.color, i.size)!.vid);
+    }
   });
 
   const res = await fetch('https://api.stripe.com/v1/checkout/sessions', {

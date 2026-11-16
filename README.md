@@ -26,7 +26,8 @@ Open http://localhost:3000.
 | `components/Adult.tsx` | Blurs After Dark art until the visitor confirms they are 18+ |
 | `app/api/checkout` | Creates a Stripe Checkout session (needs `STRIPE_SECRET_KEY`) |
 | `app/api/stripe-webhook` | After Stripe confirms payment, sends the order to Printful to print and ship (needs `STRIPE_WEBHOOK_SECRET` and `PRINTFUL_API_TOKEN`) |
-| `lib/printful.ts`, `lib/stripe.ts` | Small API helpers for the webhook |
+| `lib/printful.ts`, `lib/stripe.ts`, `lib/cj.ts` | Small API helpers for the webhook |
+| `lib/cj-products.json` | CJ Dropshipping products, written by `scripts/cj_catalog.py` |
 | `app/api/newsletter` | Adds emails to a Resend audience (needs `RESEND_API_KEY` and `RESEND_AUDIENCE_ID`) |
 
 Copy `.env.example` to `.env.local` and fill in keys as each service gets connected. Without keys the store still runs; checkout and sign-up show a plain "not connected yet" message.
@@ -76,6 +77,20 @@ Set `PRINTFUL_CONFIRM_ORDERS=false` to land orders as Printful drafts while test
 1. Stripe Dashboard → Developers → Webhooks → Add endpoint: `https://blazedkitty.com/api/stripe-webhook`
 2. Events: `checkout.session.completed` and `checkout.session.async_payment_succeeded`
 3. Copy the signing secret (`whsec_...`) into `STRIPE_WEBHOOK_SECRET` on the server, along with `STRIPE_SECRET_KEY`, `PRINTFUL_API_TOKEN` and `PRINTFUL_STORE_ID`.
+
+## CJ Dropshipping products
+
+Ready-made items (stash bags, trays, accessories) can come from CJ next to the Printful pieces.
+
+1. Find products: `python3 scripts/cj_search.py "stash bag" --us` (`--us` = US warehouse, faster shipping).
+2. Add picks to `scripts/cj_picks.json`, for example:
+   ```json
+   [{ "pid": "1234-ABCD", "category": "bags", "name": "Smell Proof Stash Bag", "blurb": "Keeps the sesh between us." }]
+   ```
+   `category` is any id from `lib/taxonomy.ts`. Optional: `price`, `details`, `description`, `depts`, `afterDark`, `from`.
+3. Run `python3 scripts/cj_catalog.py`. It pulls sizes, colors, costs and photos (copied to R2 under `cj/`), prices each item at CJ cost × 2 plus shipping unless you set `price`, and writes `lib/cj-products.json`.
+
+CJ items only offer the color and size combos CJ stocks. On a paid order, the webhook sends CJ items to CJ (one order per warehouse), picks the cheapest CJ shipping, and pays from the CJ wallet. Printful items in the same order still go to Printful, so the buyer gets separate packages.
 
 ## Next up
 

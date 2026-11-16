@@ -268,10 +268,30 @@ for _d in dict.fromkeys(p['drop'] for p in prods):
 prods = _order
 
 HEAD = """import type { CategoryId, Dept, LineId } from './taxonomy';
+import CJ_PRODUCTS from './cj-products.json';
 
 export interface Color {
   name: string;
   hex: string;
+  /** Small photo for the swatch when the option is a print or finish, not a plain color (CJ). */
+  image?: string;
+}
+
+export interface CjVariant {
+  color: string;
+  size: string;
+  vid: string;
+  /** What CJ charges us, in USD, before shipping. */
+  cost: number;
+}
+
+export interface CjInfo {
+  pid: string;
+  /** Warehouse country CJ ships from (US or CN). */
+  from: string;
+  /** Typical delivery time shown on the product page, e.g. "5-9 business days". */
+  delivery?: string;
+  variants: CjVariant[];
 }
 
 export interface Product {
@@ -291,19 +311,32 @@ export interface Product {
   sizes: string[];
   blurb: string;
   afterDark?: boolean;
-  printful: { productId: number; syncProductId: number; blank: string };
+  /** Set when Printful prints and ships this piece. */
+  printful?: { productId: number; syncProductId: number; blank: string };
+  /** Set when CJ Dropshipping ships this piece. One entry per color and size. */
+  cj?: CjInfo;
+  /** Photos for products that don't use mockups.json (CJ). color '*' means every color. */
+  photos?: { src: string; color: string }[];
   details: string[];
   /** Long description, one paragraph per entry. */
   description?: string[];
 }
 
 // Generated from the Printful store (Blazed Kitty) by scripts/build_catalog.py.
-export const PRODUCTS: Product[] = [
+const PRINTFUL_PRODUCTS: Product[] = [
 """
 TAIL = """];
 
+// CJ Dropshipping products, written by scripts/cj_catalog.py from scripts/cj_picks.json.
+export const PRODUCTS: Product[] = [...PRINTFUL_PRODUCTS, ...(CJ_PRODUCTS as Product[])];
+
 export function getProduct(slug: string) {
   return PRODUCTS.find((p) => p.slug === slug);
+}
+
+/** The CJ variant for a color and size, if CJ stocks that combo. */
+export function cjVariant(p: Product, color: string, size: string) {
+  return p.cj?.variants.find((v) => v.color === color && v.size === size);
 }
 
 export function formatPrice(n: number) {

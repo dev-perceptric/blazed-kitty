@@ -22,9 +22,9 @@ export default function Footer() {
         </nav>
         <div>
           <h4>Good to know</h4>
-          <p>Every piece is printed when you order, then shipped.</p>
+          <p>Clothes are printed when you order, then shipped.</p>
           <p>After Dark pieces are for adults 18 and older.</p>
-          <p>We sell clothes. No weed here, just jokes about it.</p>
+          <p>We sell clothes and sesh gear. No weed here, just jokes about it.</p>
           <p>Tag us @blazedkitty</p>
         </div>
       </div>

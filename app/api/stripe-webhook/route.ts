@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
-import { getProduct } from '@/lib/products';
+import { cjVariant, getProduct, type Product } from '@/lib/products';
+import { createCjOrder, type CjLine, type CjOrderResult, type CjRecipient } from '@/lib/cj';
 import {
   createOrder,
   externalIdFor,
@@ -38,36 +39,27 @@ function recipientFrom(s: CheckoutSession): Recipient {
   };
 }
 
-/** Turns one paid Stripe Checkout session into one Printful order. Safe to run twice for the same session. */
-async function fulfil(sessionId: string) {
-  const externalId = externalIdFor(sessionId);
-  const existing = await getOrderByExternalId(externalId);
-  if (existing) return { status: 'already_sent', printfulOrderId: existing.id };
+type Line = { product: Product; color: string; size: string; quantity: number; unitCents: number | null };
 
-  const [session, lineItems] = await Promise.all([getSession(sessionId), getSessionLineItems(sessionId)]);
+/** Sends the Printful part of an order. Safe to run twice for the same session. */
+async function sendPrintful(session: CheckoutSession, lines: Line[]) {
+  const externalId = externalIdFor(session.id);
+  const existing = await getOrderByExternalId(externalId);
+  if (existing) return { status: 'already_sent', orderId: existing.id, externalId };
 
   const items: OrderItem[] = [];
-  for (const li of lineItems) {
-    const meta = li.price?.product?.metadata ?? {};
-    const product = meta.slug ? getProduct(meta.slug) : undefined;
-    if (!product) {
-      console.warn(`stripe-webhook: ${sessionId} has an item that is not a Printful product`, meta.slug);
-      continue;
-    }
+  for (const l of lines) {
     items.push({
-      sync_variant_id: await findSyncVariant(product, meta.color ?? '', meta.size ?? ''),
-      quantity: li.quantity ?? 1,
-      retail_price: money(li.price?.unit_amount),
+      sync_variant_id: await findSyncVariant(l.product, l.color, l.size),
+      quantity: l.quantity,
+      retail_price: money(l.unitCents),
     });
   }
-  if (items.length === 0) return { status: 'no_printful_items' };
 
   const totals = session.total_details ?? {};
   const confirm = process.env.PRINTFUL_CONFIRM_ORDERS !== 'false';
-
-  let order;
   try {
-    order = await createOrder(
+    const order = await createOrder(
       {
         externalId,
         recipient: recipientFrom(session),
@@ -82,27 +74,81 @@ async function fulfil(sessionId: string) {
       },
       confirm,
     );
+    return { status: confirm ? 'sent' : 'draft', orderId: order.id, externalId };
   } catch (e) {
     // Two deliveries of the same event can race. If the other one won, that's fine.
     const raced = await getOrderByExternalId(externalId);
-    if (raced) return { status: 'already_sent', printfulOrderId: raced.id };
+    if (raced) return { status: 'already_sent', orderId: raced.id, externalId };
     throw e;
   }
+}
 
-  // Note the Printful order on the Stripe payment so you can find one from the other.
-  if (session.payment_intent) {
+/** Sends the CJ part of an order: one CJ order per warehouse country. CJ rejects repeats by order number. */
+async function sendCj(session: CheckoutSession, lines: Line[]) {
+  const r = recipientFrom(session);
+  const to: CjRecipient = {
+    name: r.name, address1: r.address1, address2: r.address2, city: r.city,
+    state: r.state_code ?? (session.collected_information?.shipping_details ?? session.shipping_details)?.address?.state ?? undefined,
+    countryCode: r.country_code, zip: r.zip, email: r.email, phone: r.phone,
+  };
+  const byWarehouse = new Map<string, CjLine[]>();
+  for (const l of lines) {
+    const v = cjVariant(l.product, l.color, l.size);
+    if (!v) throw new Error(`No CJ variant for ${l.product.slug} in ${l.color} / ${l.size}`);
+    const from = l.product.cj!.from;
+    byWarehouse.set(from, [...(byWarehouse.get(from) ?? []), { vid: v.vid, quantity: l.quantity }]);
+  }
+  const results = [];
+  for (const [from, cjLines] of byWarehouse) {
+    results.push(await createCjOrder(`${externalIdFor(session.id)}-${from}`, from, to, cjLines));
+  }
+  return results;
+}
+
+/** Turns one paid Stripe Checkout session into Printful and CJ orders. Safe to run twice. */
+async function fulfil(sessionId: string) {
+  const [session, lineItems] = await Promise.all([getSession(sessionId), getSessionLineItems(sessionId)]);
+
+  const printfulLines: Line[] = [];
+  const cjLines: Line[] = [];
+  for (const li of lineItems) {
+    const meta = li.price?.product?.metadata ?? {};
+    const product = meta.slug ? getProduct(meta.slug) : undefined;
+    if (!product) {
+      console.warn(`stripe-webhook: ${sessionId} has an item not in the catalog`, meta.slug);
+      continue;
+    }
+    const line = { product, color: meta.color ?? '', size: meta.size ?? '', quantity: li.quantity ?? 1, unitCents: li.price?.unit_amount ?? null };
+    if (product.cj) cjLines.push(line);
+    else if (product.printful) printfulLines.push(line);
+  }
+
+  const result: { printful?: Awaited<ReturnType<typeof sendPrintful>>; cj?: CjOrderResult[] } = {};
+  if (printfulLines.length) result.printful = await sendPrintful(session, printfulLines);
+  if (cjLines.length) result.cj = await sendCj(session, cjLines);
+
+  // Note the supplier orders on the Stripe payment so you can find one from the other.
+  // On a retry, orders that already existed keep the tags from the first run.
+  const newCj = (result.cj ?? []).filter((o) => o.status !== 'already_sent');
+  const newPrintful = result.printful && result.printful.status !== 'already_sent' ? result.printful : undefined;
+  if (session.payment_intent && (newPrintful || newCj.length)) {
     const form = new URLSearchParams();
-    form.append('metadata[printful_order_id]', String(order.id));
-    form.append('metadata[printful_external_id]', externalId);
+    if (newPrintful) {
+      form.append('metadata[printful_order_id]', String(newPrintful.orderId));
+      form.append('metadata[printful_external_id]', newPrintful.externalId);
+    }
+    if (newCj.length) {
+      form.append('metadata[cj_orders]', newCj.map((o) => `${o.orderNumber}:${o.orderId ?? '?'}:${o.status}`).join(' ').slice(0, 500));
+    }
     await stripe(`/payment_intents/${session.payment_intent}`, { method: 'POST', form }).catch((e) =>
-      console.warn('stripe-webhook: could not tag payment with Printful order', e.message),
+      console.warn('stripe-webhook: could not tag payment with supplier orders', e.message),
     );
   }
 
-  return { status: confirm ? 'sent' : 'draft', printfulOrderId: order.id };
+  return result;
 }
 
-// Stripe calls this after checkout. Paid sessions become Printful orders.
+// Stripe calls this after checkout. Paid sessions become Printful and CJ orders.
 export async function POST(req: Request) {
   const secret = process.env.STRIPE_WEBHOOK_SECRET;
   if (!secret) return NextResponse.json({ error: 'Webhook not configured' }, { status: 503 });
@@ -135,6 +181,6 @@ export async function POST(req: Request) {
   } catch (e) {
     // A 500 makes Stripe retry for up to 3 days, so a fix to the catalog or a Printful outage heals itself.
     console.error(`stripe-webhook: failed for ${session.id}`, e);
-    return NextResponse.json({ error: 'Could not send the order to Printful' }, { status: 500 });
+    return NextResponse.json({ error: 'Could not send the order to a supplier' }, { status: 500 });
   }
 }

@@ -54,6 +54,7 @@ const norm = (s: string | null | undefined) => (s ?? '').trim().toLowerCase();
  * All-over prints have one "Full print" color on the site, so they match on size alone.
  */
 export async function findSyncVariant(p: Product, color: string, size: string) {
+  if (!p.printful) throw new PrintfulError(`${p.slug} is not a Printful product`, 422, 'NotPrintful');
   const variants = (await syncVariants(p.printful.syncProductId)).filter((v) => v.synced);
   const match = variants.find(
     (v) => norm(v.size) === norm(size) && (p.allOver || norm(v.color) === norm(color)),
