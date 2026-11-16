@@ -12,36 +12,44 @@ import re
 import sys
 
 PICKS = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'scripts', 'ae_picks.json')
+# Items removed by hand (copyrighted art, duplicates). Never imported again.
+BLOCKED = os.path.join(os.path.dirname(PICKS), 'ae_blocked.json')
 
+# Only skip what can't be sold safely: kids' items and copyrighted characters or brand logos.
 SKIP = re.compile(
-    r"\b(kid|kids|child|children|toddler|infant|newborn|baby (girl|boy)|boys?|maternity|pregnan|pet|dog clothes|doll|plus size|men'?s|\bmen\b|male)\b|"
-    r"(nike|adidas|disney|hello ?kitty|sanrio|kuromi|melody|cinnamoroll|marvel|pokemon|pikachu|barbie|harry potter|star wars|mickey|minnie|stitch|"
-    r"gucci|chanel|louis|supreme|nfl|nba|naruto|one piece|dragon ball|jojo|spongebob|simpsons|anime|manga|hatsune|miku|sakura|minecraft|nyan|"
+    r"\b(kid|kids|child|children|toddler|infant|newborn|baby (girl|boy)|boys|girls'|maternity|pregnan|pet|dog clothes|doll)\b|"
+    r"(nike|adidas|disney|hello ?kitty|sanrio|kuromi|my melody|cinnamoroll|marvel|pokemon|pikachu|barbie|harry potter|star wars|mickey|minnie|stitch|"
+    r"gucci|chanel|louis vuitton|supreme|nfl|nba|naruto|one piece|dragon ball|jojo|spongebob|simpsons|anime|manga|hatsune|miku|sakura|minecraft|nyan|"
     r"pop ?tart|pierce the veil|my chemical|nirvana|metallica|slipknot|ramones|misfits|house of 1000|corpse bride|nightmare before|tim burton|"
-    r"pro choice|trump|biden|jesus|bible|gun|rifle|pistol|nazi|playboy|vans|carhartt|stussy|balenciaga|prada|dior|chrome hearts|ed hardy|"
-    r"juicy|von dutch|bratz|monster high|tokidoki|domo|invader zim|care bears|my little pony|garfield|snoopy|peanuts|halloween|christmas|real fur|genuine|fox fur|mink|puffer|down coat|parka|steampunk|victorian|renaissance|gym|fitness|tracksuit|yoga|workout|polo|blouse|button up shirt|overshirt|office|business|wedding|ibuprofen|meme|cosplay|costume|uniform|lingerie set with)",
+    r"playboy|vans|carhartt|stussy|balenciaga|prada|dior|chrome hearts|ed hardy|juicy couture|von dutch|bratz|monster high|tokidoki|domo|"
+    r"invader zim|care bears|my little pony|garfield|snoopy|peanuts|sonic|mario|zelda|kirby|squishmallow|labubu|king von|trippie|curious george|attack on titan)",
     re.I)
 
 # (category, product word) by title keywords, first match wins.
 TYPES = [
-    (r'\b(bag|purse|handbag|tote|crossbody)\b', 'bags', 'Bag'),
-    (r'\b(socks?|stockings?|leg warmers?)\b', 'socks', 'Socks'),
+    (r'\b(necklace|earrings?|rings?|bracelet|choker|pendant|jewelry|piercing|anklet|body chain)\b', 'jewelry', 'Jewelry'),
+    (r'\b(shoes|boots|sneakers|heels|platforms?|sandals|loafers|mary janes)\b', 'shoes', 'Shoes'),
+    (r'\b(sunglasses|glasses|belt|scarf|gloves|arm warmers?|leg warmers?|hair clips?|hairpins?|wig|garter|harness|mask)\b', 'accessories', None),
+    (r'\b(bag|purse|handbag|tote|crossbody|backpack|wallet)\b', 'bags', 'Bag'),
+    (r'\b(socks?|stockings?|tights|fishnets?)\b', 'socks', 'Socks'),
     (r'\b(bikini|swimsuit|swimwear)\b', 'bikinis', 'Bikini'),
+    (r'\b(lingerie|bra|bralette set|panties|underwear|thong|garter set|babydoll)\b', 'lingerie', 'Lingerie'),
     (r'\b(pajamas?|sleepwear|nightgown|loungewear set)\b', 'pajamas', 'Pajama Set'),
     (r'\b(beanie)\b', 'beanies', 'Beanie'),
     (r'\b(bucket hat)\b', 'bucket-hats', 'Bucket Hat'),
-    (r'\b(baseball cap|trucker hat|dad hat)\b', 'hats', 'Cap'),
-    (r'\b(dress|skirt|jeans|pants|trousers|leggings|jumpsuit|romper|shoes|boots|necklace|earrings|ring|glasses|sunglasses|wig|belt|scarf|gloves)\b', None, None),
+    (r'\b(baseball cap|trucker hat|dad hat|cap|hat)\b', 'hats', 'Cap'),
+    (r'\b(dress|jumpsuit|romper|playsuit|two[- ]piece set|2 piece set|matching set|outfit set)\b', 'dresses', None),
+    (r'\b(skirt|skort)\b', 'skirts', 'Skirt'),
+    (r'\b(jeans|pants|trousers|leggings|cargos?|flares?|joggers|sweatpants)\b', 'pants', None),
     (r'\b(shorts)\b', 'shorts', 'Shorts'),
-    (r'\b(sweatpants|joggers)\b', 'sweatpants', 'Sweatpants'),
-    (r'\b(hoodie|hoodies|zip[- ]?up|sweatshirt|jacket|cardigan|coat)\b', 'hoodies', None),
+    (r'\b(hoodie|hoodies|zip[- ]?up|sweatshirt|jacket|cardigan|coat|sweater|jumper|vest jacket)\b', 'hoodies', None),
     (r'\b(bodysuit)\b', None, 'Bodysuit'),
     (r'\b(long[- ]?sleeves?d?)\b', 'long-sleeves', None),
     (r'\b(tube top|bandeau|strapless)\b', 'tanks', 'Tube Top'),
     (r'\b(halter)\b', 'tanks', 'Halter Top'),
     (r'\b(cami|camis|camisole|spaghetti strap)\b', 'tanks', 'Cami'),
-    (r'\b(tank|sleeveless|vest|bralette)\b', 'tanks', 'Tank'),
-    (r'\b(t-?shirts?|tees?|tshirts?|crop tops?|short sleeves?|baby tees?|tops?)\b', 'baby-tees', None),
+    (r'\b(tank|sleeveless|vest|corset)\b', 'tanks', 'Tank'),
+    (r'\b(t-?shirts?|tees?|tshirts?|crop tops?|short sleeves?|baby tees?|tops?|blouse|shirt)\b', 'baby-tees', None),
 ]
 
 WORDS = [
@@ -60,7 +68,7 @@ WORDS = [
     ('vintage', 'Vintage'), ('slim', 'Fitted'), ('tight', 'Fitted'), ('sexy', 'Sexy'),
 ]
 
-DEFAULT_WORD = {'baby-tees': 'Baby Tee', 'long-sleeves': 'Long Sleeve Tee', 'hoodies': 'Zip Hoodie', 'tanks': 'Tank'}
+DEFAULT_WORD = {'baby-tees': 'Baby Tee', 'long-sleeves': 'Long Sleeve Tee', 'hoodies': 'Zip Hoodie', 'tanks': 'Tank', 'tees': 'Tee'}
 
 
 def classify(title):
@@ -75,6 +83,12 @@ def classify(title):
                 word = 'Jacket' if re.search(r'jacket|coat', t) else 'Cardigan' if 'cardigan' in t else 'Zip Hoodie' if re.search(r'zip', t) else 'Hoodie'
             if cat == 'baby-tees' and re.search(r'crop', t):
                 word = 'Crop Tee'
+            if cat == 'dresses':
+                word = 'Jumpsuit' if re.search(r'jumpsuit|romper|playsuit', t) else 'Set' if re.search(r'set\b', t) else 'Dress'
+            if cat == 'pants':
+                word = 'Jeans' if 'jeans' in t else 'Leggings' if 'leggings' in t else 'Sweatpants' if re.search(r'sweatpants|joggers', t) else 'Pants'
+            if cat == 'accessories':
+                word = next((w.title() for w in ('sunglasses', 'glasses', 'belt', 'scarf', 'gloves', 'arm warmers', 'leg warmers', 'hair clips', 'wig', 'garter', 'harness') if w in t), 'Accessory')
             return cat, word or DEFAULT_WORD.get(cat, 'Top')
     return None, None
 
@@ -101,6 +115,7 @@ def main():
     items = json.load(open(sys.argv[1]))
     picks = json.load(open(PICKS)) if os.path.exists(PICKS) else []
     have = {str(p['id']) for p in picks}
+    have |= set(json.load(open(BLOCKED))) if os.path.exists(BLOCKED) else set()
     used = {p.get('name') for p in picks}
     added = skipped = 0
     for it in items:
@@ -114,11 +129,16 @@ def main():
         if not cat:
             skipped += 1
             continue
+        mens = bool(re.search(r"\b(men'?s|for men|male|boyfriend)\b", title, re.I)) and not re.search(r'\b(women|woman|female|ladies|girl)', title, re.I)
+        if mens and cat == 'baby-tees':
+            cat, word = 'tees', 'Tee'
         name = name_for(title, word, used)
         used.add(name)
         have.add(pid)
         pick = {'id': pid, 'category': cat, 'name': name}
-        if cat in ('tanks', 'long-sleeves', 'hoodies', 'socks', 'shorts', 'sweatpants'):
+        if mens:
+            pick['depts'] = ['men']
+        elif cat in ('tanks', 'long-sleeves', 'hoodies', 'socks', 'shorts', 'pants', 'jewelry', 'accessories', 'shoes', 'bags'):
             pick['depts'] = ['women']
         picks.append(pick)
         added += 1

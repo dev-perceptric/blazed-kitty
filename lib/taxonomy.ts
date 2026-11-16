@@ -4,19 +4,21 @@
 
 export type Dept = 'women' | 'men';
 
-export type LineId = 'tops' | 'lounge' | 'swim' | 'headwear' | 'stash' | 'home';
+export type LineId = 'tops' | 'bottoms' | 'lounge' | 'swim' | 'headwear' | 'stash' | 'home';
 
 export type CategoryId =
   // Tops
   | 'baby-tees' | 'crop-tees' | 'tees' | 'tanks' | 'long-sleeves'
+  // Dresses & bottoms
+  | 'dresses' | 'skirts' | 'pants'
   // Layers (lounge)
   | 'hoodies' | 'sweatpants' | 'shorts' | 'pajamas'
   // Swim and underwear
-  | 'panties' | 'bikinis' | 'boxers' | 'trunks'
+  | 'panties' | 'bikinis' | 'lingerie' | 'boxers' | 'trunks'
   // Headwear
   | 'hats' | 'beanies' | 'bucket-hats'
   // Extras (stash)
-  | 'stickers' | 'glassware' | 'bags' | 'socks' | 'tech'
+  | 'stickers' | 'glassware' | 'bags' | 'socks' | 'tech' | 'jewelry' | 'accessories' | 'shoes'
   // Room (home)
   | 'blankets' | 'wall-art' | 'candles' | 'rolling-mats';
 
@@ -49,10 +51,11 @@ export interface LineDef {
 
 export const LINES: LineDef[] = [
   { id: 'tops', label: 'Tops', blurb: 'Fitted, cropped and a little rude.', image: lineImg('women'), deptImage: { men: lineImg('men') } },
+  { id: 'bottoms', label: 'Dresses & Bottoms', deptLabel: { men: 'Pants' }, blurb: 'Mini skirts, slip dresses and baggy jeans.', image: lineImg('women'), deptImage: { men: lineImg('men') } },
   { id: 'lounge', label: 'Layers', blurb: 'Zip-ups, fur trim and cardigans for cold nights out.', image: lineImg('lounge'), deptImage: { men: lineImg('menlounge') } },
-  { id: 'swim', label: 'Swim & Underwear', deptLabel: { women: 'Panties', men: 'Swim & Boxers' }, blurb: 'Swim and underwear, landing soon.', image: lineImg('swim') },
+  { id: 'swim', label: 'Swim & Underwear', deptLabel: { women: 'Panties', men: 'Swim & Boxers' }, blurb: 'Bikinis, lingerie and the little things underneath.', image: lineImg('swim') },
   { id: 'headwear', label: 'Headwear', blurb: 'Beanies, caps and buckets to finish the fit.', image: lineImg('headwear') },
-  { id: 'stash', label: 'Extras', blurb: 'Trays, jars and odd little things for your room.', image: lineImg('stash'), unisex: true },
+  { id: 'stash', label: 'Extras', blurb: 'Jewelry, bags, shoes and odd little extras.', image: lineImg('stash'), unisex: true },
   { id: 'home', label: 'Room', blurb: 'Decor for a room that matches your playlist.', image: lineImg('home'), unisex: true },
 ];
 
@@ -73,6 +76,10 @@ export const CATEGORIES: CategoryDef[] = [
   { id: 'tanks', label: 'Tanks', line: 'tops', depts: BOTH },
   { id: 'long-sleeves', label: 'Long Sleeves', line: 'tops', depts: BOTH },
 
+  { id: 'dresses', label: 'Dresses & Sets', line: 'bottoms', depts: ['women'] },
+  { id: 'skirts', label: 'Skirts', line: 'bottoms', depts: ['women'] },
+  { id: 'pants', label: 'Pants & Jeans', line: 'bottoms', depts: BOTH },
+
   { id: 'hoodies', label: 'Hoodies', line: 'lounge', depts: BOTH },
   { id: 'sweatpants', label: 'Sweatpants', line: 'lounge', depts: BOTH },
   { id: 'shorts', label: 'Shorts', line: 'lounge', depts: BOTH },
@@ -80,6 +87,7 @@ export const CATEGORIES: CategoryDef[] = [
 
   { id: 'panties', label: 'Panties', line: 'swim', depts: ['women'] },
   { id: 'bikinis', label: 'Bikinis', line: 'swim', depts: ['women'] },
+  { id: 'lingerie', label: 'Lingerie', line: 'swim', depts: ['women'] },
   { id: 'boxers', label: 'Boxers', line: 'swim', depts: ['men'] },
   { id: 'trunks', label: 'Swim Trunks', line: 'swim', depts: ['men'] },
 
@@ -89,9 +97,12 @@ export const CATEGORIES: CategoryDef[] = [
 
   { id: 'stickers', label: 'Stickers', line: 'stash', depts: BOTH },
   { id: 'glassware', label: 'Glassware', line: 'stash', depts: BOTH },
-  { id: 'bags', label: 'Stash Bags', line: 'stash', depts: BOTH },
+  { id: 'bags', label: 'Bags', line: 'stash', depts: BOTH },
   { id: 'socks', label: 'Socks', line: 'stash', depts: BOTH },
   { id: 'tech', label: 'Tech', line: 'stash', depts: BOTH },
+  { id: 'jewelry', label: 'Jewelry', line: 'stash', depts: BOTH },
+  { id: 'accessories', label: 'Accessories', line: 'stash', depts: BOTH },
+  { id: 'shoes', label: 'Shoes', line: 'stash', depts: BOTH },
 
   { id: 'blankets', label: 'Blankets', line: 'home', depts: BOTH },
   { id: 'wall-art', label: 'Wall Art', line: 'home', depts: BOTH },
