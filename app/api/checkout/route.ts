@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { cjVariant, getProduct } from '@/lib/products';
+import { aeVariant, cjVariant, getProduct, inStock } from '@/lib/products';
 
 interface Line { slug: string; color: string; size: string; qty: number }
 
@@ -22,7 +22,7 @@ export async function POST(req: Request) {
     .map((i) => ({ i, p: getProduct(i.slug) }))
     .filter(({ i, p }) => p && p.sizes.includes(i.size) && p.colors.some((c) => c.name === i.color) && i.qty > 0 && i.qty <= 10)
     // CJ items only sell in the color and size combos CJ actually stocks.
-    .filter(({ i, p }) => !p!.cj || cjVariant(p!, i.color, i.size));
+    .filter(({ i, p }) => inStock(p!, i.color, i.size));
   if (lines.length === 0) return NextResponse.json({ error: 'Your bag is empty.' }, { status: 400 });
 
   const origin = process.env.NEXT_PUBLIC_SITE_URL || new URL(req.url).origin;
@@ -49,6 +49,9 @@ export async function POST(req: Request) {
     } else if (p!.cj) {
       body.append(`line_items[${n}][price_data][product_data][metadata][supplier]`, 'cj');
       body.append(`line_items[${n}][price_data][product_data][metadata][cj_vid]`, cjVariant(p!, i.color, i.size)!.vid);
+    } else if (p!.ae) {
+      body.append(`line_items[${n}][price_data][product_data][metadata][supplier]`, 'aliexpress');
+      body.append(`line_items[${n}][price_data][product_data][metadata][ae_sku]`, aeVariant(p!, i.color, i.size)!.skuId);
     }
   });
 

@@ -1,0 +1,43 @@
+"""Search AliExpress (best sellers first, shipping to the US) for products to add to scripts/ae_picks.json.
+
+Run:  python3 scripts/ae_search.py "y2k baby tee"
+      python3 scripts/ae_search.py "y2k baby tee" --pages 3 --json out.json
+"""
+import json
+import os
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from ae_catalog import admin, arr  # noqa: E402
+
+
+def search(q, pages=1):
+    rows = []
+    for page in range(1, pages + 1):
+        resp = admin('aliexpress.ds.text.search', {'keyWord': q, 'local': 'en_US', 'countryCode': 'US', 'currency': 'USD',
+                                                    'sortBy': 'orders,desc', 'pageSize': 50, 'pageIndex': page})
+        data = (resp.get('aliexpress_ds_text_search_response') or resp).get('data') or {}
+        got = arr(data.get('products'))
+        rows += got
+        if len(got) < 50:
+            break
+    return rows
+
+
+def main():
+    args = [a for a in sys.argv[1:] if not a.startswith('--')]
+    if not args:
+        sys.exit(__doc__)
+    pages = int(sys.argv[sys.argv.index('--pages') + 1]) if '--pages' in sys.argv else 1
+    if '--json' in sys.argv:
+        args = [a for a in args if a != sys.argv[sys.argv.index('--json') + 1]]
+    rows = search(' '.join(args), pages)
+    print(f"{'id':<18} {'price':>7} {'orders':>7} {'rating':>7}  title")
+    for p in rows:
+        print(f"{p.get('itemId', ''):<18} {p.get('targetSalePrice', p.get('salePrice', '')):>7} {p.get('orders', ''):>7} {p.get('evaluateRate', ''):>7}  {(p.get('title') or '')[:80]}")
+    if '--json' in sys.argv:
+        json.dump(rows, open(sys.argv[sys.argv.index('--json') + 1], 'w'), indent=1)
+
+
+if __name__ == '__main__':
+    main()

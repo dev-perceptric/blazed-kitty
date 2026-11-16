@@ -92,6 +92,18 @@ Ready-made items (stash bags, trays, accessories) can come from CJ next to the P
 
 CJ items only offer the color and size combos CJ stocks. On a paid order, the webhook sends CJ items to CJ (one order per warehouse), picks the cheapest CJ shipping, and pays from the CJ wallet. Printful items in the same order still go to Printful, so the buyer gets separate packages.
 
+## AliExpress products
+
+1. Put `ALIEXPRESS_APP_KEY`, `ALIEXPRESS_APP_SECRET` and `ADMIN_TOKEN` in the server `.env`.
+2. Give the container a saved folder for the AliExpress sign-in. In `docker-compose.yml`, under `web:` add
+   `volumes: ["bk-data:/app/data"]`, and at the bottom add `volumes: { bk-data: {} }`.
+3. Sign in once: open `https://blazedkitty.com/api/aliexpress/connect?key=ADMIN_TOKEN` and approve.
+4. Find products: `python3 scripts/ae_search.py "y2k baby tee"`, add picks to `scripts/ae_picks.json`
+   (`{"id": "...", "category": "baby-tees"}` plus optional name, price, blurb, details), then run
+   `python3 scripts/ae_catalog.py`. Both scripts call `/api/aliexpress/admin` with the `X-Admin-Token` header.
+
+Paid AliExpress items are ordered by the Stripe webhook with the cheapest shipping and paid with the AliExpress account's payment method.
+
 ## Next up
 
 - Order and shipping emails through Resend
