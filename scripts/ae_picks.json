@@ -1,16 +1,272 @@
 [
-  {"id": "1005006819221772", "category": "baby-tees", "name": "Second Skin Baby Tee", "blurb": "Painted on, in every color.", "details": ["Stretchy rib knit", "Slim, body-hugging fit"]},
-  {"id": "1005011980905640", "category": "baby-tees", "name": "Off-Shoulder Number Tee", "blurb": "Slipping off on purpose.", "details": ["Skewed neckline that falls off one shoulder", "Varsity number print"]},
-  {"id": "1005009157498643", "category": "baby-tees", "name": "One-Shoulder Shrink Tee", "blurb": "One shoulder out, all attitude.", "details": ["Asymmetric one-shoulder neckline", "Slim, shrunken fit"]},
-  {"id": "1005009665164577", "category": "baby-tees", "name": "Kitty Print Crop Tee", "blurb": "Nine lives, one crop top.", "details": ["Animal photo print", "Slim cropped fit"]},
-  {"id": "1005010464601466", "category": "baby-tees", "name": "Ruched Fitted Tee", "blurb": "Gathered in all the right places.", "details": ["Ruched side seams", "Slim round-neck fit"]},
-  {"id": "1005007118244898", "category": "baby-tees", "name": "Trashy 2000s Letter Baby Tee", "blurb": "Straight out of a 2003 mall.", "details": ["Y2K letter print", "Cropped baby-tee fit"]},
-  {"id": "1005009095438815", "category": "baby-tees", "name": "Candy Stripe Baby Tee", "blurb": "Sweet stripes, bad intentions.", "details": ["Cotton stripe knit", "Slim fit"]},
-  {"id": "1005004100495594", "category": "baby-tees", "name": "Lace Trim Square Neck Crop Tee", "blurb": "Cottage core, after hours.", "details": ["Lace-trimmed square neckline", "Slim cropped fit"]},
-  {"id": "1005008082099822", "category": "baby-tees", "name": "Skinny Crop Tee", "blurb": "The one you'll wear four times a week.", "details": ["Solid crewneck", "Skinny cropped fit"]},
-  {"id": "1005010509723363", "category": "baby-tees", "name": "Fairy Butterfly Crop Tee", "blurb": "Wings out, eyes low.", "details": ["Butterfly fairy print", "Cropped fit"]},
-  {"id": "1005011984299652", "category": "baby-tees", "name": "Trashy Stripe Letter Tee", "blurb": "Grunge, but make it baby.", "details": ["Striped knit with letter print", "Slim fit"]},
-  {"id": "1005009464264837", "category": "baby-tees", "name": "Flower Wing V-Neck Crop Tee", "blurb": "Angel on the front, devil on the sesh.", "details": ["Vintage flower and wing print", "Slim V-neck crop"]},
-  {"id": "1005006160917646", "category": "baby-tees", "name": "Vintage V-Neck Slim Tee", "blurb": "Simple, tight, done.", "details": ["Soft cotton", "Slim V-neck fit"]},
-  {"id": "1005006690635845", "category": "baby-tees", "name": "Bow Milkmaid Crop Top", "blurb": "Sweet up top, trouble everywhere else.", "details": ["Square collar with bow", "Puff sleeves, cropped fit"]}
+ {
+  "id": "1005006819221772",
+  "category": "baby-tees",
+  "name": "Second Skin Baby Tee",
+  "blurb": "Painted on, in every color.",
+  "details": [
+   "Stretchy rib knit",
+   "Slim, body-hugging fit"
+  ]
+ },
+ {
+  "id": "1005011980905640",
+  "category": "baby-tees",
+  "name": "Off-Shoulder Number Tee",
+  "blurb": "Slipping off on purpose.",
+  "details": [
+   "Skewed neckline that falls off one shoulder",
+   "Varsity number print"
+  ]
+ },
+ {
+  "id": "1005009157498643",
+  "category": "baby-tees",
+  "name": "One-Shoulder Shrink Tee",
+  "blurb": "One shoulder out, all attitude.",
+  "details": [
+   "Asymmetric one-shoulder neckline",
+   "Slim, shrunken fit"
+  ]
+ },
+ {
+  "id": "1005009665164577",
+  "category": "baby-tees",
+  "name": "Kitty Print Crop Tee",
+  "blurb": "Nine lives, one crop top.",
+  "details": [
+   "Animal photo print",
+   "Slim cropped fit"
+  ]
+ },
+ {
+  "id": "1005010464601466",
+  "category": "baby-tees",
+  "name": "Ruched Fitted Tee",
+  "blurb": "Gathered in all the right places.",
+  "details": [
+   "Ruched side seams",
+   "Slim round-neck fit"
+  ]
+ },
+ {
+  "id": "1005007118244898",
+  "category": "baby-tees",
+  "name": "Trashy 2000s Letter Baby Tee",
+  "blurb": "Straight out of a 2003 mall.",
+  "details": [
+   "Y2K letter print",
+   "Cropped baby-tee fit"
+  ]
+ },
+ {
+  "id": "1005009095438815",
+  "category": "baby-tees",
+  "name": "Candy Stripe Baby Tee",
+  "blurb": "Sweet stripes, bad intentions.",
+  "details": [
+   "Cotton stripe knit",
+   "Slim fit"
+  ]
+ },
+ {
+  "id": "1005004100495594",
+  "category": "baby-tees",
+  "name": "Lace Trim Square Neck Crop Tee",
+  "blurb": "Cottage core, after hours.",
+  "details": [
+   "Lace-trimmed square neckline",
+   "Slim cropped fit"
+  ]
+ },
+ {
+  "id": "1005008082099822",
+  "category": "baby-tees",
+  "name": "Skinny Crop Tee",
+  "blurb": "The one you'll wear four times a week.",
+  "details": [
+   "Solid crewneck",
+   "Skinny cropped fit"
+  ]
+ },
+ {
+  "id": "1005010509723363",
+  "category": "baby-tees",
+  "name": "Fairy Butterfly Crop Tee",
+  "blurb": "Wings out, eyes low.",
+  "details": [
+   "Butterfly fairy print",
+   "Cropped fit"
+  ]
+ },
+ {
+  "id": "1005011984299652",
+  "category": "baby-tees",
+  "name": "Trashy Stripe Letter Tee",
+  "blurb": "Grunge, but make it baby.",
+  "details": [
+   "Striped knit with letter print",
+   "Slim fit"
+  ]
+ },
+ {
+  "id": "1005009464264837",
+  "category": "baby-tees",
+  "name": "Flower Wing V-Neck Crop Tee",
+  "blurb": "Angel on the front, devil on the sesh.",
+  "details": [
+   "Vintage flower and wing print",
+   "Slim V-neck crop"
+  ]
+ },
+ {
+  "id": "1005006160917646",
+  "category": "baby-tees",
+  "name": "Vintage V-Neck Slim Tee",
+  "blurb": "Simple, tight, done.",
+  "details": [
+   "Soft cotton",
+   "Slim V-neck fit"
+  ]
+ },
+ {
+  "id": "1005006690635845",
+  "category": "baby-tees",
+  "name": "Bow Milkmaid Crop Top",
+  "blurb": "Sweet up top, trouble everywhere else.",
+  "details": [
+   "Square collar with bow",
+   "Puff sleeves, cropped fit"
+  ]
+ },
+ {
+  "id": "1005005609662314",
+  "category": "baby-tees",
+  "name": "Pink Slogan Baby Tee",
+  "blurb": "Say it with your chest.",
+  "details": [
+   "Letter graphic",
+   "Slim cropped fit"
+  ]
+ },
+ {
+  "id": "1005010073752894",
+  "category": "baby-tees",
+  "name": "Gothic Filigree Baby Tee",
+  "blurb": "Dark lace, darker thoughts.",
+  "details": [
+   "Gothic filigree print",
+   "Slim cropped fit"
+  ]
+ },
+ {
+  "id": "1005005882435664",
+  "category": "baby-tees",
+  "name": "Meet Me in the Morgue Baby Tee",
+  "blurb": "Dead serious about this date.",
+  "details": [
+   "Gothic letter print",
+   "Slim cropped fit"
+  ]
+ },
+ {
+  "id": "1005009774477099",
+  "category": "baby-tees",
+  "name": "Kitty Face Crop Tee",
+  "blurb": "Whiskers out, belly out.",
+  "details": [
+   "Cat face graphic",
+   "Cropped fit"
+  ]
+ },
+ {
+  "id": "1005012290376510",
+  "category": "baby-tees",
+  "name": "Skull Stripe V-Neck Tee",
+  "blurb": "Stripes with a little bite.",
+  "details": [
+   "Striped knit with skull print",
+   "Slim V-neck fit"
+  ]
+ },
+ {
+  "id": "1005012024580603",
+  "category": "baby-tees",
+  "name": "Disco Occasionally Baby Tee",
+  "blurb": "Kiss all the time. Disco, occasionally.",
+  "details": [
+   "Pixel text slogan",
+   "Slim cropped fit"
+  ]
+ },
+ {
+  "id": "1005011608884617",
+  "category": "baby-tees",
+  "name": "Ladybug Stripe Baby Tee",
+  "blurb": "Lucky, and she knows it.",
+  "details": [
+   "Striped knit with ladybug print",
+   "Slim fit"
+  ]
+ },
+ {
+  "id": "1005012528616376",
+  "category": "baby-tees",
+  "name": "Stripe Mock Neck Crop Tee",
+  "blurb": "Hot girl, cold stare.",
+  "details": [
+   "Striped knit",
+   "Mock neck, cropped fit"
+  ]
+ },
+ {
+  "id": "1005005994002200",
+  "category": "baby-tees",
+  "name": "Ugly People Hate Me Baby Tee",
+  "blurb": "Not our problem.",
+  "details": [
+   "Slogan print",
+   "Slim cropped fit"
+  ]
+ },
+ {
+  "id": "1005006994513380",
+  "category": "baby-tees",
+  "name": "Clown Ringer Baby Tee",
+  "blurb": "Send in the clowns.",
+  "details": [
+   "Vintage clown print",
+   "Contrast ringer trim"
+  ]
+ },
+ {
+  "id": "1005011731172214",
+  "category": "baby-tees",
+  "name": "J'adore 2002 Baby Tee",
+  "blurb": "Peak year, peak tee.",
+  "details": [
+   "Slogan print",
+   "Slim cropped fit"
+  ]
+ },
+ {
+  "id": "1005012817224154",
+  "category": "baby-tees",
+  "name": "MILF Baby Tee",
+  "blurb": "Read it however you want.",
+  "details": [
+   "Bold slogan print",
+   "Slim cropped fit"
+  ]
+ },
+ {
+  "id": "1005013331976335",
+  "category": "baby-tees",
+  "name": "Skeleton Rib Baby Tee",
+  "blurb": "Bare to the bone.",
+  "details": [
+   "Skeleton rib cage print",
+   "Slim cropped fit"
+  ]
+ }
 ]
