@@ -29,7 +29,7 @@ ADMIN_TOKEN = os.environ.get('ADMIN_TOKEN', 'proxy-injected')
 MARKUP = float(os.environ.get('MARKUP', '2.5'))
 MAX_PHOTOS = int(os.environ.get('MAX_PHOTOS', '8'))
 # Skip items rated below this once they have a few reviews.
-MIN_RATING = float(os.environ.get('MIN_RATING', '4.3'))
+MIN_RATING = float(os.environ.get('MIN_RATING', '0'))
 SIZE_NAMES = re.compile(r'^(size|sizes|us size|clothing size)$', re.I)
 SKIP_PROPS = re.compile(r'^(ships from|ship from|shipping from)$', re.I)
 SIZE_ORDER = ['XXS', 'XS', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL', '5XL', '6XL', 'ONE SIZE']
