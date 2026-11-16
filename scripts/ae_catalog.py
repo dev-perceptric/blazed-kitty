@@ -30,6 +30,26 @@ MARKUP = float(os.environ.get('MARKUP', '2.5'))
 MAX_PHOTOS = int(os.environ.get('MAX_PHOTOS', '10'))
 SIZE_NAMES = re.compile(r'^(size|sizes|us size|clothing size)$', re.I)
 SKIP_PROPS = re.compile(r'^(ships from|ship from|shipping from)$', re.I)
+SIZE_ORDER = ['XXS', 'XS', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL', '5XL', '6XL', 'ONE SIZE']
+# Pinyin and odd supplier color names.
+COLOR_FIX = {'fen': 'Pink', 'hong': 'Red', 'hei': 'Black', 'bai': 'White', 'lan': 'Blue', 'hui': 'Gray', 'huang': 'Yellow',
+             'zi': 'Purple', 'lv': 'Green', 'kafei': 'Coffee', 'claret': 'Burgundy', 'rose red': 'Hot Pink'}
+
+
+def clean_color(c):
+    c = re.sub(r'[（(].*?[)）]', '', c)
+    c = re.sub(r'^\s*[\d#]+[\s-]*', '', c).strip(' -_/')
+    c = COLOR_FIX.get(c.lower(), c)
+    return ' '.join(w.capitalize() for w in c.split()) or 'Default'
+
+
+def clean_size(s):
+    s = re.sub(r'[（(].*?[)）]', '', s).strip().upper()
+    return {'XXL': '2XL', 'XXXL': '3XL', 'XXXXL': '4XL', 'XXXXXL': '5XL'}.get(s, s)
+
+
+def size_key(s):
+    return SIZE_ORDER.index(s) if s in SIZE_ORDER else 100
 
 
 def admin(method, params):
@@ -108,8 +128,9 @@ def build(pick, n, cats):
             if SKIP_PROPS.match(name) or not val:
                 continue
             if SIZE_NAMES.match(name):
-                size = val.upper() if len(val) <= 5 else val
+                size = clean_size(val)
             else:
+                val = clean_color(val)
                 others.append(val)
                 if pr.get('sku_image'):
                     color_img.setdefault(val, pr['sku_image'])
@@ -124,6 +145,7 @@ def build(pick, n, cats):
         if size not in sizes:
             sizes.append(size)
 
+    sizes.sort(key=size_key)
     name = pick.get('name') or clean_name(base.get('subject'))
     ship, delivery = ship_estimate(pid, variants[0]['skuId'])
     max_cost = max(v['cost'] for v in variants)
