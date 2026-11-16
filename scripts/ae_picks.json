@@ -2745,7 +2745,8 @@
   "name": "Stripe Knit Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "For cold nights and loud music."
  },
  {
   "id": "1005005763645625",
@@ -2753,20 +2754,14 @@
   "name": "Grunge Vintage Jeans",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005013206454730",
-  "category": "long-sleeves",
-  "name": "Patchwork Vintage Long Sleeve Tee 2",
-  "depts": [
-   "women"
-  ]
+  ],
+  "blurb": "Wear them low, walk like you mean it."
  },
  {
   "id": "1005013032768679",
   "category": "baby-tees",
-  "name": "Stripe Trashy Baby Tee"
+  "name": "Stripe Trashy Baby Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005013101567944",
@@ -2774,7 +2769,8 @@
   "name": "Knit Vintage Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Oversized and over it."
  },
  {
   "id": "1005010408956492",
@@ -2782,7 +2778,8 @@
   "name": "Stripe Knit Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fur trim, zero chill."
  },
  {
   "id": "1005006809265176",
@@ -2790,12 +2787,14 @@
   "name": "Stripe Trashy Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "1005009572489216",
   "category": "baby-tees",
-  "name": "Cross Baby Tee"
+  "name": "Cross Baby Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005010323965323",
@@ -2803,7 +2802,8 @@
   "name": "Knit Turtleneck Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fur trim, zero chill."
  },
  {
   "id": "1005010284560089",
@@ -2811,7 +2811,8 @@
   "name": "Off-Shoulder Knit Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Hood up, world off."
  },
  {
   "id": "1005003830520577",
@@ -2819,12 +2820,14 @@
   "name": "Stripe Goth Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Zip it up, keep it dark."
  },
  {
   "id": "1005013173845114",
   "category": "baby-tees",
-  "name": "Patchwork Vintage Baby Tee 2"
+  "name": "Patchwork Vintage Harajuku Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005007707678432",
@@ -2832,7 +2835,8 @@
   "name": "Slogan Ribbed Trashy Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
   "id": "1005010082290137",
@@ -2840,12 +2844,14 @@
   "name": "Stripe Knit Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005012849914423",
   "category": "baby-tees",
-  "name": "Stripe Floral Baby Tee"
+  "name": "Stripe Floral Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005010154242083",
@@ -2853,7 +2859,8 @@
   "name": "Stripe Off-Shoulder Scarf",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Little extra, big difference."
  },
  {
   "id": "1005010598024327",
@@ -2861,12 +2868,14 @@
   "name": "Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "1005009598727823",
   "category": "baby-tees",
-  "name": "Slogan Goth Baby Tee"
+  "name": "Slogan Goth Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005008258496294",
@@ -2874,7 +2883,8 @@
   "name": "Fur Off-Shoulder Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005012180868344",
@@ -2882,7 +2892,8 @@
   "name": "Sequin Trashy Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The top that does the talking."
  },
  {
   "id": "1005010090047505",
@@ -2890,7 +2901,8 @@
   "name": "Patchwork Slogan Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005006390857505",
@@ -2898,17 +2910,20 @@
   "name": "Vintage Fitted Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005010652191598",
   "category": "baby-tees",
-  "name": "Cross Grunge Trashy Baby Tee"
+  "name": "Cross Grunge Trashy Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005008991094904",
   "category": "baby-tees",
-  "name": "Slogan Grunge Trashy Baby Tee"
+  "name": "Slogan Grunge Trashy Baby Tee",
+  "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005008468611487",
@@ -2916,17 +2931,20 @@
   "name": "Patchwork Knit Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005003827520990",
   "category": "baby-tees",
-  "name": "Goth Grunge Baby Tee"
+  "name": "Goth Grunge Baby Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005005572768391",
   "category": "baby-tees",
-  "name": "Fairy Lace Baby Tee"
+  "name": "Fairy Lace Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005006061143508",
@@ -2934,7 +2952,8 @@
   "name": "Goth Grunge Knit Ribbed Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
   "id": "1005013484383931",
@@ -2942,7 +2961,8 @@
   "name": "Slogan Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005010495070325",
@@ -2950,12 +2970,14 @@
   "name": "Cross Trashy Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "1005009348602047",
   "category": "baby-tees",
-  "name": "Plaid Vintage Baby Tee"
+  "name": "Plaid Vintage Baby Tee",
+  "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005012460346238",
@@ -2963,7 +2985,8 @@
   "name": "Patchwork Layered Halter Top",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Built for summer and sold-out shows."
  },
  {
   "id": "1005008012767582",
@@ -2971,7 +2994,8 @@
   "name": "Stripe Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "For cold nights and loud music."
  },
  {
   "id": "1005007927056120",
@@ -2979,7 +3003,8 @@
   "name": "Kitty Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005013351866168",
@@ -2987,7 +3012,8 @@
   "name": "Slogan Trashy Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005006195386504",
@@ -2995,7 +3021,8 @@
   "name": "Mesh Goth Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005012329331983",
@@ -3003,7 +3030,8 @@
   "name": "Lace Patchwork Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Built for summer and sold-out shows."
  },
  {
   "id": "1005012016594831",
@@ -3011,17 +3039,20 @@
   "name": "Knit Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005007380036374",
   "category": "baby-tees",
-  "name": "Rhinestone Slogan Crop Tee"
+  "name": "Rhinestone Slogan Crop Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005007606846909",
   "category": "baby-tees",
-  "name": "Rhinestone Off-Shoulder Crop Tee"
+  "name": "Rhinestone Off-Shoulder Crop Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005008191675672",
@@ -3029,15 +3060,17 @@
   "name": "Patchwork Knit Ribbed Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005013177532290",
   "category": "long-sleeves",
-  "name": "Patchwork Vintage Long Sleeve Tee 3",
+  "name": "Patchwork Vintage Harajuku Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005009394588558",
@@ -3045,7 +3078,8 @@
   "name": "Trashy Vintage Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Built for summer and sold-out shows."
  },
  {
   "id": "1005007279744053",
@@ -3053,7 +3087,8 @@
   "name": "Grunge Trashy Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Show some skin, keep the mystery."
  },
  {
   "id": "1005013185287361",
@@ -3061,12 +3096,14 @@
   "name": "Knit Ribbed Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fur trim, zero chill."
  },
  {
   "id": "1005007614263742",
   "category": "baby-tees",
-  "name": "Fairy Baby Tee"
+  "name": "Fairy Baby Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005008218340745",
@@ -3074,7 +3111,8 @@
   "name": "Grunge Knit Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005013355681421",
@@ -3082,22 +3120,26 @@
   "name": "Layered Trashy Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "1005009459360283",
   "category": "baby-tees",
-  "name": "Slogan Ribbed Crop Tee"
+  "name": "Slogan Ribbed Crop Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005008579337276",
   "category": "baby-tees",
-  "name": "Slogan Trashy Crop Tee"
+  "name": "Slogan Trashy Crop Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005007278981758",
   "category": "baby-tees",
-  "name": "Lace Mesh Baby Tee"
+  "name": "Lace Mesh Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005010103627658",
@@ -3105,17 +3147,20 @@
   "name": "Fairy Off-Shoulder Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005012936091621",
   "category": "baby-tees",
-  "name": "Slogan Trashy Vintage Baby Tee"
+  "name": "Slogan Trashy Vintage Baby Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005013358678092",
   "category": "dresses",
-  "name": "Knit Layered Set"
+  "name": "Knit Layered Set",
+  "blurb": "Dress up, act out."
  },
  {
   "id": "1005012794212619",
@@ -3123,7 +3168,8 @@
   "name": "Rhinestone Patchwork Halter Top",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Show some skin, keep the mystery."
  },
  {
   "id": "1005007023213247",
@@ -3131,7 +3177,8 @@
   "name": "Fairy Ribbed Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Show some skin, keep the mystery."
  },
  {
   "id": "1005006798585734",
@@ -3139,7 +3186,8 @@
   "name": "Bunny Vintage Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fur trim, zero chill."
  },
  {
   "id": "1005009821279420",
@@ -3147,7 +3195,8 @@
   "name": "Slogan Graphic Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005008592072110",
@@ -3155,7 +3204,8 @@
   "name": "Lace Fur Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005007880156230",
@@ -3163,7 +3213,8 @@
   "name": "Grunge Knit Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "For cold nights and loud music."
  },
  {
   "id": "1005010035850979",
@@ -3171,27 +3222,32 @@
   "name": "Knit Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Zip it up, keep it dark."
  },
  {
   "id": "1005006976019114",
   "category": "baby-tees",
-  "name": "Knit Vintage Baby Tee"
+  "name": "Knit Vintage Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005012708205003",
   "category": "baby-tees",
-  "name": "Rhinestone Kawaii Baby Tee"
+  "name": "Rhinestone Kawaii Baby Tee",
+  "blurb": "Cropped for a reason."
  },
  {
   "id": "1005009855173952",
   "category": "baby-tees",
-  "name": "Leopard Patchwork Crop Tee"
+  "name": "Leopard Patchwork Crop Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005009253031979",
   "category": "baby-tees",
-  "name": "Slogan Grunge Trashy Vintage Baby Tee"
+  "name": "Slogan Grunge Trashy Vintage Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005010044664974",
@@ -3199,20 +3255,14 @@
   "name": "Knit Vintage Fitted Hoodie",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005010235615410",
-  "category": "hoodies",
-  "name": "Knit Vintage Cardigan",
-  "depts": [
-   "women"
-  ]
+  ],
+  "blurb": "The layer everyone asks about."
  },
  {
   "id": "1005007077858198",
   "category": "baby-tees",
-  "name": "Patchwork Goth Baby Tee"
+  "name": "Patchwork Goth Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005012980381437",
@@ -3220,12 +3270,14 @@
   "name": "Kitty Mesh Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005005414465331",
   "category": "baby-tees",
-  "name": "Fairy Bunny Crop Tee"
+  "name": "Fairy Bunny Crop Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005013224629130",
@@ -3233,7 +3285,8 @@
   "name": "Stripe Knit Scarf",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The detail that makes the fit."
  },
  {
   "id": "1005007601986496",
@@ -3241,23 +3294,17 @@
   "name": "Slogan Trashy Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005011628894742",
-  "category": "hoodies",
-  "name": "Vintage Jacket",
-  "depts": [
-   "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005013375461772",
   "category": "long-sleeves",
-  "name": "Slogan Trashy Vintage Long Sleeve Tee 2",
+  "name": "Slogan Trashy Vintage White Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005008501417185",
@@ -3265,7 +3312,8 @@
   "name": "Goth Grunge Trashy Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005006841913386",
@@ -3273,12 +3321,14 @@
   "name": "Grunge Trashy Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005011768018773",
   "category": "baby-tees",
-  "name": "Fairy Lace Crop Tee"
+  "name": "Fairy Lace Crop Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005003874810526",
@@ -3286,7 +3336,8 @@
   "name": "Stripe Goth Punk Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fur trim, zero chill."
  },
  {
   "id": "1005006462597171",
@@ -3294,28 +3345,32 @@
   "name": "Knit Vintage Scarf",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The detail that makes the fit."
  },
  {
   "id": "1005008690745863",
   "category": "baby-tees",
-  "name": "Grunge Baby Tee"
+  "name": "Grunge Baby Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005009903061552",
   "category": "long-sleeves",
-  "name": "Slogan Vintage Long Sleeve Tee 2",
+  "name": "Slogan Vintage White Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005010006576986",
   "category": "long-sleeves",
-  "name": "Vintage Long Sleeve Tee 2",
+  "name": "Vintage Harajuku Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005013167842313",
@@ -3323,17 +3378,14 @@
   "name": "Polka Dot Vintage Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "For cold nights and loud music."
  },
  {
   "id": "1005004511378926",
   "category": "baby-tees",
-  "name": "Fairy Grunge Baby Tee 2"
- },
- {
-  "id": "1005012659701381",
-  "category": "baby-tees",
-  "name": "Patchwork Kawaii Baby Tee"
+  "name": "Fairy Grunge Harajuku Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005013401515820",
@@ -3341,7 +3393,8 @@
   "name": "Polka Dot Kawaii Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "1005009889187751",
@@ -3349,22 +3402,26 @@
   "name": "Off-Shoulder Trashy Scarf",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The detail that makes the fit."
  },
  {
   "id": "1005012892309131",
   "category": "baby-tees",
-  "name": "Leopard Stripe Baby Tee"
+  "name": "Leopard Stripe Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005007409931329",
   "category": "baby-tees",
-  "name": "Backless Slogan Crop Tee"
+  "name": "Backless Slogan Crop Tee",
+  "blurb": "Cropped for a reason."
  },
  {
   "id": "1005011967066048",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 2"
+  "name": "Vintage White Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005005062086248",
@@ -3372,7 +3429,8 @@
   "name": "Skull Goth Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "For cold nights and loud music."
  },
  {
   "id": "1005008863764074",
@@ -3380,12 +3438,14 @@
   "name": "Slogan Trashy Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Little top, big night."
  },
  {
   "id": "1005007047171346",
   "category": "baby-tees",
-  "name": "Kitty Patchwork Baby Tee"
+  "name": "Kitty Patchwork Baby Tee",
+  "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005007852310271",
@@ -3393,12 +3453,14 @@
   "name": "Cross Patchwork Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005007033177844",
   "category": "baby-tees",
-  "name": "Kawaii Crop Tee"
+  "name": "Kawaii Crop Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005011868380164",
@@ -3406,7 +3468,8 @@
   "name": "Stripe Knit Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005009280141915",
@@ -3414,7 +3477,8 @@
   "name": "Slogan Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The top that does the talking."
  },
  {
   "id": "1005006982478341",
@@ -3422,7 +3486,8 @@
   "name": "Fairy Mesh Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005008929301267",
@@ -3430,12 +3495,14 @@
   "name": "Rhinestone Off-Shoulder Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The top that does the talking."
  },
  {
   "id": "1005009244004239",
   "category": "baby-tees",
-  "name": "Polka Dot Kawaii Crop Tee"
+  "name": "Polka Dot Kawaii Crop Tee",
+  "blurb": "Cropped for a reason."
  },
  {
   "id": "1005004866231125",
@@ -3443,12 +3510,14 @@
   "name": "Slogan Grunge Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
   "id": "1005012412616814",
   "category": "baby-tees",
-  "name": "Slogan Vintage Baby Tee"
+  "name": "Slogan Vintage Baby Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005008982287003",
@@ -3456,17 +3525,20 @@
   "name": "Stripe Off-Shoulder Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005008800213460",
   "category": "baby-tees",
-  "name": "Slogan Trashy Vintage Baby Tee 2"
+  "name": "Slogan Trashy Vintage Distressed Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005003334486936",
   "category": "baby-tees",
-  "name": "Sexy Baby Tee"
+  "name": "Sexy Baby Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005003347645947",
@@ -3474,17 +3546,20 @@
   "name": "Belt",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Little extra, big difference."
  },
  {
   "id": "1005006703959821",
   "category": "baby-tees",
-  "name": "Lace Grunge Baby Tee"
+  "name": "Lace Grunge Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005009850713869",
   "category": "baby-tees",
-  "name": "Polka Dot Vintage Baby Tee 2"
+  "name": "Polka Dot Vintage Harajuku Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005013339630357",
@@ -3492,12 +3567,14 @@
   "name": "Kawaii Knit Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fur trim, zero chill."
  },
  {
   "id": "1005009290388758",
   "category": "baby-tees",
-  "name": "Trashy Baby Tee"
+  "name": "Trashy Baby Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005010314605423",
@@ -3505,7 +3582,8 @@
   "name": "Lace Knit Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005009207131248",
@@ -3513,7 +3591,8 @@
   "name": "Fairy Floral Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Little top, big night."
  },
  {
   "id": "1005010103852537",
@@ -3521,27 +3600,32 @@
   "name": "Fur Knit Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Hood up, world off."
  },
  {
   "id": "1005012720177240",
   "category": "dresses",
-  "name": "Patchwork Layered Set"
+  "name": "Patchwork Layered Set",
+  "blurb": "Dress up, act out."
  },
  {
   "id": "1005009449543172",
   "category": "baby-tees",
-  "name": "Slogan Grunge Trashy Vintage Baby Tee 2"
+  "name": "Slogan Grunge Trashy Vintage Harajuku Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005012862872515",
   "category": "baby-tees",
-  "name": "Slogan Layered Trashy Baby Tee"
+  "name": "Slogan Layered Trashy Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005012212569428",
   "category": "baby-tees",
-  "name": "Slogan Vintage Baby Tee 2"
+  "name": "Slogan Vintage White Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005013483247899",
@@ -3549,12 +3633,14 @@
   "name": "Slogan Ribbed Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005013066708161",
   "category": "baby-tees",
-  "name": "Off-Shoulder Slogan Baby Tee"
+  "name": "Off-Shoulder Slogan Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005004694549271",
@@ -3562,7 +3648,8 @@
   "name": "Graphic Grunge Fitted Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005013375401257",
@@ -3570,7 +3657,8 @@
   "name": "Stripe Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fur trim, zero chill."
  },
  {
   "id": "1005009204660905",
@@ -3578,17 +3666,20 @@
   "name": "Layered Vintage Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The top that does the talking."
  },
  {
   "id": "1005007546355339",
   "category": "baby-tees",
-  "name": "Grunge Trashy Vintage Baby Tee"
+  "name": "Grunge Trashy Vintage Baby Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005009165374638",
   "category": "baby-tees",
-  "name": "Off-Shoulder Baby Tee"
+  "name": "Off-Shoulder Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005008479834341",
@@ -3596,7 +3687,8 @@
   "name": "Mesh Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
   "id": "1005008244188354",
@@ -3604,12 +3696,14 @@
   "name": "Grunge Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005012541512390",
   "category": "baby-tees",
-  "name": "Slogan Trashy Vintage Baby Tee 3"
+  "name": "Slogan Trashy Vintage Grey Baby Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005008301297535",
@@ -3617,7 +3711,8 @@
   "name": "Patchwork Punk Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005005320885934",
@@ -3625,7 +3720,8 @@
   "name": "Fairy Mesh Pants",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The bottoms every top on here was waiting for."
  },
  {
   "id": "1005010422307972",
@@ -3633,20 +3729,23 @@
   "name": "Sequin Trashy Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005010306931572",
   "category": "long-sleeves",
-  "name": "Vintage Long Sleeve Tee 3",
+  "name": "Vintage White Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "1005012221389769",
   "category": "baby-tees",
-  "name": "Patchwork Vintage Baby Tee 3"
+  "name": "Patchwork Vintage White Baby Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005007254794991",
@@ -3654,15 +3753,17 @@
   "name": "Grunge Knit Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Built for summer and sold-out shows."
  },
  {
   "id": "1005012891440046",
   "category": "long-sleeves",
-  "name": "Vintage Long Sleeve Tee 4",
+  "name": "Vintage Harajuku Graffiti Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005006355170082",
@@ -3670,7 +3771,8 @@
   "name": "Kitty Patchwork Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
   "id": "1005007112972715",
@@ -3678,12 +3780,14 @@
   "name": "Vintage Pants",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Baggy, low and loud."
  },
  {
   "id": "1005011669752934",
   "category": "baby-tees",
-  "name": "Slogan Vintage Baby Tee 3"
+  "name": "Slogan Vintage Black Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005007877399509",
@@ -3691,40 +3795,41 @@
   "name": "Skull Goth Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005006839163266",
   "category": "baby-tees",
-  "name": "Bunny Knit Crop Tee"
+  "name": "Bunny Knit Crop Tee",
+  "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005013298060115",
   "category": "long-sleeves",
-  "name": "Vintage Long Sleeve Tee 5",
+  "name": "Vintage Black Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "1005012163032581",
   "category": "baby-tees",
-  "name": "Graphic Trashy Baby Tee"
+  "name": "Graphic Trashy Baby Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005005393366179",
   "category": "baby-tees",
-  "name": "Mesh Graphic Crop Tee"
+  "name": "Mesh Graphic Crop Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005012704367341",
   "category": "baby-tees",
-  "name": "Slogan Vintage Baby Tee 4"
- },
- {
-  "id": "1005007527798471",
-  "category": "baby-tees",
-  "name": "Fur Trashy Crop Tee"
+  "name": "Slogan Vintage White Harajuku Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005005830088998",
@@ -3732,7 +3837,8 @@
   "name": "Kawaii Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Straps out, eyes up."
  },
  {
   "id": "1005003351673741",
@@ -3740,12 +3846,14 @@
   "name": "Skull Off-Shoulder Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "1005005117702398",
   "category": "baby-tees",
-  "name": "Angel Fairy Crop Tee"
+  "name": "Angel Fairy Crop Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005011528709468",
@@ -3753,17 +3861,20 @@
   "name": "Fur Grunge Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Hood up, world off."
  },
  {
   "id": "1005008811897539",
   "category": "baby-tees",
-  "name": "Slogan Vintage Baby Tee 5"
+  "name": "Slogan Vintage Oversized Baby Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005006904976669",
   "category": "baby-tees",
-  "name": "Trashy Vintage Crop Tee"
+  "name": "Trashy Vintage Crop Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005006779019800",
@@ -3771,12 +3882,14 @@
   "name": "Mesh Slogan Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005003754948546",
   "category": "dresses",
-  "name": "Stripe Deep V Dress"
+  "name": "Stripe Deep V Dress",
+  "blurb": "Throw it on, go out."
  },
  {
   "id": "1005007569741093",
@@ -3784,7 +3897,8 @@
   "name": "Fairy Slogan Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005008243863846",
@@ -3792,27 +3906,32 @@
   "name": "Grunge Knit Ribbed Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005006734056735",
   "category": "baby-tees",
-  "name": "Lace Patchwork Vintage Crop Tee"
+  "name": "Lace Patchwork Vintage Crop Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005006699473759",
   "category": "baby-tees",
-  "name": "Graphic Grunge Crop Tee"
+  "name": "Graphic Grunge Crop Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005009041948960",
   "category": "baby-tees",
-  "name": "Slogan Vintage Baby Tee 6"
+  "name": "Slogan Vintage Distressed Baby Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005007420172057",
   "category": "baby-tees",
-  "name": "Patchwork Grunge Vintage Baby Tee"
+  "name": "Patchwork Grunge Vintage Baby Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005004879029155",
@@ -3820,7 +3939,8 @@
   "name": "Slogan Grunge Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005003718765806",
@@ -3828,7 +3948,8 @@
   "name": "Off-Shoulder Knit Halter Top",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The top that does the talking."
  },
  {
   "id": "1005006144533876",
@@ -3836,76 +3957,74 @@
   "name": "Patchwork Grunge Long Sleeve Tee",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005004329421296",
-  "category": "tanks",
-  "name": "Patchwork Punk Cami",
-  "depts": [
-   "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005005514484181",
   "category": "baby-tees",
-  "name": "Fairy Graphic Baby Tee"
+  "name": "Fairy Graphic Baby Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005009641180790",
   "category": "baby-tees",
-  "name": "Slogan Knit Crop Tee"
+  "name": "Slogan Knit Crop Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005005368165978",
   "category": "baby-tees",
-  "name": "Fairy Kitty Crop Tee"
+  "name": "Fairy Kitty Crop Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005004064369099",
   "category": "baby-tees",
-  "name": "Mesh Grunge Crop Tee"
+  "name": "Mesh Grunge Crop Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005003576272732",
   "category": "long-sleeves",
-  "name": "Long Sleeve Tee 2",
+  "name": "Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "1005003187361872",
   "category": "baby-tees",
-  "name": "Lace Mesh Goth Baby Tee"
+  "name": "Lace Mesh Goth Baby Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005008493092109",
   "category": "long-sleeves",
-  "name": "Slogan Vintage Long Sleeve Tee 3",
+  "name": "Slogan Vintage White Harajuku Long Sleeve Tee",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005004238697007",
-  "category": "baby-tees",
-  "name": "Kitty Grunge Baby Tee"
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005005164605288",
   "category": "baby-tees",
-  "name": "Fairy Patchwork Crop Tee"
+  "name": "Fairy Patchwork Crop Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005012059289449",
   "category": "baby-tees",
-  "name": "Patchwork Trashy Baby Tee"
+  "name": "Patchwork Trashy Baby Tee",
+  "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005007154215513",
   "category": "baby-tees",
-  "name": "Bunny Star Baby Tee"
+  "name": "Bunny Star Baby Tee",
+  "blurb": "Cropped for a reason."
  },
  {
   "id": "1005004725386252",
@@ -3913,12 +4032,14 @@
   "name": "Patchwork Grunge Ribbed Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005004375428902",
   "category": "baby-tees",
-  "name": "Fairy Butterfly Baby Tee"
+  "name": "Fairy Butterfly Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005007068220628",
@@ -3926,22 +4047,26 @@
   "name": "Punk Grunge Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The top that does the talking."
  },
  {
   "id": "1005004459885676",
   "category": "baby-tees",
-  "name": "Graphic Grunge Fitted Crop Tee"
+  "name": "Graphic Grunge Fitted Crop Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005007287978527",
   "category": "baby-tees",
-  "name": "Slogan Trashy Vintage Baby Tee 4"
+  "name": "Slogan Trashy Vintage Harajuku Baby Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005004238501649",
   "category": "baby-tees",
-  "name": "Slogan Grunge Fitted Crop Tee"
+  "name": "Slogan Grunge Fitted Crop Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005003607113566",
@@ -3949,7 +4074,8 @@
   "name": "Patchwork Off-Shoulder Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
   "id": "1005010019725377",
@@ -3957,7 +4083,8 @@
   "name": "Patchwork Slogan Trashy Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005007495849672",
@@ -3965,7 +4092,8 @@
   "name": "Knit Vintage Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Straps out, eyes up."
  },
  {
   "id": "1005006166076707",
@@ -3973,7 +4101,8 @@
   "name": "Kawaii Knit Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The layer everyone asks about."
  },
  {
   "id": "1005008619808348",
@@ -3981,7 +4110,8 @@
   "name": "Patchwork Trashy Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005003648966360",
@@ -3989,7 +4119,8 @@
   "name": "Ribbed Fitted Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005007283091943",
@@ -3997,15 +4128,17 @@
   "name": "Polka Dot Backless Halter Top",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Show some skin, keep the mystery."
  },
  {
   "id": "1005003190784493",
   "category": "long-sleeves",
-  "name": "Fitted Long Sleeve Tee 2",
+  "name": "Fitted Blue Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005004570283704",
@@ -4013,20 +4146,14 @@
   "name": "Corset Grunge Tube Top",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005009676017286",
-  "category": "long-sleeves",
-  "name": "Patchwork Slogan Trashy Vintage Long Sleeve Tee",
-  "depts": [
-   "women"
-  ]
+  ],
+  "blurb": "Built for summer and sold-out shows."
  },
  {
   "id": "1005005282572401",
   "category": "baby-tees",
-  "name": "Fairy Mesh Baby Tee"
+  "name": "Fairy Mesh Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005004149649461",
@@ -4034,12 +4161,14 @@
   "name": "Grunge Fitted Halter Top",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Straps out, eyes up."
  },
  {
   "id": "1005006578245562",
   "category": "baby-tees",
-  "name": "Leopard Lace Crop Tee"
+  "name": "Leopard Lace Crop Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005007858701791",
@@ -4047,12 +4176,14 @@
   "name": "Fairy Mesh Trashy Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005004614386278",
   "category": "baby-tees",
-  "name": "Fairy Star Baby Tee"
+  "name": "Fairy Star Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005008017460230",
@@ -4060,12 +4191,14 @@
   "name": "Bow Knit Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Zip it up, keep it dark."
  },
  {
   "id": "1005006579630115",
   "category": "baby-tees",
-  "name": "Graphic Grunge Trashy Baby Tee"
+  "name": "Graphic Grunge Trashy Baby Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005007192709553",
@@ -4073,7 +4206,8 @@
   "name": "Lace Grunge Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Straps out, eyes up."
  },
  {
   "id": "1005011731418021",
@@ -4081,7 +4215,8 @@
   "name": "Kitty Heart Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "1005005805613669",
@@ -4089,7 +4224,8 @@
   "name": "Patchwork Kawaii Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Show some skin, keep the mystery."
  },
  {
   "id": "1005007662437929",
@@ -4097,7 +4233,8 @@
   "name": "Trashy Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005007386704214",
@@ -4105,7 +4242,8 @@
   "name": "Fairy Lace Mesh Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005006884545479",
@@ -4113,12 +4251,14 @@
   "name": "Goth Grunge Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Little top, big night."
  },
  {
   "id": "1005006600865221",
   "category": "baby-tees",
-  "name": "Sequin Knit Baby Tee"
+  "name": "Sequin Knit Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005004178121286",
@@ -4126,17 +4266,20 @@
   "name": "Fairy Lace Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The top that does the talking."
  },
  {
   "id": "1005008704086579",
   "category": "baby-tees",
-  "name": "Punk Baby Tee"
+  "name": "Punk Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005012039085652",
   "category": "baby-tees",
-  "name": "Slogan Trashy Vintage Baby Tee 5"
+  "name": "White Slogan Trashy Vintage Baby Tee",
+  "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005005577208340",
@@ -4144,17 +4287,20 @@
   "name": "Fairy Bunny Tube Top",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Straps out, eyes up."
  },
  {
   "id": "1005007067281353",
   "category": "baby-tees",
-  "name": "Patchwork Vintage Crop Tee"
+  "name": "Patchwork Vintage Crop Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005007628032316",
   "category": "baby-tees",
-  "name": "Slogan Vintage Baby Tee 7"
+  "name": "Slogan Vintage Harajuku Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005010364176389",
@@ -4162,32 +4308,38 @@
   "name": "Knit Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005008955956057",
   "category": "baby-tees",
-  "name": "Graphic Trashy Crop Tee"
+  "name": "Graphic Trashy Crop Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005005787394655",
   "category": "baby-tees",
-  "name": "Graphic Goth Grunge Baby Tee"
+  "name": "Graphic Goth Grunge Baby Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005012251837230",
   "category": "baby-tees",
-  "name": "Slogan Vintage Baby Tee 8"
+  "name": "Slogan Vintage Black Harajuku Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005008334614316",
   "category": "baby-tees",
-  "name": "Grunge Knit Baby Tee"
+  "name": "Grunge Knit Baby Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005007401567590",
   "category": "baby-tees",
-  "name": "Kitty Trashy Crop Tee"
+  "name": "Kitty Trashy Crop Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005003692811273",
@@ -4195,12 +4347,14 @@
   "name": "Cross Off-Shoulder Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fur trim, zero chill."
  },
  {
   "id": "1005007402711768",
   "category": "baby-tees",
-  "name": "Vintage Crop Tee"
+  "name": "Vintage Crop Tee",
+  "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005004709829197",
@@ -4208,22 +4362,26 @@
   "name": "Fairy Grunge Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The layer everyone asks about."
  },
  {
   "id": "1005003645458415",
   "category": "baby-tees",
-  "name": "Cross Sexy Crop Tee"
+  "name": "Cross Sexy Crop Tee",
+  "blurb": "Cropped for a reason."
  },
  {
   "id": "1005008959847682",
   "category": "baby-tees",
-  "name": "Kawaii Layered Baby Tee"
+  "name": "Kawaii Layered Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005007371321246",
   "category": "baby-tees",
-  "name": "Fairy Grunge Vintage Baby Tee"
+  "name": "Fairy Grunge Vintage Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005006358741710",
@@ -4231,7 +4389,8 @@
   "name": "Knit Turtleneck Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Zip it up, keep it dark."
  },
  {
   "id": "1005008949417416",
@@ -4239,12 +4398,14 @@
   "name": "Lace Slogan Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Little top, big night."
  },
  {
   "id": "1005008354401788",
   "category": "baby-tees",
-  "name": "Patchwork Layered Baby Tee"
+  "name": "Patchwork Layered Baby Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005012594562422",
@@ -4252,30 +4413,26 @@
   "name": "Skull Slogan Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Show some skin, keep the mystery."
  },
  {
   "id": "1005012371349209",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 3"
+  "name": "Vintage White Harajuku Baby Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005012022159609",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 4"
+  "name": "Vintage Baby Tee No. 609",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005012171989862",
   "category": "baby-tees",
-  "name": "Floral Knit Baby Tee"
- },
- {
-  "id": "1005012071844717",
-  "category": "long-sleeves",
-  "name": "Vintage Long Sleeve Tee 6",
-  "depts": [
-   "women"
-  ]
+  "name": "Floral Knit Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005006454055756",
@@ -4283,30 +4440,29 @@
   "name": "Stripe Knit Vintage Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "For cold nights and loud music."
  },
  {
   "id": "1005008798891565",
   "category": "baby-tees",
-  "name": "Vintage Crop Tee 2"
+  "name": "Vintage Green Crop Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005007054980585",
   "category": "dresses",
-  "name": "Fairy Lace Dress"
+  "name": "Fairy Lace Dress",
+  "blurb": "For the party and the after-party."
  },
  {
   "id": "1005003989598347",
   "category": "hoodies",
-  "name": "Vintage Jacket 2",
+  "name": "Khaki Vintage Jacket",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005007464921012",
-  "category": "baby-tees",
-  "name": "Grunge Trashy Baby Tee 2"
+  ],
+  "blurb": "Oversized and over it."
  },
  {
   "id": "1005010044373670",
@@ -4314,12 +4470,14 @@
   "name": "Slogan Grunge Trashy Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005007524327303",
   "category": "baby-tees",
-  "name": "Spider Web Grunge Baby Tee"
+  "name": "Spider Web Grunge Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005011799696419",
@@ -4327,40 +4485,32 @@
   "name": "Polka Dot Vintage Halter Top",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005005204405131",
-  "category": "dresses",
-  "name": "Goth Grunge Set"
+  ],
+  "blurb": "Built for summer and sold-out shows."
  },
  {
   "id": "1005009015758589",
   "category": "baby-tees",
-  "name": "Slogan Trashy Vintage Crop Tee"
+  "name": "Slogan Trashy Vintage Crop Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005005622866207",
   "category": "dresses",
-  "name": "Patchwork Knit Dress"
+  "name": "Patchwork Knit Dress",
+  "blurb": "Throw it on, go out."
  },
  {
   "id": "1005003211838789",
   "category": "baby-tees",
-  "name": "Rose Knit Baby Tee"
- },
- {
-  "id": "1005009754642538",
-  "category": "long-sleeves",
-  "name": "Slogan Vintage Long Sleeve Tee 4",
-  "depts": [
-   "women"
-  ]
+  "name": "Rose Knit Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005013231445261",
   "category": "baby-tees",
-  "name": "Lace Stripe Baby Tee"
+  "name": "Lace Stripe Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005013266446747",
@@ -4368,15 +4518,17 @@
   "name": "Knit Vintage Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The layer everyone asks about."
  },
  {
   "id": "1005013101577553",
   "category": "long-sleeves",
-  "name": "Slogan Vintage Long Sleeve Tee 5",
+  "name": "Yellow Slogan Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005013093976467",
@@ -4384,7 +4536,8 @@
   "name": "Stripe Patchwork Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005013140966804",
@@ -4392,17 +4545,20 @@
   "name": "Off-Shoulder Ribbed Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "1005013130443786",
   "category": "baby-tees",
-  "name": "Slogan Cyber Baby Tee"
+  "name": "Slogan Cyber Baby Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005005609942823",
   "category": "dresses",
-  "name": "Knit Sexy Dress"
+  "name": "Knit Sexy Dress",
+  "blurb": "One piece, whole look."
  },
  {
   "id": "1005003215561357",
@@ -4410,7 +4566,8 @@
   "name": "Knit Sexy Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "For cold nights and loud music."
  },
  {
   "id": "1005008598460624",
@@ -4418,7 +4575,8 @@
   "name": "Stripe Off-Shoulder Grunge Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005013455851773",
@@ -4426,40 +4584,47 @@
   "name": "Angel Rhinestone Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005012498155817",
   "category": "baby-tees",
-  "name": "Plaid Baby Tee"
+  "name": "Plaid Baby Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005009066155503",
   "category": "baby-tees",
-  "name": "Plaid Vintage Baby Tee 2"
+  "name": "Plaid Plaid Vintage Baby Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005011968675069",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 5"
+  "name": "Vintage Grey Baby Tee",
+  "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005013477573220",
   "category": "baby-tees",
-  "name": "Off-Shoulder Goth Baby Tee"
+  "name": "Off-Shoulder Goth Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005012733265289",
   "category": "baby-tees",
-  "name": "Fairy Floral Baby Tee"
+  "name": "Fairy Floral Baby Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005010154206490",
   "category": "long-sleeves",
-  "name": "Graphic Grunge Vintage Long Sleeve Tee 2",
+  "name": "Black Graphic Grunge Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005010504787358",
@@ -4467,7 +4632,8 @@
   "name": "Grunge Fitted Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Built for summer and sold-out shows."
  },
  {
   "id": "1005009893188850",
@@ -4475,17 +4641,20 @@
   "name": "Goth Grunge Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
   "id": "1005010600220171",
   "category": "baby-tees",
-  "name": "Fairy Lace Patchwork Crop Tee"
+  "name": "Fairy Lace Patchwork Crop Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005008209073074",
   "category": "baby-tees",
-  "name": "Stripe Vintage Baby Tee"
+  "name": "Stripe Vintage Baby Tee",
+  "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005013447735613",
@@ -4493,7 +4662,8 @@
   "name": "Patchwork Layered Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
   "id": "1005010409023328",
@@ -4501,7 +4671,8 @@
   "name": "Fairy Goth Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005013149818684",
@@ -4509,7 +4680,8 @@
   "name": "Stripe Goth Zip Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Hood up, world off."
  },
  {
   "id": "1005012957771661",
@@ -4517,22 +4689,26 @@
   "name": "Knit Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Oversized and over it."
  },
  {
   "id": "1005013089875020",
   "category": "baby-tees",
-  "name": "Fairy Lace Patchwork Baby Tee"
+  "name": "Fairy Lace Patchwork Baby Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005008666860506",
   "category": "baby-tees",
-  "name": "Stripe Vintage Fitted Baby Tee"
+  "name": "Stripe Vintage Fitted Baby Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005009720178200",
   "category": "baby-tees",
-  "name": "Lace Stripe Goth Baby Tee"
+  "name": "Lace Stripe Goth Baby Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005012615381284",
@@ -4540,22 +4716,26 @@
   "name": "Patchwork Layered Scarf",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Little extra, big difference."
  },
  {
   "id": "1005009740431678",
   "category": "baby-tees",
-  "name": "Patchwork Goth Grunge Baby Tee"
+  "name": "Patchwork Goth Grunge Baby Tee",
+  "blurb": "Cropped for a reason."
  },
  {
   "id": "1005013035748183",
   "category": "baby-tees",
-  "name": "Patchwork Grunge Layered Baby Tee"
+  "name": "Patchwork Grunge Layered Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005012793488016",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 6"
+  "name": "Khaki Vintage Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005010085405754",
@@ -4563,7 +4743,8 @@
   "name": "Stripe Knit Turtleneck Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Zip it up, keep it dark."
  },
  {
   "id": "1005005806191169",
@@ -4571,7 +4752,8 @@
   "name": "Vintage Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Straps out, eyes up."
  },
  {
   "id": "1005007895090234",
@@ -4579,55 +4761,59 @@
   "name": "Graphic Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005009132055612",
-  "category": "baby-tees",
-  "name": "Stripe Crop Tee"
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005008188745442",
   "category": "baby-tees",
-  "name": "Patchwork Graphic Grunge Baby Tee"
+  "name": "Patchwork Graphic Grunge Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005012681725594",
   "category": "baby-tees",
-  "name": "Graphic Vintage Fitted Baby Tee"
+  "name": "Graphic Vintage Fitted Baby Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005009536375657",
   "category": "baby-tees",
-  "name": "Graphic Grunge Fitted Baby Tee"
+  "name": "Graphic Grunge Fitted Baby Tee",
+  "blurb": "Cropped for a reason."
  },
  {
   "id": "1005009680894971",
   "category": "baby-tees",
-  "name": "Patchwork Layered Vintage Baby Tee"
+  "name": "Patchwork Layered Vintage Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005011775600347",
   "category": "baby-tees",
-  "name": "Plaid Vintage Baby Tee 3"
+  "name": "Plaid Vintage Baby Tee No. 347",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005011590486011",
   "category": "baby-tees",
-  "name": "Vintage Fitted Baby Tee 2"
+  "name": "Vintage Fitted Black Baby Tee",
+  "blurb": "Cropped for a reason."
  },
  {
   "id": "1005011749789383",
   "category": "baby-tees",
-  "name": "Plaid Vintage Fitted Baby Tee"
+  "name": "Plaid Vintage Fitted Baby Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005007895089625",
   "category": "long-sleeves",
-  "name": "Patchwork Vintage Long Sleeve Tee 4",
+  "name": "Khaki Patchwork Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005013500318926",
@@ -4635,23 +4821,26 @@
   "name": "Stripe Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005013416219111",
   "category": "long-sleeves",
-  "name": "Vintage Long Sleeve Tee 7",
+  "name": "Vintage Long Sleeve Tee No. 111",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005013331540889",
   "category": "hoodies",
-  "name": "Knit Vintage Hoodie 2",
+  "name": "Pink Knit Vintage Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The layer everyone asks about."
  },
  {
   "id": "1005013194931024",
@@ -4659,22 +4848,26 @@
   "name": "Fairy Stripe Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "For cold nights and loud music."
  },
  {
   "id": "1005010472932761",
   "category": "baby-tees",
-  "name": "Graphic Grunge Baby Tee 2"
+  "name": "Grey Graphic Grunge Baby Tee",
+  "blurb": "Cropped for a reason."
  },
  {
   "id": "1005009685737354",
   "category": "baby-tees",
-  "name": "Grunge Crop Tee"
+  "name": "Grunge Crop Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005008263525842",
   "category": "baby-tees",
-  "name": "Punk Layered Baby Tee 2"
+  "name": "Punk Layered Black Baby Tee",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005008518018223",
@@ -4682,7 +4875,8 @@
   "name": "Grunge Turtleneck Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Little top, big night."
  },
  {
   "id": "1005013230185313",
@@ -4690,15 +4884,17 @@
   "name": "Fairy Stripe Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005009641853210",
   "category": "long-sleeves",
-  "name": "Patchwork Layered Long Sleeve Tee 2",
+  "name": "Coffee Patchwork Layered Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005013409289524",
@@ -4706,7 +4902,8 @@
   "name": "Stripe Patchwork Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Oversized and over it."
  },
  {
   "id": "1005011833386394",
@@ -4714,7 +4911,8 @@
   "name": "Slogan Graphic Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Built for summer and sold-out shows."
  },
  {
   "id": "1005011736866436",
@@ -4722,17 +4920,20 @@
   "name": "Leopard Patchwork Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Built for summer and sold-out shows."
  },
  {
   "id": "1005010780434165",
   "category": "baby-tees",
-  "name": "Leopard Off-Shoulder Baby Tee"
+  "name": "Leopard Off-Shoulder Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005012202942060",
   "category": "baby-tees",
-  "name": "Plaid Patchwork Baby Tee"
+  "name": "Plaid Patchwork Baby Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005010370235944",
@@ -4740,20 +4941,23 @@
   "name": "Fairy Patchwork Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005008321880602",
   "category": "baby-tees",
-  "name": "Lace Patchwork Grunge Crop Tee"
+  "name": "Lace Patchwork Grunge Crop Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005013307323576",
   "category": "long-sleeves",
-  "name": "Patchwork Layered Vintage Long Sleeve Tee 2",
+  "name": "Patchwork Patchwork Layered Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "1005012847592791",
@@ -4761,7 +4965,8 @@
   "name": "Fairy Knit Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Oversized and over it."
  },
  {
   "id": "1005013345587204",
@@ -4769,7 +4974,8 @@
   "name": "Fairy Patchwork Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Oversized and over it."
  },
  {
   "id": "1005013037155384",
@@ -4777,12 +4983,14 @@
   "name": "Plaid Patchwork Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005009563330069",
   "category": "baby-tees",
-  "name": "Graphic Grunge Vintage Baby Tee"
+  "name": "Graphic Grunge Vintage Baby Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005012188152018",
@@ -4790,12 +4998,14 @@
   "name": "Fairy Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Show some skin, keep the mystery."
  },
  {
   "id": "1005008228610016",
   "category": "baby-tees",
-  "name": "Lace Patchwork Vintage Baby Tee"
+  "name": "Lace Patchwork Vintage Baby Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005009171113563",
@@ -4803,17 +5013,20 @@
   "name": "Grunge Ruffle Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Show some skin, keep the mystery."
  },
  {
   "id": "1005010565282534",
   "category": "skirts",
-  "name": "Skirt"
+  "name": "Pleated Mini Skirt",
+  "blurb": "Twirl at your own risk."
  },
  {
   "id": "1005009231229682",
   "category": "baby-tees",
-  "name": "Fairy Stripe Baby Tee 2"
+  "name": "Striped Fairy Stripe Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005010530181829",
@@ -4821,43 +5034,41 @@
   "name": "Patchwork Grunge Layered Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005010547043503",
   "category": "baby-tees",
-  "name": "Fitted Crop Tee"
+  "name": "Fitted Crop Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005013365176893",
   "category": "long-sleeves",
-  "name": "Graphic Vintage Long Sleeve Tee 2",
+  "name": "As Photo Graphic Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005013202863333",
   "category": "baby-tees",
-  "name": "Patchwork Layered Vintage Baby Tee 2"
- },
- {
-  "id": "1005010099111343",
-  "category": "long-sleeves",
-  "name": "Fairy Graphic Layered Long Sleeve Tee",
-  "depts": [
-   "women"
-  ]
+  "name": "Patchwork Patchwork Layered Vintage Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005012010735083",
   "category": "baby-tees",
-  "name": "Plaid Vintage Baby Tee 4"
+  "name": "Plaid Vintage Blue Baby Tee",
+  "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005010510304021",
   "category": "baby-tees",
-  "name": "Turtleneck Vintage Crop Tee"
+  "name": "Turtleneck Vintage Crop Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005013282654347",
@@ -4865,7 +5076,8 @@
   "name": "Layered Vintage Scarf",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The detail that makes the fit."
  },
  {
   "id": "1005013010759747",
@@ -4873,28 +5085,32 @@
   "name": "Patchwork Layered Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The layer everyone asks about."
  },
  {
   "id": "1005013212602631",
   "category": "long-sleeves",
-  "name": "Fairy Patchwork Long Sleeve Tee 2",
+  "name": "Fairy Patchwork Button Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005013390903641",
   "category": "long-sleeves",
-  "name": "Knit Vintage Long Sleeve Tee 2",
+  "name": "Drak Grey Knit Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005013194422152",
   "category": "baby-tees",
-  "name": "Stripe Patchwork Goth Baby Tee"
+  "name": "Stripe Patchwork Goth Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005009967383123",
@@ -4902,7 +5118,8 @@
   "name": "Lace Knit Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "For cold nights and loud music."
  },
  {
   "id": "1005007696571067",
@@ -4910,17 +5127,20 @@
   "name": "Graphic Goth Grunge Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005008940580309",
   "category": "baby-tees",
-  "name": "Lace Punk Baby Tee"
+  "name": "Lace Punk Baby Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005013274652702",
   "category": "dresses",
-  "name": "Lace Patchwork Set"
+  "name": "Lace Patchwork Set",
+  "blurb": "Throw it on, go out."
  },
  {
   "id": "1005008330941108",
@@ -4928,7 +5148,8 @@
   "name": "Fairy Patchwork Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Hood up, world off."
  },
  {
   "id": "1005012824715379",
@@ -4936,7 +5157,8 @@
   "name": "Stripe Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "For cold nights and loud music."
  },
  {
   "id": "1005013063770469",
@@ -4944,7 +5166,8 @@
   "name": "Star Rhinestone Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Hood up, world off."
  },
  {
   "id": "1005013293847102",
@@ -4952,12 +5175,14 @@
   "name": "Knit Vintage Pants",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Big legs, bigger energy."
  },
  {
   "id": "1005011621389628",
   "category": "baby-tees",
-  "name": "Lace Stripe Grunge Baby Tee"
+  "name": "Lace Stripe Grunge Baby Tee",
+  "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005012953232055",
@@ -4965,17 +5190,20 @@
   "name": "Fairy Hoodie",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Oversized and over it."
  },
  {
   "id": "1005008120570046",
   "category": "baby-tees",
-  "name": "Patchwork Graphic Grunge Layered Baby Tee"
+  "name": "Patchwork Graphic Grunge Layered Baby Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005012518647947",
   "category": "baby-tees",
-  "name": "Fairy Lace Patchwork Vintage Crop Tee"
+  "name": "Fairy Lace Patchwork Vintage Crop Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005012850117329",
@@ -4983,12 +5211,14 @@
   "name": "Mesh Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005007915801260",
   "category": "baby-tees",
-  "name": "Fairy Off-Shoulder Baby Tee"
+  "name": "Fairy Off-Shoulder Baby Tee",
+  "blurb": "Cropped for a reason."
  },
  {
   "id": "1005012925560095",
@@ -4996,7 +5226,8 @@
   "name": "Stripe Cow Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Built for summer and sold-out shows."
  },
  {
   "id": "1005012017294748",
@@ -5004,17 +5235,20 @@
   "name": "Lace Plaid Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Show some skin, keep the mystery."
  },
  {
   "id": "1005012699181812",
   "category": "baby-tees",
-  "name": "Vintage Fitted Baby Tee 3"
+  "name": "White Vintage Fitted Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005012812057967",
   "category": "baby-tees",
-  "name": "Stripe Slogan Graphic Baby Tee"
+  "name": "Stripe Slogan Graphic Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005009745284405",
@@ -5022,7 +5256,8 @@
   "name": "Graphic Goth Grunge Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005008005632181",
@@ -5030,44 +5265,50 @@
   "name": "Slogan Grunge Turtleneck Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005012871594747",
   "category": "long-sleeves",
-  "name": "Stripe Off-Shoulder Vintage Long Sleeve Tee 2",
+  "name": "Striped Stripe Off-Shoulder Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005013082008007",
   "category": "long-sleeves",
-  "name": "Graphic Vintage Long Sleeve Tee 3",
+  "name": "Black Graphic Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Fitted, dark and a little dramatic."
  },
  {
   "id": "1005009799890967",
   "category": "long-sleeves",
-  "name": "Grunge Vintage Long Sleeve Tee 2",
+  "name": "Grunge Vintage Harajuku Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005009975287188",
   "category": "baby-tees",
-  "name": "Patchwork Graphic Grunge Vintage Baby Tee"
+  "name": "Patchwork Graphic Grunge Vintage Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005012775055315",
   "category": "long-sleeves",
-  "name": "Stripe Off-Shoulder Vintage Long Sleeve Tee 3",
+  "name": "Stripe Off-Shoulder Vintage Long Sleeve Tee No. 315",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
   "id": "1005010514322085",
@@ -5075,7 +5316,8 @@
   "name": "Stripe Grunge Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "For cold nights and loud music."
  },
  {
   "id": "1005008238932994",
@@ -5083,20 +5325,23 @@
   "name": "Fairy Fitted Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005012940543645",
   "category": "long-sleeves",
-  "name": "Grunge Vintage Long Sleeve Tee 3",
+  "name": "Grunge Vintage White Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
   "id": "1005008911751332",
   "category": "baby-tees",
-  "name": "Plaid Grunge Baby Tee"
+  "name": "Plaid Grunge Baby Tee",
+  "blurb": "Cropped for a reason."
  },
  {
   "id": "1005007234892231",
@@ -5104,17 +5349,20 @@
   "name": "Patchwork Backless Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Built for summer and sold-out shows."
  },
  {
   "id": "1005009370646292",
   "category": "baby-tees",
-  "name": "Graphic Grunge Baby Tee 3"
+  "name": "Graphic Grunge White Baby Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005009823930801",
   "category": "baby-tees",
-  "name": "Grunge Vintage Baby Tee"
+  "name": "Grunge Vintage Baby Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005010504232571",
@@ -5122,27 +5370,32 @@
   "name": "Lace Vintage Tank",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Show some skin, keep the mystery."
  },
  {
   "id": "1005011850932620",
   "category": "baby-tees",
-  "name": "Fairy Polka Dot Baby Tee"
+  "name": "Fairy Polka Dot Baby Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005009783637160",
   "category": "baby-tees",
-  "name": "Graphic Grunge Layered Baby Tee"
+  "name": "Graphic Grunge Layered Baby Tee",
+  "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005008264167233",
   "category": "baby-tees",
-  "name": "Patchwork Goth Crop Tee"
+  "name": "Patchwork Goth Crop Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005012598015620",
   "category": "baby-tees",
-  "name": "Slogan Graphic Vintage Baby Tee"
+  "name": "Slogan Graphic Vintage Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005006897239060",
@@ -5150,7 +5403,8 @@
   "name": "Fairy Lace Halter Top",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Straps out, eyes up."
  },
  {
   "id": "1005010059120693",
@@ -5158,20 +5412,23 @@
   "name": "Star Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005009719077933",
   "category": "long-sleeves",
-  "name": "Patchwork Grunge Layered Long Sleeve Tee 2",
+  "name": "Gray Patchwork Grunge Layered Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005008835717007",
   "category": "baby-tees",
-  "name": "Graphic Grunge Baby Tee 4"
+  "name": "Beige Graphic Grunge Baby Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005010461864686",
@@ -5179,17 +5436,20 @@
   "name": "Lace Graphic Pants",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Big legs, bigger energy."
  },
  {
   "id": "1005012811876643",
   "category": "baby-tees",
-  "name": "Graphic Vintage Fitted Baby Tee 2"
+  "name": "Light Green Graphic Vintage Fitted Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005008306006527",
   "category": "baby-tees",
-  "name": "Fairy Fur Baby Tee"
+  "name": "Fairy Fur Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005009660298272",
@@ -5197,12 +5457,14 @@
   "name": "Grunge Layered Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005008083155588",
   "category": "baby-tees",
-  "name": "Stripe Off-Shoulder Vintage Baby Tee"
+  "name": "Stripe Off-Shoulder Vintage Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005008544286257",
@@ -5210,7 +5472,8 @@
   "name": "Lace Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The top that does the talking."
  },
  {
   "id": "1005007989301209",
@@ -5218,12 +5481,14 @@
   "name": "Plaid Grunge Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
   "id": "1005007878180558",
   "category": "baby-tees",
-  "name": "Plaid Vintage Crop Tee"
+  "name": "Plaid Vintage Crop Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005010298775103",
@@ -5231,12 +5496,14 @@
   "name": "Graphic Goth Punk Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005012806610355",
   "category": "baby-tees",
-  "name": "Fairy Vintage Crop Tee 2"
+  "name": "Fairy Vintage Black Crop Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005009715134691",
@@ -5244,22 +5511,26 @@
   "name": "Plaid Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005010361592839",
   "category": "baby-tees",
-  "name": "Patchwork Goth Layered Baby Tee"
+  "name": "Patchwork Goth Layered Baby Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005008690434908",
   "category": "baby-tees",
-  "name": "Graphic Grunge Vintage Fitted Baby Tee"
+  "name": "Graphic Grunge Vintage Fitted Baby Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005009668996030",
   "category": "baby-tees",
-  "name": "Grunge Baby Tee 2"
+  "name": "Grunge Green Baby Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005007871661760",
@@ -5267,7 +5538,8 @@
   "name": "Patchwork Grunge Vintage Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Made for late nights and later mornings."
  },
  {
   "id": "1005009893893176",
@@ -5275,40 +5547,47 @@
   "name": "Mesh Graphic Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Layer it or wear it alone."
  },
  {
   "id": "1005010208214200",
   "category": "baby-tees",
-  "name": "Goth Baby Tee"
+  "name": "Goth Baby Tee",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005011926700079",
   "category": "baby-tees",
-  "name": "Patchwork Layered Crop Tee"
+  "name": "Patchwork Layered Crop Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005012038841160",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 2"
+  "name": "Graphic Vintage Grey Baby Tee",
+  "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005008153278912",
   "category": "long-sleeves",
-  "name": "Long Sleeve Tee 3",
+  "name": "Black Button Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "1005012025892753",
   "category": "baby-tees",
-  "name": "Fairy Polka Dot Vintage Baby Tee"
+  "name": "Fairy Polka Dot Vintage Baby Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005012624087059",
   "category": "baby-tees",
-  "name": "Graphic Vintage Crop Tee"
+  "name": "Graphic Vintage Crop Tee",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005008034440136",
@@ -5316,7 +5595,8 @@
   "name": "Leopard Layered Halter Top",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Little top, big night."
  },
  {
   "id": "1005009823653409",
@@ -5324,7 +5604,8 @@
   "name": "Fairy Plaid Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005009882101897",
@@ -5332,15 +5613,17 @@
   "name": "Fairy Stripe Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Built for summer and sold-out shows."
  },
  {
   "id": "1005010275696245",
   "category": "hoodies",
-  "name": "Jacket",
+  "name": "Black Hooded Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Hood up, world off."
  },
  {
   "id": "1005009615847394",
@@ -5348,7 +5631,8 @@
   "name": "Plaid Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005008071703050",
@@ -5356,27 +5640,32 @@
   "name": "Patchwork Graphic Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Zip it up, keep it dark."
  },
  {
   "id": "1005012569527202",
   "category": "baby-tees",
-  "name": "Lace Layered Baby Tee"
+  "name": "Lace Layered Baby Tee",
+  "blurb": "For the front row of the show."
  },
  {
   "id": "1005009226339087",
   "category": "baby-tees",
-  "name": "Plaid Vintage Baby Tee 5"
+  "name": "Plaid Vintage Baby Tee No. 087",
+  "blurb": "Cropped for a reason."
  },
  {
   "id": "1005009311246951",
   "category": "baby-tees",
-  "name": "Plaid Vintage Baby Tee 6"
+  "name": "Plaid Vintage Baby Tee No. 951",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005006728440219",
   "category": "dresses",
-  "name": "Fairy Knit Dress"
+  "name": "Fairy Knit Dress",
+  "blurb": "Throw it on, go out."
  },
  {
   "id": "1005013110375539",
@@ -5384,218 +5673,104 @@
   "name": "Fairy Plaid Patchwork Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005006128566771",
   "category": "baby-tees",
-  "name": "Baby Tee 2"
+  "name": "Baby Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005012786138309",
   "category": "bags",
-  "name": "Bag 2",
+  "name": "Bag",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005011980024166",
-  "category": "baby-tees",
-  "name": "Graphic Goth Vintage Crop Tee"
- },
- {
-  "id": "1005012776513900",
-  "category": "bags",
-  "name": "Bag 3",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012776713590",
-  "category": "bags",
-  "name": "Bag 4",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005011978692706",
-  "category": "baby-tees",
-  "name": "Goth Vintage Crop Tee"
+  ],
+  "blurb": "The bag that finishes the fit."
  },
  {
   "id": "1005011977824786",
   "category": "baby-tees",
-  "name": "Crop Tee"
+  "name": "Crop Tee",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005007627136871",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 2"
- },
- {
-  "id": "1005012779429903",
-  "category": "bags",
-  "name": "Bag 5",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012785492439",
-  "category": "bags",
-  "name": "Bag 6",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005011977181234",
-  "category": "baby-tees",
-  "name": "Vintage Crop Tee 3"
+  "name": "Graphic Harajuku Baby Tee",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005011979492007",
   "category": "baby-tees",
-  "name": "Goth Crop Tee"
- },
- {
-  "id": "1005011979330665",
-  "category": "baby-tees",
-  "name": "Goth Emo Vintage Crop Tee"
- },
- {
-  "id": "1005012776907828",
-  "category": "bags",
-  "name": "Bag 7",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005006129114546",
-  "category": "baby-tees",
-  "name": "Graphic Baby Tee 3"
+  "name": "Goth Crop Tee",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005012772549216",
   "category": "bags",
-  "name": "Bag 8",
+  "name": "Bag No. 216",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005005272434442",
-  "category": "tanks",
-  "name": "Graphic Cami",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012785152966",
-  "category": "bags",
-  "name": "Bag 9",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005006118034486",
-  "category": "hoodies",
-  "name": "Graphic Kawaii Hoodie",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005007630548265",
-  "category": "baby-tees",
-  "name": "Baby Tee 3"
+  ],
+  "blurb": "Fits your phone, your lipstick and your secrets."
  },
  {
   "id": "1005007629297926",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 4"
+  "name": "Graphic Baby Tee No. 926",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005007636999336",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 7"
+  "name": "Vintage Baby Tee No. 336",
+  "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005005274552031",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 5"
+  "name": "Graphic Baby Tee No. 031",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005011976645631",
   "category": "baby-tees",
-  "name": "Crop Tee 2"
+  "name": "Crop Tee No. 631",
+  "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005011976777939",
   "category": "baby-tees",
-  "name": "Graphic Grunge Crop Tee 2"
+  "name": "Graphic Grunge Crop Tee No. 939",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005011979178028",
   "category": "baby-tees",
-  "name": "Bunny Graphic Crop Tee"
- },
- {
-  "id": "1005011978444819",
-  "category": "baby-tees",
-  "name": "Goth Grunge Crop Tee"
- },
- {
-  "id": "1005007629247076",
-  "category": "baby-tees",
-  "name": "Graphic Baby Tee 6"
+  "name": "Bunny Graphic Crop Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005011976945915",
   "category": "baby-tees",
-  "name": "Goth Crop Tee 2"
- },
- {
-  "id": "1005011979602008",
-  "category": "baby-tees",
-  "name": "Crop Tee 3"
+  "name": "Goth Crop Tee No. 915",
+  "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005011977592416",
   "category": "baby-tees",
-  "name": "Goth Grunge Crop Tee 2"
- },
- {
-  "id": "1005012785966872",
-  "category": "bags",
-  "name": "Bag 10",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005005264623022",
-  "category": "tanks",
-  "name": "Goth Trashy Cami",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005011976823050",
-  "category": "baby-tees",
-  "name": "Vintage Crop Tee 4"
+  "name": "Goth Grunge Crop Tee No. 416",
+  "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005005267564732",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 7"
+  "name": "Graphic Baby Tee No. 732",
+  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005005269600842",
@@ -5603,17 +5778,20 @@
   "name": "Fairy Heart Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Little top, big night."
  },
  {
   "id": "1005005275959526",
   "category": "baby-tees",
-  "name": "Baby Tee 4"
+  "name": "Baby Tee No. 526",
+  "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005007629895010",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 2"
+  "name": "Kitty Baby Tee No. 010",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005005275601622",
@@ -5621,250 +5799,103 @@
   "name": "Fairy Graphic Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Little top, big night."
  },
  {
   "id": "1005007629385347",
   "category": "baby-tees",
-  "name": "Baby Tee 5"
- },
- {
-  "id": "1005006130203213",
-  "category": "baby-tees",
-  "name": "Baby Tee 6"
- },
- {
-  "id": "1005007628715974",
-  "category": "baby-tees",
-  "name": "Baby Tee 7"
- },
- {
-  "id": "1005007634768944",
-  "category": "baby-tees",
-  "name": "Graphic Baby Tee 8"
+  "name": "Harajuku Baby Tee",
+  "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005006131020879",
   "category": "baby-tees",
-  "name": "Baby Tee 8"
- },
- {
-  "id": "1005007633653376",
-  "category": "baby-tees",
-  "name": "Baby Tee 9"
+  "name": "Baby Tee No. 879",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005005271954200",
   "category": "baby-tees",
-  "name": "Baby Tee 10"
+  "name": "Baby Tee No. 200",
+  "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005007629207744",
   "category": "baby-tees",
-  "name": "Baby Tee 11"
- },
- {
-  "id": "1005006127570889",
-  "category": "baby-tees",
-  "name": "Baby Tee 12"
- },
- {
-  "id": "1005005264122509",
-  "category": "baby-tees",
-  "name": "Baby Tee 13"
- },
- {
-  "id": "1005012776773582",
-  "category": "bags",
-  "name": "Bag 11",
-  "depts": [
-   "women"
-  ]
+  "name": "Baby Tee No. 744",
+  "blurb": "Made for mirror pics."
  },
  {
   "id": "1005007628810936",
   "category": "baby-tees",
-  "name": "Baby Tee 14"
+  "name": "Baby Tee No. 936",
+  "blurb": "Your new go-out top."
  },
  {
   "id": "1005007633376535",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 9"
+  "name": "Graphic Baby Tee No. 535",
+  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005012778975416",
   "category": "bags",
-  "name": "Bag 12",
+  "name": "Bag No. 416",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005012776781950",
-  "category": "bags",
-  "name": "Bag 13",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012778989526",
-  "category": "bags",
-  "name": "Bag 14",
-  "depts": [
-   "women"
-  ]
+  ],
+  "blurb": "The bag that finishes the fit."
  },
  {
   "id": "1005012776881982",
   "category": "bags",
-  "name": "Bag 15",
+  "name": "Bag No. 982",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005012778981445",
-  "category": "bags",
-  "name": "Bag 16",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012779271088",
-  "category": "bags",
-  "name": "Bag 17",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012778985173",
-  "category": "bags",
-  "name": "Bag 18",
-  "depts": [
-   "women"
-  ]
+  ],
+  "blurb": "Fits your phone, your lipstick and your secrets."
  },
  {
   "id": "1005012779090271",
   "category": "bags",
-  "name": "Bag 19",
+  "name": "Bag No. 271",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005012776949126",
-  "category": "bags",
-  "name": "Bag 20",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012778437049",
-  "category": "bags",
-  "name": "Bag 21",
-  "depts": [
-   "women"
-  ]
+  ],
+  "blurb": "Carry less, say more."
  },
  {
   "id": "1005012776891969",
   "category": "bags",
-  "name": "Bag 22",
+  "name": "Bag No. 969",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Carry less, say more."
  },
  {
-  "id": "1005012777083026",
-  "category": "bags",
-  "name": "Bag 23",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012778963322",
-  "category": "bags",
-  "name": "Bag 24",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012785904290",
-  "category": "bags",
-  "name": "Bag 25",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012779271203",
-  "category": "bags",
-  "name": "Bag 26",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012779037445",
-  "category": "bags",
-  "name": "Bag 27",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012778970401",
-  "category": "bags",
-  "name": "Bag 28",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012779022283",
-  "category": "bags",
-  "name": "Bag 29",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012777551001",
-  "category": "bags",
-  "name": "Bag 30",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005010321426236",
+  "id": "1005011628894742",
   "category": "hoodies",
-  "name": "Graphic Hoodie",
+  "name": "Vintage Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Zip it up, keep it dark."
  },
  {
-  "id": "1005010324500600",
-  "category": "jewelry",
-  "name": "Kawaii Jewelry",
-  "depts": [
-   "women"
-  ]
+  "id": "1005009132055612",
+  "category": "baby-tees",
+  "name": "Stripe Crop Tee",
+  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
-  "id": "1005010324602277",
-  "category": "hoodies",
-  "name": "Kawaii Hoodie",
+  "id": "1005010099111343",
+  "category": "long-sleeves",
+  "name": "Fairy Graphic Layered Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "blurb": "Sleeves for when it's cold, attitude for always."
  }
 ]

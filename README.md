@@ -108,7 +108,16 @@ Paid AliExpress items are ordered by the Stripe webhook with the cheapest shippi
 
 1. Open https://blazedkitty.com/admin/queue, enter `ADMIN_TOKEN` once, and drag the **+ BlazedKitty** button to the bookmarks bar.
 2. On any AliExpress page (search, store, wishlist), scroll down and click the button. Every product on the page is saved to `/app/data/ae-queue.json` on the server, without duplicates.
-3. Each batch: `python3 scripts/ae_queue.py pull /tmp/batch.json`, then `ae_import.py`, `ae_catalog.py`, a photo check, and `ae_queue.py sync /tmp/batch.json` to mark items added or skipped.
+3. Each batch:
+   ```bash
+   python3 scripts/ae_queue.py pull /tmp/batch.json      # everything waiting
+   python3 scripts/ae_import.py /tmp/batch.json          # sort into sections, skip kids' items and copyrighted art
+   python3 scripts/ae_catalog.py                         # pull details and photos
+   python3 scripts/ae_tidy.py /tmp/batch.json --from N   # multi-pack prices, real fur, over $90, generic names
+   # photo check: remove anything with characters, bands, brands or real people; add their ids to scripts/ae_blocked.json
+   python3 scripts/ae_blurbs.py && python3 scripts/ae_catalog.py
+   python3 scripts/ae_queue.py sync /tmp/batch.json      # mark added / skipped
+   ```
 
 ## Next up
 
