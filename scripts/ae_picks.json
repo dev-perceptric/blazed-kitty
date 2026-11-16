@@ -432,11 +432,6 @@
   "price": 61.99
  },
  {
-  "id": "3256812986220205",
-  "category": "baby-tees",
-  "name": "Kitty Baby Tee"
- },
- {
   "id": "3256806078953829",
   "category": "hoodies",
   "name": "Ultra Crop Hoodie",
@@ -541,11 +536,6 @@
   "depts": [
    "women"
   ]
- },
- {
-  "id": "3256812811469610",
-  "category": "baby-tees",
-  "name": "Corset Grunge Crop Tee"
  },
  {
   "id": "3256812578083530",
