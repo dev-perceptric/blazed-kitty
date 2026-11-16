@@ -121,11 +121,29 @@ export async function connectWithCode(code: string) {
 async function accessToken() {
   const t = await loadTokens();
   if (!t) throw new AliExpressError('AliExpress is not connected yet. Open /api/aliexpress/connect first.', 'NOT_CONNECTED');
-  // Renew a day early.
-  if (t.access_token && t.expire_time - Date.now() > 86400e3) return t.access_token;
+  // Renew when less than an hour is left.
+  if (t.access_token && t.expire_time - Date.now() > 3600e3) return t.access_token;
+  return (await refresh(t)).access_token;
+}
+
+async function refresh(t: Tokens) {
   const fresh = toTokens(await raw('/auth/token/refresh', { refresh_token: t.refresh_token }));
-  await saveTokens({ ...t, ...fresh });
-  return fresh.access_token;
+  const next = { ...t, ...fresh };
+  await saveTokens(next);
+  return next;
+}
+
+/**
+ * Keeps the sign-in alive while the store is quiet. AliExpress sign-ins can be short
+ * (a day, renewable for two), so renew whenever either one is getting close.
+ */
+export async function keepAliExpressAlive() {
+  const t = await loadTokens();
+  if (!t) return 'not connected';
+  const now = Date.now();
+  if (t.expire_time - now > 12 * 3600e3 && t.refresh_token_valid_time - now > 36 * 3600e3) return 'fresh';
+  const next = await refresh(t);
+  return `renewed until ${new Date(next.expire_time).toISOString()}`;
 }
 
 export async function connectionStatus() {

@@ -17,8 +17,23 @@ const SORTS = [
   { id: 'price-desc', label: 'Price: high to low' },
 ];
 
+/** Featured order: spread dropship items (CJ, AliExpress) evenly through the printed pieces, starting near the top. */
+function spreadDropship(list: Product[]) {
+  const made = list.filter((p) => !p.cj && !p.ae);
+  const drop = list.filter((p) => p.cj || p.ae);
+  if (!drop.length || !made.length) return list;
+  const every = Math.max(2, Math.floor(made.length / drop.length));
+  const out: Product[] = [];
+  let d = 0;
+  made.forEach((p, i) => {
+    if (i % every === 1 && d < drop.length) out.push(drop[d++]);
+    out.push(p);
+  });
+  return [...out, ...drop.slice(d)];
+}
+
 function sortList(list: Product[], sort: string) {
-  const out = [...list];
+  const out = sort === 'featured' ? spreadDropship(list) : [...list];
   if (sort === 'new') out.sort((a, b) => b.drop.localeCompare(a.drop));
   if (sort === 'price-asc') out.sort((a, b) => a.price - b.price);
   if (sort === 'price-desc') out.sort((a, b) => b.price - a.price);

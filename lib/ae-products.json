@@ -1,1 +1,2165 @@
-[]
+[
+ {
+  "slug": "second-skin-baby-tee-221772",
+  "code": "BK-AE1",
+  "name": "Second Skin Baby Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 15.99,
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#151515"
+   },
+   {
+    "name": "Blue",
+    "hex": "#2f5fb3"
+   },
+   {
+    "name": "White",
+    "hex": "#ffffff"
+   },
+   {
+    "name": "Hot Pink",
+    "hex": "#f4b6c8"
+   },
+   {
+    "name": "Gray",
+    "hex": "#9a9a9a"
+   }
+  ],
+  "sizes": [
+   "XS",
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "blurb": "Painted on, in every color.",
+  "details": [
+   "Stretchy rib knit",
+   "Slim, body-hugging fit",
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005006819221772",
+   "delivery": "6-11 days",
+   "variants": [
+    {
+     "color": "Black",
+     "size": "M",
+     "skuAttr": "5:361386;14:193",
+     "skuId": "12000038405303846",
+     "cost": 5.15
+    },
+    {
+     "color": "Black",
+     "size": "L",
+     "skuAttr": "5:361385;14:193",
+     "skuId": "12000038405303847",
+     "cost": 4.95
+    },
+    {
+     "color": "Black",
+     "size": "XS",
+     "skuAttr": "5:100014066;14:193",
+     "skuId": "12000038405303844",
+     "cost": 4.95
+    },
+    {
+     "color": "Black",
+     "size": "S",
+     "skuAttr": "5:100014064;14:193",
+     "skuId": "12000038405303845",
+     "cost": 5.15
+    },
+    {
+     "color": "Blue",
+     "size": "S",
+     "skuAttr": "5:100014064;14:173",
+     "skuId": "12000038405303850",
+     "cost": 4.75
+    },
+    {
+     "color": "Blue",
+     "size": "M",
+     "skuAttr": "5:361386;14:173",
+     "skuId": "12000038405303851",
+     "cost": 5.02
+    },
+    {
+     "color": "Black",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:193",
+     "skuId": "12000038405303848",
+     "cost": 5.22
+    },
+    {
+     "color": "Blue",
+     "size": "XS",
+     "skuAttr": "5:100014066;14:173",
+     "skuId": "12000038405303849",
+     "cost": 4.89
+    },
+    {
+     "color": "White",
+     "size": "XS",
+     "skuAttr": "5:100014066;14:29",
+     "skuId": "12000038405303854",
+     "cost": 4.89
+    },
+    {
+     "color": "White",
+     "size": "S",
+     "skuAttr": "5:100014064;14:29",
+     "skuId": "12000038405303855",
+     "cost": 5.19
+    },
+    {
+     "color": "Blue",
+     "size": "L",
+     "skuAttr": "5:361385;14:173",
+     "skuId": "12000038405303852",
+     "cost": 4.75
+    },
+    {
+     "color": "Blue",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:173",
+     "skuId": "12000038405303853",
+     "cost": 5.25
+    },
+    {
+     "color": "White",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:29",
+     "skuId": "12000038405303858",
+     "cost": 4.89
+    },
+    {
+     "color": "Hot Pink",
+     "size": "XS",
+     "skuAttr": "5:100014066;14:200211869",
+     "skuId": "12000038405303859",
+     "cost": 4.89
+    },
+    {
+     "color": "White",
+     "size": "M",
+     "skuAttr": "5:361386;14:29",
+     "skuId": "12000038405303856",
+     "cost": 5.12
+    },
+    {
+     "color": "White",
+     "size": "L",
+     "skuAttr": "5:361385;14:29",
+     "skuId": "12000038405303857",
+     "cost": 5.05
+    },
+    {
+     "color": "Hot Pink",
+     "size": "L",
+     "skuAttr": "5:361385;14:200211869",
+     "skuId": "12000038405303862",
+     "cost": 5.15
+    },
+    {
+     "color": "Hot Pink",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:200211869",
+     "skuId": "12000038405303863",
+     "cost": 5.15
+    },
+    {
+     "color": "Hot Pink",
+     "size": "S",
+     "skuAttr": "5:100014064;14:200211869",
+     "skuId": "12000038405303860",
+     "cost": 4.99
+    },
+    {
+     "color": "Hot Pink",
+     "size": "M",
+     "skuAttr": "5:361386;14:200211869",
+     "skuId": "12000038405303861",
+     "cost": 4.95
+    },
+    {
+     "color": "Gray",
+     "size": "M",
+     "skuAttr": "5:361386;14:691",
+     "skuId": "12000038405303866",
+     "cost": 5.09
+    },
+    {
+     "color": "Gray",
+     "size": "L",
+     "skuAttr": "5:361385;14:691",
+     "skuId": "12000038405303867",
+     "cost": 5.12
+    },
+    {
+     "color": "Gray",
+     "size": "XS",
+     "skuAttr": "5:100014066;14:691",
+     "skuId": "12000038405303864",
+     "cost": 4.85
+    },
+    {
+     "color": "Gray",
+     "size": "S",
+     "skuAttr": "5:100014064;14:691",
+     "skuId": "12000038405303865",
+     "cost": 5.09
+    },
+    {
+     "color": "Gray",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:691",
+     "skuId": "12000038405303868",
+     "cost": 4.85
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006819221772/e7ccb862a146.jpg",
+    "color": "Black"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006819221772/542c265f548f.jpg",
+    "color": "Blue"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006819221772/eaac7361523d.jpg",
+    "color": "White"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006819221772/dd4902d3c123.jpg",
+    "color": "Hot Pink"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006819221772/e970d7bc7367.jpg",
+    "color": "Gray"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006819221772/3965b3f2864b.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006819221772/cabb87d74088.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006819221772/cd45c22fd980.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006819221772/d7cafe0d344e.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006819221772/fce47100e98f.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "off-shoulder-number-tee-905640",
+  "code": "BK-AE2",
+  "name": "Off-Shoulder Number Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 22.99,
+  "colors": [
+   {
+    "name": "White",
+    "hex": "#ffffff"
+   },
+   {
+    "name": "Yellow",
+    "hex": "#f2d23c"
+   },
+   {
+    "name": "Dark Blue",
+    "hex": "#2f5fb3"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "Slipping off on purpose.",
+  "details": [
+   "Skewed neckline that falls off one shoulder",
+   "Varsity number print",
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005011980905640",
+   "delivery": "8-13 days",
+   "variants": [
+    {
+     "color": "White",
+     "size": "M",
+     "skuAttr": "5:361386;14:173#White-",
+     "skuId": "12000057206416981",
+     "cost": 7.65
+    },
+    {
+     "color": "White",
+     "size": "S",
+     "skuAttr": "5:100014064;14:173#White-",
+     "skuId": "12000057206416980",
+     "cost": 6.99
+    },
+    {
+     "color": "White",
+     "size": "L",
+     "skuAttr": "5:361385;14:173#White-",
+     "skuId": "12000057206416982",
+     "cost": 7.05
+    },
+    {
+     "color": "Yellow",
+     "size": "S",
+     "skuAttr": "5:100014064;14:193#Yellow-",
+     "skuId": "12000057206416977",
+     "cost": 6.95
+    },
+    {
+     "color": "Dark Blue",
+     "size": "L",
+     "skuAttr": "5:361385;14:771#Dark Blue-",
+     "skuId": "12000057206416976",
+     "cost": 7.52
+    },
+    {
+     "color": "Yellow",
+     "size": "L",
+     "skuAttr": "5:361385;14:193#Yellow-",
+     "skuId": "12000057206416979",
+     "cost": 8.12
+    },
+    {
+     "color": "Yellow",
+     "size": "M",
+     "skuAttr": "5:361386;14:193#Yellow-",
+     "skuId": "12000057206416978",
+     "cost": 7.55
+    },
+    {
+     "color": "Dark Blue",
+     "size": "M",
+     "skuAttr": "5:361386;14:771#Dark Blue-",
+     "skuId": "12000057206416975",
+     "cost": 7.25
+    },
+    {
+     "color": "Dark Blue",
+     "size": "S",
+     "skuAttr": "5:100014064;14:771#Dark Blue-",
+     "skuId": "12000057206416974",
+     "cost": 7.15
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011980905640/e4265a7ed4d6.jpg",
+    "color": "White"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011980905640/75a55c8d6eca.jpg",
+    "color": "Yellow"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011980905640/6c33dd8273c5.jpg",
+    "color": "Dark Blue"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011980905640/75a55c8d6eca.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011980905640/d052f48b206b.png",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011980905640/1882c64b043f.png",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011980905640/d680348df849.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011980905640/ffbb78adfa0d.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011980905640/d3ae9d61ab04.png",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "one-shoulder-shrink-tee-498643",
+  "code": "BK-AE3",
+  "name": "One-Shoulder Shrink Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 26.99,
+  "colors": [
+   {
+    "name": "White",
+    "hex": "#ffffff",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/3a68cc084c29.jpg"
+   },
+   {
+    "name": "Black",
+    "hex": "#151515",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/c56be3d19812.jpg"
+   },
+   {
+    "name": "Green",
+    "hex": "#3d8b4a",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/890cbc376f2a.jpg"
+   },
+   {
+    "name": "Sky Blue",
+    "hex": "#2f5fb3",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/466fe50c8967.jpg"
+   },
+   {
+    "name": "Pink",
+    "hex": "#f4b6c8",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/48a6382afa5c.jpg"
+   },
+   {
+    "name": "Burgundy",
+    "hex": "#d9d2cc",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/6bea0b6c52f8.jpg"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "One shoulder out, all attitude.",
+  "details": [
+   "Asymmetric one-shoulder neckline",
+   "Slim, shrunken fit",
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005009157498643",
+   "delivery": "6-12 days",
+   "variants": [
+    {
+     "color": "White",
+     "size": "M",
+     "skuAttr": "5:361386;14:193#White",
+     "skuId": "12000048128863890",
+     "cost": 5.09
+    },
+    {
+     "color": "White",
+     "size": "L",
+     "skuAttr": "5:361385;14:193#White",
+     "skuId": "12000048128863891",
+     "cost": 5.09
+    },
+    {
+     "color": "Black",
+     "size": "L",
+     "skuAttr": "5:361385;14:771#Black",
+     "skuId": "12000048128863888",
+     "cost": 5.09
+    },
+    {
+     "color": "White",
+     "size": "S",
+     "skuAttr": "5:100014064;14:193#White",
+     "skuId": "12000048128863889",
+     "cost": 5.09
+    },
+    {
+     "color": "Green",
+     "size": "L",
+     "skuAttr": "5:361385;14:173#Green",
+     "skuId": "12000048128863894",
+     "cost": 5.09
+    },
+    {
+     "color": "Green",
+     "size": "S",
+     "skuAttr": "5:100014064;14:173#Green",
+     "skuId": "12000048128863892",
+     "cost": 5.09
+    },
+    {
+     "color": "Green",
+     "size": "M",
+     "skuAttr": "5:361386;14:173#Green",
+     "skuId": "12000048128863893",
+     "cost": 5.09
+    },
+    {
+     "color": "Sky Blue",
+     "size": "M",
+     "skuAttr": "5:361386;14:1254",
+     "skuId": "12000056688538314",
+     "cost": 5.09
+    },
+    {
+     "color": "Sky Blue",
+     "size": "L",
+     "skuAttr": "5:361385;14:1254",
+     "skuId": "12000056688538315",
+     "cost": 5.09
+    },
+    {
+     "color": "Sky Blue",
+     "size": "S",
+     "skuAttr": "5:100014064;14:1254",
+     "skuId": "12000056688538313",
+     "cost": 5.09
+    },
+    {
+     "color": "Pink",
+     "size": "S",
+     "skuAttr": "5:100014064;14:1052",
+     "skuId": "12000056688538319",
+     "cost": 5.09
+    },
+    {
+     "color": "Burgundy",
+     "size": "S",
+     "skuAttr": "5:100014064;14:366#Claret",
+     "skuId": "12000056688538322",
+     "cost": 5.09
+    },
+    {
+     "color": "Burgundy",
+     "size": "M",
+     "skuAttr": "5:361386;14:366#Claret",
+     "skuId": "12000056688538323",
+     "cost": 5.09
+    },
+    {
+     "color": "Pink",
+     "size": "M",
+     "skuAttr": "5:361386;14:1052",
+     "skuId": "12000056688538320",
+     "cost": 5.09
+    },
+    {
+     "color": "Pink",
+     "size": "L",
+     "skuAttr": "5:361385;14:1052",
+     "skuId": "12000056688538321",
+     "cost": 5.09
+    },
+    {
+     "color": "Burgundy",
+     "size": "L",
+     "skuAttr": "5:361385;14:366#Claret",
+     "skuId": "12000056688538324",
+     "cost": 5.09
+    },
+    {
+     "color": "Black",
+     "size": "S",
+     "skuAttr": "5:100014064;14:771#Black",
+     "skuId": "12000048128863886",
+     "cost": 5.09
+    },
+    {
+     "color": "Black",
+     "size": "M",
+     "skuAttr": "5:361386;14:771#Black",
+     "skuId": "12000048128863887",
+     "cost": 5.09
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/3a68cc084c29.jpg",
+    "color": "White"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/c56be3d19812.jpg",
+    "color": "Black"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/890cbc376f2a.jpg",
+    "color": "Green"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/466fe50c8967.jpg",
+    "color": "Sky Blue"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/48a6382afa5c.jpg",
+    "color": "Pink"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/6bea0b6c52f8.jpg",
+    "color": "Burgundy"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/a89c35bb9edd.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/8a1b286f7e60.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/9c96f08a8da6.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009157498643/28ba6beba221.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "kitty-print-crop-tee-164577",
+  "code": "BK-AE4",
+  "name": "Kitty Print Crop Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 17.99,
+  "colors": [
+   {
+    "name": "White",
+    "hex": "#ffffff"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "Nine lives, one crop top.",
+  "details": [
+   "Animal photo print",
+   "Slim cropped fit",
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005009665164577",
+   "delivery": null,
+   "variants": [
+    {
+     "color": "White",
+     "size": "L",
+     "skuAttr": "5:361385;14:29",
+     "skuId": "12000049806693082",
+     "cost": 4.89
+    },
+    {
+     "color": "White",
+     "size": "M",
+     "skuAttr": "5:361386;14:29",
+     "skuId": "12000049806693083",
+     "cost": 4.95
+    },
+    {
+     "color": "White",
+     "size": "S",
+     "skuAttr": "5:100014064;14:29",
+     "skuId": "12000049806693081",
+     "cost": 4.55
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009665164577/9a825b11f5b0.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009665164577/96225a149f09.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009665164577/72f5e9aa5364.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009665164577/c8190eec98fd.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009665164577/2d54f67c1e1a.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009665164577/eb50cace4fb9.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "ruched-fitted-tee-601466",
+  "code": "BK-AE5",
+  "name": "Ruched Fitted Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 26.99,
+  "colors": [
+   {
+    "name": "White",
+    "hex": "#ffffff",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/33e76de219f8.jpg"
+   },
+   {
+    "name": "Khaki",
+    "hex": "#c3b091",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/e28ae41cb018.jpg"
+   },
+   {
+    "name": "Navy Blue",
+    "hex": "#2f5fb3",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/c293444659cd.jpg"
+   },
+   {
+    "name": "Burgundy",
+    "hex": "#d9d2cc",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/07acb95115f8.jpg"
+   },
+   {
+    "name": "Black",
+    "hex": "#151515",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/e0215b2b3939.jpg"
+   }
+  ],
+  "sizes": [
+   "M",
+   "L",
+   "XL",
+   "2XL",
+   "3XL"
+  ],
+  "blurb": "Gathered in all the right places.",
+  "details": [
+   "Ruched side seams",
+   "Slim round-neck fit",
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005010464601466",
+   "delivery": null,
+   "variants": [
+    {
+     "color": "White",
+     "size": "M",
+     "skuAttr": "5:361386;14:1254#529 WHITE",
+     "skuId": "12000052499222977",
+     "cost": 7.85
+    },
+    {
+     "color": "Khaki",
+     "size": "3XL",
+     "skuAttr": "5:4183;14:173#529 Khaki",
+     "skuId": "12000052499222976",
+     "cost": 8.15
+    },
+    {
+     "color": "White",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:1254#529 WHITE",
+     "skuId": "12000052499222979",
+     "cost": 8.39
+    },
+    {
+     "color": "White",
+     "size": "L",
+     "skuAttr": "5:361385;14:1254#529 WHITE",
+     "skuId": "12000052499222978",
+     "cost": 8.05
+    },
+    {
+     "color": "White",
+     "size": "3XL",
+     "skuAttr": "5:4183;14:1254#529 WHITE",
+     "skuId": "12000052499222981",
+     "cost": 8.22
+    },
+    {
+     "color": "White",
+     "size": "2XL",
+     "skuAttr": "5:4182;14:1254#529 WHITE",
+     "skuId": "12000052499222980",
+     "cost": 8.29
+    },
+    {
+     "color": "Navy Blue",
+     "size": "L",
+     "skuAttr": "5:361385;14:365458#529 Navy Blue",
+     "skuId": "12000052499222983",
+     "cost": 7.85
+    },
+    {
+     "color": "Navy Blue",
+     "size": "M",
+     "skuAttr": "5:361386;14:365458#529 Navy Blue",
+     "skuId": "12000052499222982",
+     "cost": 7.85
+    },
+    {
+     "color": "Navy Blue",
+     "size": "2XL",
+     "skuAttr": "5:4182;14:365458#529 Navy Blue",
+     "skuId": "12000052499222985",
+     "cost": 7.99
+    },
+    {
+     "color": "Navy Blue",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:365458#529 Navy Blue",
+     "skuId": "12000052499222984",
+     "cost": 7.85
+    },
+    {
+     "color": "Navy Blue",
+     "size": "3XL",
+     "skuAttr": "5:4183;14:365458#529 Navy Blue",
+     "skuId": "12000052499222986",
+     "cost": 8.19
+    },
+    {
+     "color": "Burgundy",
+     "size": "L",
+     "skuAttr": "5:361385;14:771#529 Burgundy",
+     "skuId": "12000052499222963",
+     "cost": 8.05
+    },
+    {
+     "color": "Burgundy",
+     "size": "M",
+     "skuAttr": "5:361386;14:771#529 Burgundy",
+     "skuId": "12000052499222962",
+     "cost": 7.95
+    },
+    {
+     "color": "Burgundy",
+     "size": "2XL",
+     "skuAttr": "5:4182;14:771#529 Burgundy",
+     "skuId": "12000052499222965",
+     "cost": 8.25
+    },
+    {
+     "color": "Burgundy",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:771#529 Burgundy",
+     "skuId": "12000052499222964",
+     "cost": 8.09
+    },
+    {
+     "color": "Black",
+     "size": "M",
+     "skuAttr": "5:361386;14:193#529 black",
+     "skuId": "12000052499222967",
+     "cost": 7.82
+    },
+    {
+     "color": "Burgundy",
+     "size": "3XL",
+     "skuAttr": "5:4183;14:771#529 Burgundy",
+     "skuId": "12000052499222966",
+     "cost": 8.45
+    },
+    {
+     "color": "Black",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:193#529 black",
+     "skuId": "12000052499222969",
+     "cost": 8.15
+    },
+    {
+     "color": "Black",
+     "size": "L",
+     "skuAttr": "5:361385;14:193#529 black",
+     "skuId": "12000052499222968",
+     "cost": 7.99
+    },
+    {
+     "color": "Black",
+     "size": "3XL",
+     "skuAttr": "5:4183;14:193#529 black",
+     "skuId": "12000052499222971",
+     "cost": 8.15
+    },
+    {
+     "color": "Black",
+     "size": "2XL",
+     "skuAttr": "5:4182;14:193#529 black",
+     "skuId": "12000052499222970",
+     "cost": 8.45
+    },
+    {
+     "color": "Khaki",
+     "size": "L",
+     "skuAttr": "5:361385;14:173#529 Khaki",
+     "skuId": "12000052499222973",
+     "cost": 8.02
+    },
+    {
+     "color": "Khaki",
+     "size": "M",
+     "skuAttr": "5:361386;14:173#529 Khaki",
+     "skuId": "12000052499222972",
+     "cost": 7.85
+    },
+    {
+     "color": "Khaki",
+     "size": "2XL",
+     "skuAttr": "5:4182;14:173#529 Khaki",
+     "skuId": "12000052499222975",
+     "cost": 8.09
+    },
+    {
+     "color": "Khaki",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:173#529 Khaki",
+     "skuId": "12000052499222974",
+     "cost": 7.99
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/33e76de219f8.jpg",
+    "color": "White"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/e28ae41cb018.jpg",
+    "color": "Khaki"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/c293444659cd.jpg",
+    "color": "Navy Blue"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/07acb95115f8.jpg",
+    "color": "Burgundy"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/e0215b2b3939.jpg",
+    "color": "Black"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/e28ae41cb018.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/33e76de219f8.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/e0215b2b3939.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/9738869a6d71.png",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010464601466/c293444659cd.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "trashy-2000s-letter-baby-tee-244898",
+  "code": "BK-AE6",
+  "name": "Trashy 2000s Letter Baby Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 34.99,
+  "colors": [
+   {
+    "name": "Blue",
+    "hex": "#2f5fb3"
+   },
+   {
+    "name": "White",
+    "hex": "#ffffff"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "Straight out of a 2003 mall.",
+  "details": [
+   "Y2K letter print",
+   "Cropped baby-tee fit",
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005007118244898",
+   "delivery": "6-11 days",
+   "variants": [
+    {
+     "color": "Blue",
+     "size": "M",
+     "skuAttr": "5:361386;14:771#blue",
+     "skuId": "12000039459810136",
+     "cost": 12.28
+    },
+    {
+     "color": "Blue",
+     "size": "L",
+     "skuAttr": "5:361385;14:771#blue",
+     "skuId": "12000039459810137",
+     "cost": 12.07
+    },
+    {
+     "color": "White",
+     "size": "S",
+     "skuAttr": "5:100014064;14:173#white",
+     "skuId": "12000039459810138",
+     "cost": 10.28
+    },
+    {
+     "color": "White",
+     "size": "M",
+     "skuAttr": "5:361386;14:173#white",
+     "skuId": "12000039459810139",
+     "cost": 13.18
+    },
+    {
+     "color": "White",
+     "size": "L",
+     "skuAttr": "5:361385;14:173#white",
+     "skuId": "12000039459810140",
+     "cost": 12.22
+    },
+    {
+     "color": "Blue",
+     "size": "S",
+     "skuAttr": "5:100014064;14:771#blue",
+     "skuId": "12000039459810135",
+     "cost": 11.79
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007118244898/c082e4ca05da.jpg",
+    "color": "Blue"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007118244898/6ca014195308.jpg",
+    "color": "White"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007118244898/c400fcb489e0.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007118244898/dd3dbf4f589b.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007118244898/37d6447f049a.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007118244898/68bf963d19db.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007118244898/95c6a1777a6b.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007118244898/df97acb90116.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "candy-stripe-baby-tee-438815",
+  "code": "BK-AE7",
+  "name": "Candy Stripe Baby Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 34.99,
+  "colors": [
+   {
+    "name": "Gold",
+    "hex": "#c9a227",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/3702bb8d1065.jpg"
+   },
+   {
+    "name": "Red",
+    "hex": "#c8102e",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/12306b0e79d5.jpg"
+   },
+   {
+    "name": "Sky Blue",
+    "hex": "#2f5fb3",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/a10c58fb0238.jpg"
+   },
+   {
+    "name": "Yellow",
+    "hex": "#f2d23c",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/1c090e3dd800.jpg"
+   },
+   {
+    "name": "Pink",
+    "hex": "#f4b6c8",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/389c75ac21df.jpg"
+   },
+   {
+    "name": "Brown",
+    "hex": "#7a4e2d",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/86ff49427072.jpg"
+   },
+   {
+    "name": "Gray",
+    "hex": "#9a9a9a",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/4aaad0a64f6a.jpg"
+   },
+   {
+    "name": "Purple",
+    "hex": "#7d4bb3",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/fb06e971639e.jpg"
+   },
+   {
+    "name": "Lavender",
+    "hex": "#d9d2cc",
+    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/04b6f5ef39ef.jpg"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "Sweet stripes, bad intentions.",
+  "details": [
+   "Cotton stripe knit",
+   "Slim fit",
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005009095438815",
+   "delivery": "9-15 days",
+   "variants": [
+    {
+     "color": "Gold",
+     "size": "S",
+     "skuAttr": "5:100014064;14:350850",
+     "skuId": "12000049414099265",
+     "cost": 10.92
+    },
+    {
+     "color": "Gold",
+     "size": "M",
+     "skuAttr": "5:361386;14:350850",
+     "skuId": "12000049414099266",
+     "cost": 10.92
+    },
+    {
+     "color": "Gold",
+     "size": "L",
+     "skuAttr": "5:361385;14:350850",
+     "skuId": "12000049414099267",
+     "cost": 10.92
+    },
+    {
+     "color": "Red",
+     "size": "M",
+     "skuAttr": "5:361386;14:10",
+     "skuId": "12000050802531996",
+     "cost": 10.92
+    },
+    {
+     "color": "Sky Blue",
+     "size": "L",
+     "skuAttr": "5:361385;14:1254",
+     "skuId": "12000058880617753",
+     "cost": 10.92
+    },
+    {
+     "color": "Red",
+     "size": "L",
+     "skuAttr": "5:361385;14:10",
+     "skuId": "12000050802531997",
+     "cost": 10.92
+    },
+    {
+     "color": "Sky Blue",
+     "size": "M",
+     "skuAttr": "5:361386;14:1254",
+     "skuId": "12000058880617752",
+     "cost": 10.92
+    },
+    {
+     "color": "Yellow",
+     "size": "L",
+     "skuAttr": "5:361385;14:366",
+     "skuId": "12000050802903009",
+     "cost": 10.92
+    },
+    {
+     "color": "Red",
+     "size": "S",
+     "skuAttr": "5:100014064;14:10",
+     "skuId": "12000050802531995",
+     "cost": 10.92
+    },
+    {
+     "color": "Yellow",
+     "size": "M",
+     "skuAttr": "5:361386;14:366",
+     "skuId": "12000050802903008",
+     "cost": 10.92
+    },
+    {
+     "color": "Sky Blue",
+     "size": "S",
+     "skuAttr": "5:100014064;14:1254",
+     "skuId": "12000058880617751",
+     "cost": 10.92
+    },
+    {
+     "color": "Pink",
+     "size": "L",
+     "skuAttr": "5:361385;14:1052#Fen",
+     "skuId": "12000047893155460",
+     "cost": 10.92
+    },
+    {
+     "color": "Brown",
+     "size": "L",
+     "skuAttr": "5:361385;14:365458",
+     "skuId": "12000048360966883",
+     "cost": 10.92
+    },
+    {
+     "color": "Brown",
+     "size": "M",
+     "skuAttr": "5:361386;14:365458",
+     "skuId": "12000048360966882",
+     "cost": 10.92
+    },
+    {
+     "color": "Pink",
+     "size": "M",
+     "skuAttr": "5:361386;14:1052#Fen",
+     "skuId": "12000047893155459",
+     "cost": 10.92
+    },
+    {
+     "color": "Brown",
+     "size": "S",
+     "skuAttr": "5:100014064;14:365458",
+     "skuId": "12000048360966881",
+     "cost": 10.92
+    },
+    {
+     "color": "Pink",
+     "size": "S",
+     "skuAttr": "5:100014064;14:1052#Fen",
+     "skuId": "12000047893155458",
+     "cost": 10.92
+    },
+    {
+     "color": "Gray",
+     "size": "S",
+     "skuAttr": "5:100014064;14:691",
+     "skuId": "12000057284152843",
+     "cost": 10.92
+    },
+    {
+     "color": "Yellow",
+     "size": "S",
+     "skuAttr": "5:100014064;14:366",
+     "skuId": "12000050802903007",
+     "cost": 10.92
+    },
+    {
+     "color": "Purple",
+     "size": "S",
+     "skuAttr": "5:100014064;14:496",
+     "skuId": "12000057284152847",
+     "cost": 10.92
+    },
+    {
+     "color": "Gray",
+     "size": "L",
+     "skuAttr": "5:361385;14:691",
+     "skuId": "12000057284152845",
+     "cost": 10.92
+    },
+    {
+     "color": "Gray",
+     "size": "M",
+     "skuAttr": "5:361386;14:691",
+     "skuId": "12000057284152844",
+     "cost": 10.92
+    },
+    {
+     "color": "Lavender",
+     "size": "S",
+     "skuAttr": "5:100014064;14:200004891",
+     "skuId": "12000057284152851",
+     "cost": 10.92
+    },
+    {
+     "color": "Purple",
+     "size": "L",
+     "skuAttr": "5:361385;14:496",
+     "skuId": "12000057284152849",
+     "cost": 10.92
+    },
+    {
+     "color": "Purple",
+     "size": "M",
+     "skuAttr": "5:361386;14:496",
+     "skuId": "12000057284152848",
+     "cost": 10.92
+    },
+    {
+     "color": "Lavender",
+     "size": "L",
+     "skuAttr": "5:361385;14:200004891",
+     "skuId": "12000057284152853",
+     "cost": 10.92
+    },
+    {
+     "color": "Lavender",
+     "size": "M",
+     "skuAttr": "5:361386;14:200004891",
+     "skuId": "12000057284152852",
+     "cost": 10.92
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/3702bb8d1065.jpg",
+    "color": "Gold"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/12306b0e79d5.jpg",
+    "color": "Red"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/a10c58fb0238.jpg",
+    "color": "Sky Blue"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/1c090e3dd800.jpg",
+    "color": "Yellow"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/389c75ac21df.jpg",
+    "color": "Pink"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/86ff49427072.jpg",
+    "color": "Brown"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/4aaad0a64f6a.jpg",
+    "color": "Gray"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/fb06e971639e.jpg",
+    "color": "Purple"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/04b6f5ef39ef.jpg",
+    "color": "Lavender"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009095438815/cc96bf58a864.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "lace-trim-square-neck-crop-tee-495594",
+  "code": "BK-AE8",
+  "name": "Lace Trim Square Neck Crop Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 24.99,
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#151515"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "Cottage core, after hours.",
+  "details": [
+   "Lace-trimmed square neckline",
+   "Slim cropped fit",
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005004100495594",
+   "delivery": "6-11 days",
+   "variants": [
+    {
+     "color": "Black",
+     "size": "M",
+     "skuAttr": "5:361386;14:193",
+     "skuId": "12000028031305033",
+     "cost": 8.57
+    },
+    {
+     "color": "Black",
+     "size": "S",
+     "skuAttr": "5:100014064;14:193",
+     "skuId": "12000028031305032",
+     "cost": 8.3
+    },
+    {
+     "color": "Black",
+     "size": "L",
+     "skuAttr": "5:361385;14:193",
+     "skuId": "12000028031305034",
+     "cost": 8.9
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004100495594/dc48320da004.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004100495594/894250ff861f.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004100495594/3c37452ad9b7.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004100495594/c30098e5bc51.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "skinny-crop-tee-099822",
+  "code": "BK-AE9",
+  "name": "Skinny Crop Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 17.99,
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#151515"
+   },
+   {
+    "name": "Coffee",
+    "hex": "#6f4e37"
+   },
+   {
+    "name": "Gray",
+    "hex": "#9a9a9a"
+   },
+   {
+    "name": "Navy Blue",
+    "hex": "#2f5fb3"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "blurb": "The one you'll wear four times a week.",
+  "details": [
+   "Solid crewneck",
+   "Skinny cropped fit",
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005008082099822",
+   "delivery": "6-11 days",
+   "variants": [
+    {
+     "color": "Black",
+     "size": "S",
+     "skuAttr": "5:100014064;14:193",
+     "skuId": "12000043603580959",
+     "cost": 5.82
+    },
+    {
+     "color": "Coffee",
+     "size": "M",
+     "skuAttr": "5:361386;14:933",
+     "skuId": "12000043603580964",
+     "cost": 6.1
+    },
+    {
+     "color": "Coffee",
+     "size": "L",
+     "skuAttr": "5:361385;14:933",
+     "skuId": "12000043603580965",
+     "cost": 6.32
+    },
+    {
+     "color": "Coffee",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:933",
+     "skuId": "12000043603580966",
+     "cost": 6.25
+    },
+    {
+     "color": "Gray",
+     "size": "S",
+     "skuAttr": "5:100014064;14:691",
+     "skuId": "12000043603580967",
+     "cost": 5.82
+    },
+    {
+     "color": "Black",
+     "size": "M",
+     "skuAttr": "5:361386;14:193",
+     "skuId": "12000043603580960",
+     "cost": 6.03
+    },
+    {
+     "color": "Black",
+     "size": "L",
+     "skuAttr": "5:361385;14:193",
+     "skuId": "12000043603580961",
+     "cost": 6.13
+    },
+    {
+     "color": "Black",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:193",
+     "skuId": "12000043603580962",
+     "cost": 6.35
+    },
+    {
+     "color": "Coffee",
+     "size": "S",
+     "skuAttr": "5:100014064;14:933",
+     "skuId": "12000043603580963",
+     "cost": 5.88
+    },
+    {
+     "color": "Navy Blue",
+     "size": "M",
+     "skuAttr": "5:361386;14:201800840",
+     "skuId": "12000043603580972",
+     "cost": 5.98
+    },
+    {
+     "color": "Navy Blue",
+     "size": "L",
+     "skuAttr": "5:361385;14:201800840",
+     "skuId": "12000043603580973",
+     "cost": 6.08
+    },
+    {
+     "color": "Navy Blue",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:201800840",
+     "skuId": "12000043603580974",
+     "cost": 6.38
+    },
+    {
+     "color": "Gray",
+     "size": "M",
+     "skuAttr": "5:361386;14:691",
+     "skuId": "12000043603580968",
+     "cost": 6.1
+    },
+    {
+     "color": "Gray",
+     "size": "L",
+     "skuAttr": "5:361385;14:691",
+     "skuId": "12000043603580969",
+     "cost": 6.03
+    },
+    {
+     "color": "Gray",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:691",
+     "skuId": "12000043603580970",
+     "cost": 6.18
+    },
+    {
+     "color": "Navy Blue",
+     "size": "S",
+     "skuAttr": "5:100014064;14:201800840",
+     "skuId": "12000043603580971",
+     "cost": 5.7
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008082099822/2f60d1b0c32d.jpg",
+    "color": "Black"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008082099822/6f9a070406b3.jpg",
+    "color": "Coffee"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008082099822/c9c686e81e3d.jpg",
+    "color": "Gray"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008082099822/d3e059a9256b.jpg",
+    "color": "Navy Blue"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008082099822/c9c686e81e3d.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008082099822/1fc2d3b9f675.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008082099822/fa7fdf528a37.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008082099822/78b543b565d2.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008082099822/5f31771bfae4.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008082099822/ce91017a6336.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "fairy-butterfly-crop-tee-723363",
+  "code": "BK-AE10",
+  "name": "Fairy Butterfly Crop Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 22.99,
+  "colors": [
+   {
+    "name": "Blue",
+    "hex": "#2f5fb3"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "blurb": "Wings out, eyes low.",
+  "details": [
+   "Butterfly fairy print",
+   "Cropped fit",
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005010509723363",
+   "delivery": "6-11 days",
+   "variants": [
+    {
+     "color": "Blue",
+     "size": "M",
+     "skuAttr": "5:361386;14:173",
+     "skuId": "12000052640750307",
+     "cost": 7.99
+    },
+    {
+     "color": "Blue",
+     "size": "S",
+     "skuAttr": "5:100014064;14:173",
+     "skuId": "12000052640750306",
+     "cost": 8.02
+    },
+    {
+     "color": "Blue",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:173",
+     "skuId": "12000052640750309",
+     "cost": 8.05
+    },
+    {
+     "color": "Blue",
+     "size": "L",
+     "skuAttr": "5:361385;14:173",
+     "skuId": "12000052640750308",
+     "cost": 8.09
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010509723363/a95a58d9953b.png",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010509723363/eaf2f4dffa06.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010509723363/6db21485cd3b.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010509723363/1cb7730dc74b.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010509723363/f9ec48a3b7ce.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "trashy-stripe-letter-tee-299652",
+  "code": "BK-AE11",
+  "name": "Trashy Stripe Letter Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 31.99,
+  "colors": [
+   {
+    "name": "Gray",
+    "hex": "#9a9a9a"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "Grunge, but make it baby.",
+  "details": [
+   "Striped knit with letter print",
+   "Slim fit",
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005011984299652",
+   "delivery": "6-11 days",
+   "variants": [
+    {
+     "color": "Gray",
+     "size": "S",
+     "skuAttr": "5:100014064;14:771#Gray",
+     "skuId": "12000057214278953",
+     "cost": 10.73
+    },
+    {
+     "color": "Gray",
+     "size": "L",
+     "skuAttr": "5:361385;14:771#Gray",
+     "skuId": "12000057214278955",
+     "cost": 11.42
+    },
+    {
+     "color": "Gray",
+     "size": "M",
+     "skuAttr": "5:361386;14:771#Gray",
+     "skuId": "12000057214278954",
+     "cost": 11.83
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011984299652/50908dd0db44.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011984299652/d38ae0f338c0.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011984299652/61e18c942060.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011984299652/2b289509e21a.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011984299652/94d73d2a524a.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011984299652/715db564d388.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "flower-wing-v-neck-crop-tee-264837",
+  "code": "BK-AE12",
+  "name": "Flower Wing V-Neck Crop Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 34.99,
+  "colors": [
+   {
+    "name": "Blue",
+    "hex": "#2f5fb3"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "Angel on the front, devil on the sesh.",
+  "details": [
+   "Vintage flower and wing print",
+   "Slim V-neck crop",
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005009464264837",
+   "delivery": "6-12 days",
+   "variants": [
+    {
+     "color": "Blue",
+     "size": "L",
+     "skuAttr": "5:361385;14:771#blue",
+     "skuId": "12000049186134027",
+     "cost": 12.68
+    },
+    {
+     "color": "Blue",
+     "size": "M",
+     "skuAttr": "5:361386;14:771#blue",
+     "skuId": "12000049186134026",
+     "cost": 12.68
+    },
+    {
+     "color": "Blue",
+     "size": "S",
+     "skuAttr": "5:100014064;14:771#blue",
+     "skuId": "12000049186134025",
+     "cost": 12.68
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009464264837/378d9d5183c4.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009464264837/3ad55e5df7db.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009464264837/90a6840316e7.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://ae01.alicdn.com/kf/S144d1b860e844f2b9aff50b8eb535aed1.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009464264837/55cf99a18786.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "vintage-v-neck-slim-tee-917646",
+  "code": "BK-AE13",
+  "name": "Vintage V-Neck Slim Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 25.99,
+  "colors": [
+   {
+    "name": "White",
+    "hex": "#ffffff"
+   }
+  ],
+  "sizes": [
+   "M",
+   "L",
+   "XL",
+   "2XL"
+  ],
+  "blurb": "Simple, tight, done.",
+  "details": [
+   "Soft cotton",
+   "Slim V-neck fit",
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005006160917646",
+   "delivery": "9-15 days",
+   "variants": [
+    {
+     "color": "White",
+     "size": "M",
+     "skuAttr": "5:361386;14:29",
+     "skuId": "12000036049028716",
+     "cost": 10.4
+    },
+    {
+     "color": "White",
+     "size": "L",
+     "skuAttr": "5:361385;14:29",
+     "skuId": "12000036049028717",
+     "cost": 10.4
+    },
+    {
+     "color": "White",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:29",
+     "skuId": "12000036049028718",
+     "cost": 10.4
+    },
+    {
+     "color": "White",
+     "size": "2XL",
+     "skuAttr": "5:4182;14:29",
+     "skuId": "12000036049028719",
+     "cost": 10.4
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006160917646/5d2f70531296.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006160917646/a5661a76e740.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006160917646/4f1fa6a0bd6a.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006160917646/00c259fa56c7.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006160917646/d9f25ee230c3.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006160917646/5bcbaefc1976.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "bow-milkmaid-crop-top-635845",
+  "code": "BK-AE14",
+  "name": "Bow Milkmaid Crop Top",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "baby-tees",
+  "design": "ae",
+  "drop": "ae",
+  "price": 32.99,
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#151515"
+   },
+   {
+    "name": "Brown",
+    "hex": "#7a4e2d"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "Sweet up top, trouble everywhere else.",
+  "details": [
+   "Square collar with bow",
+   "Puff sleeves, cropped fit",
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005006690635845",
+   "delivery": "6-11 days",
+   "variants": [
+    {
+     "color": "Black",
+     "size": "L",
+     "skuAttr": "5:361385;14:193",
+     "skuId": "12000038021319759",
+     "cost": 11.31
+    },
+    {
+     "color": "Black",
+     "size": "M",
+     "skuAttr": "5:361386;14:193",
+     "skuId": "12000038021319758",
+     "cost": 11.51
+    },
+    {
+     "color": "Black",
+     "size": "S",
+     "skuAttr": "5:100014064;14:193",
+     "skuId": "12000038021319757",
+     "cost": 11.26
+    },
+    {
+     "color": "Brown",
+     "size": "L",
+     "skuAttr": "5:361385;14:365458",
+     "skuId": "12000038021319762",
+     "cost": 12.09
+    },
+    {
+     "color": "Brown",
+     "size": "M",
+     "skuAttr": "5:361386;14:365458",
+     "skuId": "12000038021319761",
+     "cost": 11.47
+    },
+    {
+     "color": "Brown",
+     "size": "S",
+     "skuAttr": "5:100014064;14:365458",
+     "skuId": "12000038021319760",
+     "cost": 11.06
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006690635845/32c28ee12dd0.jpg",
+    "color": "Black"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006690635845/e0d9a34f5313.jpg",
+    "color": "Brown"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006690635845/519b729856e6.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006690635845/60114dde36d3.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006690635845/4d5a378df50d.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006690635845/5c7ca43f510f.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006690635845/774b3e8137a0.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006690635845/642d3fcb6671.jpg",
+    "color": "*"
+   }
+  ]
+ }
+]
