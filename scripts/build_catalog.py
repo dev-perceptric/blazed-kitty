@@ -273,6 +273,8 @@ import CJ_PRODUCTS from './cj-products.json';
 export interface Color {
   name: string;
   hex: string;
+  /** Small photo for the swatch when the option is a print or finish, not a plain color (CJ). */
+  image?: string;
 }
 
 export interface CjVariant {

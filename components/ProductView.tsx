@@ -115,12 +115,12 @@ export default function ProductView({ product }: { product: Product }) {
         <p className="pdp-price">{formatPrice(product.price)}</p>
         <p className="pdp-blurb">{product.blurb}</p>
 
-        {!isBikini && (
+        {!isBikini && !(product.cj && product.colors.length === 1) && (
           <fieldset className="opt">
-            <legend>Color <span>{color.name}</span></legend>
+            <legend>{product.colors.some((c) => c.image) ? 'Style' : 'Color'} <span>{color.name}</span></legend>
             <div className="swatch-row">
               {product.colors.map((c) => (
-                <button key={c.name} type="button" id={`color-${c.name.toLowerCase().replace(/\s+/g, '-')}`} className={`swatch${c.name === color.name ? ' is-on' : ''}`} style={{ background: c.hex }} onClick={() => pickColor(c)} aria-label={c.name} aria-pressed={c.name === color.name} />
+                <button key={c.name} type="button" id={`color-${c.name.toLowerCase().replace(/\s+/g, '-')}`} className={`swatch${c.name === color.name ? ' is-on' : ''}`} style={{ background: c.image ? `center / cover no-repeat url(${c.image}), ${c.hex}` : c.hex }} onClick={() => pickColor(c)} aria-label={c.name} aria-pressed={c.name === color.name} />
               ))}
             </div>
           </fieldset>

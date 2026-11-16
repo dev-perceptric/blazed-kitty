@@ -52,12 +52,16 @@ HEX = {
 }
 
 
-def hex_for(name):
+def known_hex(name):
     words = re.findall(r'[a-z]+', name.lower())
     for w in reversed(words):
         if w in HEX:
             return HEX[w]
-    return '#d9d2cc'
+    return None
+
+
+def hex_for(name):
+    return known_hex(name) or '#d9d2cc'
 
 
 def call(method, path, params=None, body=None):
@@ -214,7 +218,16 @@ def build(pick, n, cats):
         img = v.get('variantImage')
         if img and (img, color) not in done and len(colors) > 1:
             done.add((img, color))
-            photos.append({'src': upload(img, pid), 'color': color})
+            src = upload(img, pid)
+            photos.append({'src': src, 'color': color})
+            for c in colors:
+                if c['name'] == color and 'image' not in c:
+                    c['image'] = src
+    # Plain color dots only work when every option is a real color and no two look alike.
+    hexes = [known_hex(c['name']) for c in colors]
+    if all(hexes) and len(set(hexes)) == len(hexes):
+        for c in colors:
+            c.pop('image', None)
     for img in to_list(d.get('productImageSet')) or to_list(d.get('productImage')) or to_list(d.get('bigImage')):
         if img not in done:
             done.add(img)
@@ -233,7 +246,7 @@ def build(pick, n, cats):
         'colors': colors,
         'sizes': sizes,
         'blurb': pick.get('blurb', ''),
-        'details': pick.get('details') or ['Ships from our US warehouse' if from_cc == 'US' else 'Ships from our overseas warehouse'],
+        'details': (pick.get('details') or []) + ['Ships from our US warehouse' if from_cc == 'US' else 'Ships from our overseas warehouse'],
         'cj': {'pid': pid, 'from': from_cc, 'delivery': delivery, 'variants': cj_variants},
         'photos': photos,
     }
