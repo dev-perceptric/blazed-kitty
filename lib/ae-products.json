@@ -928171,5 +928171,404 @@
    ],
    "unisex": false
   }
+ },
+ {
+  "slug": "emo-fitted-pants-655881",
+  "code": "BK-AE2719",
+  "name": "Emo Fitted Pants",
+  "depts": [
+   "women"
+  ],
+  "line": "bottoms",
+  "category": "pants",
+  "design": "ae",
+  "drop": "drop7",
+  "price": 40.99,
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#151515"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "",
+  "details": [
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005011974655881",
+   "delivery": "10-17 days",
+   "variants": [
+    {
+     "color": "Black",
+     "size": "M",
+     "skuAttr": "5:361386;14:193",
+     "skuId": "12000057173687784",
+     "cost": 16.89
+    },
+    {
+     "color": "Black",
+     "size": "L",
+     "skuAttr": "5:361385;14:193",
+     "skuId": "12000057173687785",
+     "cost": 16.89
+    },
+    {
+     "color": "Black",
+     "size": "S",
+     "skuAttr": "5:100014064;14:193",
+     "skuId": "12000057173687783",
+     "cost": 16.89
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011974655881/e137a0123699.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "vintage-fitted-cami-205048",
+  "code": "BK-AE2720",
+  "name": "Vintage Fitted Cami",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "camis-tanks",
+  "design": "ae",
+  "drop": "drop7",
+  "price": 32.99,
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#151515"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "",
+  "details": [
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005012075205048",
+   "delivery": "10-17 days",
+   "variants": [
+    {
+     "color": "Black",
+     "size": "L",
+     "skuAttr": "5:361385;14:193",
+     "skuId": "12000057465546078",
+     "cost": 12.89
+    },
+    {
+     "color": "Black",
+     "size": "M",
+     "skuAttr": "5:361386;14:193",
+     "skuId": "12000057465546077",
+     "cost": 12.89
+    },
+    {
+     "color": "Black",
+     "size": "S",
+     "skuAttr": "5:100014064;14:193",
+     "skuId": "12000057465546076",
+     "cost": 12.89
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012075205048/0f98c06eaed5.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "fitted-crop-tee-800317",
+  "code": "BK-AE2721",
+  "name": "Fitted Crop Tee",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "crop-tees",
+  "design": "ae",
+  "drop": "drop7",
+  "price": 30.99,
+  "colors": [
+   {
+    "name": "Brown",
+    "hex": "#7a4e2d"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "",
+  "details": [
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005011902800317",
+   "delivery": "10-17 days",
+   "variants": [
+    {
+     "color": "Brown",
+     "size": "L",
+     "skuAttr": "5:361385;14:193#Brown",
+     "skuId": "12000056951271906",
+     "cost": 9.39
+    },
+    {
+     "color": "Brown",
+     "size": "M",
+     "skuAttr": "5:361386;14:193#Brown",
+     "skuId": "12000056951271905",
+     "cost": 9.39
+    },
+    {
+     "color": "Brown",
+     "size": "S",
+     "skuAttr": "5:100014064;14:193#Brown",
+     "skuId": "12000056951271904",
+     "cost": 9.39
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011902800317/a333f0e9ba55.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "vintage-fitted-halter-top-918455",
+  "code": "BK-AE2722",
+  "name": "Vintage Fitted Halter Top",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "halter-tube",
+  "design": "ae",
+  "drop": "drop7",
+  "price": 31.99,
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#151515"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "",
+  "details": [
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005011857918455",
+   "delivery": "10-17 days",
+   "variants": [
+    {
+     "color": "Black",
+     "size": "L",
+     "skuAttr": "5:361385;14:193",
+     "skuId": "12000056789549095",
+     "cost": 12.19
+    },
+    {
+     "color": "Black",
+     "size": "M",
+     "skuAttr": "5:361386;14:193",
+     "skuId": "12000056789549094",
+     "cost": 12.19
+    },
+    {
+     "color": "Black",
+     "size": "S",
+     "skuAttr": "5:100014064;14:193",
+     "skuId": "12000056789549093",
+     "cost": 12.19
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011857918455/30abdcd58543.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "stripe-vintage-cami-717882",
+  "code": "BK-AE2723",
+  "name": "Stripe Vintage Cami",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "camis-tanks",
+  "design": "ae",
+  "drop": "drop7",
+  "price": 34.99,
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "#151515"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "",
+  "details": [
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005008912717882",
+   "delivery": "10-17 days",
+   "variants": [
+    {
+     "color": "Black",
+     "size": "M",
+     "skuAttr": "5:361386;14:193",
+     "skuId": "12000047174068809",
+     "cost": 11.19
+    },
+    {
+     "color": "Black",
+     "size": "S",
+     "skuAttr": "5:100014064;14:193",
+     "skuId": "12000047174068808",
+     "cost": 11.19
+    },
+    {
+     "color": "Black",
+     "size": "L",
+     "skuAttr": "5:361385;14:193",
+     "skuId": "12000047174068810",
+     "cost": 11.19
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008912717882/eea6d416d0be.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "vintage-halter-top-631063",
+  "code": "BK-AE2724",
+  "name": "Vintage Halter Top",
+  "depts": [
+   "women"
+  ],
+  "line": "tops",
+  "category": "halter-tube",
+  "design": "ae",
+  "drop": "drop7",
+  "price": 34.99,
+  "colors": [
+   {
+    "name": "Blue",
+    "hex": "#2f5fb3"
+   },
+   {
+    "name": "Green",
+    "hex": "#3d8b4a"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L"
+  ],
+  "blurb": "",
+  "details": [
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005011838631063",
+   "delivery": "10-17 days",
+   "variants": [
+    {
+     "color": "Blue",
+     "size": "L",
+     "skuAttr": "5:361385;14:193#Blue",
+     "skuId": "12000056751026731",
+     "cost": 13.79
+    },
+    {
+     "color": "Blue",
+     "size": "M",
+     "skuAttr": "5:361386;14:193#Blue",
+     "skuId": "12000056751026730",
+     "cost": 13.79
+    },
+    {
+     "color": "Blue",
+     "size": "S",
+     "skuAttr": "5:100014064;14:193#Blue",
+     "skuId": "12000056751026729",
+     "cost": 13.79
+    },
+    {
+     "color": "Green",
+     "size": "S",
+     "skuAttr": "5:100014064;14:173#Green",
+     "skuId": "12000059056418008",
+     "cost": 9.99
+    },
+    {
+     "color": "Green",
+     "size": "M",
+     "skuAttr": "5:361386;14:173#Green",
+     "skuId": "12000059056418009",
+     "cost": 9.99
+    },
+    {
+     "color": "Green",
+     "size": "L",
+     "skuAttr": "5:361385;14:173#Green",
+     "skuId": "12000059056418010",
+     "cost": 9.99
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011838631063/1e9f4c12952d.jpg",
+    "color": "Blue"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011838631063/8214e7d94cd2.jpg",
+    "color": "Green"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011838631063/6d26eb38c62e.jpg",
+    "color": "*"
+   }
+  ]
  }
 ]
