@@ -54,9 +54,10 @@ def main():
     pick_by = {str(p['id']): p for p in picks}
 
     drop, repriced = set(), 0
+    keep_all = '--keep-all' in sys.argv  # reprice and rename only, remove nothing
     for p in prods[start:]:
         pid = p['ae']['productId']
-        if REAL_FUR.search(titles.get(pid, '')):
+        if REAL_FUR.search(titles.get(pid, '')) and not keep_all:
             drop.add(pid)
             continue
         costs = [v['cost'] for v in p['ae']['variants']]
@@ -74,7 +75,7 @@ def main():
                 if pid in pick_by:
                     pick_by[pid]['price'] = new
                 repriced += 1
-        if p['price'] > MAX_PRICE:
+        if p['price'] > MAX_PRICE and not keep_all:
             drop.add(pid)
 
     # Names: more title words first, then the first real color, then a short style number.

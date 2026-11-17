@@ -38,7 +38,7 @@ export const LINES: LineDef[] = [
   { id: 'tops', label: 'Tops', blurb: 'Baby tees, long sleeves and camis. Fitted, cropped and a little rude.', group: 'clothing' },
   { id: 'knits', label: 'Knits & Layers', blurb: 'Sweaters, cardigans and zip-ups for cold nights and loud music.', group: 'clothing' },
   { id: 'bottoms', label: 'Bottoms', blurb: 'Mini skirts, baggy jeans and everything low-rise.', group: 'clothing' },
-  { id: 'dresses', label: 'Dresses & Sets', blurb: 'One piece, whole look.', group: 'clothing' },
+  { id: 'dresses', label: 'Dresses & Sets', blurb: 'Dresses, matching sets and swim. One piece, whole look.', group: 'clothing' },
   { id: 'accessories', label: 'Accessories', blurb: 'Jewelry, legwear, bags and the little things that finish the fit.', group: 'accessories' },
 ];
 
@@ -74,6 +74,7 @@ export const CATEGORIES: CategoryDef[] = [
 
   { id: 'dresses', label: 'Dresses', line: 'dresses', depts: W },
   { id: 'sets', label: 'Matching Sets', line: 'dresses', depts: W },
+  { id: 'bikinis', label: 'Bikinis & Swim', line: 'dresses', depts: W },
 
   { id: 'jewelry', label: 'Jewelry', line: 'accessories', depts: W },
   { id: 'legwear', label: 'Socks & Legwear', line: 'accessories', depts: W },

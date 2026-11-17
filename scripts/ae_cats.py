@@ -20,6 +20,7 @@ RULES = [
     (r'\b(skirt|skort)$', 'skirts'),
     (r'\bshorts$', 'shorts'),
     (r'\b(pants|sweatpants|leggings|trousers|joggers|cargos)$', 'pants'),
+    (r'\b(bikini|swimsuit|swimwear|monokini)$|\bbikini set$', 'bikinis'),
     (r'\b(dress|gown)$', 'dresses'),
     (r'\b(set|jumpsuit|romper|playsuit)$', 'sets'),
     (r'\b(sweater|jumper|pullover)$', 'sweaters'),
@@ -39,7 +40,7 @@ RULES = [
 FALLBACK = {
     'baby-tees': 'baby-tees', 'crop-tees': 'crop-tees', 'tees': 'oversized-tees', 'long-sleeves': 'long-sleeves', 'tanks': 'camis-tanks',
     'hoodies': 'hoodies', 'sweatpants': 'pants', 'shorts': 'shorts', 'pajamas': 'sets', 'dresses': 'dresses', 'skirts': 'skirts',
-    'pants': 'pants', 'lingerie': 'corsets-bodysuits', 'jewelry': 'jewelry', 'accessories': 'belts', 'shoes': 'shoes', 'socks': 'legwear',
+    'bikinis': 'bikinis', 'pants': 'pants', 'lingerie': 'corsets-bodysuits', 'jewelry': 'jewelry', 'accessories': 'belts', 'shoes': 'shoes', 'socks': 'legwear',
     'bags': 'bags', 'tech': 'extras', 'glassware': 'extras', 'rolling-mats': 'extras', 'stickers': 'extras',
 }
 

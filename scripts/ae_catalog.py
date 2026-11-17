@@ -17,6 +17,7 @@ import sys
 import time
 import urllib.error
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from cj_catalog import categories, clean_name, hex_for, known_hex, slug, upload  # noqa: E402
@@ -170,20 +171,29 @@ def build(pick, n, cats):
     mult = MARKUP if max_cost < 12 else min(MARKUP, 2.0) if max_cost < 25 else min(MARKUP, 1.8)
     price = pick.get('price') or (math.ceil(max_cost * mult + ship) - 0.01)
 
-    photos = []
+    # Copy photos to R2 in parallel: one product can have 8+ photos and each copy is a download plus an upload.
+    color_srcs = {}
     for c in colors:
         img = color_img.get(c['name']) or next((color_img[x] for x in c['name'].split(' / ') if x in color_img), None)
         if img and len(colors) > 1:
-            src = upload(img, f'ae-{pid}')
+            color_srcs[c['name']] = img
+    images = [u for u in str((res.get('ae_multimedia_info_dto') or {}).get('image_urls') or '').split(';') if u]
+    extra = images[:max(0, MAX_PHOTOS - len(color_srcs))] or images[:3]
+    todo = list(dict.fromkeys(list(color_srcs.values()) + extra))
+    with ThreadPoolExecutor(8) as ex:
+        uploaded = dict(zip(todo, ex.map(lambda u: upload(u, f'ae-{pid}'), todo)))
+    photos = []
+    for c in colors:
+        if c['name'] in color_srcs:
+            src = uploaded[color_srcs[c['name']]]
             photos.append({'src': src, 'color': c['name']})
             c['image'] = src
     hexes = [known_hex(c['name']) for c in colors]
     if all(hexes) and len(set(hexes)) == len(hexes):
         for c in colors:
             c.pop('image', None)
-    images = [u for u in str((res.get('ae_multimedia_info_dto') or {}).get('image_urls') or '').split(';') if u]
-    for img in images[:max(0, MAX_PHOTOS - len(photos))] or images[:3]:
-        photos.append({'src': upload(img, f'ae-{pid}'), 'color': '*'})
+    for img in extra:
+        photos.append({'src': uploaded[img], 'color': '*'})
 
     margin = price - max_cost - ship
     print(f'  {n}. {name}: {len(variants)} variants, ${price:.2f} retail, ${max_cost:.2f} cost, ${ship:.2f} ship, ~${margin:.2f} profit, '

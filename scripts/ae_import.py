@@ -28,6 +28,9 @@ SKIP = re.compile(
     r"invader zim|care bears|my little pony|garfield|snoopy|peanuts|sonic|mario|zelda|kirby|squishmallow|labubu|king von|trippie|curious george|attack on titan)",
     re.I)
 
+KIDS = re.compile(r"\b(kid|kids|child|children|toddler|infant|newborn|baby (girl|boy)|boys|girls'|maternity|pregnan|pet|dog clothes|doll)\b", re.I)
+KEEP_ALL = '--keep-all' in sys.argv
+
 # (category, product word) by title keywords, first match wins.
 TYPES = [
     (r'\b(necklace|earrings?|rings?|bracelet|choker|pendant|jewelry|piercing|anklet|body chain)\b', 'jewelry', 'Jewelry'),
@@ -125,7 +128,8 @@ def main():
         pid, title = str(it['id']), it.get('title') or ''
         if pid in have:
             continue
-        if SKIP.search(title):
+        # --keep-all: only skip kids' items; keep character, meme and brand prints.
+        if (KIDS.search(title) if KEEP_ALL else SKIP.search(title)):
             skipped += 1
             continue
         cat, word = classify(title)
