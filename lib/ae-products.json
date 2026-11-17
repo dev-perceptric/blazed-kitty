@@ -824356,9 +824356,9 @@
   ]
  },
  {
-  "slug": "baby-tee-056824",
+  "slug": "brazil-manga-print-harajuku-baby-tee-056824",
   "code": "BK-AE2455",
-  "name": "Baby Tee",
+  "name": "Brazil Manga Print Harajuku Baby Tee",
   "depts": [
    "women"
   ],
@@ -825117,12 +825117,15 @@
   ],
   "tags": [
    "anime"
+  ],
+  "oldSlugs": [
+   "baby-tee-056824"
   ]
  },
  {
-  "slug": "crop-tee-361564",
+  "slug": "michael-jackson-brazil-olodum-peace-y2k-crop-top-361564",
   "code": "BK-AE2456",
-  "name": "Crop Tee",
+  "name": "Michael Jackson Brazil Olodum Peace Y2K Crop Top",
   "depts": [
    "women"
   ],
@@ -825214,12 +825217,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012221361564/9cb13f0749ba.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "crop-tee-361564"
   ]
  },
  {
-  "slug": "corset-graphic-cami-543029",
+  "slug": "yellow-brasil-graphic-grunge-corset-tank-top-543029",
   "code": "BK-AE2457",
-  "name": "Corset Graphic Cami",
+  "name": "Yellow Brasil Graphic Grunge Corset Tank Top",
   "depts": [
    "women"
   ],
@@ -825295,12 +825301,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005800543029/21d2d1e7e1ce.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "corset-graphic-cami-543029"
   ]
  },
  {
-  "slug": "slogan-goth-cami-837867",
+  "slug": "brasil-letter-print-harajuku-cropped-strap-cami-837867",
   "code": "BK-AE2458",
-  "name": "Slogan Goth Cami",
+  "name": "Brasil Letter Print Harajuku Cropped Strap Cami",
   "depts": [
    "women"
   ],
@@ -825364,12 +825373,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006112837867/ef5db1ca9af8.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-goth-cami-837867"
   ]
  },
  {
-  "slug": "corset-goth-cami-689066",
+  "slug": "brazil-print-grunge-corset-crop-tank-top-689066",
   "code": "BK-AE2459",
-  "name": "Corset Goth Cami",
+  "name": "Brazil Print Grunge Corset Crop Tank Top",
   "depts": [
    "women"
   ],
@@ -825506,18 +825518,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006249689066/fe62ebf8b276.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "corset-goth-cami-689066"
   ]
  },
  {
-  "slug": "ruched-shorts-907917",
+  "slug": "brazil-flag-green-yellow-ruched-y2k-halter-bikini-set-907917",
   "code": "BK-AE2460",
-  "name": "Ruched Shorts",
+  "name": "Brazil Flag Green Yellow Ruched Y2K Halter Bikini Set",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
-  "line": "bottoms",
-  "category": "shorts",
+  "line": "dresses",
+  "category": "bikinis",
   "design": "ae",
   "drop": "drop7",
   "price": 36.99,
@@ -825596,18 +825610,21 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012505907917/5d50bac23bb8.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "ruched-shorts-907917"
   ]
  },
  {
-  "slug": "jacket-6-469553",
+  "slug": "brasil-flag-football-y2k-zip-up-jacket-469553",
   "code": "BK-AE2461",
-  "name": "Jacket 6",
+  "name": "Brasil Flag Football Y2K Zip Up Jacket",
   "depts": [
    "women",
    "men"
   ],
   "line": "knits",
-  "category": "hoodies",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 38.99,
@@ -825682,12 +825699,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012310469553/56c86547df0d.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "jacket-6-469553"
   ]
  },
  {
-  "slug": "slogan-knit-crop-tee-796073",
+  "slug": "green-brazil-letters-knit-harajuku-fitted-crop-top-796073",
   "code": "BK-AE2462",
-  "name": "Slogan Knit Crop Tee",
+  "name": "Green Brazil Letters Knit Harajuku Fitted Crop Top",
   "depts": [
    "women"
   ],
@@ -825763,12 +825783,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011567796073/8b6c382f8208.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-knit-crop-tee-796073"
   ]
  },
  {
-  "slug": "lace-vintage-bikini-079205",
+  "slug": "brazilian-colorway-layered-y2k-halter-lace-up-bikini-079205",
   "code": "BK-AE2463",
-  "name": "Lace Vintage Bikini",
+  "name": "Brazilian Colorway Layered Y2K Halter Lace Up Bikini",
   "depts": [
    "women"
   ],
@@ -825836,12 +825859,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012433079205/0b11b87d726c.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-vintage-bikini-079205"
   ]
  },
  {
-  "slug": "punk-jacket-073425",
+  "slug": "brazil-embroidery-punk-hooded-zip-up-jacket-073425",
   "code": "BK-AE2464",
-  "name": "Punk Jacket",
+  "name": "Brazil Embroidery Punk Hooded Zip Up Jacket",
   "depts": [
    "women",
    "men"
@@ -825918,12 +825944,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007937073425/e51edbe8f823.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "punk-jacket-073425"
   ]
  },
  {
-  "slug": "crop-tee-2-318964",
+  "slug": "brazil-alphabet-print-harajuku-cropped-baby-tee-318964",
   "code": "BK-AE2465",
-  "name": "Crop Tee 2",
+  "name": "Brazil Alphabet Print Harajuku Cropped Baby Tee",
   "depts": [
    "women"
   ],
@@ -826032,12 +826061,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006067318964/22070e81cc66.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "crop-tee-2-318964"
   ]
  },
  {
-  "slug": "slogan-fitted-crop-tee-054371",
+  "slug": "green-brazil-letters-y2k-slim-baby-crop-top-054371",
   "code": "BK-AE2466",
-  "name": "Slogan Fitted Crop Tee",
+  "name": "Green Brazil Letters Y2K Slim Baby Crop Top",
   "depts": [
    "women"
   ],
@@ -826121,17 +826153,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006961054371/087e3fe89d63.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-fitted-crop-tee-054371"
   ]
  },
  {
-  "slug": "fairy-corset-set-743933",
+  "slug": "bandage-corset-fairy-grunge-long-sleeve-dress-743933",
   "code": "BK-AE2467",
-  "name": "Fairy Corset Set",
+  "name": "Bandage Corset Fairy Grunge Long Sleeve Dress",
   "depts": [
    "women"
   ],
   "line": "dresses",
-  "category": "sets",
+  "category": "dresses",
   "design": "ae",
   "drop": "drop7",
   "price": 69.99,
@@ -826202,12 +826237,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013584743933/98993d494f43.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fairy-corset-set-743933"
   ]
  },
  {
-  "slug": "star-slogan-crop-tee-466003",
+  "slug": "five-star-brazil-emo-letter-print-crop-top-466003",
   "code": "BK-AE2468",
-  "name": "Star Slogan Crop Tee",
+  "name": "Five Star Brazil Emo Letter Print Crop Top",
   "depts": [
    "women"
   ],
@@ -826772,12 +826810,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006039466003/2edecf997fdb.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "star-slogan-crop-tee-466003"
   ]
  },
  {
-  "slug": "corset-punk-cami-568881",
+  "slug": "brazil-print-corset-punk-spaghetti-strap-cami-568881",
   "code": "BK-AE2469",
-  "name": "Corset Punk Cami",
+  "name": "Brazil Print Corset Punk Spaghetti Strap Cami",
   "depts": [
    "women"
   ],
@@ -826853,12 +826894,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006860568881/c7687556575b.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "corset-punk-cami-568881"
   ]
  },
  {
-  "slug": "graphic-baby-tee-529730",
+  "slug": "brazil-flag-graphic-harajuku-baby-tee-529730",
   "code": "BK-AE2470",
-  "name": "Graphic Baby Tee",
+  "name": "Brazil Flag Graphic Harajuku Baby Tee",
   "depts": [
    "women"
   ],
@@ -827202,12 +827246,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006170529730/1df0f97a21c9.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "graphic-baby-tee-529730"
   ]
  },
  {
-  "slug": "goth-vintage-cami-215916",
+  "slug": "brasil-print-vintage-goth-cropped-cami-215916",
   "code": "BK-AE2471",
-  "name": "Goth Vintage Cami",
+  "name": "Brasil Print Vintage Goth Cropped Cami",
   "depts": [
    "women"
   ],
@@ -827287,18 +827334,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007506215916/73f135ab215f.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-vintage-cami-215916"
   ]
  },
  {
-  "slug": "slogan-shorts-338303",
+  "slug": "brazil-letter-y2k-crop-tee-and-shorts-set-338303",
   "code": "BK-AE2472",
-  "name": "Slogan Shorts",
+  "name": "Brazil Letter Y2K Crop Tee and Shorts Set",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
-  "line": "bottoms",
-  "category": "shorts",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 19.99,
@@ -827369,18 +827418,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006710338303/183a881f9cd9.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-shorts-338303"
   ]
  },
  {
-  "slug": "backless-slogan-shorts-970369",
+  "slug": "brasil-letter-cami-y2k-backless-shorts-set-970369",
   "code": "BK-AE2473",
-  "name": "Backless Slogan Shorts",
+  "name": "Brasil Letter Cami Y2K Backless Shorts Set",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
-  "line": "bottoms",
-  "category": "shorts",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 31.99,
@@ -827451,12 +827502,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006797970369/cfc140ef5a13.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "backless-slogan-shorts-970369"
   ]
  },
  {
-  "slug": "lace-floral-belt-774545",
+  "slug": "lace-flower-coquette-triangle-scarf-774545",
   "code": "BK-AE2474",
-  "name": "Lace Floral Belt",
+  "name": "Lace Flower Coquette Triangle Scarf",
   "depts": [
    "women"
   ],
@@ -827561,12 +827615,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012642774545/6adfa2513c5f.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-floral-belt-774545"
   ]
  },
  {
-  "slug": "slogan-crop-tee-826561",
+  "slug": "brasil-letter-print-harajuku-short-sleeve-crop-top-826561",
   "code": "BK-AE2475",
-  "name": "Slogan Crop Tee",
+  "name": "Brasil Letter Print Harajuku Short Sleeve Crop Top",
   "depts": [
    "women"
   ],
@@ -827686,12 +827743,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006223826561/cbe83d7cf5be.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-crop-tee-826561"
   ]
  },
  {
-  "slug": "punk-grunge-crop-tee-836509",
+  "slug": "brazil-print-punk-slim-short-sleeve-crop-tee-836509",
   "code": "BK-AE2476",
-  "name": "Punk Grunge Crop Tee",
+  "name": "Brazil Print Punk Slim Short Sleeve Crop Tee",
   "depts": [
    "women"
   ],
@@ -827767,12 +827827,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006702836509/fb6d1a733be6.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "punk-grunge-crop-tee-836509"
   ]
  },
  {
-  "slug": "graphic-goth-crop-tee-232894",
+  "slug": "brazil-graphic-print-goth-slim-crop-tee-232894",
   "code": "BK-AE2477",
-  "name": "Graphic Goth Crop Tee",
+  "name": "Brazil Graphic Print Goth Slim Crop Tee",
   "depts": [
    "women"
   ],
@@ -827881,12 +827944,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005767232894/12fc4c002d7a.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "graphic-goth-crop-tee-232894"
   ]
  },
  {
-  "slug": "backless-slogan-dress-355470",
+  "slug": "brazil-letter-print-y2k-backless-mini-dress-355470",
   "code": "BK-AE2478",
-  "name": "Backless Slogan Dress",
+  "name": "Brazil Letter Print Y2K Backless Mini Dress",
   "depts": [
    "women"
   ],
@@ -827970,12 +828036,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006135355470/bf8948055394.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "backless-slogan-dress-355470"
   ]
  },
  {
-  "slug": "backless-goth-cami-578407",
+  "slug": "yellow-brazil-style-emo-backless-sling-cami-578407",
   "code": "BK-AE2479",
-  "name": "Backless Goth Cami",
+  "name": "Yellow Brazil Style Emo Backless Sling Cami",
   "depts": [
    "women"
   ],
@@ -828464,12 +828533,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006085578407/0c37048a8a1d.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "backless-goth-cami-578407"
   ]
  },
  {
-  "slug": "graphic-crop-tee-537659",
+  "slug": "retro-brazil-graphics-harajuku-o-neck-crop-tee-537659",
   "code": "BK-AE2480",
-  "name": "Graphic Crop Tee",
+  "name": "Retro Brazil Graphics Harajuku O Neck Crop Tee",
   "depts": [
    "women"
   ],
@@ -828553,12 +828625,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006056537659/a7bd09542312.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "graphic-crop-tee-537659"
   ]
  },
  {
-  "slug": "punk-sexy-pants-934837",
+  "slug": "black-pu-leather-stacked-punk-low-waist-pants-934837",
   "code": "BK-AE2481",
-  "name": "Punk Sexy Pants",
+  "name": "Black PU Leather Stacked Punk Low Waist Pants",
   "depts": [
    "women",
    "men"
@@ -828655,12 +828730,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013296934837/899aa19a8fef.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "punk-sexy-pants-934837"
   ]
  },
  {
-  "slug": "fairy-slogan-crop-tee-337541",
+  "slug": "brazil-letter-print-fairy-grunge-crop-top-337541",
   "code": "BK-AE2482",
-  "name": "Fairy Slogan Crop Tee",
+  "name": "Brazil Letter Print Fairy Grunge Crop Top",
   "depts": [
    "women"
   ],
@@ -828728,12 +828806,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005984337541/66ee39d091b9.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fairy-slogan-crop-tee-337541"
   ]
  },
  {
-  "slug": "rhinestone-graphic-crop-tee-374135",
+  "slug": "rhinestone-brasil-graphic-y2k-o-neck-crop-top-374135",
   "code": "BK-AE2483",
-  "name": "Rhinestone Graphic Crop Tee",
+  "name": "Rhinestone Brasil Graphic Y2K O Neck Crop Top",
   "depts": [
    "women"
   ],
@@ -828801,17 +828882,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005879374135/cea69e37552b.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "rhinestone-graphic-crop-tee-374135"
   ]
  },
  {
-  "slug": "lace-ruched-cardigan-912772",
+  "slug": "lace-up-ruffle-strapless-coquette-three-piece-set-912772",
   "code": "BK-AE2484",
-  "name": "Lace Ruched Cardigan",
+  "name": "Lace Up Ruffle Strapless Coquette Three Piece Set",
   "depts": [
    "women"
   ],
-  "line": "knits",
-  "category": "cardigans",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 61.99,
@@ -828890,18 +828974,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008493912772/c50cc84720cf.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-ruched-cardigan-912772"
   ]
  },
  {
-  "slug": "slogan-grunge-shorts-295678",
-  "code": "BK-AE2486",
-  "name": "Slogan Grunge Shorts",
+  "slug": "brasil-letter-print-grunge-baby-tee-shorts-set-295678",
+  "code": "BK-AE2485",
+  "name": "Brasil Letter Print Grunge Baby Tee Shorts Set",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
-  "line": "bottoms",
-  "category": "shorts",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -828964,14 +829050,18 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005862295678/7d9e90e7cbe6.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-grunge-shorts-295678"
   ]
  },
  {
-  "slug": "graphic-kawaii-hoodie-357477",
-  "code": "BK-AE2487",
-  "name": "Graphic Kawaii Hoodie",
+  "slug": "cute-brazil-graphic-harajuku-hoodie-357477",
+  "code": "BK-AE2486",
+  "name": "Cute Brazil Graphic Harajuku Hoodie",
   "depts": [
-   "women"
+   "women",
+   "men"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -829230,12 +829320,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012964357477/f497883fca75.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "graphic-kawaii-hoodie-357477"
   ]
  },
  {
-  "slug": "stripe-grunge-pants-660219",
-  "code": "BK-AE2488",
-  "name": "Stripe Grunge Pants",
+  "slug": "contrast-stripe-knit-grunge-wide-leg-pants-660219",
+  "code": "BK-AE2487",
+  "name": "Contrast Stripe Knit Grunge Wide Leg Pants",
   "depts": [
    "women",
    "men"
@@ -829360,12 +829453,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009539660219/8d15376de2bc.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "stripe-grunge-pants-660219"
   ]
  },
  {
-  "slug": "star-goth-crop-tee-529402",
-  "code": "BK-AE2489",
-  "name": "Star Goth Crop Tee",
+  "slug": "five-star-brazilian-print-goth-crop-tee-529402",
+  "code": "BK-AE2488",
+  "name": "Five Star Brazilian Print Goth Crop Tee",
   "depts": [
    "women"
   ],
@@ -829504,12 +829600,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006296529402/eab1d90e373a.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "star-goth-crop-tee-529402"
   ]
  },
  {
-  "slug": "goth-crop-tee-424756",
-  "code": "BK-AE2490",
-  "name": "Goth Crop Tee",
+  "slug": "brazil-cutecore-manga-goth-crop-top-424756",
+  "code": "BK-AE2489",
+  "name": "Brazil Cutecore Manga Goth Crop Top",
   "depts": [
    "women"
   ],
@@ -829809,12 +829908,15 @@
   ],
   "tags": [
    "anime"
+  ],
+  "oldSlugs": [
+   "goth-crop-tee-424756"
   ]
  },
  {
-  "slug": "baby-tee-2-279530",
-  "code": "BK-AE2491",
-  "name": "Baby Tee 2",
+  "slug": "psychedelic-brazil-scene-emo-baby-tee-279530",
+  "code": "BK-AE2490",
+  "name": "Psychedelic Brazil Scene Emo Baby Tee",
   "depts": [
    "women"
   ],
@@ -830114,12 +830216,15 @@
   ],
   "tags": [
    "anime"
+  ],
+  "oldSlugs": [
+   "baby-tee-2-279530"
   ]
  },
  {
-  "slug": "kawaii-emo-baby-tee-780243",
-  "code": "BK-AE2492",
-  "name": "Kawaii Emo Baby Tee",
+  "slug": "brazil-anime-print-cute-emo-baby-tee-780243",
+  "code": "BK-AE2491",
+  "name": "Brazil Anime Print Cute Emo Baby Tee",
   "depts": [
    "women"
   ],
@@ -830419,12 +830524,15 @@
   ],
   "tags": [
    "anime"
+  ],
+  "oldSlugs": [
+   "kawaii-emo-baby-tee-780243"
   ]
  },
  {
-  "slug": "goth-baby-tee-027453",
-  "code": "BK-AE2493",
-  "name": "Goth Baby Tee",
+  "slug": "brazil-dollette-gyaru-goth-baby-tee-027453",
+  "code": "BK-AE2492",
+  "name": "Brazil Dollette Gyaru Goth Baby Tee",
   "depts": [
    "women"
   ],
@@ -830721,18 +830829,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013311027453/1c2abd6bf3eb.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-baby-tee-027453"
   ]
  },
  {
-  "slug": "jacket-7-805754",
-  "code": "BK-AE2495",
-  "name": "Jacket 7",
+  "slug": "black-pu-leather-punk-cropped-zip-up-jacket-805754",
+  "code": "BK-AE2493",
+  "name": "Black PU Leather Punk Cropped Zip Up Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
-  "category": "hoodies",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 95.99,
@@ -830823,12 +830933,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008702805754/63b0a86584e3.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "jacket-7-805754"
   ]
  },
  {
-  "slug": "kawaii-vintage-baby-tee-546377",
-  "code": "BK-AE2496",
-  "name": "Kawaii Vintage Baby Tee",
+  "slug": "brazil-meme-cutecore-vintage-y2k-baby-tee-546377",
+  "code": "BK-AE2494",
+  "name": "Brazil Meme Cutecore Vintage Y2K Baby Tee",
   "depts": [
    "women"
   ],
@@ -831128,12 +831241,15 @@
   ],
   "tags": [
    "anime"
+  ],
+  "oldSlugs": [
+   "kawaii-vintage-baby-tee-546377"
   ]
  },
  {
-  "slug": "goth-kawaii-crop-tee-372247",
-  "code": "BK-AE2497",
-  "name": "Goth Kawaii Crop Tee",
+  "slug": "brazil-baddie-scene-goth-crop-top-372247",
+  "code": "BK-AE2495",
+  "name": "Brazil Baddie Scene Goth Crop Top",
   "depts": [
    "women"
   ],
@@ -831277,12 +831393,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012849372247/43d97d8b5e14.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-kawaii-crop-tee-372247"
   ]
  },
  {
-  "slug": "heart-graphic-crop-tee-733878",
-  "code": "BK-AE2498",
-  "name": "Heart Graphic Crop Tee",
+  "slug": "brazilian-flag-heart-graphic-punk-crop-top-733878",
+  "code": "BK-AE2496",
+  "name": "Brazilian Flag Heart Graphic Punk Crop Top",
   "depts": [
    "women"
   ],
@@ -832379,18 +832498,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007442733878/274099e3291b.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "heart-graphic-crop-tee-733878"
   ]
  },
  {
-  "slug": "jacket-8-507622",
-  "code": "BK-AE2499",
-  "name": "Jacket 8",
+  "slug": "black-denim-hussar-double-breasted-y2k-cropped-jacket-507622",
+  "code": "BK-AE2497",
+  "name": "Black Denim Hussar Double Breasted Y2K Cropped Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
-  "category": "hoodies",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 75.99,
@@ -832477,12 +832598,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011997507622/38125633ff3e.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "jacket-8-507622"
   ]
  },
  {
-  "slug": "long-sleeve-tee-460789",
-  "code": "BK-AE2500",
-  "name": "Long Sleeve Tee",
+  "slug": "yellow-brazil-embroidery-y2k-oversized-long-sleeve-tee-460789",
+  "code": "BK-AE2498",
+  "name": "Yellow Brazil Embroidery Y2K Oversized Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -832562,12 +832686,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009268460789/5feed15dbbe6.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "long-sleeve-tee-460789"
   ]
  },
  {
-  "slug": "baby-tee-3-857870",
-  "code": "BK-AE2501",
-  "name": "Baby Tee 3",
+  "slug": "soft-cotton-brazil-print-y2k-baby-tee-857870",
+  "code": "BK-AE2499",
+  "name": "Soft Cotton Brazil Print Y2K Baby Tee",
   "depts": [
    "women"
   ],
@@ -833122,12 +833249,15 @@
   ],
   "tags": [
    "anime"
+  ],
+  "oldSlugs": [
+   "baby-tee-3-857870"
   ]
  },
  {
-  "slug": "jacket-9-951064",
-  "code": "BK-AE2502",
-  "name": "Jacket 9",
+  "slug": "3d-print-brazil-country-culture-harajuku-hoodie-951064",
+  "code": "BK-AE2500",
+  "name": "3D Print Brazil Country Culture Harajuku Hoodie",
   "depts": [
    "women",
    "men"
@@ -833411,17 +833541,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009850951064/02547f351f2f.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "jacket-9-951064"
   ]
  },
  {
-  "slug": "lace-bow-long-sleeve-tee-555064",
-  "code": "BK-AE2503",
-  "name": "Lace Bow Long Sleeve Tee",
+  "slug": "lace-bow-harajuku-slim-long-sleeve-blouse-555064",
+  "code": "BK-AE2501",
+  "name": "Lace Bow Harajuku Slim Long Sleeve Blouse",
   "depts": [
    "women"
   ],
   "line": "tops",
-  "category": "long-sleeves",
+  "category": "blouses",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -833522,20 +833655,12 @@
   },
   "photos": [
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013333555064/c574c646fadf.jpg",
-    "color": "Style1"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013333555064/5f208d4f36b0.jpg",
     "color": "Style2"
    },
    {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013333555064/9afe46485f94.jpg",
     "color": "Style3"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013333555064/c574c646fadf.jpg",
-    "color": "*"
    },
    {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013333555064/9afe46485f94.jpg",
@@ -833545,17 +833670,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013333555064/5f208d4f36b0.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-bow-long-sleeve-tee-555064"
   ]
  },
  {
-  "slug": "goth-baby-tee-2-304593",
-  "code": "BK-AE2504",
-  "name": "Goth Baby Tee 2",
+  "slug": "paisley-bandana-brazil-print-goth-lapel-shirt-304593",
+  "code": "BK-AE2502",
+  "name": "Paisley Bandana Brazil Print Goth Lapel Shirt",
   "depts": [
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "blouses",
   "design": "ae",
   "drop": "drop7",
   "price": 33.99,
@@ -833728,12 +833856,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008604304593/384ac21e1d87.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-baby-tee-2-304593"
   ]
  },
  {
-  "slug": "baby-tee-4-727111",
-  "code": "BK-AE2505",
-  "name": "Baby Tee 4",
+  "slug": "brazil-manga-girl-y2k-summer-baby-tee-727111",
+  "code": "BK-AE2503",
+  "name": "Brazil Manga Girl Y2K Summer Baby Tee",
   "depts": [
    "women"
   ],
@@ -834492,12 +834623,15 @@
   ],
   "tags": [
    "anime"
+  ],
+  "oldSlugs": [
+   "baby-tee-4-727111"
   ]
  },
  {
-  "slug": "goth-punk-jacket-057103",
-  "code": "BK-AE2506",
-  "name": "Goth Punk Jacket",
+  "slug": "airplane-buckle-napoleon-punk-zip-up-jacket-057103",
+  "code": "BK-AE2504",
+  "name": "Airplane Buckle Napoleon Punk Zip Up Jacket",
   "depts": [
    "women",
    "men"
@@ -834789,15 +834923,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012769057103/9043e304f0b0.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-jacket-057103"
   ]
  },
  {
-  "slug": "fur-stripe-jacket-729082",
-  "code": "BK-AE2507",
-  "name": "Fur Stripe Jacket",
+  "slug": "faux-fur-collar-stripe-emo-zip-up-coat-729082",
+  "code": "BK-AE2505",
+  "name": "Faux Fur Collar Stripe Emo Zip Up Coat",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -834863,12 +834999,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010389729082/4cea38d989b6.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-stripe-jacket-729082"
   ]
  },
  {
-  "slug": "fur-slogan-cardigan-864567",
-  "code": "BK-AE2508",
-  "name": "Fur Slogan Cardigan",
+  "slug": "suede-fur-collar-letter-print-goth-cardigan-864567",
+  "code": "BK-AE2506",
+  "name": "Suede Fur Collar Letter Print Goth Cardigan",
   "depts": [
    "women"
   ],
@@ -835004,10 +835143,6 @@
     "color": "Black2"
    },
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010051864567/f8322defb5ed.jpg",
-    "color": "Black7"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010051864567/201d6b6266a0.jpg",
     "color": "Black1"
    },
@@ -835019,12 +835154,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010051864567/7a2402df3291.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-slogan-cardigan-864567"
   ]
  },
  {
-  "slug": "stripe-goth-gloves-070332",
-  "code": "BK-AE2509",
-  "name": "Stripe Goth Gloves",
+  "slug": "black-stripe-thigh-high-socks-goth-arm-gloves-070332",
+  "code": "BK-AE2507",
+  "name": "Black Stripe Thigh High Socks Goth Arm Gloves",
   "depts": [
    "women"
   ],
@@ -835237,12 +835375,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005949070332/7081ed1cee0b.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "stripe-goth-gloves-070332"
   ]
  },
  {
-  "slug": "goth-punk-zip-hoodie-370762",
-  "code": "BK-AE2510",
-  "name": "Goth Punk Zip Hoodie",
+  "slug": "2000s-vintage-winter-punk-zip-hoodie-370762",
+  "code": "BK-AE2508",
+  "name": "2000s Vintage Winter Punk Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -835367,15 +835508,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008233370762/cb6f279d08b0.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-zip-hoodie-370762"
   ]
  },
  {
-  "slug": "goth-punk-hoodie-870553",
-  "code": "BK-AE2511",
-  "name": "Goth Punk Hoodie",
+  "slug": "solid-color-slim-grunge-cropped-hoodie-870553",
+  "code": "BK-AE2509",
+  "name": "Solid Color Slim Grunge Cropped Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -835505,14 +835648,6 @@
   },
   "photos": [
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010051870553/f8322defb5ed.jpg",
-    "color": "Black1"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010051870553/2fc758d6726b.jpg",
-    "color": "Grey"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010051870553/201d6b6266a0.jpg",
     "color": "Black5"
    },
@@ -835524,12 +835659,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010051870553/07cb8a251839.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-hoodie-870553"
   ]
  },
  {
-  "slug": "floral-graphic-zip-hoodie-640553",
-  "code": "BK-AE2512",
-  "name": "Floral Graphic Zip Hoodie",
+  "slug": "flower-graphic-punk-hot-girl-zip-hoodie-640553",
+  "code": "BK-AE2510",
+  "name": "Flower Graphic Punk Hot Girl Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -835635,15 +835773,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007717640553/166778d8e767.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "floral-graphic-zip-hoodie-640553"
   ]
  },
  {
-  "slug": "jeans-053809",
-  "code": "BK-AE2513",
-  "name": "Jeans",
+  "slug": "embroidered-patch-washed-blue-y2k-low-rise-jeans-053809",
+  "code": "BK-AE2511",
+  "name": "Embroidered Patch Washed Blue Y2K Low Rise Jeans",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "bottoms",
   "category": "jeans",
@@ -835733,15 +835873,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012500053809/25930a21d62b.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "jeans-053809"
   ]
  },
  {
-  "slug": "goth-punk-vintage-zip-hoodie-665283",
-  "code": "BK-AE2514",
-  "name": "Goth Punk Vintage Zip Hoodie",
+  "slug": "dark-grey-embroidery-goth-slim-zip-hoodie-665283",
+  "code": "BK-AE2512",
+  "name": "Dark Grey Embroidery Goth Slim Zip Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -835795,12 +835937,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008224665283/13aefad378a5.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-vintage-zip-hoodie-665283"
   ]
  },
  {
-  "slug": "fur-goth-cardigan-957278",
-  "code": "BK-AE2515",
-  "name": "Fur Goth Cardigan",
+  "slug": "fur-collar-slim-goth-hooded-cardigan-957278",
+  "code": "BK-AE2513",
+  "name": "Fur Collar Slim Goth Hooded Cardigan",
   "depts": [
    "women"
   ],
@@ -835981,12 +836126,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009511957278/31cff037bd26.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-goth-cardigan-957278"
   ]
  },
  {
-  "slug": "vintage-jacket-4-404960",
-  "code": "BK-AE2516",
-  "name": "Vintage Jacket 4",
+  "slug": "anime-print-fox-fur-collar-harajuku-hoodie-404960",
+  "code": "BK-AE2514",
+  "name": "Anime Print Fox Fur Collar Harajuku Hoodie",
   "depts": [
    "women",
    "men"
@@ -836062,12 +836210,15 @@
   ],
   "tags": [
    "anime"
+  ],
+  "oldSlugs": [
+   "vintage-jacket-4-404960"
   ]
  },
  {
-  "slug": "lace-sexy-socks-141216",
-  "code": "BK-AE2517",
-  "name": "Lace Sexy Socks",
+  "slug": "solid-lace-over-knee-coquette-socks-141216",
+  "code": "BK-AE2515",
+  "name": "Solid Lace Over Knee Coquette Socks",
   "depts": [
    "women"
   ],
@@ -836146,12 +836297,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008258141216/04648497be98.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-sexy-socks-141216"
   ]
  },
  {
-  "slug": "goth-punk-jacket-2-531658",
-  "code": "BK-AE2518",
-  "name": "Goth Punk Jacket 2",
+  "slug": "graphic-print-punk-hooded-winter-zip-hoodie-531658",
+  "code": "BK-AE2516",
+  "name": "Graphic Print Punk Hooded Winter Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -836236,15 +836390,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010255531658/0aae6aad3861.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-jacket-2-531658"
   ]
  },
  {
-  "slug": "stripe-goth-jacket-757273",
-  "code": "BK-AE2519",
-  "name": "Stripe Goth Jacket",
+  "slug": "black-white-stripe-goth-cropped-zip-up-jacket-757273",
+  "code": "BK-AE2517",
+  "name": "Black White Stripe Goth Cropped Zip Up Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -836306,15 +836462,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012839757273/c930c538cf78.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "stripe-goth-jacket-757273"
   ]
  },
  {
-  "slug": "fur-jacket-454226",
-  "code": "BK-AE2520",
-  "name": "Fur Jacket",
+  "slug": "white-faux-fur-collar-y2k-hooded-jacket-454226",
+  "code": "BK-AE2518",
+  "name": "White Faux Fur Collar Y2K Hooded Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -836446,12 +836604,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010363454226/d897024d2927.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-jacket-454226"
   ]
  },
  {
-  "slug": "fur-knit-jacket-789299",
-  "code": "BK-AE2521",
-  "name": "Fur Knit Jacket",
+  "slug": "fur-collar-hooded-knit-y2k-sweater-coat-789299",
+  "code": "BK-AE2519",
+  "name": "Fur Collar Hooded Knit Y2K Sweater Coat",
   "depts": [
    "women",
    "men"
@@ -836586,14 +836747,18 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010136789299/ee41fe1d43a2.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-knit-jacket-789299"
   ]
  },
  {
-  "slug": "kitty-jacket-460952",
-  "code": "BK-AE2522",
-  "name": "Kitty Jacket",
+  "slug": "light-blue-cat-ear-paw-patch-y2k-fleece-jacket-460952",
+  "code": "BK-AE2520",
+  "name": "Light Blue Cat Ear Paw Patch Y2K Fleece Jacket",
   "depts": [
-   "women"
+   "women",
+   "men"
   ],
   "line": "knits",
   "category": "jackets",
@@ -836700,12 +836865,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013225460952/0e253d2b9faf.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "kitty-jacket-460952"
   ]
  },
  {
-  "slug": "jacket-10-378662",
-  "code": "BK-AE2523",
-  "name": "Jacket 10",
+  "slug": "solid-button-front-y2k-pullover-hoodie-378662",
+  "code": "BK-AE2521",
+  "name": "Solid Button Front Y2K Pullover Hoodie",
   "depts": [
    "women",
    "men"
@@ -836824,15 +836992,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010338378662/1d9ad885bef9.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "jacket-10-378662"
   ]
  },
  {
-  "slug": "goth-punk-grunge-jacket-010978",
-  "code": "BK-AE2524",
-  "name": "Goth Punk Grunge Jacket",
+  "slug": "vintage-polo-collar-goth-slim-zip-up-jacket-010978",
+  "code": "BK-AE2522",
+  "name": "Vintage Polo Collar Goth Slim Zip Up Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -836956,12 +837126,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009683010978/df54f08a6157.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-grunge-jacket-010978"
   ]
  },
  {
-  "slug": "jacket-11-562655",
-  "code": "BK-AE2526",
-  "name": "Jacket 11",
+  "slug": "white-warm-harajuku-fleece-zip-hoodie-562655",
+  "code": "BK-AE2523",
+  "name": "White Warm Harajuku Fleece Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -837026,15 +837199,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007547562655/173d7a848902.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "jacket-11-562655"
   ]
  },
  {
-  "slug": "off-shoulder-goth-jacket-364094",
-  "code": "BK-AE2527",
-  "name": "Off-Shoulder Goth Jacket",
+  "slug": "hooded-grunge-off-shoulder-zip-up-coat-364094",
+  "code": "BK-AE2524",
+  "name": "Hooded Grunge Off Shoulder Zip Up Coat",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -837088,15 +837263,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008185364094/1cdef8f8f7a7.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "off-shoulder-goth-jacket-364094"
   ]
  },
  {
-  "slug": "cross-graphic-hoodie-111558",
-  "code": "BK-AE2528",
-  "name": "Cross Graphic Hoodie",
+  "slug": "black-cross-graphic-grunge-one-shoulder-hoodie-111558",
+  "code": "BK-AE2525",
+  "name": "Black Cross Graphic Grunge One Shoulder Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -837170,12 +837347,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010045111558/8a0957aa3d40.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "cross-graphic-hoodie-111558"
   ]
  },
  {
-  "slug": "vintage-fitted-jacket-565993",
-  "code": "BK-AE2529",
-  "name": "Vintage Fitted Jacket",
+  "slug": "gray-print-harajuku-fitted-zip-up-hoodie-coat-565993",
+  "code": "BK-AE2526",
+  "name": "Gray Print Harajuku Fitted Zip Up Hoodie Coat",
   "depts": [
    "women"
   ],
@@ -837264,12 +837444,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008151565993/b376ed41fea4.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "vintage-fitted-jacket-565993"
   ]
  },
  {
-  "slug": "slogan-hoodie-310615",
-  "code": "BK-AE2530",
-  "name": "Slogan Hoodie",
+  "slug": "black-letter-print-harajuku-hoodie-310615",
+  "code": "BK-AE2527",
+  "name": "Black Letter Print Harajuku Hoodie",
   "depts": [
    "women",
    "men"
@@ -837346,18 +837529,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007983310615/3f5d3a263ae7.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-hoodie-310615"
   ]
  },
  {
-  "slug": "jacket-12-867611",
-  "code": "BK-AE2531",
-  "name": "Jacket 12",
+  "slug": "black-faux-sheepskin-fluffy-y2k-hooded-coat-867611",
+  "code": "BK-AE2528",
+  "name": "Black Faux Sheepskin Fluffy Y2K Hooded Coat",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
-  "category": "hoodies",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 136.99,
@@ -837436,15 +837621,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013214867611/7c3b2b89b413.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "jacket-12-867611"
   ]
  },
  {
-  "slug": "goth-grunge-jacket-261230",
-  "code": "BK-AE2532",
-  "name": "Goth Grunge Jacket",
+  "slug": "wings-print-grunge-slim-zip-up-jacket-261230",
+  "code": "BK-AE2529",
+  "name": "Wings Print Grunge Slim Zip Up Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -837531,12 +837718,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009897261230/fb84aa566ee9.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-grunge-jacket-261230"
   ]
  },
  {
-  "slug": "leopard-goth-zip-hoodie-779339",
-  "code": "BK-AE2534",
-  "name": "Leopard Goth Zip Hoodie",
+  "slug": "pink-leopard-print-grunge-gyaru-zip-hoodie-779339",
+  "code": "BK-AE2530",
+  "name": "Pink Leopard Print Grunge Gyaru Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -837608,12 +837798,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010615779339/cf9bcbf69f90.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "leopard-goth-zip-hoodie-779339"
   ]
  },
  {
-  "slug": "lace-socks-403888",
-  "code": "BK-AE2535",
-  "name": "Lace Socks",
+  "slug": "black-white-lace-thigh-high-coquette-socks-403888",
+  "code": "BK-AE2531",
+  "name": "Black White Lace Thigh High Coquette Socks",
   "depts": [
    "women"
   ],
@@ -837692,12 +837885,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008135403888/3ad0b3245d0c.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-socks-403888"
   ]
  },
  {
-  "slug": "goth-punk-vintage-jacket-671310",
-  "code": "BK-AE2536",
-  "name": "Goth Punk Vintage Jacket",
+  "slug": "flocking-design-punk-loose-zip-up-jacket-671310",
+  "code": "BK-AE2532",
+  "name": "Flocking Design Punk Loose Zip Up Jacket",
   "depts": [
    "women",
    "men"
@@ -837807,15 +838003,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008371671310/81ff362ba4e4.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-vintage-jacket-671310"
   ]
  },
  {
-  "slug": "fur-vintage-jacket-673882",
-  "code": "BK-AE2537",
-  "name": "Fur Vintage Jacket",
+  "slug": "pink-faux-fur-collar-harajuku-slim-jacket-673882",
+  "code": "BK-AE2533",
+  "name": "Pink Faux Fur Collar Harajuku Slim Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -837869,12 +838067,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010084673882/3c8f3d5c2b4b.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-vintage-jacket-673882"
   ]
  },
  {
-  "slug": "lace-sexy-socks-2-720320",
-  "code": "BK-AE2538",
-  "name": "Lace Sexy Socks 2",
+  "slug": "thick-warm-lace-thigh-high-goth-boot-socks-720320",
+  "code": "BK-AE2534",
+  "name": "Thick Warm Lace Thigh High Goth Boot Socks",
   "depts": [
    "women"
   ],
@@ -837953,15 +838154,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008257720320/f2c041a9e7ef.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-sexy-socks-2-720320"
   ]
  },
  {
-  "slug": "slogan-punk-hoodie-612386",
-  "code": "BK-AE2539",
-  "name": "Slogan Punk Hoodie",
+  "slug": "hot-pink-distressed-letter-punk-oversized-hoodie-612386",
+  "code": "BK-AE2535",
+  "name": "Hot Pink Distressed Letter Punk Oversized Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -838287,15 +838490,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013214612386/c5f6a890cedf.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-punk-hoodie-612386"
   ]
  },
  {
-  "slug": "punk-hoodie-207312",
-  "code": "BK-AE2540",
-  "name": "Punk Hoodie",
+  "slug": "techwear-hip-hop-punk-cropped-hoodie-207312",
+  "code": "BK-AE2536",
+  "name": "Techwear Hip Hop Punk Cropped Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -838372,12 +838577,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007510207312/f95e4ca2b7d3.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "punk-hoodie-207312"
   ]
  },
  {
-  "slug": "ruffle-zip-hoodie-641453",
-  "code": "BK-AE2541",
-  "name": "Ruffle Zip Hoodie",
+  "slug": "ruffled-edge-harajuku-loose-zip-hoodie-641453",
+  "code": "BK-AE2537",
+  "name": "Ruffled Edge Harajuku Loose Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -838453,12 +838661,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007118641453/396d8b2b4dae.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "ruffle-zip-hoodie-641453"
   ]
  },
  {
-  "slug": "lace-patchwork-set-691712",
-  "code": "BK-AE2542",
-  "name": "Lace Patchwork Set",
+  "slug": "black-lace-jirai-kei-goth-sailor-dress-set-691712",
+  "code": "BK-AE2538",
+  "name": "Black Lace Jirai Kei Goth Sailor Dress Set",
   "depts": [
    "women"
   ],
@@ -838595,12 +838806,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008802691712/314ba394ab9d.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-patchwork-set-691712"
   ]
  },
  {
-  "slug": "emo-hoodie-238768",
-  "code": "BK-AE2543",
-  "name": "Emo Hoodie",
+  "slug": "emo-girl-graphic-print-warm-hoodie-238768",
+  "code": "BK-AE2539",
+  "name": "Emo Girl Graphic Print Warm Hoodie",
   "depts": [
    "women",
    "men"
@@ -838927,10 +839141,6 @@
   },
   "photos": [
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012995238768/64bbda225c96.jpg",
-    "color": "Blue"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012995238768/300e44d52c63.jpg",
     "color": "Gray"
    },
@@ -838966,12 +839176,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012995238768/09b8d729c25b.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "emo-hoodie-238768"
   ]
  },
  {
-  "slug": "goth-punk-jacket-3-191357",
-  "code": "BK-AE2544",
-  "name": "Goth Punk Jacket 3",
+  "slug": "plane-buckle-rock-goth-oversized-zip-hoodie-191357",
+  "code": "BK-AE2540",
+  "name": "Plane Buckle Rock Goth Oversized Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -839161,14 +839374,6 @@
   },
   "photos": [
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010369191357/1ce245b095bf.jpg",
-    "color": "Green"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010369191357/15c345450f2a.jpg",
-    "color": "Black"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010369191357/eb9db3be3be2.jpg",
     "color": "Beige"
    },
@@ -839192,17 +839397,21 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010369191357/280d6d178565.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-jacket-3-191357"
   ]
  },
  {
-  "slug": "slogan-vintage-baby-tee-859058",
-  "code": "BK-AE2545",
-  "name": "Slogan Vintage Baby Tee",
+  "slug": "unique-letter-print-vintage-y2k-hoodie-859058",
+  "code": "BK-AE2541",
+  "name": "Unique Letter Print Vintage Y2K Hoodie",
   "depts": [
-   "women"
+   "women",
+   "men"
   ],
-  "line": "tops",
-  "category": "baby-tees",
+  "line": "knits",
+  "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
   "price": 64.99,
@@ -839414,17 +839623,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013046859058/c371e1893ca8.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-vintage-baby-tee-859058"
   ]
  },
  {
-  "slug": "floral-vintage-cardigan-445618",
-  "code": "BK-AE2546",
-  "name": "Floral Vintage Cardigan",
+  "slug": "camo-flower-embroidery-y2k-cropped-zip-hoodie-445618",
+  "code": "BK-AE2542",
+  "name": "Camo Flower Embroidery Y2K Cropped Zip Hoodie",
   "depts": [
    "women"
   ],
   "line": "knits",
-  "category": "cardigans",
+  "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
   "price": 55.99,
@@ -839511,12 +839723,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013072445618/750ba3a5b954.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "floral-vintage-cardigan-445618"
   ]
  },
  {
-  "slug": "slogan-goth-hoodie-601576",
-  "code": "BK-AE2547",
-  "name": "Slogan Goth Hoodie",
+  "slug": "letter-print-grunge-high-street-hoodie-601576",
+  "code": "BK-AE2543",
+  "name": "Letter Print Grunge High Street Hoodie",
   "depts": [
    "women",
    "men"
@@ -839744,14 +839959,6 @@
   },
   "photos": [
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012687601576/c9bb11758fa7.jpg",
-    "color": "Black"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012687601576/e1be6a59979d.jpg",
-    "color": "Blue"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012687601576/1fb01f647693.jpg",
     "color": "Dark Grey"
    },
@@ -839771,12 +839978,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012687601576/2c83a27a35f9.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-goth-hoodie-601576"
   ]
  },
  {
-  "slug": "slogan-hoodie-2-549037",
-  "code": "BK-AE2548",
-  "name": "Slogan Hoodie 2",
+  "slug": "solid-color-letter-print-y2k-pullover-hoodie-549037",
+  "code": "BK-AE2544",
+  "name": "Solid Color Letter Print Y2K Pullover Hoodie",
   "depts": [
    "women",
    "men"
@@ -839953,15 +840163,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009744549037/503b0b3151a8.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-hoodie-2-549037"
   ]
  },
  {
-  "slug": "shorts-427277",
-  "code": "BK-AE2549",
-  "name": "Shorts",
+  "slug": "corduroy-button-sash-y2k-low-waist-mini-shorts-427277",
+  "code": "BK-AE2545",
+  "name": "Corduroy Button Sash Y2K Low Waist Mini Shorts",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "bottoms",
   "category": "shorts",
@@ -840115,18 +840327,21 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010477427277/70e19d69e75a.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "shorts-427277"
   ]
  },
  {
-  "slug": "slogan-cap-628740",
-  "code": "BK-AE2550",
-  "name": "Slogan Cap",
+  "slug": "double-hood-letter-applique-y2k-zip-hoodie-628740",
+  "code": "BK-AE2546",
+  "name": "Double Hood Letter Applique Y2K Zip Hoodie",
   "depts": [
    "women",
    "men"
   ],
-  "line": "accessories",
-  "category": "hats",
+  "line": "knits",
+  "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
   "price": 35.99,
@@ -840201,12 +840416,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010381628740/ddf4ed8f5866.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-cap-628740"
   ]
  },
  {
-  "slug": "punk-fitted-hoodie-072972",
-  "code": "BK-AE2551",
-  "name": "Punk Fitted Hoodie",
+  "slug": "grey-sporty-hip-hop-punk-slim-hoodie-072972",
+  "code": "BK-AE2547",
+  "name": "Grey Sporty Hip Hop Punk Slim Hoodie",
   "depts": [
    "women"
   ],
@@ -840282,12 +840500,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012783072972/b6b229075b69.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "punk-fitted-hoodie-072972"
   ]
  },
  {
-  "slug": "fitted-jacket-172818",
-  "code": "BK-AE2552",
-  "name": "Fitted Jacket",
+  "slug": "black-hooded-slim-fit-y2k-zip-up-jacket-172818",
+  "code": "BK-AE2548",
+  "name": "Black Hooded Slim Fit Y2K Zip Up Jacket",
   "depts": [
    "women"
   ],
@@ -840545,12 +840766,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010226172818/e49319505d4e.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fitted-jacket-172818"
   ]
  },
  {
-  "slug": "lace-ruffle-skirt-865375",
-  "code": "BK-AE2553",
-  "name": "Lace Ruffle Skirt",
+  "slug": "layered-lace-ruffle-coquette-pleated-mini-skirt-865375",
+  "code": "BK-AE2549",
+  "name": "Layered Lace Ruffle Coquette Pleated Mini Skirt",
   "depts": [
    "women"
   ],
@@ -840715,12 +840939,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008802865375/ce2c0d064ee5.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-ruffle-skirt-865375"
   ]
  },
  {
-  "slug": "goth-jacket-2-963694",
-  "code": "BK-AE2554",
-  "name": "Goth Jacket 2",
+  "slug": "thin-loose-fit-goth-zip-hoodie-963694",
+  "code": "BK-AE2550",
+  "name": "Thin Loose Fit Goth Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -840858,12 +841085,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009413963694/625d3d324f8f.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-jacket-2-963694"
   ]
  },
  {
-  "slug": "layered-jacket-655920",
-  "code": "BK-AE2555",
-  "name": "Layered Jacket",
+  "slug": "luminous-fake-two-piece-y2k-stand-collar-jacket-655920",
+  "code": "BK-AE2551",
+  "name": "Luminous Fake Two Piece Y2K Stand Collar Jacket",
   "depts": [
    "women",
    "men"
@@ -841039,15 +841269,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011615655920/0cdca4589e73.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "layered-jacket-655920"
   ]
  },
  {
-  "slug": "fur-emo-jacket-110688",
-  "code": "BK-AE2556",
-  "name": "Fur Emo Jacket",
+  "slug": "horror-parody-plush-fur-collar-emo-hooded-coat-110688",
+  "code": "BK-AE2552",
+  "name": "Horror Parody Plush Fur Collar Emo Hooded Coat",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -841150,12 +841382,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009744110688/4f4700ad7e40.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-emo-jacket-110688"
   ]
  },
  {
-  "slug": "angel-fur-jacket-907929",
-  "code": "BK-AE2557",
-  "name": "Angel Fur Jacket",
+  "slug": "rhinestone-angel-wings-fur-collar-punk-rivet-coat-907929",
+  "code": "BK-AE2553",
+  "name": "Rhinestone Angel Wings Fur Collar Punk Rivet Coat",
   "depts": [
    "women"
   ],
@@ -841215,15 +841450,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012654907929/5db9c4587611.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "angel-fur-jacket-907929"
   ]
  },
  {
-  "slug": "polka-dot-vintage-jacket-840432",
-  "code": "BK-AE2558",
-  "name": "Polka Dot Vintage Jacket",
+  "slug": "polka-dot-color-block-y2k-slim-track-jacket-840432",
+  "code": "BK-AE2554",
+  "name": "Polka Dot Color Block Y2K Slim Track Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -841301,12 +841538,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012290840432/05f0a24d344c.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "polka-dot-vintage-jacket-840432"
   ]
  },
  {
-  "slug": "stripe-grunge-jacket-767865",
-  "code": "BK-AE2559",
-  "name": "Stripe Grunge Jacket",
+  "slug": "striped-grunge-oversized-zip-up-jacket-767865",
+  "code": "BK-AE2555",
+  "name": "Striped Grunge Oversized Zip Up Jacket",
   "depts": [
    "women",
    "men"
@@ -841383,17 +841623,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013240767865/1ea64a8a6097.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "stripe-grunge-jacket-767865"
   ]
  },
  {
-  "slug": "mesh-sexy-socks-464103",
-  "code": "BK-AE2560",
-  "name": "Mesh Sexy Socks",
+  "slug": "hollow-out-fishnet-mesh-y2k-skinny-crop-top-464103",
+  "code": "BK-AE2556",
+  "name": "Hollow Out Fishnet Mesh Y2K Skinny Crop Top",
   "depts": [
    "women"
   ],
-  "line": "accessories",
-  "category": "legwear",
+  "line": "tops",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 14.99,
@@ -841511,14 +841754,18 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012195464103/69e9fcbb74ce.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "mesh-sexy-socks-464103"
   ]
  },
  {
-  "slug": "kitty-kawaii-hoodie-027553",
-  "code": "BK-AE2561",
-  "name": "Kitty Kawaii Hoodie",
+  "slug": "cat-embroidery-harajuku-loose-hoodie-027553",
+  "code": "BK-AE2557",
+  "name": "Cat Embroidery Harajuku Loose Hoodie",
   "depts": [
-   "women"
+   "women",
+   "men"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -841625,12 +841872,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008034027553/8ce9ca062f82.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "kitty-kawaii-hoodie-027553"
   ]
  },
  {
-  "slug": "skull-punk-jacket-325700",
-  "code": "BK-AE2562",
-  "name": "Skull Punk Jacket",
+  "slug": "skull-print-punk-hottie-hooded-jacket-325700",
+  "code": "BK-AE2558",
+  "name": "Skull Print Punk Hottie Hooded Jacket",
   "depts": [
    "women",
    "men"
@@ -841691,15 +841941,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010571325700/6229da9b270d.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "skull-punk-jacket-325700"
   ]
  },
  {
-  "slug": "star-graphic-jacket-362604",
-  "code": "BK-AE2563",
-  "name": "Star Graphic Jacket",
+  "slug": "distressed-grey-star-graphic-grunge-cropped-jacket-362604",
+  "code": "BK-AE2559",
+  "name": "Distressed Grey Star Graphic Grunge Cropped Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -841773,14 +842025,18 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013234362604/e19fdfb31799.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "star-graphic-jacket-362604"
   ]
  },
  {
-  "slug": "kitty-jacket-2-799519",
-  "code": "BK-AE2564",
-  "name": "Kitty Jacket 2",
+  "slug": "two-color-cat-ear-paw-print-y2k-zip-hoodie-799519",
+  "code": "BK-AE2560",
+  "name": "Two Color Cat Ear Paw Print Y2K Zip Hoodie",
   "depts": [
-   "women"
+   "women",
+   "men"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -841887,14 +842143,18 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013214799519/44c3e1b66d09.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "kitty-jacket-2-799519"
   ]
  },
  {
-  "slug": "kitty-jacket-3-328315",
-  "code": "BK-AE2565",
-  "name": "Kitty Jacket 3",
+  "slug": "blue-cat-ear-oversized-harajuku-fleece-hoodie-328315",
+  "code": "BK-AE2561",
+  "name": "Blue Cat Ear Oversized Harajuku Fleece Hoodie",
   "depts": [
-   "women"
+   "women",
+   "men"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -842003,12 +842263,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007027328315/85aac57939e4.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "kitty-jacket-3-328315"
   ]
  },
  {
-  "slug": "zip-hoodie-76-503658",
-  "code": "BK-AE2566",
-  "name": "Zip Hoodie 76",
+  "slug": "blue-white-stitch-print-harajuku-zip-hoodie-503658",
+  "code": "BK-AE2562",
+  "name": "Blue White Stitch Print Harajuku Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -842113,12 +842376,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006917503658/48d52ab085a7.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "zip-hoodie-76-503658"
   ]
  },
  {
-  "slug": "kitty-heart-jacket-253751",
-  "code": "BK-AE2567",
-  "name": "Kitty Heart Jacket",
+  "slug": "black-cat-ear-heart-embroidery-goth-fleece-jacket-253751",
+  "code": "BK-AE2563",
+  "name": "Black Cat Ear Heart Embroidery Goth Fleece Jacket",
   "depts": [
    "women"
   ],
@@ -842178,12 +842444,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013304253751/02c6242fea0d.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "kitty-heart-jacket-253751"
   ]
  },
  {
-  "slug": "punk-grunge-zip-hoodie-338631",
-  "code": "BK-AE2568",
-  "name": "Punk Grunge Zip Hoodie",
+  "slug": "graphic-print-punk-oversized-pocket-zip-hoodie-338631",
+  "code": "BK-AE2564",
+  "name": "Graphic Print Punk Oversized Pocket Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -842260,12 +842529,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013040338631/286556ae4b54.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "punk-grunge-zip-hoodie-338631"
   ]
  },
  {
-  "slug": "leopard-zip-hoodie-703594",
-  "code": "BK-AE2569",
-  "name": "Leopard Zip Hoodie",
+  "slug": "cute-pink-leopard-y2k-kpop-zip-hoodie-703594",
+  "code": "BK-AE2565",
+  "name": "Cute Pink Leopard Y2K Kpop Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -842374,12 +842646,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013083703594/79838814e042.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "leopard-zip-hoodie-703594"
   ]
  },
  {
-  "slug": "mesh-sexy-baby-tee-463778",
-  "code": "BK-AE2570",
-  "name": "Mesh Sexy Baby Tee",
+  "slug": "sheer-mesh-hooded-y2k-cover-up-tee-463778",
+  "code": "BK-AE2566",
+  "name": "Sheer Mesh Hooded Y2K Cover Up Tee",
   "depts": [
    "women"
   ],
@@ -842535,12 +842810,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011853463778/04ab43c9f4e1.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "mesh-sexy-baby-tee-463778"
   ]
  },
  {
-  "slug": "slogan-zip-hoodie-606077",
-  "code": "BK-AE2571",
-  "name": "Slogan Zip Hoodie",
+  "slug": "hip-hop-letter-harajuku-oversized-zip-hoodie-606077",
+  "code": "BK-AE2567",
+  "name": "Hip Hop Letter Harajuku Oversized Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -842613,15 +842891,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010121606077/5614d36fb0b0.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-zip-hoodie-606077"
   ]
  },
  {
-  "slug": "floral-vintage-hoodie-313165",
-  "code": "BK-AE2572",
-  "name": "Floral Vintage Hoodie",
+  "slug": "pink-floral-half-button-collared-y2k-hoodie-313165",
+  "code": "BK-AE2568",
+  "name": "Pink Floral Half Button Collared Y2K Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -842691,17 +842971,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010250313165/639d106db269.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "floral-vintage-hoodie-313165"
   ]
  },
  {
-  "slug": "angel-sequin-hoodie-302057",
-  "code": "BK-AE2573",
-  "name": "Angel Sequin Hoodie",
+  "slug": "sequin-angel-wings-y2k-hoodie-and-pant-set-302057",
+  "code": "BK-AE2569",
+  "name": "Sequin Angel Wings Y2K Hoodie and Pant Set",
   "depts": [
    "women"
   ],
-  "line": "knits",
-  "category": "hoodies",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 64.99,
@@ -842859,12 +843142,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010433302057/b7b9d76b62c8.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "angel-sequin-hoodie-302057"
   ]
  },
  {
-  "slug": "goth-punk-jacket-4-104711",
-  "code": "BK-AE2574",
-  "name": "Goth Punk Jacket 4",
+  "slug": "hairy-collar-punk-hot-girl-zip-hoodie-104711",
+  "code": "BK-AE2570",
+  "name": "Hairy Collar Punk Hot Girl Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -842933,12 +843219,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013422104711/63abe6bb42fc.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-jacket-4-104711"
   ]
  },
  {
-  "slug": "punk-jacket-2-919171",
-  "code": "BK-AE2575",
-  "name": "Punk Jacket 2",
+  "slug": "black-elegant-hooded-punk-loose-zip-hoodie-919171",
+  "code": "BK-AE2571",
+  "name": "Black Elegant Hooded Punk Loose Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -843023,12 +843312,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009858919171/4d01dc6e9935.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "punk-jacket-2-919171"
   ]
  },
  {
-  "slug": "jacket-13-200080",
-  "code": "BK-AE2576",
-  "name": "Jacket 13",
+  "slug": "simon-cry-of-fear-y2k-zip-hoodie-200080",
+  "code": "BK-AE2572",
+  "name": "Simon Cry of Fear Y2K Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -843321,12 +843613,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009935200080/cb88a4473a1d.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "jacket-13-200080"
   ]
  },
  {
-  "slug": "goth-punk-grunge-ruffle-jacket-401821",
-  "code": "BK-AE2577",
-  "name": "Goth Punk Grunge Ruffle Jacket",
+  "slug": "double-breasted-ruffle-hem-goth-hooded-jacket-401821",
+  "code": "BK-AE2573",
+  "name": "Double Breasted Ruffle Hem Goth Hooded Jacket",
   "depts": [
    "women"
   ],
@@ -843387,14 +843682,6 @@
   },
   "photos": [
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013332401821/d131e86adf26.jpg",
-    "color": "*"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013332401821/427255a334ad.jpg",
-    "color": "*"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013332401821/f1b5fc6e25f9.jpg",
     "color": "*"
    },
@@ -843402,18 +843689,21 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013332401821/66aef00582b7.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-grunge-ruffle-jacket-401821"
   ]
  },
  {
-  "slug": "goth-punk-vintage-jacket-2-853471",
-  "code": "BK-AE2578",
-  "name": "Goth Punk Vintage Jacket 2",
+  "slug": "military-button-double-breasted-goth-coat-853471",
+  "code": "BK-AE2574",
+  "name": "Military Button Double Breasted Goth Coat",
   "depts": [
    "women",
    "men"
   ],
   "line": "knits",
-  "category": "hoodies",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 60.99,
@@ -843476,12 +843766,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013213853471/2fd78c665829.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-vintage-jacket-2-853471"
   ]
  },
  {
-  "slug": "goth-punk-fitted-jacket-200018",
-  "code": "BK-AE2579",
-  "name": "Goth Punk Fitted Jacket",
+  "slug": "waist-slim-hooded-punk-windbreaker-jacket-200018",
+  "code": "BK-AE2575",
+  "name": "Waist Slim Hooded Punk Windbreaker Jacket",
   "depts": [
    "women"
   ],
@@ -843603,12 +843896,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013046200018/69ffa06c624e.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-fitted-jacket-200018"
   ]
  },
  {
-  "slug": "skull-knit-cap-343620",
-  "code": "BK-AE2580",
-  "name": "Skull Knit Cap",
+  "slug": "jacquard-knit-skull-y2k-beanie-cap-343620",
+  "code": "BK-AE2576",
+  "name": "Jacquard Knit Skull Y2K Beanie Cap",
   "depts": [
    "women",
    "men"
@@ -845582,12 +845878,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013288343620/e43317bbe967.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "skull-knit-cap-343620"
   ]
  },
  {
-  "slug": "jacket-14-158687",
-  "code": "BK-AE2581",
-  "name": "Jacket 14",
+  "slug": "retro-solid-button-placket-y2k-hoodie-158687",
+  "code": "BK-AE2577",
+  "name": "Retro Solid Button Placket Y2K Hoodie",
   "depts": [
    "women",
    "men"
@@ -845648,18 +845947,21 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012671158687/a16ad6682164.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "jacket-14-158687"
   ]
  },
  {
-  "slug": "goth-punk-jacket-5-421469",
-  "code": "BK-AE2582",
-  "name": "Goth Punk Jacket 5",
+  "slug": "double-row-button-military-punk-hooded-jacket-421469",
+  "code": "BK-AE2578",
+  "name": "Double Row Button Military Punk Hooded Jacket",
   "depts": [
    "women",
    "men"
   ],
   "line": "knits",
-  "category": "hoodies",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 55.99,
@@ -845718,18 +846020,21 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013115421469/74d3e52d6fcb.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-jacket-5-421469"
   ]
  },
  {
-  "slug": "plaid-punk-belt-790709",
-  "code": "BK-AE2583",
-  "name": "Plaid Punk Belt",
+  "slug": "grey-plaid-drawstring-belt-punk-zip-up-jacket-790709",
+  "code": "BK-AE2579",
+  "name": "Grey Plaid Drawstring Belt Punk Zip Up Jacket",
   "depts": [
    "women",
    "men"
   ],
-  "line": "accessories",
-  "category": "belts",
+  "line": "knits",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 49.99,
@@ -845780,17 +846085,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013157790709/01923496c87d.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "plaid-punk-belt-790709"
   ]
  },
  {
-  "slug": "patchwork-slogan-crop-tee-764907",
-  "code": "BK-AE2584",
-  "name": "Patchwork Slogan Crop Tee",
+  "slug": "denim-patchwork-letter-embroidery-y2k-strap-tank-top-764907",
+  "code": "BK-AE2580",
+  "name": "Denim Patchwork Letter Embroidery Y2K Strap Tank Top",
   "depts": [
    "women"
   ],
   "line": "tops",
-  "category": "crop-tees",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 41.99,
@@ -845864,15 +846172,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008694764907/d3bc6b8e4c33.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "patchwork-slogan-crop-tee-764907"
   ]
  },
  {
-  "slug": "slogan-goth-punk-hoodie-316914",
-  "code": "BK-AE2585",
-  "name": "Slogan Goth Punk Hoodie",
+  "slug": "rhinestone-letter-dark-punk-hoodie-316914",
+  "code": "BK-AE2581",
+  "name": "Rhinestone Letter Dark Punk Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -845954,12 +846264,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010152316914/6c3bf77c7368.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-goth-punk-hoodie-316914"
   ]
  },
  {
-  "slug": "angel-sequin-jacket-637276",
-  "code": "BK-AE2586",
-  "name": "Angel Sequin Jacket",
+  "slug": "pink-velour-sequin-angel-wing-y2k-zip-jacket-637276",
+  "code": "BK-AE2582",
+  "name": "Pink Velour Sequin Angel Wing Y2K Zip Jacket",
   "depts": [
    "women"
   ],
@@ -846039,12 +846352,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013228637276/97b148f3a7cb.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "angel-sequin-jacket-637276"
   ]
  },
  {
-  "slug": "vintage-jacket-5-258860",
-  "code": "BK-AE2587",
-  "name": "Vintage Jacket 5",
+  "slug": "gray-sweet-stripe-print-y2k-hoodie-258860",
+  "code": "BK-AE2583",
+  "name": "Gray Sweet Stripe Print Y2K Hoodie",
   "depts": [
    "women",
    "men"
@@ -846109,12 +846425,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010478258860/65fc6d047b31.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "vintage-jacket-5-258860"
   ]
  },
  {
-  "slug": "fitted-socks-566685",
-  "code": "BK-AE2588",
-  "name": "Fitted Socks",
+  "slug": "white-velvet-over-knee-y2k-thigh-high-socks-566685",
+  "code": "BK-AE2584",
+  "name": "White Velvet Over Knee Y2K Thigh High Socks",
   "depts": [
    "women"
   ],
@@ -846315,12 +846634,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007526566685/86a35e4e9154.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fitted-socks-566685"
   ]
  },
  {
-  "slug": "goth-punk-grunge-ruffle-vintage-jacket-986985",
-  "code": "BK-AE2589",
-  "name": "Goth Punk Grunge Ruffle Vintage Jacket",
+  "slug": "ruffle-waist-hem-hooded-grunge-zip-up-jacket-986985",
+  "code": "BK-AE2585",
+  "name": "Ruffle Waist Hem Hooded Grunge Zip Up Jacket",
   "depts": [
    "women"
   ],
@@ -846584,10 +846906,6 @@
     "color": "Gold"
    },
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013138986985/da515ca5fb80.jpg",
-    "color": "Blue"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013138986985/e16704f193c0.jpg",
     "color": "Brown"
    },
@@ -846611,12 +846929,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013138986985/8c5d25a9d335.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-grunge-ruffle-vintage-jacket-986985"
   ]
  },
  {
-  "slug": "punk-vintage-hoodie-954839",
-  "code": "BK-AE2590",
-  "name": "Punk Vintage Hoodie",
+  "slug": "hip-hop-punk-print-vintage-pullover-hoodie-954839",
+  "code": "BK-AE2586",
+  "name": "Hip Hop Punk Print Vintage Pullover Hoodie",
   "depts": [
    "women",
    "men"
@@ -846887,14 +847208,6 @@
   },
   "photos": [
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009683954839/dfd98e41826a.jpg",
-    "color": "Gray"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009683954839/93f657345636.jpg",
-    "color": "Pink"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009683954839/0523847e91ea.jpg",
     "color": "Navy Blue"
    },
@@ -846914,12 +847227,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009683954839/d6502b6c4baa.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "punk-vintage-hoodie-954839"
   ]
  },
  {
-  "slug": "goth-punk-jacket-6-016826",
-  "code": "BK-AE2591",
-  "name": "Goth Punk Jacket 6",
+  "slug": "metal-o-ring-goth-hooded-pullover-hoodie-016826",
+  "code": "BK-AE2587",
+  "name": "Metal O Ring Goth Hooded Pullover Hoodie",
   "depts": [
    "women",
    "men"
@@ -846988,12 +847304,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013322016826/3decde244a0f.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-jacket-6-016826"
   ]
  },
  {
-  "slug": "knit-leg-warmers-661932",
-  "code": "BK-AE2592",
-  "name": "Knit Leg Warmers",
+  "slug": "crochet-knit-wool-y2k-long-leg-warmers-661932",
+  "code": "BK-AE2588",
+  "name": "Crochet Knit Wool Y2K Long Leg Warmers",
   "depts": [
    "women"
   ],
@@ -847122,12 +847441,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009922661932/088cc1fba48e.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "knit-leg-warmers-661932"
   ]
  },
  {
-  "slug": "skull-stripe-jacket-020577",
-  "code": "BK-AE2593",
-  "name": "Skull Stripe Jacket",
+  "slug": "purple-stripe-skull-print-goth-zip-up-jacket-020577",
+  "code": "BK-AE2589",
+  "name": "Purple Stripe Skull Print Goth Zip Up Jacket",
   "depts": [
    "women",
    "men"
@@ -847184,12 +847506,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012814020577/a32d1cc86adb.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "skull-stripe-jacket-020577"
   ]
  },
  {
-  "slug": "skull-goth-jacket-645766",
-  "code": "BK-AE2594",
-  "name": "Skull Goth Jacket",
+  "slug": "skull-patch-punk-vintage-zip-up-jacket-645766",
+  "code": "BK-AE2590",
+  "name": "Skull Patch Punk Vintage Zip Up Jacket",
   "depts": [
    "women",
    "men"
@@ -847298,27 +847623,22 @@
   },
   "photos": [
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013089645766/2b4799f66730.jpg",
-    "color": "Black"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013089645766/bc2740f6c39c.jpg",
     "color": "Gray"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013089645766/2b4799f66730.jpg",
-    "color": "*"
    },
    {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013089645766/bc2740f6c39c.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "skull-goth-jacket-645766"
   ]
  },
  {
-  "slug": "slogan-goth-grunge-hoodie-391040",
-  "code": "BK-AE2595",
-  "name": "Slogan Goth Grunge Hoodie",
+  "slug": "vintage-letter-print-grunge-warm-hoodie-391040",
+  "code": "BK-AE2591",
+  "name": "Vintage Letter Print Grunge Warm Hoodie",
   "depts": [
    "women",
    "men"
@@ -847384,19 +847704,18 @@
     "color": "*"
    },
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013222391040/655f68ec572a.jpg",
-    "color": "*"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013222391040/aa7c69b3a6fd.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-goth-grunge-hoodie-391040"
   ]
  },
  {
-  "slug": "leopard-backless-halter-top-842821",
-  "code": "BK-AE2596",
-  "name": "Leopard Backless Halter Top",
+  "slug": "leopard-fluffy-faux-suede-y2k-backless-halter-top-842821",
+  "code": "BK-AE2592",
+  "name": "Leopard Fluffy Faux Suede Y2K Backless Halter Top",
   "depts": [
    "women"
   ],
@@ -847475,12 +847794,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013252842821/bf851abbf8b6.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "leopard-backless-halter-top-842821"
   ]
  },
  {
-  "slug": "leopard-goth-jacket-456890",
-  "code": "BK-AE2597",
-  "name": "Leopard Goth Jacket",
+  "slug": "pink-leopard-print-grunge-hooded-zip-jacket-456890",
+  "code": "BK-AE2593",
+  "name": "Pink Leopard Print Grunge Hooded Zip Jacket",
   "depts": [
    "women"
   ],
@@ -847548,12 +847870,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013412456890/cd7a6dd6ebd9.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "leopard-goth-jacket-456890"
   ]
  },
  {
-  "slug": "goth-punk-grunge-emo-jacket-726482",
-  "code": "BK-AE2598",
-  "name": "Goth Punk Grunge Emo Jacket",
+  "slug": "cute-loose-emo-long-sleeve-zip-up-jacket-726482",
+  "code": "BK-AE2594",
+  "name": "Cute Loose Emo Long Sleeve Zip Up Jacket",
   "depts": [
    "women",
    "men"
@@ -847668,19 +847993,18 @@
     "color": "Zong"
    },
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008327726482/5caefe2d298e.jpg",
-    "color": "White"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008327726482/63b0c3df0062.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-grunge-emo-jacket-726482"
   ]
  },
  {
-  "slug": "fitted-sexy-jacket-131838",
-  "code": "BK-AE2599",
-  "name": "Fitted Sexy Jacket",
+  "slug": "one-shoulder-sporty-y2k-slim-zip-up-jacket-131838",
+  "code": "BK-AE2595",
+  "name": "One Shoulder Sporty Y2K Slim Zip Up Jacket",
   "depts": [
    "women"
   ],
@@ -847744,12 +848068,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009888131838/e97c43581127.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fitted-sexy-jacket-131838"
   ]
  },
  {
-  "slug": "kitty-stripe-gloves-807485",
-  "code": "BK-AE2600",
-  "name": "Kitty Stripe Gloves",
+  "slug": "black-cat-paw-stripe-goth-fingerless-gloves-807485",
+  "code": "BK-AE2596",
+  "name": "Black Cat Paw Stripe Goth Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -847930,15 +848257,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012309807485/8c2dc25a88e5.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "kitty-stripe-gloves-807485"
   ]
  },
  {
-  "slug": "skull-stripe-zip-hoodie-081904",
-  "code": "BK-AE2601",
-  "name": "Skull Stripe Zip Hoodie",
+  "slug": "purple-stripe-skull-print-punk-slim-zip-hoodie-081904",
+  "code": "BK-AE2597",
+  "name": "Purple Stripe Skull Print Punk Slim Zip Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -847992,12 +848321,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012807081904/43f1042fe7c2.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "skull-stripe-zip-hoodie-081904"
   ]
  },
  {
-  "slug": "baby-tee-5-022897",
-  "code": "BK-AE2602",
-  "name": "Baby Tee 5",
+  "slug": "solid-hooded-harajuku-street-baby-tee-022897",
+  "code": "BK-AE2598",
+  "name": "Solid Hooded Harajuku Street Baby Tee",
   "depts": [
    "women"
   ],
@@ -848086,15 +848418,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013304022897/770c16771aa6.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "baby-tee-5-022897"
   ]
  },
  {
-  "slug": "fur-stripe-zip-hoodie-698910",
-  "code": "BK-AE2603",
-  "name": "Fur Stripe Zip Hoodie",
+  "slug": "black-grey-stripe-faux-fur-punk-zip-hoodie-698910",
+  "code": "BK-AE2599",
+  "name": "Black Grey Stripe Faux Fur Punk Zip Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -848156,14 +848490,18 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013422698910/f18a8f4474fc.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-stripe-zip-hoodie-698910"
   ]
  },
  {
-  "slug": "kitty-fur-zip-hoodie-913082",
-  "code": "BK-AE2604",
-  "name": "Kitty Fur Zip Hoodie",
+  "slug": "black-fur-collar-kitten-ear-emo-dual-zip-hoodie-913082",
+  "code": "BK-AE2600",
+  "name": "Black Fur Collar Kitten Ear Emo Dual Zip Hoodie",
   "depts": [
-   "women"
+   "women",
+   "men"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -848286,12 +848624,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013448913082/081ec1d3c7ee.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "kitty-fur-zip-hoodie-913082"
   ]
  },
  {
-  "slug": "slogan-emo-hoodie-732083",
-  "code": "BK-AE2605",
-  "name": "Slogan Emo Hoodie",
+  "slug": "rock-chic-letter-print-emo-girl-hoodie-732083",
+  "code": "BK-AE2601",
+  "name": "Rock Chic Letter Print Emo Girl Hoodie",
   "depts": [
    "women",
    "men"
@@ -848360,12 +848701,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013350732083/4bae27338acb.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-emo-hoodie-732083"
   ]
  },
  {
-  "slug": "fitted-zip-hoodie-2-483106",
-  "code": "BK-AE2606",
-  "name": "Fitted Zip Hoodie 2",
+  "slug": "black-large-zipper-harajuku-slim-zip-hoodie-483106",
+  "code": "BK-AE2602",
+  "name": "Black Large Zipper Harajuku Slim Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -848626,12 +848970,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012786483106/4a2109882a1c.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fitted-zip-hoodie-2-483106"
   ]
  },
  {
-  "slug": "lace-bow-socks-184941",
-  "code": "BK-AE2607",
-  "name": "Lace Bow Socks",
+  "slug": "sweet-lace-bow-thigh-high-coquette-socks-184941",
+  "code": "BK-AE2603",
+  "name": "Sweet Lace Bow Thigh High Coquette Socks",
   "depts": [
    "women"
   ],
@@ -848710,12 +849057,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008324184941/48c0a2a6acb6.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-bow-socks-184941"
   ]
  },
  {
-  "slug": "stripe-goth-long-sleeve-tee-876938",
-  "code": "BK-AE2608",
-  "name": "Stripe Goth Long Sleeve Tee",
+  "slug": "black-stripe-hooded-emo-v-neck-long-sleeve-tee-876938",
+  "code": "BK-AE2604",
+  "name": "Black Stripe Hooded Emo V Neck Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -848824,15 +849174,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013305876938/309d3e412dd2.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "stripe-goth-long-sleeve-tee-876938"
   ]
  },
  {
-  "slug": "slogan-jacket-276129",
-  "code": "BK-AE2609",
-  "name": "Slogan Jacket",
+  "slug": "pink-letter-print-hot-girl-y2k-zip-up-jacket-276129",
+  "code": "BK-AE2605",
+  "name": "Pink Letter Print Hot Girl Y2K Zip Up Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -848914,12 +849266,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013455276129/d39cafd130ca.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-jacket-276129"
   ]
  },
  {
-  "slug": "knit-hoodie-874263",
-  "code": "BK-AE2610",
-  "name": "Knit Hoodie",
+  "slug": "fair-isle-snowflake-fuzzy-knit-y2k-pom-pom-hoodie-874263",
+  "code": "BK-AE2606",
+  "name": "Fair Isle Snowflake Fuzzy Knit Y2K Pom Pom Hoodie",
   "depts": [
    "women",
    "men"
@@ -849000,17 +849355,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013599874263/43a5220a58d2.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "knit-hoodie-874263"
   ]
  },
  {
-  "slug": "lingerie-123713",
-  "code": "BK-AE2611",
-  "name": "Lingerie",
+  "slug": "seamless-high-waist-y2k-gym-yoga-set-123713",
+  "code": "BK-AE2607",
+  "name": "Seamless High Waist Y2K Gym Yoga Set",
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "corsets-bodysuits",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 59.99,
@@ -850146,15 +850504,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013479123713/93edcb0d0ab1.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lingerie-123713"
   ]
  },
  {
-  "slug": "skull-slogan-zip-hoodie-078962",
-  "code": "BK-AE2612",
-  "name": "Skull Slogan Zip Hoodie",
+  "slug": "black-pink-skull-hood-letter-punk-cropped-zip-hoodie-078962",
+  "code": "BK-AE2608",
+  "name": "Black Pink Skull Hood Letter Punk Cropped Zip Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -850220,12 +850580,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013072078962/b0ec626c61a2.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "skull-slogan-zip-hoodie-078962"
   ]
  },
  {
-  "slug": "kitty-hoodie-088356",
-  "code": "BK-AE2613",
-  "name": "Kitty Hoodie",
+  "slug": "cat-ear-ruffled-harajuku-oversized-hoodie-088356",
+  "code": "BK-AE2609",
+  "name": "Cat Ear Ruffled Harajuku Oversized Hoodie",
   "depts": [
    "women"
   ],
@@ -850328,12 +850691,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008013088356/04fe32b242e6.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "kitty-hoodie-088356"
   ]
  },
  {
-  "slug": "skull-jacket-724216",
-  "code": "BK-AE2614",
-  "name": "Skull Jacket",
+  "slug": "skull-embroidery-harajuku-hooded-zip-up-jacket-724216",
+  "code": "BK-AE2610",
+  "name": "Skull Embroidery Harajuku Hooded Zip Up Jacket",
   "depts": [
    "women",
    "men"
@@ -850394,12 +850760,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010384724216/199452ebfaf4.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "skull-jacket-724216"
   ]
  },
  {
-  "slug": "goth-punk-jacket-7-197113",
-  "code": "BK-AE2615",
-  "name": "Goth Punk Jacket 7",
+  "slug": "red-black-tie-dye-rivet-punk-oversized-zip-hoodie-197113",
+  "code": "BK-AE2611",
+  "name": "Red Black Tie Dye Rivet Punk Oversized Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -850476,12 +850845,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013031197113/0f4be3ee8b22.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-jacket-7-197113"
   ]
  },
  {
-  "slug": "vintage-fitted-cardigan-973052",
-  "code": "BK-AE2616",
-  "name": "Vintage Fitted Cardigan",
+  "slug": "gray-pink-clash-hooded-y2k-short-sleeve-cardigan-973052",
+  "code": "BK-AE2612",
+  "name": "Gray Pink Clash Hooded Y2K Short Sleeve Cardigan",
   "depts": [
    "women"
   ],
@@ -850545,14 +850917,18 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013056973052/c9cac194ef79.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "vintage-fitted-cardigan-973052"
   ]
  },
  {
-  "slug": "kawaii-hoodie-767672",
-  "code": "BK-AE2617",
-  "name": "Kawaii Hoodie",
+  "slug": "twin-maid-anime-print-harajuku-crew-neck-hoodie-767672",
+  "code": "BK-AE2613",
+  "name": "Twin Maid Anime Print Harajuku Crew Neck Hoodie",
   "depts": [
-   "women"
+   "women",
+   "men"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -850646,18 +851022,20 @@
   ],
   "tags": [
    "anime"
+  ],
+  "oldSlugs": [
+   "kawaii-hoodie-767672"
   ]
  },
  {
-  "slug": "fur-jacket-2-437637",
-  "code": "BK-AE2618",
-  "name": "Fur Jacket 2",
+  "slug": "fluffy-faux-fur-hood-y2k-cropped-puffer-jacket-437637",
+  "code": "BK-AE2614",
+  "name": "Fluffy Faux Fur Hood Y2K Cropped Puffer Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
-  "category": "hoodies",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 107.99,
@@ -850840,18 +851218,21 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013036437637/a49036b8ac0c.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-jacket-2-437637"
   ]
  },
  {
-  "slug": "jacket-15-191810",
-  "code": "BK-AE2619",
-  "name": "Jacket 15",
+  "slug": "color-match-velvet-splice-y2k-hooded-jacket-191810",
+  "code": "BK-AE2615",
+  "name": "Color Match Velvet Splice Y2K Hooded Jacket",
   "depts": [
    "women",
    "men"
   ],
   "line": "knits",
-  "category": "hoodies",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 75.99,
@@ -850922,14 +851303,18 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013031191810/5a410b660008.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "jacket-15-191810"
   ]
  },
  {
-  "slug": "kawaii-hoodie-2-516115",
-  "code": "BK-AE2620",
-  "name": "Kawaii Hoodie 2",
+  "slug": "blue-stitch-cosplay-harajuku-cute-hoodie-516115",
+  "code": "BK-AE2616",
+  "name": "Blue Stitch Cosplay Harajuku Cute Hoodie",
   "depts": [
-   "women"
+   "women",
+   "men"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -851003,15 +851388,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007894516115/522729580f8a.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "kawaii-hoodie-2-516115"
   ]
  },
  {
-  "slug": "stripe-zip-hoodie-863331",
-  "code": "BK-AE2621",
-  "name": "Stripe Zip Hoodie",
+  "slug": "pink-stripe-eyelet-coquette-cropped-zip-hoodie-863331",
+  "code": "BK-AE2617",
+  "name": "Pink Stripe Eyelet Coquette Cropped Zip Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -851099,12 +851486,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013084863331/ee4e67b150e9.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "stripe-zip-hoodie-863331"
   ]
  },
  {
-  "slug": "vintage-tank-414007",
-  "code": "BK-AE2622",
-  "name": "Vintage Tank",
+  "slug": "tupac-legends-live-forever-washed-grunge-tank-top-414007",
+  "code": "BK-AE2618",
+  "name": "Tupac Legends Live Forever Washed Grunge Tank Top",
   "depts": [
    "women"
   ],
@@ -852465,15 +852855,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013602414007/033c8c63beae.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "vintage-tank-414007"
   ]
  },
  {
-  "slug": "fur-goth-jacket-028124",
-  "code": "BK-AE2623",
-  "name": "Fur Goth Jacket",
+  "slug": "faux-fur-collar-grunge-hip-hop-zip-up-jacket-028124",
+  "code": "BK-AE2619",
+  "name": "Faux Fur Collar Grunge Hip Hop Zip Up Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -852575,12 +852967,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008090028124/9b8c3eec2e06.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-goth-jacket-028124"
   ]
  },
  {
-  "slug": "stripe-jacket-899787",
-  "code": "BK-AE2624",
-  "name": "Stripe Jacket",
+  "slug": "stripe-hip-hop-punk-vintage-zip-up-jacket-899787",
+  "code": "BK-AE2620",
+  "name": "Stripe Hip Hop Punk Vintage Zip Up Jacket",
   "depts": [
    "women",
    "men"
@@ -852835,12 +853230,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012898899787/2ba497e4c188.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "stripe-jacket-899787"
   ]
  },
  {
-  "slug": "leopard-fur-zip-hoodie-129842",
-  "code": "BK-AE2625",
-  "name": "Leopard Fur Zip Hoodie",
+  "slug": "leopard-fur-collar-punk-graphic-zip-hoodie-129842",
+  "code": "BK-AE2621",
+  "name": "Leopard Fur Collar Punk Graphic Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -853020,27 +853418,22 @@
     "color": "Zong"
    },
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008081129842/6f8d3f53e68b.jpg",
-    "color": "Gray"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008081129842/28433f75f4d1.jpg",
     "color": "Qianhui"
    },
    {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008081129842/aaf8ef0220e6.jpg",
     "color": "White"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008081129842/6f8d3f53e68b.jpg",
-    "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "leopard-fur-zip-hoodie-129842"
   ]
  },
  {
-  "slug": "goth-punk-jacket-8-219971",
-  "code": "BK-AE2626",
-  "name": "Goth Punk Jacket 8",
+  "slug": "black-panther-lining-double-zipper-goth-zip-hoodie-219971",
+  "code": "BK-AE2622",
+  "name": "Black Panther Lining Double Zipper Goth Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -853097,12 +853490,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012890219971/01e998cee188.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-jacket-8-219971"
   ]
  },
  {
-  "slug": "stripe-goth-punk-jacket-824892",
-  "code": "BK-AE2627",
-  "name": "Stripe Goth Punk Jacket",
+  "slug": "striped-hooded-punk-loose-zip-up-jacket-824892",
+  "code": "BK-AE2623",
+  "name": "Striped Hooded Punk Loose Zip Up Jacket",
   "depts": [
    "women",
    "men"
@@ -853175,12 +853571,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013511824892/e19f02da071b.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "stripe-goth-punk-jacket-824892"
   ]
  },
  {
-  "slug": "graphic-goth-punk-zip-hoodie-269784",
-  "code": "BK-AE2628",
-  "name": "Graphic Goth Punk Zip Hoodie",
+  "slug": "gun-graphic-print-goth-hip-hop-zip-hoodie-269784",
+  "code": "BK-AE2624",
+  "name": "Gun Graphic Print Goth Hip Hop Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -853250,10 +853649,6 @@
   },
   "photos": [
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012725269784/ac72afaf2e29.jpg",
-    "color": "*"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012725269784/e20bc921692f.jpg",
     "color": "*"
    },
@@ -853261,18 +853656,21 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012725269784/261139feb673.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "graphic-goth-punk-zip-hoodie-269784"
   ]
  },
  {
-  "slug": "fur-jacket-3-673029",
-  "code": "BK-AE2629",
-  "name": "Fur Jacket 3",
+  "slug": "raccoon-fur-collar-short-down-y2k-puffer-jacket-673029",
+  "code": "BK-AE2625",
+  "name": "Raccoon Fur Collar Short Down Y2K Puffer Jacket",
   "depts": [
    "women",
    "men"
   ],
   "line": "knits",
-  "category": "hoodies",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 248.99,
@@ -853426,15 +853824,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013265673029/937380da8750.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-jacket-3-673029"
   ]
  },
  {
-  "slug": "fur-goth-punk-jacket-546051",
-  "code": "BK-AE2630",
-  "name": "Fur Goth Punk Jacket",
+  "slug": "faux-fur-collar-alphabet-embroidery-punk-zip-jacket-546051",
+  "code": "BK-AE2626",
+  "name": "Faux Fur Collar Alphabet Embroidery Punk Zip Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -853500,12 +853900,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013038546051/5967de1583f9.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-goth-punk-jacket-546051"
   ]
  },
  {
-  "slug": "graphic-goth-hoodie-414800",
-  "code": "BK-AE2631",
-  "name": "Graphic Goth Hoodie",
+  "slug": "graphic-print-grunge-oversized-pullover-hoodie-414800",
+  "code": "BK-AE2627",
+  "name": "Graphic Print Grunge Oversized Pullover Hoodie",
   "depts": [
    "women",
    "men"
@@ -853896,14 +854299,6 @@
   },
   "photos": [
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007661414800/5e1689dc6fc6.jpg",
-    "color": "Black"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007661414800/4b682b60d20a.jpg",
-    "color": "Zangqing"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007661414800/7e2da1f4a71f.jpg",
     "color": "Shenhui"
    },
@@ -853935,18 +854330,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007661414800/6d268ca2a8f3.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "graphic-goth-hoodie-414800"
   ]
  },
  {
-  "slug": "sweatpants-978810",
-  "code": "BK-AE2632",
-  "name": "Sweatpants",
+  "slug": "camo-zip-hoodie-sweatpants-y2k-two-piece-set-978810",
+  "code": "BK-AE2628",
+  "name": "Camo Zip Hoodie Sweatpants Y2K Two Piece Set",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
-  "line": "bottoms",
-  "category": "pants",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 44.99,
@@ -854119,12 +854516,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008089978810/827395585b6d.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "sweatpants-978810"
   ]
  },
  {
-  "slug": "bunny-fur-jacket-429505",
-  "code": "BK-AE2633",
-  "name": "Bunny Fur Jacket",
+  "slug": "rabbit-ears-plush-harajuku-mid-length-coat-429505",
+  "code": "BK-AE2629",
+  "name": "Rabbit Ears Plush Harajuku Mid Length Coat",
   "depts": [
    "women"
   ],
@@ -854385,12 +854785,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007723429505/2a2c69cb6123.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "bunny-fur-jacket-429505"
   ]
  },
  {
-  "slug": "lace-polka-dot-zip-hoodie-951440",
-  "code": "BK-AE2634",
-  "name": "Lace Polka Dot Zip Hoodie",
+  "slug": "polka-dot-music-note-lace-coquette-zip-hoodie-951440",
+  "code": "BK-AE2630",
+  "name": "Polka Dot Music Note Lace Coquette Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -854466,12 +854869,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012365951440/cdb6a7b27e41.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-polka-dot-zip-hoodie-951440"
   ]
  },
  {
-  "slug": "polka-dot-punk-jacket-105765",
-  "code": "BK-AE2635",
-  "name": "Polka Dot Punk Jacket",
+  "slug": "grey-polka-dot-punk-hot-girl-zip-jacket-105765",
+  "code": "BK-AE2631",
+  "name": "Grey Polka Dot Punk Hot Girl Zip Jacket",
   "depts": [
    "women",
    "men"
@@ -854528,12 +854934,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012807105765/9e0692a9ef04.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "polka-dot-punk-jacket-105765"
   ]
  },
  {
-  "slug": "fur-cardigan-738170",
-  "code": "BK-AE2636",
-  "name": "Fur Cardigan",
+  "slug": "fur-collar-slim-grunge-gyaru-cardigan-738170",
+  "code": "BK-AE2632",
+  "name": "Fur Collar Slim Grunge Gyaru Cardigan",
   "depts": [
    "women"
   ],
@@ -854714,12 +855123,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012503738170/35f9284b755f.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-cardigan-738170"
   ]
  },
  {
-  "slug": "lace-corset-lingerie-294100",
-  "code": "BK-AE2637",
-  "name": "Lace Corset Lingerie",
+  "slug": "lace-shapewear-waist-trainer-coquette-corset-top-294100",
+  "code": "BK-AE2633",
+  "name": "Lace Shapewear Waist Trainer Coquette Corset Top",
   "depts": [
    "women"
   ],
@@ -856197,12 +856609,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007054294100/55d5d3c5b50f.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-corset-lingerie-294100"
   ]
  },
  {
-  "slug": "fur-fitted-jacket-260035",
-  "code": "BK-AE2639",
-  "name": "Fur Fitted Jacket",
+  "slug": "faux-fur-collar-slim-hot-girl-y2k-zip-jacket-260035",
+  "code": "BK-AE2634",
+  "name": "Faux Fur Collar Slim Hot Girl Y2K Zip Jacket",
   "depts": [
    "women"
   ],
@@ -856683,12 +857098,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013423260035/b7c3caa272da.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-fitted-jacket-260035"
   ]
  },
  {
-  "slug": "goth-grunge-hoodie-985766",
-  "code": "BK-AE2640",
-  "name": "Goth Grunge Hoodie",
+  "slug": "anime-quintuplets-print-grunge-hip-hop-hoodie-985766",
+  "code": "BK-AE2635",
+  "name": "Anime Quintuplets Print Grunge Hip Hop Hoodie",
   "depts": [
    "women",
    "men"
@@ -856953,12 +857371,15 @@
   ],
   "tags": [
    "anime"
+  ],
+  "oldSlugs": [
+   "goth-grunge-hoodie-985766"
   ]
  },
  {
-  "slug": "cross-skirt-403662",
-  "code": "BK-AE2641",
-  "name": "Cross Skirt",
+  "slug": "black-cross-embroidery-harajuku-pleated-mini-skirt-403662",
+  "code": "BK-AE2636",
+  "name": "Black Cross Embroidery Harajuku Pleated Mini Skirt",
   "depts": [
    "women"
   ],
@@ -857099,12 +857520,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-4001279403662/6ddf651eaee6.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "cross-skirt-403662"
   ]
  },
  {
-  "slug": "goth-grunge-vintage-hoodie-832075",
-  "code": "BK-AE2642",
-  "name": "Goth Grunge Vintage Hoodie",
+  "slug": "mii-print-grunge-oversized-vintage-hoodie-832075",
+  "code": "BK-AE2637",
+  "name": "Mii Print Grunge Oversized Vintage Hoodie",
   "depts": [
    "women",
    "men"
@@ -857498,15 +857922,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012454832075/3ce91b122faa.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-grunge-vintage-hoodie-832075"
   ]
  },
  {
-  "slug": "grunge-zip-hoodie-841710",
-  "code": "BK-AE2643",
-  "name": "Grunge Zip Hoodie",
+  "slug": "pink-asymmetric-metal-buckle-grunge-cropped-zip-hoodie-841710",
+  "code": "BK-AE2638",
+  "name": "Pink Asymmetric Metal Buckle Grunge Cropped Zip Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -857622,12 +858048,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012415841710/685700ed3f5b.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "grunge-zip-hoodie-841710"
   ]
  },
  {
-  "slug": "grunge-hoodie-874145",
-  "code": "BK-AE2644",
-  "name": "Grunge Hoodie",
+  "slug": "sky-blue-grunge-oversized-hip-hop-hoodie-874145",
+  "code": "BK-AE2639",
+  "name": "Sky Blue Grunge Oversized Hip Hop Hoodie",
   "depts": [
    "women",
    "men"
@@ -857720,18 +858149,21 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012313874145/759dbb79395e.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "grunge-hoodie-874145"
   ]
  },
  {
-  "slug": "pants-276969",
-  "code": "BK-AE2645",
-  "name": "Pants",
+  "slug": "anime-3d-print-harajuku-loose-zip-hoodie-276969",
+  "code": "BK-AE2640",
+  "name": "Anime 3D Print Harajuku Loose Zip Hoodie",
   "depts": [
    "women",
    "men"
   ],
-  "line": "bottoms",
-  "category": "pants",
+  "line": "knits",
+  "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
   "price": 59.99,
@@ -858618,12 +859050,15 @@
   ],
   "tags": [
    "anime"
+  ],
+  "oldSlugs": [
+   "pants-276969"
   ]
  },
  {
-  "slug": "goth-fitted-zip-hoodie-363065",
-  "code": "BK-AE2646",
-  "name": "Goth Fitted Zip Hoodie",
+  "slug": "black-oversized-zipper-goth-slim-zip-hoodie-363065",
+  "code": "BK-AE2641",
+  "name": "Black Oversized Zipper Goth Slim Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -858747,14 +859182,18 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012184363065/112968bfd227.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-fitted-zip-hoodie-363065"
   ]
  },
  {
-  "slug": "kitty-vintage-zip-hoodie-458279",
-  "code": "BK-AE2647",
-  "name": "Kitty Vintage Zip Hoodie",
+  "slug": "blue-rainbow-cat-ear-y2k-oversized-zip-hoodie-458279",
+  "code": "BK-AE2642",
+  "name": "Blue Rainbow Cat Ear Y2K Oversized Zip Hoodie",
   "depts": [
-   "women"
+   "women",
+   "men"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -859053,12 +859492,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012188458279/9614daec2a9b.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "kitty-vintage-zip-hoodie-458279"
   ]
  },
  {
-  "slug": "goth-grunge-zip-hoodie-237646",
-  "code": "BK-AE2648",
-  "name": "Goth Grunge Zip Hoodie",
+  "slug": "anime-print-grunge-oversized-zip-hoodie-237646",
+  "code": "BK-AE2643",
+  "name": "Anime Print Grunge Oversized Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -859719,12 +860161,15 @@
   ],
   "tags": [
    "anime"
+  ],
+  "oldSlugs": [
+   "goth-grunge-zip-hoodie-237646"
   ]
  },
  {
-  "slug": "star-zip-hoodie-455790",
-  "code": "BK-AE2649",
-  "name": "Star Zip Hoodie",
+  "slug": "star-splice-jojo-harajuku-oversized-zip-hoodie-455790",
+  "code": "BK-AE2644",
+  "name": "Star Splice Jojo Harajuku Oversized Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -859817,12 +860262,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011954455790/1b2d39ec6559.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "star-zip-hoodie-455790"
   ]
  },
  {
-  "slug": "plaid-zip-hoodie-967402",
-  "code": "BK-AE2650",
-  "name": "Plaid Zip Hoodie",
+  "slug": "reversible-plaid-retro-y2k-zip-hoodie-967402",
+  "code": "BK-AE2645",
+  "name": "Reversible Plaid Retro Y2K Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -860216,12 +860664,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011813967402/706d5da1715b.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "plaid-zip-hoodie-967402"
   ]
  },
  {
-  "slug": "angel-sequin-zip-hoodie-371280",
-  "code": "BK-AE2651",
-  "name": "Angel Sequin Zip Hoodie",
+  "slug": "gray-sparkly-sequin-angel-wing-y2k-zip-hoodie-371280",
+  "code": "BK-AE2646",
+  "name": "Gray Sparkly Sequin Angel Wing Y2K Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -861424,15 +861875,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013030371280/9157c5410e82.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "angel-sequin-zip-hoodie-371280"
   ]
  },
  {
-  "slug": "zebra-jacket-615155",
-  "code": "BK-AE2652",
-  "name": "Zebra Jacket",
+  "slug": "zebra-print-pink-stitch-y2k-oversized-hooded-jacket-615155",
+  "code": "BK-AE2647",
+  "name": "Zebra Print Pink Stitch Y2K Oversized Hooded Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -861514,12 +861967,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013307615155/5945a0e7a1ee.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "zebra-jacket-615155"
   ]
  },
  {
-  "slug": "stripe-punk-jacket-213010",
-  "code": "BK-AE2653",
-  "name": "Stripe Punk Jacket",
+  "slug": "purple-stripe-punk-loose-zip-up-coat-213010",
+  "code": "BK-AE2648",
+  "name": "Purple Stripe Punk Loose Zip Up Coat",
   "depts": [
    "women",
    "men"
@@ -861596,12 +862052,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011645213010/4b5e10693d5a.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "stripe-punk-jacket-213010"
   ]
  },
  {
-  "slug": "goth-vintage-jacket-034480",
-  "code": "BK-AE2654",
-  "name": "Goth Vintage Jacket",
+  "slug": "black-turn-down-collar-goth-multi-pocket-jacket-034480",
+  "code": "BK-AE2649",
+  "name": "Black Turn Down Collar Goth Multi Pocket Jacket",
   "depts": [
    "women",
    "men"
@@ -861783,12 +862242,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011744034480/542ccf137f1a.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-vintage-jacket-034480"
   ]
  },
  {
-  "slug": "lace-sexy-socks-3-148149",
-  "code": "BK-AE2655",
-  "name": "Lace Sexy Socks 3",
+  "slug": "black-white-lace-thigh-high-y2k-warm-boot-socks-148149",
+  "code": "BK-AE2650",
+  "name": "Black White Lace Thigh High Y2K Warm Boot Socks",
   "depts": [
    "women"
   ],
@@ -861878,12 +862340,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009645148149/e85e2452eeb9.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-sexy-socks-3-148149"
   ]
  },
  {
-  "slug": "leopard-fur-zip-hoodie-2-922051",
-  "code": "BK-AE2656",
-  "name": "Leopard Fur Zip Hoodie 2",
+  "slug": "leopard-faux-fur-hood-y2k-cropped-zip-hoodie-922051",
+  "code": "BK-AE2651",
+  "name": "Leopard Faux Fur Hood Y2K Cropped Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -861967,12 +862432,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011611922051/30b0eecde1f8.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "leopard-fur-zip-hoodie-2-922051"
   ]
  },
  {
-  "slug": "goth-fitted-jacket-975522",
-  "code": "BK-AE2657",
-  "name": "Goth Fitted Jacket",
+  "slug": "black-double-zip-goth-slim-moto-jacket-975522",
+  "code": "BK-AE2652",
+  "name": "Black Double Zip Goth Slim Moto Jacket",
   "depts": [
    "women"
   ],
@@ -862083,17 +862551,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011525975522/2e606867734b.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-fitted-jacket-975522"
   ]
  },
  {
-  "slug": "sexy-wig-449207",
-  "code": "BK-AE2658",
-  "name": "Sexy Wig",
+  "slug": "asuka-rock-band-cosplay-punk-crop-top-449207",
+  "code": "BK-AE2653",
+  "name": "Asuka Rock Band Cosplay Punk Crop Top",
   "depts": [
    "women"
   ],
-  "line": "accessories",
-  "category": "hair",
+  "line": "tops",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 206.99,
@@ -862262,15 +862733,17 @@
   ],
   "tags": [
    "anime"
+  ],
+  "oldSlugs": [
+   "sexy-wig-449207"
   ]
  },
  {
-  "slug": "fur-goth-emo-jacket-057836",
-  "code": "BK-AE2659",
-  "name": "Fur Goth Emo Jacket",
+  "slug": "plush-fur-collar-goth-hooded-lazy-coat-057836",
+  "code": "BK-AE2654",
+  "name": "Plush Fur Collar Goth Hooded Lazy Coat",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -862380,12 +862853,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009784057836/f6aa9d60bbfb.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-goth-emo-jacket-057836"
   ]
  },
  {
-  "slug": "angel-fur-cardigan-972722",
-  "code": "BK-AE2660",
-  "name": "Angel Fur Cardigan",
+  "slug": "angel-sword-plush-fur-collar-emo-hooded-cardigan-972722",
+  "code": "BK-AE2655",
+  "name": "Angel Sword Plush Fur Collar Emo Hooded Cardigan",
   "depts": [
    "women"
   ],
@@ -862493,12 +862969,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009783972722/35d8ba9628c6.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "angel-fur-cardigan-972722"
   ]
  },
  {
-  "slug": "zip-hoodie-77-101027",
-  "code": "BK-AE2661",
-  "name": "Zip Hoodie 77",
+  "slug": "blue-retro-carpet-print-y2k-oversized-zip-hoodie-101027",
+  "code": "BK-AE2656",
+  "name": "Blue Retro Carpet Print Y2K Oversized Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -862575,12 +863054,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010271101027/64a3fa7637e0.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "zip-hoodie-77-101027"
   ]
  },
  {
-  "slug": "sunglasses-938410",
-  "code": "BK-AE2662",
-  "name": "Sunglasses",
+  "slug": "rimless-oval-gradient-purple-y2k-sunglasses-938410",
+  "code": "BK-AE2657",
+  "name": "Rimless Oval Gradient Purple Y2K Sunglasses",
   "depts": [
    "women",
    "men"
@@ -862874,12 +863356,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013369938410/a3628a0d954f.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "sunglasses-938410"
   ]
  },
  {
-  "slug": "fur-corset-zip-hoodie-418398",
-  "code": "BK-AE2663",
-  "name": "Fur Corset Zip Hoodie",
+  "slug": "fur-hem-cyber-punk-corset-zip-hoodie-418398",
+  "code": "BK-AE2658",
+  "name": "Fur Hem Cyber Punk Corset Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -862955,12 +863440,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007996418398/7b64c3785124.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-corset-zip-hoodie-418398"
   ]
  },
  {
-  "slug": "skull-hoodie-057777",
-  "code": "BK-AE2664",
-  "name": "Skull Hoodie",
+  "slug": "retro-skull-print-grunge-pullover-hoodie-057777",
+  "code": "BK-AE2659",
+  "name": "Retro Skull Print Grunge Pullover Hoodie",
   "depts": [
    "women",
    "men"
@@ -863207,15 +863695,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008149057777/7c266d4d0c87.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "skull-hoodie-057777"
   ]
  },
  {
-  "slug": "vintage-zip-hoodie-25-950538",
-  "code": "BK-AE2665",
-  "name": "Vintage Zip Hoodie 25",
+  "slug": "white-basic-big-pocket-y2k-cropped-zip-hoodie-950538",
+  "code": "BK-AE2660",
+  "name": "White Basic Big Pocket Y2K Cropped Zip Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -863289,12 +863779,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006604950538/7be3e654089a.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "vintage-zip-hoodie-25-950538"
   ]
  },
  {
-  "slug": "bunny-fur-kawaii-jacket-318241",
-  "code": "BK-AE2666",
-  "name": "Bunny Fur Kawaii Jacket",
+  "slug": "bunny-ear-fluffy-faux-fur-y2k-hooded-coat-318241",
+  "code": "BK-AE2661",
+  "name": "Bunny Ear Fluffy Faux Fur Y2K Hooded Coat",
   "depts": [
    "women"
   ],
@@ -863403,12 +863896,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007088318241/30cde7b18a20.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "bunny-fur-kawaii-jacket-318241"
   ]
  },
  {
-  "slug": "cross-fitted-jacket-062851",
-  "code": "BK-AE2667",
-  "name": "Cross Fitted Jacket",
+  "slug": "navy-cross-embroidery-side-tape-goth-fitted-jacket-062851",
+  "code": "BK-AE2662",
+  "name": "Navy Cross Embroidery Side Tape Goth Fitted Jacket",
   "depts": [
    "women"
   ],
@@ -863488,12 +863984,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013184062851/7bb49eb0f578.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "cross-fitted-jacket-062851"
   ]
  },
  {
-  "slug": "zip-hoodie-78-702184",
-  "code": "BK-AE2668",
-  "name": "Zip Hoodie 78",
+  "slug": "blue-white-stitch-y2k-winter-zip-hoodie-702184",
+  "code": "BK-AE2663",
+  "name": "Blue White Stitch Y2K Winter Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -863605,12 +864104,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010571702184/a78a9cc65617.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "zip-hoodie-78-702184"
   ]
  },
  {
-  "slug": "kitty-kawaii-jacket-066606",
-  "code": "BK-AE2669",
-  "name": "Kitty Kawaii Jacket",
+  "slug": "blue-white-cat-ear-ruffle-strap-coquette-zip-jacket-066606",
+  "code": "BK-AE2664",
+  "name": "Blue White Cat Ear Ruffle Strap Coquette Zip Jacket",
   "depts": [
    "women"
   ],
@@ -863686,17 +864188,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013040066606/f6297afb0049.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "kitty-kawaii-jacket-066606"
   ]
  },
  {
-  "slug": "baby-tee-6-097903",
-  "code": "BK-AE2670",
-  "name": "Baby Tee 6",
+  "slug": "haunted-mound-embroidery-grunge-polo-shirt-097903",
+  "code": "BK-AE2665",
+  "name": "Haunted Mound Embroidery Grunge Polo Shirt",
   "depts": [
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "blouses",
   "design": "ae",
   "drop": "drop7",
   "price": 44.99,
@@ -863912,12 +864417,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008219097903/aa1b3542f3ab.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "baby-tee-6-097903"
   ]
  },
  {
-  "slug": "bunny-lace-jacket-431507",
-  "code": "BK-AE2671",
-  "name": "Bunny Lace Jacket",
+  "slug": "polka-dot-rabbit-ear-bow-lace-coquette-zip-jacket-431507",
+  "code": "BK-AE2666",
+  "name": "Polka Dot Rabbit Ear Bow Lace Coquette Zip Jacket",
   "depts": [
    "women"
   ],
@@ -863981,12 +864489,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011734431507/e602f267f7a8.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "bunny-lace-jacket-431507"
   ]
  },
  {
-  "slug": "graphic-goth-jacket-985249",
-  "code": "BK-AE2672",
-  "name": "Graphic Goth Jacket",
+  "slug": "graphic-print-hip-hop-goth-hooded-jacket-985249",
+  "code": "BK-AE2667",
+  "name": "Graphic Print Hip Hop Goth Hooded Jacket",
   "depts": [
    "women",
    "men"
@@ -864119,10 +864630,6 @@
     "color": "Zong"
    },
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009734985249/c4494b248dac.jpg",
-    "color": "Gray"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009734985249/d3c10893d2b8.jpg",
     "color": "White"
    },
@@ -864130,12 +864637,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009734985249/db5b8d8658a5.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "graphic-goth-jacket-985249"
   ]
  },
  {
-  "slug": "vintage-jacket-6-518910",
-  "code": "BK-AE2673",
-  "name": "Vintage Jacket 6",
+  "slug": "purple-smoke-print-vintage-y2k-hoodie-518910",
+  "code": "BK-AE2668",
+  "name": "Purple Smoke Print Vintage Y2K Hoodie",
   "depts": [
    "women",
    "men"
@@ -864261,14 +864771,6 @@
   },
   "photos": [
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010597518910/15e684c2aea6.jpg",
-    "color": "Purple"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010597518910/a69b7e4c3af5.jpg",
-    "color": "White"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010597518910/d05c651f9fe4.jpg",
     "color": "Black"
    },
@@ -864276,12 +864778,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010597518910/24667e3fef63.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "vintage-jacket-6-518910"
   ]
  },
  {
-  "slug": "fur-jewelry-751927",
-  "code": "BK-AE2674",
-  "name": "Fur Jewelry",
+  "slug": "fluffy-fox-tail-y2k-bag-charm-jewelry-751927",
+  "code": "BK-AE2669",
+  "name": "Fluffy Fox Tail Y2K Bag Charm Jewelry",
   "depts": [
    "women"
   ],
@@ -864686,12 +865191,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009114751927/7f1da9c5952b.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-jewelry-751927"
   ]
  },
  {
-  "slug": "stripe-punk-fitted-jacket-032990",
-  "code": "BK-AE2675",
-  "name": "Stripe Punk Fitted Jacket",
+  "slug": "striped-hooded-punk-slim-short-zip-jacket-032990",
+  "code": "BK-AE2670",
+  "name": "Striped Hooded Punk Slim Short Zip Jacket",
   "depts": [
    "women"
   ],
@@ -864767,12 +865275,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013138032990/8bb1ec733ab3.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "stripe-punk-fitted-jacket-032990"
   ]
  },
  {
-  "slug": "goth-punk-grunge-cow-jacket-673130",
-  "code": "BK-AE2676",
-  "name": "Goth Punk Grunge Cow Jacket",
+  "slug": "cowl-neck-grunge-vintage-zip-up-jacket-673130",
+  "code": "BK-AE2671",
+  "name": "Cowl Neck Grunge Vintage Zip Up Jacket",
   "depts": [
    "women",
    "men"
@@ -864841,15 +865352,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013390673130/87ae3aa31ba9.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-grunge-cow-jacket-673130"
   ]
  },
  {
-  "slug": "punk-zip-hoodie-4-394392",
-  "code": "BK-AE2677",
-  "name": "Punk Zip Hoodie 4",
+  "slug": "chunky-zipper-detail-neon-pink-punk-zip-hoodie-394392",
+  "code": "BK-AE2672",
+  "name": "Chunky Zipper Detail Neon Pink Punk Zip Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -864967,12 +865480,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012097394392/f912e8e616e5.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "punk-zip-hoodie-4-394392"
   ]
  },
  {
-  "slug": "floral-knit-long-sleeve-tee-636301",
-  "code": "BK-AE2678",
-  "name": "Floral Knit Long Sleeve Tee",
+  "slug": "floral-print-contrast-trim-y2k-raglan-long-sleeve-tee-636301",
+  "code": "BK-AE2673",
+  "name": "Floral Print Contrast Trim Y2K Raglan Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -865083,12 +865599,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012739636301/3fdbec09ccae.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "floral-knit-long-sleeve-tee-636301"
   ]
  },
  {
-  "slug": "stripe-vintage-zip-hoodie-252047",
-  "code": "BK-AE2679",
-  "name": "Stripe Vintage Zip Hoodie",
+  "slug": "purple-stripe-print-vintage-harajuku-zip-hoodie-252047",
+  "code": "BK-AE2674",
+  "name": "Purple Stripe Print Vintage Harajuku Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -865425,15 +865944,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010611252047/b1a55857029c.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "stripe-vintage-zip-hoodie-252047"
   ]
  },
  {
-  "slug": "stripe-goth-hoodie-521652",
-  "code": "BK-AE2680",
-  "name": "Stripe Goth Hoodie",
+  "slug": "striped-punk-rock-slim-fit-hoodie-521652",
+  "code": "BK-AE2675",
+  "name": "Striped Punk Rock Slim Fit Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -865487,12 +866008,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013590521652/87ac50436894.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "stripe-goth-hoodie-521652"
   ]
  },
  {
-  "slug": "zip-hoodie-79-043995",
-  "code": "BK-AE2681",
-  "name": "Zip Hoodie 79",
+  "slug": "solid-black-oversized-harajuku-zip-hoodie-043995",
+  "code": "BK-AE2676",
+  "name": "Solid Black Oversized Harajuku Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -865674,12 +866198,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012239043995/eab45f335918.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "zip-hoodie-79-043995"
   ]
  },
  {
-  "slug": "lace-socks-2-606787",
-  "code": "BK-AE2682",
-  "name": "Lace Socks 2",
+  "slug": "black-white-lace-over-knee-goth-socks-606787",
+  "code": "BK-AE2677",
+  "name": "Black White Lace Over Knee Goth Socks",
   "depts": [
    "women"
   ],
@@ -865758,15 +866285,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009733606787/fedf1c360094.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-socks-2-606787"
   ]
  },
  {
-  "slug": "punk-vintage-jacket-842017",
-  "code": "BK-AE2683",
-  "name": "Punk Vintage Jacket",
+  "slug": "camo-pocket-punk-slim-cropped-coat-842017",
+  "code": "BK-AE2678",
+  "name": "Camo Pocket Punk Slim Cropped Coat",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -865848,12 +866377,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013108842017/8c9c806c4bc2.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "punk-vintage-jacket-842017"
   ]
  },
  {
-  "slug": "graphic-goth-vintage-zip-hoodie-551813",
-  "code": "BK-AE2684",
-  "name": "Graphic Goth Vintage Zip Hoodie",
+  "slug": "katseye-graphic-print-goth-vintage-zip-hoodie-551813",
+  "code": "BK-AE2679",
+  "name": "Katseye Graphic Print Goth Vintage Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -866678,12 +867210,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010470551813/8cf3c4ca5357.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "graphic-goth-vintage-zip-hoodie-551813"
   ]
  },
  {
-  "slug": "stripe-punk-cardigan-578828",
-  "code": "BK-AE2685",
-  "name": "Stripe Punk Cardigan",
+  "slug": "striped-slim-fit-grunge-hooded-cardigan-578828",
+  "code": "BK-AE2680",
+  "name": "Striped Slim Fit Grunge Hooded Cardigan",
   "depts": [
    "women"
   ],
@@ -866789,10 +867324,6 @@
   },
   "photos": [
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010321578828/973c784b052a.jpg",
-    "color": "Purple"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010321578828/fc576e3d9388.jpg",
     "color": "Black1"
    },
@@ -866804,12 +867335,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010321578828/f0c2d4f2684b.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "stripe-punk-cardigan-578828"
   ]
  },
  {
-  "slug": "fur-kawaii-jacket-903844",
-  "code": "BK-AE2686",
-  "name": "Fur Kawaii Jacket",
+  "slug": "white-oversized-faux-fur-cute-y2k-hooded-coat-903844",
+  "code": "BK-AE2681",
+  "name": "White Oversized Faux Fur Cute Y2K Hooded Coat",
   "depts": [
    "women"
   ],
@@ -866933,18 +867467,21 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007035903844/f34dee493c41.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-kawaii-jacket-903844"
   ]
  },
  {
-  "slug": "punk-vintage-jacket-2-061427",
-  "code": "BK-AE2687",
-  "name": "Punk Vintage Jacket 2",
+  "slug": "white-washed-rivet-button-punk-bomber-jacket-061427",
+  "code": "BK-AE2682",
+  "name": "White Washed Rivet Button Punk Bomber Jacket",
   "depts": [
    "women",
    "men"
   ],
   "line": "knits",
-  "category": "hoodies",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 68.99,
@@ -867003,12 +867540,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012899061427/59c0b7b77946.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "punk-vintage-jacket-2-061427"
   ]
  },
  {
-  "slug": "plaid-goth-jacket-429267",
-  "code": "BK-AE2688",
-  "name": "Plaid Goth Jacket",
+  "slug": "purple-black-plaid-grunge-hooded-zip-jacket-429267",
+  "code": "BK-AE2683",
+  "name": "Purple Black Plaid Grunge Hooded Zip Jacket",
   "depts": [
    "women",
    "men"
@@ -867065,12 +867605,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013579429267/107a333ea3a5.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "plaid-goth-jacket-429267"
   ]
  },
  {
-  "slug": "cherry-floral-jacket-098400",
-  "code": "BK-AE2689",
-  "name": "Cherry Floral Jacket",
+  "slug": "cherry-blossom-embroidered-harajuku-hooded-zip-jacket-098400",
+  "code": "BK-AE2684",
+  "name": "Cherry Blossom Embroidered Harajuku Hooded Zip Jacket",
   "depts": [
    "women"
   ],
@@ -867291,12 +867834,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010315098400/68b6854a3ebb.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "cherry-floral-jacket-098400"
   ]
  },
  {
-  "slug": "jewelry-910540",
-  "code": "BK-AE2690",
-  "name": "Jewelry",
+  "slug": "sterling-silver-warrior-helmet-y2k-charm-jewelry-910540",
+  "code": "BK-AE2685",
+  "name": "Sterling Silver Warrior Helmet Y2K Charm Jewelry",
   "depts": [
    "women"
   ],
@@ -867893,15 +868439,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012395910540/ddf519037a7f.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "jewelry-910540"
   ]
  },
  {
-  "slug": "floral-punk-jacket-040689",
-  "code": "BK-AE2691",
-  "name": "Floral Punk Jacket",
+  "slug": "flower-embroidered-camo-punk-cropped-zip-jacket-040689",
+  "code": "BK-AE2686",
+  "name": "Flower Embroidered Camo Punk Cropped Zip Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -868025,12 +868573,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013282040689/dc8cce599f81.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "floral-punk-jacket-040689"
   ]
  },
  {
-  "slug": "fur-fitted-baby-tee-856283",
-  "code": "BK-AE2692",
-  "name": "Fur Fitted Baby Tee",
+  "slug": "black-velvet-fur-collar-y2k-fitted-baby-tee-856283",
+  "code": "BK-AE2687",
+  "name": "Black Velvet Fur Collar Y2K Fitted Baby Tee",
   "depts": [
    "women"
   ],
@@ -868086,12 +868637,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012871856283/16e1c14ce265.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-fitted-baby-tee-856283"
   ]
  },
  {
-  "slug": "fur-goth-vintage-jacket-982954",
-  "code": "BK-AE2693",
-  "name": "Fur Goth Vintage Jacket",
+  "slug": "cartoon-print-fur-goth-loose-zip-up-jacket-982954",
+  "code": "BK-AE2688",
+  "name": "Cartoon Print Fur Goth Loose Zip Up Jacket",
   "depts": [
    "women",
    "men"
@@ -868233,12 +868787,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010219982954/039ca7091cc6.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-goth-vintage-jacket-982954"
   ]
  },
  {
-  "slug": "lace-floral-gloves-100678",
-  "code": "BK-AE2694",
-  "name": "Lace Floral Gloves",
+  "slug": "black-floral-lace-ribbon-tie-goth-fingerless-gloves-100678",
+  "code": "BK-AE2689",
+  "name": "Black Floral Lace Ribbon Tie Goth Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -868317,12 +868874,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013504100678/b9d9c7b03c94.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-floral-gloves-100678"
   ]
  },
  {
-  "slug": "leopard-fur-slogan-zip-hoodie-683819",
-  "code": "BK-AE2695",
-  "name": "Leopard Fur Slogan Zip Hoodie",
+  "slug": "leopard-faux-fur-hood-letter-y2k-slim-zip-hoodie-683819",
+  "code": "BK-AE2690",
+  "name": "Leopard Faux Fur Hood Letter Y2K Slim Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -868583,12 +869143,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013148683819/59775893718c.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "leopard-fur-slogan-zip-hoodie-683819"
   ]
  },
  {
-  "slug": "bunny-heart-jacket-769135",
-  "code": "BK-AE2696",
-  "name": "Bunny Heart Jacket",
+  "slug": "striped-bunny-ears-broken-heart-emo-zip-jacket-769135",
+  "code": "BK-AE2691",
+  "name": "Striped Bunny Ears Broken Heart Emo Zip Jacket",
   "depts": [
    "women"
   ],
@@ -868668,12 +869231,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013252769135/4884870b6909.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "bunny-heart-jacket-769135"
   ]
  },
  {
-  "slug": "goth-hoodie-2-723358",
-  "code": "BK-AE2697",
-  "name": "Goth Hoodie 2",
+  "slug": "solid-color-goth-street-warm-hoodie-723358",
+  "code": "BK-AE2692",
+  "name": "Solid Color Goth Street Warm Hoodie",
   "depts": [
    "women",
    "men"
@@ -868730,12 +869296,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012995723358/b7a179551fce.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-hoodie-2-723358"
   ]
  },
  {
-  "slug": "knit-fitted-cardigan-417135",
-  "code": "BK-AE2698",
-  "name": "Knit Fitted Cardigan",
+  "slug": "small-lapel-long-knit-y2k-slim-cardigan-417135",
+  "code": "BK-AE2693",
+  "name": "Small Lapel Long Knit Y2K Slim Cardigan",
   "depts": [
    "women"
   ],
@@ -868867,12 +869436,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010026417135/c6af66909c7b.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "knit-fitted-cardigan-417135"
   ]
  },
  {
-  "slug": "goth-punk-long-sleeve-tee-920410",
-  "code": "BK-AE2699",
-  "name": "Goth Punk Long Sleeve Tee",
+  "slug": "silver-buckle-hooded-punk-slim-long-sleeve-tee-920410",
+  "code": "BK-AE2694",
+  "name": "Silver Buckle Hooded Punk Slim Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -868956,18 +869528,21 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013165920410/3bc4b01bfbbe.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-long-sleeve-tee-920410"
   ]
  },
  {
-  "slug": "sunglasses-2-588768",
-  "code": "BK-AE2700",
-  "name": "Sunglasses 2",
+  "slug": "sunglasses-hood-y2k-high-street-zip-hoodie-588768",
+  "code": "BK-AE2695",
+  "name": "Sunglasses Hood Y2K High Street Zip Hoodie",
   "depts": [
    "women",
    "men"
   ],
-  "line": "accessories",
-  "category": "belts",
+  "line": "knits",
+  "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
   "price": 62.99,
@@ -869254,12 +869829,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010273588768/64cb29fccca7.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "sunglasses-2-588768"
   ]
  },
  {
-  "slug": "skull-fur-jacket-090940",
-  "code": "BK-AE2701",
-  "name": "Skull Fur Jacket",
+  "slug": "skull-embroidery-fur-collar-padded-y2k-coat-090940",
+  "code": "BK-AE2696",
+  "name": "Skull Embroidery Fur Collar Padded Y2K Coat",
   "depts": [
    "women",
    "men"
@@ -869344,12 +869922,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010242090940/706cbb23a9a5.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "skull-fur-jacket-090940"
   ]
  },
  {
-  "slug": "zip-hoodie-80-624357",
-  "code": "BK-AE2702",
-  "name": "Zip Hoodie 80",
+  "slug": "high-collar-loose-harajuku-zip-hoodie-624357",
+  "code": "BK-AE2697",
+  "name": "High Collar Loose Harajuku Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -869430,12 +870011,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010580624357/bb71cab8a373.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "zip-hoodie-80-624357"
   ]
  },
  {
-  "slug": "goth-punk-jacket-9-904715",
-  "code": "BK-AE2703",
-  "name": "Goth Punk Jacket 9",
+  "slug": "black-dark-print-punk-rock-loose-zip-hoodie-904715",
+  "code": "BK-AE2698",
+  "name": "Black Dark Print Punk Rock Loose Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -869504,12 +870088,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010159904715/dd27ec489456.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-jacket-9-904715"
   ]
  },
  {
-  "slug": "slogan-jacket-2-953316",
-  "code": "BK-AE2704",
-  "name": "Slogan Jacket 2",
+  "slug": "red-letter-patch-oversized-y2k-zip-hoodie-953316",
+  "code": "BK-AE2699",
+  "name": "Red Letter Patch Oversized Y2K Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -869883,12 +870470,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010543953316/06db99623986.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-jacket-2-953316"
   ]
  },
  {
-  "slug": "vintage-zip-hoodie-26-277480",
-  "code": "BK-AE2705",
-  "name": "Vintage Zip Hoodie 26",
+  "slug": "zipper-pocket-hottie-vintage-y2k-zip-hoodie-277480",
+  "code": "BK-AE2700",
+  "name": "Zipper Pocket Hottie Vintage Y2K Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -870028,12 +870618,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010500277480/97cb96a73545.jpeg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "vintage-zip-hoodie-26-277480"
   ]
  },
  {
-  "slug": "slogan-emo-hoodie-2-410796",
-  "code": "BK-AE2706",
-  "name": "Slogan Emo Hoodie 2",
+  "slug": "dark-unique-letter-print-emo-hoodie-410796",
+  "code": "BK-AE2701",
+  "name": "Dark Unique Letter Print Emo Hoodie",
   "depts": [
    "women",
    "men"
@@ -870106,14 +870699,18 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010241410796/5bcd66faba38.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "slogan-emo-hoodie-2-410796"
   ]
  },
  {
-  "slug": "fur-fitted-jacket-2-374962",
-  "code": "BK-AE2707",
-  "name": "Fur Fitted Jacket 2",
+  "slug": "wing-pattern-fur-collar-hot-girl-y2k-zip-hoodie-374962",
+  "code": "BK-AE2702",
+  "name": "Wing Pattern Fur Collar Hot Girl Y2K Zip Hoodie",
   "depts": [
-   "women"
+   "women",
+   "men"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -870171,15 +870768,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010400374962/384ddcb90f7c.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-fitted-jacket-2-374962"
   ]
  },
  {
-  "slug": "fur-vintage-jacket-2-903392",
-  "code": "BK-AE2708",
-  "name": "Fur Vintage Jacket 2",
+  "slug": "faux-fur-lined-cozy-fleece-y2k-zip-hoodie-903392",
+  "code": "BK-AE2703",
+  "name": "Faux Fur Lined Cozy Fleece Y2K Zip Hoodie",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "hoodies",
@@ -870241,17 +870840,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010537903392/2567e11da5bd.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-vintage-jacket-2-903392"
   ]
  },
  {
-  "slug": "goth-fitted-jacket-2-755898",
-  "code": "BK-AE2709",
-  "name": "Goth Fitted Jacket 2",
+  "slug": "blue-frayed-edge-goth-slim-hooded-parka-jacket-755898",
+  "code": "BK-AE2704",
+  "name": "Blue Frayed Edge Goth Slim Hooded Parka Jacket",
   "depts": [
    "women"
   ],
   "line": "knits",
-  "category": "hoodies",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 99.99,
@@ -870423,15 +871025,17 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010457755898/758329800d37.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-fitted-jacket-2-755898"
   ]
  },
  {
-  "slug": "fur-goth-punk-vintage-jacket-908088",
-  "code": "BK-AE2710",
-  "name": "Fur Goth Punk Vintage Jacket",
+  "slug": "studded-fur-collar-black-punk-slim-zip-jacket-908088",
+  "code": "BK-AE2705",
+  "name": "Studded Fur Collar Black Punk Slim Zip Jacket",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "knits",
   "category": "jackets",
@@ -870650,12 +871254,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010423908088/d38d8abfb6fd.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fur-goth-punk-vintage-jacket-908088"
   ]
  },
  {
-  "slug": "jewelry-2-052731",
-  "code": "BK-AE2711",
-  "name": "Jewelry 2",
+  "slug": "titanium-natural-stone-punk-labret-stud-jewelry-052731",
+  "code": "BK-AE2706",
+  "name": "Titanium Natural Stone Punk Labret Stud Jewelry",
   "depts": [
    "women"
   ],
@@ -870796,12 +871403,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008517052731/8ae1a3c3d1e6.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "jewelry-2-052731"
   ]
  },
  {
-  "slug": "vintage-fitted-jacket-2-758767",
-  "code": "BK-AE2712",
-  "name": "Vintage Fitted Jacket 2",
+  "slug": "plush-hooded-slim-classic-y2k-zip-hoodie-758767",
+  "code": "BK-AE2707",
+  "name": "Plush Hooded Slim Classic Y2K Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -870865,12 +871475,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010339758767/786311f33b8d.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "vintage-fitted-jacket-2-758767"
   ]
  },
  {
-  "slug": "skull-goth-hoodie-984818",
-  "code": "BK-AE2713",
-  "name": "Skull Goth Hoodie",
+  "slug": "skull-print-plus-velvet-rock-goth-hoodie-984818",
+  "code": "BK-AE2708",
+  "name": "Skull Print Plus Velvet Rock Goth Hoodie",
   "depts": [
    "women",
    "men"
@@ -870955,12 +871568,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010391984818/5c0f42446c63.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "skull-goth-hoodie-984818"
   ]
  },
  {
-  "slug": "leopard-fur-punk-zip-hoodie-593207",
-  "code": "BK-AE2714",
-  "name": "Leopard Fur Punk Zip Hoodie",
+  "slug": "leopard-fur-collar-wing-pattern-punk-zip-hoodie-593207",
+  "code": "BK-AE2709",
+  "name": "Leopard Fur Collar Wing Pattern Punk Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -871015,17 +871631,16 @@
    {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010407593207/143f3aabf150.jpg",
     "color": "*"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010407593207/06a507ce7646.jpg",
-    "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "leopard-fur-punk-zip-hoodie-593207"
   ]
  },
  {
-  "slug": "goth-knit-leg-warmers-267781",
-  "code": "BK-AE2715",
-  "name": "Goth Knit Leg Warmers",
+  "slug": "thin-knit-goth-ankle-leg-warmers-267781",
+  "code": "BK-AE2710",
+  "name": "Thin Knit Goth Ankle Leg Warmers",
   "depts": [
    "women"
   ],
@@ -871126,12 +871741,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006247267781/c97103ac8283.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-knit-leg-warmers-267781"
   ]
  },
  {
-  "slug": "graphic-goth-jacket-2-718782",
-  "code": "BK-AE2716",
-  "name": "Graphic Goth Jacket 2",
+  "slug": "double-layer-alphabet-graphic-goth-zip-hoodie-718782",
+  "code": "BK-AE2711",
+  "name": "Double Layer Alphabet Graphic Goth Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -871320,12 +871938,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009946718782/1d3c7f3d3444.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "graphic-goth-jacket-2-718782"
   ]
  },
  {
-  "slug": "hoodie-4-071118",
-  "code": "BK-AE2717",
-  "name": "Hoodie 4",
+  "slug": "jimin-seven-purple-fan-print-y2k-hoodie-071118",
+  "code": "BK-AE2712",
+  "name": "Jimin Seven Purple Fan Print Y2K Hoodie",
   "depts": [
    "women",
    "men"
@@ -871414,12 +872035,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008751071118/54e41addce8f.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "hoodie-4-071118"
   ]
  },
  {
-  "slug": "vintage-hoodie-683559",
-  "code": "BK-AE2718",
-  "name": "Vintage Hoodie",
+  "slug": "polar-fleece-vintage-y2k-oversized-hoodie-683559",
+  "code": "BK-AE2713",
+  "name": "Polar Fleece Vintage Y2K Oversized Hoodie",
   "depts": [
    "women",
    "men"
@@ -871528,14 +872152,6 @@
   },
   "photos": [
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008275683559/d119d7388dec.jpg",
-    "color": "Black"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008275683559/059acc766326.jpg",
-    "color": "Gray"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008275683559/fd0d8bd6d260.jpg",
     "color": "*"
    },
@@ -871559,17 +872175,20 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008275683559/2183c32ea0d5.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "vintage-hoodie-683559"
   ]
  },
  {
-  "slug": "goth-punk-tank-795341",
-  "code": "BK-AE2719",
-  "name": "Goth Punk Tank",
+  "slug": "pink-zipper-chain-punk-sleeveless-top-skirt-set-795341",
+  "code": "BK-AE2714",
+  "name": "Pink Zipper Chain Punk Sleeveless Top Skirt Set",
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "camis-tanks",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 39.99,
@@ -871738,12 +872357,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009164795341/83d18a9c2fe3.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "goth-punk-tank-795341"
   ]
  },
  {
-  "slug": "graphic-vintage-jacket-3-685536",
-  "code": "BK-AE2720",
-  "name": "Graphic Vintage Jacket 3",
+  "slug": "embroidered-logo-graphic-vintage-y2k-zip-hoodie-685536",
+  "code": "BK-AE2715",
+  "name": "Embroidered Logo Graphic Vintage Y2K Zip Hoodie",
   "depts": [
    "women",
    "men"
@@ -871965,12 +872587,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010363685536/34666adb9e91.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "graphic-vintage-jacket-3-685536"
   ]
  },
  {
-  "slug": "stripe-fitted-jacket-556661",
-  "code": "BK-AE2721",
-  "name": "Stripe Fitted Jacket",
+  "slug": "striped-hooded-y2k-slim-short-cardigan-jacket-556661",
+  "code": "BK-AE2716",
+  "name": "Striped Hooded Y2K Slim Short Cardigan Jacket",
   "depts": [
    "women"
   ],
@@ -872046,12 +872671,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009877556661/c743b23518eb.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "stripe-fitted-jacket-556661"
   ]
  },
  {
-  "slug": "sexy-hoodie-934347",
-  "code": "BK-AE2722",
-  "name": "Sexy Hoodie",
+  "slug": "number-14-print-scoop-neck-y2k-oversized-hoodie-934347",
+  "code": "BK-AE2717",
+  "name": "Number 14 Print Scoop Neck Y2K Oversized Hoodie",
   "depts": [
    "women",
    "men"
@@ -872169,12 +872797,15 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009294934347/4f2c4cf88874.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "sexy-hoodie-934347"
   ]
  },
  {
-  "slug": "lace-vintage-socks-215550",
-  "code": "BK-AE2723",
-  "name": "Lace Vintage Socks",
+  "slug": "vintage-lace-academic-coquette-thigh-high-socks-215550",
+  "code": "BK-AE2718",
+  "name": "Vintage Lace Academic Coquette Thigh High Socks",
   "depts": [
    "women"
   ],
@@ -872264,6 +872895,9 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006213215550/c488e60eb525.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "lace-vintage-socks-215550"
   ]
  }
 ]
