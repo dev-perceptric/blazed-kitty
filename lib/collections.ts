@@ -69,7 +69,7 @@ function vibeChildren(): Child[] {
 }
 
 function editChildren(): Child[] {
-  return EDITS.map((e) => ({ label: e.label, href: shopHref('edit', e.id), count: PRODUCTS.filter((p) => visible(p) && e.test(p)).length })).filter((c) => c.count > 0);
+  return EDITS.map((e) => ({ label: e.label, href: shopHref('edit', e.id), count: PRODUCTS.filter((p) => visible(p) && e.test(p)).length })).filter((c) => c.count >= 6);
 }
 
 /**
