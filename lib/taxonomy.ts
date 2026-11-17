@@ -139,6 +139,7 @@ export interface EditDef {
 const has = (list: string[] | undefined, id: string) => !!list?.includes(id);
 
 export const EDITS: EditDef[] = [
+  { id: 'meme-tees', label: 'Meme Tees', blurb: 'Unhinged memes, cursed cats and shirts your mom would hate.', test: (p) => has(p.attrs?.themes, 'memes') },
   { id: 'band-merch', label: 'Band Merch', blurb: 'Tour tees and zip hoodies for the bands and rappers on repeat.', test: (p) => p.attrs?.print === 'music' },
   { id: 'brazil', label: 'Brazil', blurb: 'Brasil baby tees, flag colors and football tops.', test: (p) => has(p.attrs?.themes, 'brazil') },
   { id: 'jerseys', label: 'Jerseys', blurb: 'Numbers on the back, football and hockey style.', test: (p) => p.attrs?.print === 'jersey' || p.attrs?.sub === 'jersey-tee' },

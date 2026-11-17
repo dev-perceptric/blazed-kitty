@@ -78,12 +78,11 @@ export default function Header({ menu }: { menu: Menu }) {
 
   const openMega = (t: Tab) => { clearTimeout(closeTimer.current); setMega(t); };
   const closeMega = () => { closeTimer.current = setTimeout(() => setMega(null), 120); };
-  const isOn = (t: Tab) => (t === 'vibes' ? (pathname.startsWith('/shop/vibe') && pathname !== '/shop/vibe/anime') || pathname.startsWith('/shop/edit') : pathname === `/shop/${t}` || pathname.startsWith(`/shop/${t}/`));
+  const isOn = (t: Tab) => (t === 'vibes' ? pathname.startsWith('/shop/vibe') || pathname.startsWith('/shop/edit') : pathname === `/shop/${t}` || pathname.startsWith(`/shop/${t}/`));
   const tabs: { id: Tab; label: string; href: string }[] = [
     ...menu.depts.map((d) => ({ id: d.id as Tab, label: d.label, href: d.href })),
     ...(menu.vibes.length ? [{ id: 'vibes' as Tab, label: 'Vibes', href: menu.vibes[0].href }] : []),
   ];
-  const anime = menu.vibes.find((v) => v.href === '/shop/vibe/anime');
 
   return (
     <header className="site-header" onMouseLeave={closeMega}>
@@ -102,7 +101,6 @@ export default function Header({ menu }: { menu: Menu }) {
               </Link>
             </div>
           ))}
-          {anime && <Link href={anime.href} className={pathname === anime.href ? 'is-on' : ''} onMouseEnter={() => setMega(null)}>Anime</Link>}
           {menu.afterDark && <Link href="/shop/after-dark" className={`nav-adult${pathname === '/shop/after-dark' ? ' is-on' : ''}`} onMouseEnter={() => setMega(null)}>After Dark</Link>}
         </nav>
 
@@ -131,7 +129,6 @@ export default function Header({ menu }: { menu: Menu }) {
           </div>
           <nav className="mobile-nav" aria-label="Shop">
             <Link href="/shop/new" className="m-top">New In</Link>
-            {anime && <Link href={anime.href} className="m-top">Anime</Link>}
             {menu.depts.map((d) => (
               <details key={d.id} className="m-group">
                 <summary className="m-top">{d.label}</summary>
