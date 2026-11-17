@@ -5,43 +5,58 @@ import { usePathname } from 'next/navigation';
 import { useEffect, useRef, useState } from 'react';
 import { useCart } from './CartProvider';
 import { Wordmark } from './Media';
-import { DEPTS, LINES, categoriesFor, lineLabel, linesFor, type Dept } from '@/lib/taxonomy';
-import { shopHref } from '@/lib/collections';
+import type { Menu, MenuLine } from '@/lib/collections';
 
-const UNISEX = LINES.filter((l) => l.unisex);
+type Tab = 'clothing' | 'accessories' | 'vibes';
+const TABS: { id: Tab; label: string; href: string }[] = [
+  { id: 'clothing', label: 'Clothing', href: '/shop' },
+  { id: 'accessories', label: 'Accessories', href: '/shop/accessories' },
+  { id: 'vibes', label: 'Vibes', href: '/shop/vibe/y2k' },
+];
 
-function MegaPanel({ dept, onPick, afterDark }: { dept: Dept; onPick: () => void; afterDark: boolean }) {
-  const d = DEPTS.find((x) => x.id === dept)!;
+function LineCol({ line, onPick }: { line: MenuLine; onPick: () => void }) {
+  return (
+    <div className="mega-col">
+      <Link href={line.href} className="mega-head" onClick={onPick}>{line.label}</Link>
+      {line.categories.map((c) => <Link key={c.href} href={c.href} onClick={onPick}>{c.label}</Link>)}
+    </div>
+  );
+}
+
+function MegaPanel({ tab, menu, onPick }: { tab: Tab; menu: Menu; onPick: () => void }) {
+  const cover = menu.covers[tab];
+  const feature = tab === 'clothing' ? { href: '/shop', label: 'Shop all clothing' } : tab === 'accessories' ? { href: '/shop/accessories', label: 'Shop all accessories' } : { href: '/shop/new', label: 'Shop new in' };
   return (
     <div className="mega-inner wrap">
       <div className="mega-cols">
-        {linesFor(dept).map((l) => (
-          <div key={l.id} className="mega-col">
-            <Link href={shopHref(dept, l.id)} className="mega-head" onClick={onPick}>{lineLabel(l, dept)}</Link>
-            {categoriesFor(l.id, dept).map((c) => (
-              <Link key={c.id} href={shopHref(dept, l.id, c.id)} onClick={onPick}>{c.label}</Link>
-            ))}
+        {tab === 'clothing' && menu.clothing.map((l) => <LineCol key={l.id} line={l} onPick={onPick} />)}
+        {tab === 'accessories' && menu.accessories.map((l) => <LineCol key={l.id} line={l} onPick={onPick} />)}
+        {tab === 'vibes' && (
+          <div className="mega-col">
+            <span className="mega-head">Shop by vibe</span>
+            {menu.vibes.map((v) => <Link key={v.href} href={v.href} onClick={onPick}>{v.label}</Link>)}
           </div>
-        ))}
-        <div className="mega-col">
-          <span className="mega-head">Also in store</span>
-          {UNISEX.map((l) => <Link key={l.id} href={shopHref(l.id)} onClick={onPick}>{l.label}</Link>)}
-          {afterDark && <Link href={shopHref('after-dark')} onClick={onPick}>After Dark</Link>}
-        </div>
+        )}
+        {menu.afterDark && tab === 'clothing' && (
+          <div className="mega-col">
+            <span className="mega-head">Also</span>
+            <Link href="/shop/after-dark" onClick={onPick}>After Dark</Link>
+          </div>
+        )}
       </div>
-      <Link href={shopHref(dept)} className="mega-feature" onClick={onPick}>
-        <div className="photo"><img src={d.image} alt="" loading="lazy" /></div>
-        <span>Shop all {d.label}</span>
+      <Link href={feature.href} className="mega-feature" onClick={onPick}>
+        {cover && <div className="photo"><img src={cover} alt="" loading="lazy" className="is-product" /></div>}
+        <span>{feature.label}</span>
       </Link>
     </div>
   );
 }
 
-/** afterDark: whether the store has any 18+ pieces right now. Hides the After Dark links when it doesn't. */
-export default function Header({ afterDark = true }: { afterDark?: boolean }) {
+/** menu: built on the server (lib/collections buildMenu) so only sections with products show. */
+export default function Header({ menu }: { menu: Menu }) {
   const { count, setOpen } = useCart();
   const pathname = usePathname();
-  const [mega, setMega] = useState<Dept | null>(null);
+  const [mega, setMega] = useState<Tab | null>(null);
   const [mobile, setMobile] = useState(false);
   const closeTimer = useRef<ReturnType<typeof setTimeout>>();
   const menuBtn = useRef<HTMLButtonElement>(null);
@@ -69,9 +84,13 @@ export default function Header({ afterDark = true }: { afterDark?: boolean }) {
     return () => { document.body.style.overflow = ''; };
   }, [mobile]);
 
-  const openMega = (d: Dept) => { clearTimeout(closeTimer.current); setMega(d); };
+  const openMega = (t: Tab) => { clearTimeout(closeTimer.current); setMega(t); };
   const closeMega = () => { closeTimer.current = setTimeout(() => setMega(null), 120); };
-  const isOn = (href: string) => pathname === href || pathname.startsWith(href + '/');
+  const isOn = (t: Tab) =>
+    t === 'vibes' ? pathname.startsWith('/shop/vibe') :
+    t === 'accessories' ? pathname.startsWith('/shop/accessories') :
+    menu.clothing.some((l) => pathname.startsWith(l.href)) || pathname === '/shop';
+  const tabs = TABS.filter((t) => (t.id === 'accessories' ? menu.accessories.length : t.id === 'vibes' ? menu.vibes.length : menu.clothing.length) > 0);
 
   return (
     <header className="site-header" onMouseLeave={closeMega}>
@@ -82,21 +101,15 @@ export default function Header({ afterDark = true }: { afterDark?: boolean }) {
         </button>
 
         <nav className="nav nav-left" aria-label="Shop">
-          <Link href={shopHref('new')} className={isOn(shopHref('new')) ? 'is-on' : ''} onMouseEnter={() => setMega(null)}>New</Link>
-          {DEPTS.map((d) => (
-            <div key={d.id} className="nav-item" onMouseEnter={() => openMega(d.id)} onMouseLeave={closeMega}>
-              <Link href={shopHref(d.id)} className={isOn(shopHref(d.id)) ? 'is-on' : ''} aria-haspopup="true" aria-expanded={mega === d.id}
-                onFocus={() => openMega(d.id)}>
-                {d.label}
+          <Link href="/shop/new" className={pathname === '/shop/new' ? 'is-on' : ''} onMouseEnter={() => setMega(null)}>New</Link>
+          {tabs.map((t) => (
+            <div key={t.id} className="nav-item" onMouseEnter={() => openMega(t.id)} onMouseLeave={closeMega}>
+              <Link href={t.href} className={isOn(t.id) ? 'is-on' : ''} aria-haspopup="true" aria-expanded={mega === t.id} onFocus={() => openMega(t.id)}>
+                {t.label}
               </Link>
             </div>
           ))}
-          {UNISEX.map((l) => (
-            <Link key={l.id} href={shopHref(l.id)} className={isOn(shopHref(l.id)) ? 'is-on' : ''} onMouseEnter={() => setMega(null)} onFocus={() => setMega(null)}>
-              {l.id === 'stash' ? 'Extras' : 'Room'}
-            </Link>
-          ))}
-          {afterDark && <Link href={shopHref('after-dark')} className={`nav-adult${isOn(shopHref('after-dark')) ? ' is-on' : ''}`} onMouseEnter={() => setMega(null)} onFocus={() => setMega(null)}>After Dark</Link>}
+          {menu.afterDark && <Link href="/shop/after-dark" className={`nav-adult${pathname === '/shop/after-dark' ? ' is-on' : ''}`} onMouseEnter={() => setMega(null)}>After Dark</Link>}
         </nav>
 
         <Link href="/" className="brand" aria-label="Blazed Kitty home">
@@ -111,7 +124,7 @@ export default function Header({ afterDark = true }: { afterDark?: boolean }) {
       </div>
 
       <div className={`mega${mega ? ' is-open' : ''}`} onMouseEnter={() => mega && openMega(mega)} onMouseLeave={closeMega} hidden={!mega}>
-        {mega && <MegaPanel dept={mega} onPick={() => setMega(null)} afterDark={afterDark} />}
+        {mega && <MegaPanel tab={mega} menu={menu} onPick={() => setMega(null)} />}
       </div>
 
       <div id="mobile-menu" className={`mobile-root${mobile ? ' is-open' : ''}`} aria-hidden={!mobile}>
@@ -122,34 +135,26 @@ export default function Header({ afterDark = true }: { afterDark?: boolean }) {
             <button type="button" className="text-btn" onClick={() => setMobile(false)}>Close</button>
           </div>
           <nav className="mobile-nav" aria-label="Shop">
-            <Link href={shopHref('new')} className="m-top">New In</Link>
-            {DEPTS.map((d) => (
-              <details key={d.id} className="m-group">
-                <summary className="m-top">{d.label}</summary>
-                <div className="m-sub">
-                  <Link href={shopHref(d.id)} className="m-all">Shop all {d.label}</Link>
-                  {linesFor(d.id).map((l) => (
-                    <details key={l.id} className="m-line">
-                      <summary>{lineLabel(l, d.id)}</summary>
-                      <div className="m-cats">
-                        <Link href={shopHref(d.id, l.id)}>All {lineLabel(l, d.id)}</Link>
-                        {categoriesFor(l.id, d.id).map((c) => <Link key={c.id} href={shopHref(d.id, l.id, c.id)}>{c.label}</Link>)}
-                      </div>
-                    </details>
-                  ))}
-                </div>
-              </details>
-            ))}
-            {UNISEX.map((l) => (
+            <Link href="/shop/new" className="m-top">New In</Link>
+            <Link href="/shop" className="m-top">Shop All</Link>
+            {[...menu.clothing, ...menu.accessories].map((l) => (
               <details key={l.id} className="m-group">
                 <summary className="m-top">{l.label}</summary>
                 <div className="m-sub m-cats">
-                  <Link href={shopHref(l.id)} className="m-all">Shop all {l.label}</Link>
-                  {categoriesFor(l.id).map((c) => <Link key={c.id} href={shopHref(l.id, c.id)}>{c.label}</Link>)}
+                  <Link href={l.href} className="m-all">All {l.label}</Link>
+                  {l.categories.map((c) => <Link key={c.href} href={c.href}>{c.label}</Link>)}
                 </div>
               </details>
             ))}
-            {afterDark && <Link href={shopHref('after-dark')} className="m-top">After Dark <span className="soon">18+</span></Link>}
+            {menu.vibes.length > 0 && (
+              <details className="m-group">
+                <summary className="m-top">Vibes</summary>
+                <div className="m-sub m-cats">
+                  {menu.vibes.map((v) => <Link key={v.href} href={v.href}>{v.label}</Link>)}
+                </div>
+              </details>
+            )}
+            {menu.afterDark && <Link href="/shop/after-dark" className="m-top">After Dark <span className="soon">18+</span></Link>}
           </nav>
         </aside>
       </div>

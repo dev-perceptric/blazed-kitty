@@ -423,7 +423,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -1120,7 +1120,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 34.99,
@@ -1428,7 +1428,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 24.99,
@@ -1503,7 +1503,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 17.99,
@@ -2042,7 +2042,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 32.99,
@@ -2989,7 +2989,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 21.99,
@@ -3842,7 +3842,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 77.99,
@@ -5471,7 +5471,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -5907,7 +5907,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 84.99,
@@ -6855,7 +6855,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 79.99,
@@ -7787,8 +7787,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 56.99,
@@ -7951,7 +7951,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -8526,7 +8526,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 42.99,
@@ -8774,7 +8774,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -8831,7 +8831,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -9025,7 +9025,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -9155,7 +9155,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 17.99,
@@ -9224,7 +9224,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 22.99,
@@ -9481,7 +9481,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -10122,7 +10122,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 47.99,
@@ -11116,7 +11116,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -11268,7 +11268,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -11455,8 +11455,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "shorts",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -11642,7 +11642,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "bottoms",
   "category": "shorts",
   "design": "ae",
   "drop": "drop7",
@@ -11976,7 +11976,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 20.99,
@@ -12528,8 +12528,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "shorts",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 25.99,
@@ -12610,7 +12610,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 21.99,
@@ -13296,8 +13296,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 43.99,
@@ -13462,8 +13462,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 70.99,
@@ -14208,7 +14208,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -14435,8 +14435,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -14604,7 +14604,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 24.99,
@@ -14693,7 +14693,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 16.99,
@@ -14917,8 +14917,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "shorts",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 34.99,
@@ -15082,7 +15082,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -15302,7 +15302,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 12.99,
@@ -15371,7 +15371,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 23.99,
@@ -15484,7 +15484,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -15590,7 +15590,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 16.99,
@@ -15670,7 +15670,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -16608,7 +16608,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -16833,7 +16833,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "bottoms",
   "category": "shorts",
   "design": "ae",
   "drop": "drop7",
@@ -16915,7 +16915,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 20.99,
@@ -17213,7 +17213,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -18019,7 +18019,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 30.99,
@@ -18096,7 +18096,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 25.99,
@@ -18176,8 +18176,8 @@
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "long-sleeves",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -18253,8 +18253,8 @@
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "tanks",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 32.99,
@@ -19059,8 +19059,8 @@
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "long-sleeves",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 48.99,
@@ -19448,8 +19448,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 49.99,
@@ -19530,7 +19530,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -19648,8 +19648,8 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
-  "category": "socks",
+  "line": "accessories",
+  "category": "legwear",
   "design": "ae",
   "drop": "drop7",
   "price": 12.99,
@@ -20597,7 +20597,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 28.99,
@@ -20681,8 +20681,8 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
-  "category": "socks",
+  "line": "accessories",
+  "category": "legwear",
   "design": "ae",
   "drop": "drop7",
   "price": 14.99,
@@ -20920,7 +20920,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -21079,10 +21079,9 @@
   "code": "BK-AE123",
   "name": "Brown Faux Leather Studded Y2K Shoulder Bag",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
-  "line": "stash",
+  "line": "accessories",
   "category": "bags",
   "design": "ae",
   "drop": "drop7",
@@ -21472,8 +21471,8 @@
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "long-sleeves",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 36.99,
@@ -22456,8 +22455,8 @@
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "long-sleeves",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 33.99,
@@ -22538,7 +22537,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -22768,8 +22767,8 @@
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "long-sleeves",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 44.99,
@@ -23770,7 +23769,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 31.99,
@@ -24284,8 +24283,8 @@
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "baby-tees",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -24597,7 +24596,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 23.99,
@@ -24799,7 +24798,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -25115,7 +25114,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 18.99,
@@ -25276,8 +25275,8 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
-  "category": "socks",
+  "line": "accessories",
+  "category": "legwear",
   "design": "ae",
   "drop": "drop7",
   "price": 14.99,
@@ -25876,7 +25875,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 15.99,
@@ -26113,8 +26112,8 @@
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "baby-tees",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 35.99,
@@ -26652,8 +26651,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 84.99,
@@ -27777,7 +27776,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "corsets-bodysuits",
   "design": "ae",
   "drop": "drop7",
   "price": 46.99,
@@ -28280,7 +28279,7 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
+  "line": "accessories",
   "category": "jewelry",
   "design": "ae",
   "drop": "drop7",
@@ -28818,8 +28817,8 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
-  "category": "accessories",
+  "line": "accessories",
+  "category": "hair",
   "design": "ae",
   "drop": "drop7",
   "price": 9.99,
@@ -28928,8 +28927,8 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
-  "category": "accessories",
+  "line": "accessories",
+  "category": "belts",
   "design": "ae",
   "drop": "drop7",
   "price": 24.99,
@@ -29039,7 +29038,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 30.99,
@@ -29533,10 +29532,10 @@
   "code": "BK-AE198",
   "name": "Pink Cherry Blossom Y2K Baggy Wide Leg Jeans",
   "depts": [
-   "men"
+   "women"
   ],
   "line": "bottoms",
-  "category": "pants",
+  "category": "jeans",
   "design": "ae",
   "drop": "drop7",
   "price": 64.99,
@@ -29761,8 +29760,8 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
-  "category": "accessories",
+  "line": "accessories",
+  "category": "arm-warmers",
   "design": "ae",
   "drop": "drop7",
   "price": 11.99,
@@ -29883,7 +29882,7 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
+  "line": "accessories",
   "category": "jewelry",
   "design": "ae",
   "drop": "drop7",
@@ -29970,7 +29969,7 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
+  "line": "accessories",
   "category": "shoes",
   "design": "ae",
   "drop": "drop7",
@@ -30396,8 +30395,8 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
-  "category": "accessories",
+  "line": "accessories",
+  "category": "hair",
   "design": "ae",
   "drop": "drop7",
   "price": 10.99,
@@ -30599,7 +30598,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "long-sleeves",
+  "category": "corsets-bodysuits",
   "design": "ae",
   "drop": "drop7",
   "price": 50.99,
@@ -30715,7 +30714,7 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
+  "line": "accessories",
   "category": "jewelry",
   "design": "ae",
   "drop": "drop7",
@@ -30918,7 +30917,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "long-sleeves",
+  "category": "corsets-bodysuits",
   "design": "ae",
   "drop": "drop7",
   "price": 43.99,
@@ -30998,8 +30997,8 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
-  "category": "accessories",
+  "line": "accessories",
+  "category": "arm-warmers",
   "design": "ae",
   "drop": "drop7",
   "price": 20.99,
@@ -31395,8 +31394,8 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
-  "category": "accessories",
+  "line": "accessories",
+  "category": "legwear",
   "design": "ae",
   "drop": "drop7",
   "price": 36.99,
@@ -31541,8 +31540,8 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
-  "category": "accessories",
+  "line": "accessories",
+  "category": "arm-warmers",
   "design": "ae",
   "drop": "drop7",
   "price": 11.99,
@@ -31759,7 +31758,7 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
+  "line": "accessories",
   "category": "jewelry",
   "design": "ae",
   "drop": "drop7",
@@ -32039,8 +32038,8 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
-  "category": "accessories",
+  "line": "accessories",
+  "category": "arm-warmers",
   "design": "ae",
   "drop": "drop7",
   "price": 13.99,
@@ -32237,7 +32236,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 30.99,
@@ -32953,7 +32952,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 35.99,
@@ -34170,7 +34169,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 36.99,
@@ -35579,8 +35578,8 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
-  "category": "socks",
+  "line": "accessories",
+  "category": "legwear",
   "design": "ae",
   "drop": "drop7",
   "price": 34.99,
@@ -35854,9 +35853,9 @@
   "code": "BK-AE221",
   "name": "Black Pleated Wide Leg Grunge Long Shorts",
   "depts": [
-   "men"
+   "women"
   ],
-  "line": "lounge",
+  "line": "bottoms",
   "category": "shorts",
   "design": "ae",
   "drop": "drop7",
@@ -35996,7 +35995,7 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
+  "line": "accessories",
   "category": "jewelry",
   "design": "ae",
   "drop": "drop7",
@@ -36082,7 +36081,7 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
+  "line": "accessories",
   "category": "jewelry",
   "design": "ae",
   "drop": "drop7",
@@ -37757,7 +37756,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "long-sleeves",
+  "category": "blouses",
   "design": "ae",
   "drop": "drop7",
   "price": 54.99,
@@ -37900,8 +37899,8 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
-  "category": "accessories",
+  "line": "accessories",
+  "category": "hair",
   "design": "ae",
   "drop": "drop7",
   "price": 79.99,
@@ -37986,7 +37985,7 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
+  "line": "accessories",
   "category": "jewelry",
   "design": "ae",
   "drop": "drop7",
@@ -38064,7 +38063,7 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
+  "line": "accessories",
   "category": "jewelry",
   "design": "ae",
   "drop": "drop7",
@@ -38186,8 +38185,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 71.99,
@@ -39256,7 +39255,7 @@
    "women"
   ],
   "line": "bottoms",
-  "category": "pants",
+  "category": "jeans",
   "design": "ae",
   "drop": "drop7",
   "price": 65.99,
@@ -39360,7 +39359,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -39933,7 +39932,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "corsets-bodysuits",
   "design": "ae",
   "drop": "drop7",
   "price": 69.99,
@@ -40973,7 +40972,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "long-sleeves",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 25.99,
@@ -42008,8 +42007,8 @@
   "depts": [
    "women"
   ],
-  "line": "bottoms",
-  "category": "dresses",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 50.99,
@@ -42535,7 +42534,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 23.99,
@@ -42890,7 +42889,7 @@
    "women"
   ],
   "line": "bottoms",
-  "category": "pants",
+  "category": "jeans",
   "design": "ae",
   "drop": "drop7",
   "price": 83.99,
@@ -42978,7 +42977,7 @@
   "depts": [
    "women"
   ],
-  "line": "bottoms",
+  "line": "dresses",
   "category": "dresses",
   "design": "ae",
   "drop": "drop7",
@@ -43124,8 +43123,8 @@
   "depts": [
    "women"
   ],
-  "line": "bottoms",
-  "category": "skirts",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 54.99,
@@ -43540,7 +43539,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -44449,7 +44448,7 @@
    "women"
   ],
   "line": "bottoms",
-  "category": "pants",
+  "category": "jeans",
   "design": "ae",
   "drop": "drop7",
   "price": 77.99,
@@ -44545,7 +44544,7 @@
   "depts": [
    "women"
   ],
-  "line": "bottoms",
+  "line": "dresses",
   "category": "dresses",
   "design": "ae",
   "drop": "drop7",
@@ -44939,8 +44938,8 @@
   "depts": [
    "women"
   ],
-  "line": "bottoms",
-  "category": "dresses",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 80.99,
@@ -45082,7 +45081,7 @@
    "women"
   ],
   "line": "bottoms",
-  "category": "pants",
+  "category": "jeans",
   "design": "ae",
   "drop": "drop7",
   "price": 74.99,
@@ -46094,8 +46093,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 53.99,
@@ -46224,7 +46223,7 @@
    "women"
   ],
   "line": "bottoms",
-  "category": "pants",
+  "category": "jeans",
   "design": "ae",
   "drop": "drop7",
   "price": 61.99,
@@ -46336,8 +46335,8 @@
   "depts": [
    "women"
   ],
-  "line": "bottoms",
-  "category": "dresses",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 51.99,
@@ -47042,7 +47041,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "long-sleeves",
+  "category": "blouses",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -47224,8 +47223,8 @@
   "depts": [
    "women"
   ],
-  "line": "bottoms",
-  "category": "dresses",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 38.99,
@@ -47473,7 +47472,7 @@
   "depts": [
    "women"
   ],
-  "line": "bottoms",
+  "line": "dresses",
   "category": "dresses",
   "design": "ae",
   "drop": "drop7",
@@ -47852,7 +47851,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 72.99,
@@ -48559,7 +48558,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -49500,8 +49499,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 38.99,
@@ -49801,7 +49800,7 @@
    "women"
   ],
   "line": "bottoms",
-  "category": "pants",
+  "category": "jeans",
   "design": "ae",
   "drop": "drop7",
   "price": 48.99,
@@ -49905,8 +49904,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -49983,7 +49982,7 @@
    "women"
   ],
   "line": "bottoms",
-  "category": "pants",
+  "category": "jeans",
   "design": "ae",
   "drop": "drop7",
   "price": 48.99,
@@ -50136,8 +50135,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 31.99,
@@ -50213,8 +50212,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 58.99,
@@ -50473,8 +50472,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 38.99,
@@ -50550,8 +50549,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 36.99,
@@ -50627,8 +50626,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 28.99,
@@ -50978,7 +50977,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -51517,7 +51516,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 33.99,
@@ -52008,7 +52007,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "long-sleeves",
+  "category": "blouses",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -52085,7 +52084,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "long-sleeves",
+  "category": "blouses",
   "design": "ae",
   "drop": "drop7",
   "price": 51.99,
@@ -52393,7 +52392,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "blouses",
   "design": "ae",
   "drop": "drop7",
   "price": 31.99,
@@ -52470,7 +52469,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 28.99,
@@ -52546,8 +52545,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -52867,7 +52866,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 25.99,
@@ -53029,7 +53028,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -53106,7 +53105,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 31.99,
@@ -53345,7 +53344,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -53421,8 +53420,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 34.99,
@@ -54143,8 +54142,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 33.99,
@@ -54221,7 +54220,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 30.99,
@@ -54297,7 +54296,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -54459,8 +54458,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 41.99,
@@ -54540,8 +54539,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 54.99,
@@ -54617,8 +54616,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -54849,7 +54848,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -55002,8 +55001,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 33.99,
@@ -55226,7 +55225,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 20.99,
@@ -55302,8 +55301,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 50.99,
@@ -55615,7 +55614,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -55691,8 +55690,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -55756,8 +55755,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -56068,8 +56067,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 28.99,
@@ -56385,7 +56384,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 25.99,
@@ -56542,8 +56541,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 43.99,
@@ -56620,7 +56619,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -56851,7 +56850,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 23.99,
@@ -57005,7 +57004,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 25.99,
@@ -57159,7 +57158,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "baby-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 31.99,
@@ -57236,7 +57235,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -57620,8 +57619,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 28.99,
@@ -57986,8 +57985,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 34.99,
@@ -58226,7 +58225,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 24.99,
@@ -58302,8 +58301,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 61.99,
@@ -58379,8 +58378,8 @@
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "tanks",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -58607,7 +58606,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 30.99,
@@ -58823,7 +58822,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "long-sleeves",
+  "category": "baby-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -59005,8 +59004,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -59083,7 +59082,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -59237,7 +59236,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "long-sleeves",
+  "category": "baby-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 28.99,
@@ -59861,7 +59860,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 31.99,
@@ -60099,8 +60098,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 30.99,
@@ -60370,7 +60369,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 21.99,
@@ -60609,7 +60608,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 24.99,
@@ -60763,7 +60762,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -60993,8 +60992,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "jackets",
   "design": "ae",
   "drop": "drop7",
   "price": 60.99,
@@ -61100,7 +61099,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 31.99,
@@ -61185,7 +61184,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 22.99,
@@ -61342,7 +61341,7 @@
   "depts": [
    "women"
   ],
-  "line": "bottoms",
+  "line": "dresses",
   "category": "dresses",
   "design": "ae",
   "drop": "drop7",
@@ -61608,7 +61607,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 41.99,
@@ -61685,7 +61684,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 21.99,
@@ -61993,7 +61992,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 48.99,
@@ -62254,7 +62253,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -62331,7 +62330,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 22.99,
@@ -62408,7 +62407,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 37.99,
@@ -62562,7 +62561,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 33.99,
@@ -63134,7 +63133,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 28.99,
@@ -63211,7 +63210,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 34.99,
@@ -63400,7 +63399,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 20.99,
@@ -63558,7 +63557,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 23.99,
@@ -63634,8 +63633,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 73.99,
@@ -63882,7 +63881,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 23.99,
@@ -64039,7 +64038,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 32.99,
@@ -64189,7 +64188,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 33.99,
@@ -64266,7 +64265,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 23.99,
@@ -64496,8 +64495,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 36.99,
@@ -64695,7 +64694,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 21.99,
@@ -64853,7 +64852,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 31.99,
@@ -65109,7 +65108,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 24.99,
@@ -65185,8 +65184,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 54.99,
@@ -65263,7 +65262,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 31.99,
@@ -65522,7 +65521,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 22.99,
@@ -65753,7 +65752,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 30.99,
@@ -65907,7 +65906,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 28.99,
@@ -65991,8 +65990,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 34.99,
@@ -66069,7 +66068,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 23.99,
@@ -66149,8 +66148,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 45.99,
@@ -66302,8 +66301,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 50.99,
@@ -66379,8 +66378,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 43.99,
@@ -66610,8 +66609,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 66.99,
@@ -66688,7 +66687,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 24.99,
@@ -66846,7 +66845,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 22.99,
@@ -67153,8 +67152,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 61.99,
@@ -67231,7 +67230,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 30.99,
@@ -67307,7 +67306,7 @@
   "depts": [
    "women"
   ],
-  "line": "bottoms",
+  "line": "dresses",
   "category": "dresses",
   "design": "ae",
   "drop": "drop7",
@@ -67384,8 +67383,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 50.99,
@@ -67538,8 +67537,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 51.99,
@@ -67616,7 +67615,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 28.99,
@@ -67761,7 +67760,7 @@
   "depts": [
    "women"
   ],
-  "line": "bottoms",
+  "line": "dresses",
   "category": "dresses",
   "design": "ae",
   "drop": "drop7",
@@ -67995,8 +67994,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 51.99,
@@ -68417,7 +68416,7 @@
   "depts": [
    "women"
   ],
-  "line": "bottoms",
+  "line": "dresses",
   "category": "dresses",
   "design": "ae",
   "drop": "drop7",
@@ -68494,8 +68493,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -69241,7 +69240,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 28.99,
@@ -69751,7 +69750,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -69832,8 +69831,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 50.99,
@@ -70472,8 +70471,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 57.99,
@@ -70550,7 +70549,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 40.99,
@@ -71557,8 +71556,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 30.99,
@@ -71634,8 +71633,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 47.99,
@@ -71951,7 +71950,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 31.99,
@@ -72243,8 +72242,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 47.99,
@@ -72321,7 +72320,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -72406,7 +72405,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -72875,8 +72874,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 53.99,
@@ -72952,8 +72951,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 51.99,
@@ -73224,8 +73223,8 @@
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "tanks",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 46.99,
@@ -73379,7 +73378,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 40.99,
@@ -73701,7 +73700,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 31.99,
@@ -74050,7 +74049,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -74203,8 +74202,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 51.99,
@@ -74519,8 +74518,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 50.99,
@@ -74596,7 +74595,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -74763,8 +74762,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "shorts",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -74875,8 +74874,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 44.99,
@@ -74956,8 +74955,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 48.99,
@@ -75033,7 +75032,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -75114,8 +75113,8 @@
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "long-sleeves",
+  "line": "knits",
+  "category": "sweaters",
   "design": "ae",
   "drop": "drop7",
   "price": 30.99,
@@ -75276,8 +75275,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 52.99,
@@ -75439,7 +75438,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 31.99,
@@ -75755,7 +75754,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 29.99,
@@ -76483,8 +76482,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 70.99,
@@ -76800,7 +76799,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 35.99,
@@ -77039,7 +77038,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 28.99,
@@ -77436,7 +77435,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "halter-tube",
   "design": "ae",
   "drop": "drop7",
   "price": 32.99,
@@ -77894,7 +77893,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "long-sleeves",
+  "category": "baby-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 33.99,
@@ -78141,7 +78140,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 33.99,
@@ -78522,7 +78521,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -79190,7 +79189,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 26.99,
@@ -79522,7 +79521,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 52.99,
@@ -79598,8 +79597,8 @@
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "tanks",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -79760,8 +79759,8 @@
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "tanks",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 48.99,
@@ -79837,7 +79836,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -79991,8 +79990,8 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
-  "category": "hoodies",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 50.99,
@@ -80101,8 +80100,8 @@
   "depts": [
    "women"
   ],
-  "line": "tops",
-  "category": "baby-tees",
+  "line": "dresses",
+  "category": "sets",
   "design": "ae",
   "drop": "drop7",
   "price": 47.99,
@@ -80340,7 +80339,7 @@
   "depts": [
    "women"
   ],
-  "line": "bottoms",
+  "line": "dresses",
   "category": "dresses",
   "design": "ae",
   "drop": "drop7",
@@ -80495,7 +80494,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 17.99,
@@ -80891,7 +80890,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 20.99,
@@ -80980,7 +80979,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "tanks",
+  "category": "camis-tanks",
   "design": "ae",
   "drop": "drop7",
   "price": 20.99,
@@ -81061,7 +81060,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 15.99,
@@ -81669,7 +81668,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 16.99,
@@ -82634,7 +82633,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 22.99,
@@ -82723,7 +82722,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 17.99,
@@ -83942,7 +83941,7 @@
   "depts": [
    "women"
   ],
-  "line": "stash",
+  "line": "accessories",
   "category": "bags",
   "design": "ae",
   "drop": "drop7",
@@ -84128,7 +84127,7 @@
   "depts": [
    "women"
   ],
-  "line": "lounge",
+  "line": "knits",
   "category": "hoodies",
   "design": "ae",
   "drop": "drop7",
@@ -84206,7 +84205,7 @@
    "women"
   ],
   "line": "tops",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "design": "ae",
   "drop": "drop7",
   "price": 30.99,

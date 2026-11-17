@@ -11,6 +11,9 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from ae_cats import new_category  # noqa: E402
+
 PICKS = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'scripts', 'ae_picks.json')
 # Items removed by hand (copyrighted art, duplicates). Never imported again.
 BLOCKED = os.path.join(os.path.dirname(PICKS), 'ae_blocked.json')
@@ -129,17 +132,15 @@ def main():
         if not cat:
             skipped += 1
             continue
-        mens = bool(re.search(r"\b(men'?s|for men|male|boyfriend)\b", title, re.I)) and not re.search(r'\b(women|woman|female|ladies|girl)', title, re.I)
-        if mens and cat == 'baby-tees':
-            cat, word = 'tees', 'Tee'
+        # Women's store: skip anything sold only for men.
+        if re.search(r"\b(men'?s|for men|male|boyfriend)\b", title, re.I) and not re.search(r'\b(women|woman|female|ladies|girl)', title, re.I):
+            skipped += 1
+            continue
         name = name_for(title, word, used)
+        cat = new_category(name, cat)
         used.add(name)
         have.add(pid)
-        pick = {'id': pid, 'category': cat, 'name': name}
-        if mens:
-            pick['depts'] = ['men']
-        elif cat in ('tanks', 'long-sleeves', 'hoodies', 'socks', 'shorts', 'pants', 'jewelry', 'accessories', 'shoes', 'bags'):
-            pick['depts'] = ['women']
+        pick = {'id': pid, 'category': cat, 'name': name, 'depts': ['women']}
         picks.append(pick)
         added += 1
         print(f'  + {cat:13} {name:34} {title[:70]}')

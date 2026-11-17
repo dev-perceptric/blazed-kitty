@@ -3,7 +3,7 @@ import { Anton, Inter, Instrument_Serif } from 'next/font/google';
 import './globals.css';
 import CartProvider from '@/components/CartProvider';
 import Header from '@/components/Header';
-import { PRODUCTS } from '@/lib/products';
+import { buildMenu } from '@/lib/collections';
 import CartDrawer from '@/components/CartDrawer';
 import Footer from '@/components/Footer';
 
@@ -14,7 +14,7 @@ const serif = Instrument_Serif({ weight: '400', style: ['italic'], subsets: ['la
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
   title: { default: 'Blazed Kitty', template: '%s · Blazed Kitty' },
-  description: 'Alt clothing for anyone who never grew out of their emo phase. Baby tees, goth tops, grunge layers and y2k pieces, shipped worldwide.',
+  description: 'Alt clothing for girls who never grew out of their emo phase. Baby tees, goth tops, grunge layers, mini skirts and Y2K accessories, shipped worldwide.',
 };
 
 export const viewport: Viewport = { themeColor: '#0c0b0c', viewportFit: 'cover' };
@@ -25,7 +25,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <CartProvider>
           <div className="announce">New alt drops every week · Ships worldwide</div>
-          <Header afterDark={PRODUCTS.some((p) => p.afterDark)} />
+          <Header menu={buildMenu()} />
           <main>{children}</main>
           <Footer />
           <CartDrawer />
