@@ -113,9 +113,13 @@ export const VIBES: VibeDef[] = [
   { id: 'fairy-grunge', label: 'Fairy Grunge', blurb: 'Soft, sheer and slightly haunted.', match: /\bFairy Grunge\b/ },
   { id: 'emo-punk', label: 'Emo & Punk', blurb: 'Stripes, studs and eyeliner.', match: /\b(Emo|Punk)\b/ },
   { id: 'harajuku', label: 'Harajuku', blurb: 'Loud, layered and kawaii.', match: /\bHarajuku\b/ },
+  { id: 'anime', label: 'Anime', blurb: 'Washed anime and manga tees, hoodies and long sleeves.', match: /#anime\b/ },
 ];
 
 export const getVibe = (id: string) => VIBES.find((v) => v.id === id);
+
+/** Text vibes match against: the name plus #tags. */
+export const vibeText = (p: { name: string; tags?: string[] }) => [p.name, ...(p.tags ?? []).map((t) => `#${t}`)].join(' ');
 
 // ---------- detail tags and filters ----------
 

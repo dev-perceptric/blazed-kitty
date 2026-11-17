@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { PRODUCTS, getProduct } from '@/lib/products';
 import { DEPTS, NEWEST_DROP, coverFor, shopHref } from '@/lib/collections';
-import { CDN, LINES, VIBES } from '@/lib/taxonomy';
+import { CDN, LINES, VIBES, vibeText } from '@/lib/taxonomy';
 import ProductCard from '@/components/ProductCard';
 import { ProductPhoto } from '@/components/Media';
 import { AdultBlur, AdultConfirm } from '@/components/Adult';
@@ -76,7 +76,7 @@ export default function Home() {
           </div>
           <div className="vibes-row">
             {VIBES.map((v) => {
-              const list = PRODUCTS.filter((p) => v.match.test(p.name));
+              const list = PRODUCTS.filter((p) => v.match.test(vibeText(p)));
               if (!list.length) return null;
               return (
                 <Link key={v.id} href={shopHref('vibe', v.id)} className="line-tile">

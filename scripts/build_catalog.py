@@ -340,6 +340,8 @@ export interface Product {
   description?: string[];
   /** Earlier web addresses, so orders paid under an old one can still be fulfilled. Not redirected. */
   oldSlugs?: string[];
+  /** Theme tags such as 'anime', used by theme collections. */
+  tags?: string[];
 }
 
 // Generated from the Printful store (Blazed Kitty) by scripts/build_catalog.py.

@@ -1,6 +1,6 @@
 import { PRODUCTS, type Product } from './products';
 import {
-  CATEGORIES, COLOR_FAMILIES, DETAILS, LINES, PRICE_RANGES, SIZE_ORDER, VIBES, categoriesFor, getCategory, getLine, getVibe,
+  CATEGORIES, COLOR_FAMILIES, DETAILS, LINES, PRICE_RANGES, SIZE_ORDER, VIBES, categoriesFor, getCategory, getLine, getVibe, vibeText,
   type LineDef,
 } from './taxonomy';
 
@@ -37,7 +37,7 @@ export function coverFor(list: Product[]) {
   return p?.photos?.[0]?.src;
 }
 
-export const vibeMatches = (p: Product, vibeId: string) => !!getVibe(vibeId)?.match.test(p.name);
+export const vibeMatches = (p: Product, vibeId: string) => !!getVibe(vibeId)?.match.test(vibeText(p));
 
 export type DeptId = 'women' | 'men';
 export const DEPTS: { id: DeptId; label: string; blurb: string }[] = [
@@ -58,7 +58,7 @@ function lineChildren(list: Product[], base: string[] = []): Child[] {
 }
 
 function vibeChildren(): Child[] {
-  return VIBES.map((v) => ({ label: v.label, href: shopHref('vibe', v.id), count: PRODUCTS.filter((p) => v.match.test(p.name)).length })).filter((c) => c.count > 0);
+  return VIBES.map((v) => ({ label: v.label, href: shopHref('vibe', v.id), count: PRODUCTS.filter((p) => v.match.test(vibeText(p))).length })).filter((c) => c.count > 0);
 }
 
 /**
@@ -102,7 +102,7 @@ export function resolveCollection(path: string[] = []): Collection | null {
   if (a === 'vibe') {
     const vibe = b ? getVibe(b) : undefined;
     if (!vibe || c) return null;
-    const list = all.filter((p) => vibe.match.test(p.name));
+    const list = all.filter((p) => vibe.match.test(vibeText(p)));
     return {
       key: `vibe/${vibe.id}`, title: vibe.label, blurb: vibe.blurb, image: coverFor(list), href: shopHref('vibe', vibe.id),
       crumbs: [shop], products: list, children: vibeChildren(), vibe: vibe.id,

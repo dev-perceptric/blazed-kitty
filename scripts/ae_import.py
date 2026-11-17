@@ -30,6 +30,7 @@ SKIP = re.compile(
 
 KIDS = re.compile(r"\b(kid|kids|child|children|toddler|infant|newborn|baby (girl|boy)|boys|girls'|maternity|pregnan|pet|dog clothes|doll)\b", re.I)
 KEEP_ALL = '--keep-all' in sys.argv
+ANIME = re.compile(r'\b(anime|manga|otaku|waifu|chibi|shonen|shoujo|japanese cartoon)\b', re.I)
 
 # (category, product word) by title keywords, first match wins.
 TYPES = [
@@ -145,6 +146,8 @@ def main():
         used.add(name)
         have.add(pid)
         pick = {'id': pid, 'category': cat, 'name': name, 'depts': depts_for(name, cat)}
+        if ANIME.search(title):
+            pick['tags'] = ['anime']
         picks.append(pick)
         added += 1
         print(f'  + {cat:13} {name:34} {title[:70]}')
