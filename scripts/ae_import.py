@@ -12,7 +12,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from ae_cats import new_category  # noqa: E402
+from ae_cats import depts_for, new_category  # noqa: E402
 
 PICKS = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'scripts', 'ae_picks.json')
 # Items removed by hand (copyrighted art, duplicates). Never imported again.
@@ -144,7 +144,7 @@ def main():
         cat = new_category(name, cat)
         used.add(name)
         have.add(pid)
-        pick = {'id': pid, 'category': cat, 'name': name, 'depts': ['women']}
+        pick = {'id': pid, 'category': cat, 'name': name, 'depts': depts_for(name, cat)}
         picks.append(pick)
         added += 1
         print(f'  + {cat:13} {name:34} {title[:70]}')

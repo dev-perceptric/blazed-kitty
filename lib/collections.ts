@@ -39,14 +39,22 @@ export function coverFor(list: Product[]) {
 
 export const vibeMatches = (p: Product, vibeId: string) => !!getVibe(vibeId)?.match.test(p.name);
 
-function categoryChildren(line: LineDef, list: Product[]): Child[] {
+export type DeptId = 'women' | 'men';
+export const DEPTS: { id: DeptId; label: string; blurb: string }[] = [
+  { id: 'women', label: 'Women', blurb: 'Baby tees, goth tops, mini skirts and everything in between.' },
+  { id: 'men', label: 'Men', blurb: 'Oversized graphic tees, hoodies, jackets and baggy jeans.' },
+];
+export const getDept = (id: string) => DEPTS.find((d) => d.id === id);
+const inDept = (d?: DeptId) => (p: Product) => !d || p.depts.includes(d);
+
+function categoryChildren(line: LineDef, list: Product[], base: string[] = []): Child[] {
   return categoriesFor(line.id)
-    .map((c) => ({ label: c.label, href: shopHref(line.id, c.id), count: list.filter((p) => p.category === c.id).length }))
+    .map((c) => ({ label: c.label, href: shopHref(...base, line.id, c.id), count: list.filter((p) => p.category === c.id).length }))
     .filter((c) => c.count > 0);
 }
 
-function lineChildren(): Child[] {
-  return LINES.map((l) => ({ label: l.label, href: shopHref(l.id), count: PRODUCTS.filter((p) => p.line === l.id).length })).filter((c) => c.count > 0);
+function lineChildren(list: Product[], base: string[] = []): Child[] {
+  return LINES.map((l) => ({ label: l.label, href: shopHref(...base, l.id), count: list.filter((p) => p.line === l.id).length })).filter((c) => c.count > 0);
 }
 
 function vibeChildren(): Child[] {
@@ -55,23 +63,27 @@ function vibeChildren(): Child[] {
 
 /**
  * Turns a /shop/... path into a collection.
- *   /shop                      everything
- *   /shop/new                  newest drop
- *   /shop/after-dark           18+ pieces (hidden while empty)
- *   /shop/vibe/goth            a vibe
- *   /shop/tops                 a line
- *   /shop/tops/baby-tees       a category inside a line
+ *   /shop                          everything
+ *   /shop/new                      newest drop
+ *   /shop/after-dark               18+ pieces (hidden while empty)
+ *   /shop/vibe/goth                a vibe
+ *   /shop/women, /shop/men         a department (unisex pieces are in both)
+ *   /shop/women/tops/baby-tees     a line or category inside a department
+ *   /shop/tops/baby-tees           a line or category across both
  */
 export function resolveCollection(path: string[] = []): Collection | null {
   const all = PRODUCTS;
   const shop: Crumb = { label: 'Shop', href: '/shop' };
 
   if (path.length === 0) {
-    return { key: 'all', title: 'Shop', href: '/shop', crumbs: [], products: all, children: lineChildren() };
+    return {
+      key: 'all', title: 'Shop', href: '/shop', crumbs: [], products: all,
+      children: [...DEPTS.map((d) => ({ label: d.label, href: shopHref(d.id), count: all.filter(inDept(d.id)).length })), ...lineChildren(all)],
+    };
   }
 
   const [a, b, c, ...rest] = path;
-  if (c || rest.length) return null;
+  if (rest.length) return null;
 
   if (a === 'new' && !b) {
     return {
@@ -89,7 +101,7 @@ export function resolveCollection(path: string[] = []): Collection | null {
 
   if (a === 'vibe') {
     const vibe = b ? getVibe(b) : undefined;
-    if (!vibe) return null;
+    if (!vibe || c) return null;
     const list = all.filter((p) => vibe.match.test(p.name));
     return {
       key: `vibe/${vibe.id}`, title: vibe.label, blurb: vibe.blurb, image: coverFor(list), href: shopHref('vibe', vibe.id),
@@ -97,22 +109,40 @@ export function resolveCollection(path: string[] = []): Collection | null {
     };
   }
 
-  const line = getLine(a);
+  const dept = getDept(a);
+  const base = dept ? [dept.id] : [];
+  const [lineId, catId, extra] = dept ? [b, c, undefined] : [a, b, c];
+  if (extra) return null;
+  const deptList = all.filter(inDept(dept?.id));
+  const crumbs: Crumb[] = [shop];
+  if (dept) {
+    const deptCrumb = { label: dept.label, href: shopHref(dept.id) };
+    if (!lineId) {
+      return {
+        key: dept.id, title: dept.label, blurb: dept.blurb, image: coverFor(deptList.filter((p) => p.category !== 'jewelry')), href: deptCrumb.href,
+        crumbs, products: deptList, children: lineChildren(deptList, base),
+      };
+    }
+    crumbs.push(deptCrumb);
+  }
+
+  const line = getLine(lineId);
   if (!line || !LINES.includes(line)) return null;
-  const lineList = all.filter((p) => p.line === line.id);
-  const lineCrumb = { label: line.label, href: shopHref(line.id) };
-  if (!b) {
+  const lineList = deptList.filter((p) => p.line === line.id);
+  const prefix = dept ? `${dept.label}’s ` : '';
+  const lineHref = shopHref(...base, line.id);
+  if (!catId) {
     return {
-      key: line.id, title: line.label, blurb: line.blurb, image: coverFor(lineList), href: lineCrumb.href, crumbs: [shop],
-      products: lineList, children: categoryChildren(line, lineList),
+      key: [...base, line.id].join('/'), title: prefix + line.label, blurb: line.blurb, image: coverFor(lineList), href: lineHref,
+      crumbs, products: lineList, children: categoryChildren(line, lineList, base),
     };
   }
-  const cat = getCategory(b);
+  const cat = getCategory(catId);
   if (!cat || cat.line !== line.id) return null;
   const list = lineList.filter((p) => p.category === cat.id);
   return {
-    key: `${line.id}/${cat.id}`, title: cat.label, blurb: line.blurb, image: coverFor(list), href: shopHref(line.id, cat.id),
-    crumbs: [shop, lineCrumb], products: list, children: categoryChildren(line, lineList),
+    key: [...base, line.id, cat.id].join('/'), title: prefix + cat.label, blurb: line.blurb, image: coverFor(list), href: shopHref(...base, line.id, cat.id),
+    crumbs: [...crumbs, { label: line.label, href: lineHref }], products: list, children: categoryChildren(line, lineList, base),
   };
 }
 
@@ -124,6 +154,14 @@ export function allCollectionPaths(): string[][] {
     for (const c of categoriesFor(l.id)) paths.push([l.id, c.id]);
   }
   for (const v of VIBES) paths.push(['vibe', v.id]);
+  for (const d of DEPTS) {
+    paths.push([d.id]);
+    for (const l of LINES) {
+      if (!PRODUCTS.some((p) => p.depts.includes(d.id) && p.line === l.id)) continue;
+      paths.push([d.id, l.id]);
+      for (const c of categoriesFor(l.id)) if (PRODUCTS.some((p) => p.depts.includes(d.id) && p.category === c.id)) paths.push([d.id, l.id, c.id]);
+    }
+  }
   return paths;
 }
 
@@ -133,7 +171,8 @@ export function productTrail(p: Product): Crumb[] {
   const line = getLine(p.line);
   const cat = getCategory(p.category);
   if (!line || !cat || !LINES.includes(line)) return [shop];
-  return [shop, { label: line.label, href: shopHref(line.id) }, { label: cat.label, href: shopHref(line.id, cat.id) }];
+  const d = p.depts.includes('women') ? 'women' : 'men';
+  return [shop, { label: getDept(d)!.label, href: shopHref(d) }, { label: line.label, href: shopHref(d, line.id) }, { label: cat.label, href: shopHref(d, line.id, cat.id) }];
 }
 
 // ---------- old links ----------
@@ -158,15 +197,13 @@ const OLD_CATS: Record<string, string> = {
 /** Where an old /shop/women/..., /shop/men/... or old line link should go now. Null if the path is current. */
 export function legacyRedirect(path: string[] = []): string | null {
   if (!path.length || resolveCollection(path)) return null;
-  const [a, ...rest] = path;
-  if (a === 'women' || a === 'men') {
-    if (!rest.length) return '/shop';
-    return legacyRedirect(rest) ?? (resolveCollection(rest) ? shopHref(...rest) : '/shop');
-  }
+  const dept = getDept(path[0]);
+  const rest = dept ? path.slice(1) : path;
+  const base = dept ? `${dept.id}/` : '';
   const cat = rest[rest.length - 1];
-  if (cat && OLD_CATS[cat]) return shopHref(OLD_CATS[cat]);
-  if (OLD_LINES[a]) return shopHref(OLD_LINES[a]);
-  if (a === 'home' || a === 'swim') return '/shop';
+  if (cat && OLD_CATS[cat]) return shopHref(base + OLD_CATS[cat]);
+  if (OLD_LINES[rest[0]]) return shopHref(base + OLD_LINES[rest[0]]);
+  if (rest[0] === 'home' || rest[0] === 'swim') return dept ? shopHref(dept.id) : '/shop';
   return null;
 }
 
@@ -225,22 +262,23 @@ export function facetsFor(list: Product[], f: Filters, hide: FilterKey[] = []): 
 // ---------- menu ----------
 
 export interface MenuLine { id: string; label: string; href: string; categories: Child[] }
-export interface Menu { clothing: MenuLine[]; accessories: MenuLine[]; vibes: Child[]; afterDark: boolean; covers: Record<'clothing' | 'accessories' | 'vibes', string | undefined> }
+export interface MenuDept { id: DeptId; label: string; href: string; lines: MenuLine[]; cover?: string }
+export interface Menu { depts: MenuDept[]; vibes: Child[]; afterDark: boolean; vibeCover?: string }
 
 /** The menu, with only sections that have products. Built on the server and passed to the header. */
 export function buildMenu(): Menu {
-  const line = (l: LineDef): MenuLine => ({ id: l.id, label: l.label, href: shopHref(l.id), categories: categoryChildren(l, PRODUCTS.filter((p) => p.line === l.id)) });
-  const lines = LINES.map(line).filter((l) => l.categories.length > 0);
+  const depts = DEPTS.map((d) => {
+    const list = PRODUCTS.filter(inDept(d.id));
+    const lines = LINES.map((l) => ({ id: l.id, label: l.label, href: shopHref(d.id, l.id), categories: categoryChildren(l, list.filter((p) => p.line === l.id), [d.id]) }))
+      .filter((l) => l.categories.length > 0);
+    const cover = coverFor(list.filter((p) => (d.id === 'women' ? p.category === 'baby-tees' && /Y2K/.test(p.name) : p.category === 'hoodies')).slice(3));
+    return { id: d.id, label: d.label, href: shopHref(d.id), lines, cover };
+  }).filter((d) => d.lines.length > 0);
   return {
-    clothing: lines.filter((l) => getLine(l.id)!.group === 'clothing'),
-    accessories: lines.filter((l) => getLine(l.id)!.group === 'accessories'),
+    depts,
     vibes: vibeChildren(),
     afterDark: PRODUCTS.some((p) => p.afterDark),
-    covers: {
-      clothing: coverFor(PRODUCTS.filter((p) => p.category === 'baby-tees' && /Y2K/.test(p.name)).slice(3)),
-      accessories: coverFor(PRODUCTS.filter((p) => p.category === 'jewelry')),
-      vibes: coverFor(PRODUCTS.filter((p) => /\bGoth\b/.test(p.name)).slice(5)),
-    },
+    vibeCover: coverFor(PRODUCTS.filter((p) => /\bGoth\b/.test(p.name)).slice(5)),
   };
 }
 

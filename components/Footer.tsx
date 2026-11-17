@@ -7,18 +7,16 @@ export default function Footer() {
   return (
     <footer className="site-footer">
       <div className="wrap footer-grid">
-        <nav aria-label="Clothing links">
-          <h4>Clothing</h4>
-          <Link href="/shop/new">New In</Link>
-          <Link href="/shop">Shop all</Link>
-          {menu.clothing.map((l) => <Link key={l.id} href={l.href}>{l.label}</Link>)}
-        </nav>
-        <nav aria-label="Accessories links">
-          <h4>Accessories</h4>
-          {menu.accessories.flatMap((l) => l.categories).map((c) => <Link key={c.href} href={c.href}>{c.label}</Link>)}
-        </nav>
+        {menu.depts.map((d) => (
+          <nav key={d.id} aria-label={`${d.label} links`}>
+            <h4>{d.label}</h4>
+            <Link href={d.href}>Shop all</Link>
+            {d.lines.map((l) => <Link key={l.id} href={l.href}>{l.label}</Link>)}
+          </nav>
+        ))}
         <nav aria-label="Vibes links">
           <h4>Vibes</h4>
+          <Link href="/shop/new">New In</Link>
           {menu.vibes.map((v) => <Link key={v.href} href={v.href}>{v.label}</Link>)}
           {menu.afterDark && <Link href="/shop/after-dark">After Dark</Link>}
         </nav>

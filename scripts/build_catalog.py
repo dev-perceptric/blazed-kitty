@@ -352,7 +352,7 @@ TAIL = """];
 const SHOW_PRINTFUL = false;
 
 /** Everything we've ever listed, hidden or not. Used to fulfil orders already paid for. */
-export const ALL_PRODUCTS: Product[] = [...PRINTFUL_PRODUCTS, ...(CJ_PRODUCTS as Product[]), ...(AE_PRODUCTS as Product[])];
+export const ALL_PRODUCTS: Product[] = [...PRINTFUL_PRODUCTS, ...(AE_PRODUCTS as Product[]), ...(CJ_PRODUCTS as Product[])];
 
 /** What the store shows and sells. */
 export const PRODUCTS: Product[] = ALL_PRODUCTS.filter((p) => SHOW_PRINTFUL || !p.printful);

@@ -5,42 +5,27 @@ import { usePathname } from 'next/navigation';
 import { useEffect, useRef, useState } from 'react';
 import { useCart } from './CartProvider';
 import { Wordmark } from './Media';
-import type { Menu, MenuLine } from '@/lib/collections';
+import type { Menu } from '@/lib/collections';
 
-type Tab = 'clothing' | 'accessories' | 'vibes';
-const TABS: { id: Tab; label: string; href: string }[] = [
-  { id: 'clothing', label: 'Clothing', href: '/shop' },
-  { id: 'accessories', label: 'Accessories', href: '/shop/accessories' },
-  { id: 'vibes', label: 'Vibes', href: '/shop/vibe/y2k' },
-];
-
-function LineCol({ line, onPick }: { line: MenuLine; onPick: () => void }) {
-  return (
-    <div className="mega-col">
-      <Link href={line.href} className="mega-head" onClick={onPick}>{line.label}</Link>
-      {line.categories.map((c) => <Link key={c.href} href={c.href} onClick={onPick}>{c.label}</Link>)}
-    </div>
-  );
-}
+type Tab = 'women' | 'men' | 'vibes';
 
 function MegaPanel({ tab, menu, onPick }: { tab: Tab; menu: Menu; onPick: () => void }) {
-  const cover = menu.covers[tab];
-  const feature = tab === 'clothing' ? { href: '/shop', label: 'Shop all clothing' } : tab === 'accessories' ? { href: '/shop/accessories', label: 'Shop all accessories' } : { href: '/shop/new', label: 'Shop new in' };
+  const dept = menu.depts.find((d) => d.id === tab);
+  const cover = dept ? dept.cover : menu.vibeCover;
+  const feature = dept ? { href: dept.href, label: `Shop all ${dept.label}` } : { href: '/shop/new', label: 'Shop new in' };
   return (
     <div className="mega-inner wrap">
       <div className="mega-cols">
-        {tab === 'clothing' && menu.clothing.map((l) => <LineCol key={l.id} line={l} onPick={onPick} />)}
-        {tab === 'accessories' && menu.accessories.map((l) => <LineCol key={l.id} line={l} onPick={onPick} />)}
+        {dept && dept.lines.map((l) => (
+          <div key={l.id} className="mega-col">
+            <Link href={l.href} className="mega-head" onClick={onPick}>{l.label}</Link>
+            {l.categories.map((c) => <Link key={c.href} href={c.href} onClick={onPick}>{c.label}</Link>)}
+          </div>
+        ))}
         {tab === 'vibes' && (
           <div className="mega-col">
             <span className="mega-head">Shop by vibe</span>
             {menu.vibes.map((v) => <Link key={v.href} href={v.href} onClick={onPick}>{v.label}</Link>)}
-          </div>
-        )}
-        {menu.afterDark && tab === 'clothing' && (
-          <div className="mega-col">
-            <span className="mega-head">Also</span>
-            <Link href="/shop/after-dark" onClick={onPick}>After Dark</Link>
           </div>
         )}
       </div>
@@ -86,11 +71,11 @@ export default function Header({ menu }: { menu: Menu }) {
 
   const openMega = (t: Tab) => { clearTimeout(closeTimer.current); setMega(t); };
   const closeMega = () => { closeTimer.current = setTimeout(() => setMega(null), 120); };
-  const isOn = (t: Tab) =>
-    t === 'vibes' ? pathname.startsWith('/shop/vibe') :
-    t === 'accessories' ? pathname.startsWith('/shop/accessories') :
-    menu.clothing.some((l) => pathname.startsWith(l.href)) || pathname === '/shop';
-  const tabs = TABS.filter((t) => (t.id === 'accessories' ? menu.accessories.length : t.id === 'vibes' ? menu.vibes.length : menu.clothing.length) > 0);
+  const isOn = (t: Tab) => (t === 'vibes' ? pathname.startsWith('/shop/vibe') : pathname === `/shop/${t}` || pathname.startsWith(`/shop/${t}/`));
+  const tabs: { id: Tab; label: string; href: string }[] = [
+    ...menu.depts.map((d) => ({ id: d.id as Tab, label: d.label, href: d.href })),
+    ...(menu.vibes.length ? [{ id: 'vibes' as Tab, label: 'Vibes', href: menu.vibes[0].href }] : []),
+  ];
 
   return (
     <header className="site-header" onMouseLeave={closeMega}>
@@ -136,13 +121,20 @@ export default function Header({ menu }: { menu: Menu }) {
           </div>
           <nav className="mobile-nav" aria-label="Shop">
             <Link href="/shop/new" className="m-top">New In</Link>
-            <Link href="/shop" className="m-top">Shop All</Link>
-            {[...menu.clothing, ...menu.accessories].map((l) => (
-              <details key={l.id} className="m-group">
-                <summary className="m-top">{l.label}</summary>
-                <div className="m-sub m-cats">
-                  <Link href={l.href} className="m-all">All {l.label}</Link>
-                  {l.categories.map((c) => <Link key={c.href} href={c.href}>{c.label}</Link>)}
+            {menu.depts.map((d) => (
+              <details key={d.id} className="m-group">
+                <summary className="m-top">{d.label}</summary>
+                <div className="m-sub">
+                  <Link href={d.href} className="m-all">Shop all {d.label}</Link>
+                  {d.lines.map((l) => (
+                    <details key={l.id} className="m-line">
+                      <summary>{l.label}</summary>
+                      <div className="m-cats">
+                        <Link href={l.href}>All {l.label}</Link>
+                        {l.categories.map((c) => <Link key={c.href} href={c.href}>{c.label}</Link>)}
+                      </div>
+                    </details>
+                  ))}
                 </div>
               </details>
             ))}

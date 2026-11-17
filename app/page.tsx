@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { PRODUCTS, getProduct } from '@/lib/products';
-import { NEWEST_DROP, coverFor, shopHref } from '@/lib/collections';
-import { LINES, VIBES } from '@/lib/taxonomy';
+import { DEPTS, NEWEST_DROP, coverFor, shopHref } from '@/lib/collections';
+import { CDN, LINES, VIBES } from '@/lib/taxonomy';
 import ProductCard from '@/components/ProductCard';
 import { ProductPhoto } from '@/components/Media';
 import { AdultBlur, AdultConfirm } from '@/components/Adult';
@@ -33,8 +33,8 @@ export default function Home() {
           <h1>Nine lives.<br />Zero basics.</h1>
           <p className="whisper">cute face, dark heart</p>
           <div className="hero-actions">
-            <Link href={shopHref('new')} className="btn">Shop New In</Link>
-            <Link href={shopHref('tops')} className="btn btn-line btn-glass">Shop Tops</Link>
+            <Link href={shopHref('women')} className="btn">Shop Women</Link>
+            <Link href={shopHref('men')} className="btn btn-line btn-glass">Shop Men</Link>
           </div>
         </div>
       </section>
@@ -48,6 +48,23 @@ export default function Home() {
           <div className="grid">
             {newIn.map((p, i) => <ProductCard key={p.slug} product={p} eager={i < 4} />)}
           </div>
+        </div>
+      </section>
+
+      <section className="sec depts">
+        <div className="wrap depts-row">
+          {DEPTS.map((d) => {
+            const n = PRODUCTS.filter((p) => p.depts.includes(d.id)).length;
+            return (
+              <Link key={d.id} href={shopHref(d.id)} className="dept">
+                <div className="photo"><img src={`${CDN}/site/web/lines/${d.id}.jpg`} alt="" loading="lazy" /></div>
+                <div className="dept-copy">
+                  <span className="dept-label">{d.label}</span>
+                  <span className="eyebrow">{n} pieces</span>
+                </div>
+              </Link>
+            );
+          })}
         </div>
       </section>
 
