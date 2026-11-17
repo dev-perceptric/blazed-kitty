@@ -53,3 +53,24 @@ def new_category(name, old=None):
         if re.search(pat, n):
             return cat
     return FALLBACK.get(old, old or 'baby-tees')
+
+
+# Unisex pieces show in both Men and Women (like Y2KDream). Everything else is women's.
+UNISEX_CATS = {'oversized-tees', 'hoodies', 'sweaters', 'jackets', 'jeans', 'pants', 'shorts', 'belts', 'extras'}
+UNISEX_JEWELRY = re.compile(r'\b(ring|rings|chain|bracelet|grillz?|skull|cross|spike|spiked|dog tag|carabiner)\b', re.I)
+GIRLY = re.compile(r'\b(pearl|bow|heart|butterfly|pink|coquette|kawaii|bunny|earrings?|hair|rhinestone)\b', re.I)
+
+
+# Feminine cuts and details stay women-only even in unisex categories.
+FEMININE = re.compile(r'\b(crop|cropped|off shoulder|one shoulder|coquette|ruffle|ruffled|lace|bow|bows|fairy|kawaii|heart|hearts|pink|lilac|lavender|'
+                      r'sheer|mesh|mini|low rise|fitted|corset|bunny|kitty|lolita|petticoat|shrug|bolero|rhinestone|bloomers|halter|tube|flare|flared|'
+                      r'bell sleeve|puff sleeve|slim|tie front|ribbed|bodycon|skinny|booty|hot pants|butterfly|strawberry|cherry|princess|angel|bikini|'
+                      r'fur trim|faux fur|fluffy|plush|leopard|mohair|coquette)\b', re.I)
+
+
+def depts_for(name, category):
+    if category in UNISEX_CATS:
+        return ['women'] if FEMININE.search(name or '') else ['women', 'men']
+    if category == 'jewelry' and UNISEX_JEWELRY.search(name or '') and not GIRLY.search(name or ''):
+        return ['women', 'men']
+    return ['women']
