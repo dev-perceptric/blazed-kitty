@@ -223,17 +223,24 @@ def main():
         prev = old.get(str(pick['id']))
         if prev:
             # Keep built products, but pick up edited names, prices and text.
-            for k in ('name', 'blurb', 'description', 'depts', 'afterDark'):
+            for k in ('name', 'blurb', 'description', 'depts', 'afterDark', 'category'):
                 if k in pick:
                     prev[k] = pick[k]
             if pick.get('price'):
                 prev['price'] = pick['price']
             prev['details'] = (pick.get('details') or []) + ['Ships from our overseas partner']
             prev['code'] = f'BK-AE{i}'
+            if pick.get('category') in cats:
+                prev['line'] = cats[pick['category']][0]
+            hide = set(pick.get('hide_photos') or [])
+            prev['photos'] = [ph for ph in prev['photos'] if ph['src'] not in hide] or prev['photos']
             products.append(prev)
             continue
         try:
-            products.append(build(pick, i, cats))
+            built = build(pick, i, cats)
+            hide = set(pick.get('hide_photos') or [])
+            built['photos'] = [ph for ph in built['photos'] if ph['src'] not in hide] or built['photos']
+            products.append(built)
         except (SystemExit, Exception) as e:  # one bad listing shouldn't stop the batch
             print(f'  skip {pick["id"]}: {e}')
             failed.append(str(pick['id']))
