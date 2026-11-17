@@ -12,6 +12,7 @@ RULES = [
     (r'\b(boots|shoes|sneakers|heels|platforms?|sandals|loafers|mary janes)$', 'shoes'),
     (r'\b(socks|tights|stockings|leg warmers|garter|fishnets?)$', 'legwear'),
     (r'\b(arm warmers|gloves|mittens)$', 'arm-warmers'),
+    (r'\b(hat|cap|beanie|bucket hat|balaclava|beret)$', 'hats'),
     (r'\b(hair clips?|clips?|hairpins?|wig|headband|scrunchies?)$', 'hair'),
     (r'\b(bag|purse|tote|backpack|wallet)$', 'bags'),
     (r'\b(belt|scarf|sunglasses|glasses|harness|mask|accessory)$', 'belts'),
@@ -56,7 +57,7 @@ def new_category(name, old=None):
 
 
 # Unisex pieces show in both Men and Women (like Y2KDream). Everything else is women's.
-UNISEX_CATS = {'oversized-tees', 'hoodies', 'sweaters', 'jackets', 'jeans', 'pants', 'shorts', 'belts', 'extras'}
+UNISEX_CATS = {'oversized-tees', 'hoodies', 'sweaters', 'jackets', 'jeans', 'pants', 'shorts', 'belts', 'extras', 'hats'}
 UNISEX_JEWELRY = re.compile(r'\b(ring|rings|chain|bracelet|grillz?|skull|cross|spike|spiked|dog tag|carabiner)\b', re.I)
 GIRLY = re.compile(r'\b(pearl|bow|heart|butterfly|pink|coquette|kawaii|bunny|earrings?|hair|rhinestone)\b', re.I)
 
