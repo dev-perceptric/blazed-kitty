@@ -1,3 +1,5 @@
+import type { Attrs } from './tags';
+
 // How the store is organized: lines (Tops, Knits & Layers...), the categories inside them, plus vibes and
 // detail tags for browsing and filtering. Blazed Kitty is a women's alt store, so there are no departments.
 
@@ -114,12 +116,44 @@ export const VIBES: VibeDef[] = [
   { id: 'emo-punk', label: 'Emo & Punk', blurb: 'Stripes, studs and eyeliner.', match: /\b(Emo|Punk)\b/ },
   { id: 'harajuku', label: 'Harajuku', blurb: 'Loud, layered and kawaii.', match: /\bHarajuku\b/ },
   { id: 'anime', label: 'Anime', blurb: 'Washed anime and manga tees, hoodies and long sleeves.', match: /#anime\b/ },
+  { id: 'streetwear', label: 'Streetwear', blurb: 'Band merch, zip hoodies and big graphic tees.', match: /#streetwear\b/ },
+  { id: 'rave', label: 'Rave', blurb: 'Mesh, rhinestones and anything that glows.', match: /#rave\b/ },
+  { id: 'western', label: 'Western', blurb: 'Cowgirl, fringe and a little bit country.', match: /#western\b/ },
 ];
 
 export const getVibe = (id: string) => VIBES.find((v) => v.id === id);
 
 /** Text vibes match against: the name plus #tags. */
 export const vibeText = (p: { name: string; tags?: string[] }) => [p.name, ...(p.tags ?? []).map((t) => `#${t}`)].join(' ');
+
+// ---------- edits (hand-picked collections built from photo tags) ----------
+
+
+export interface EditDef {
+  id: string;
+  label: string;
+  blurb: string;
+  test: (p: { attrs?: Attrs; price: number; tags?: string[] }) => boolean;
+}
+
+const has = (list: string[] | undefined, id: string) => !!list?.includes(id);
+
+export const EDITS: EditDef[] = [
+  { id: 'band-merch', label: 'Band Merch', blurb: 'Tour tees and zip hoodies for the bands and rappers on repeat.', test: (p) => p.attrs?.print === 'music' },
+  { id: 'brazil', label: 'Brazil', blurb: 'Brasil baby tees, flag colors and football tops.', test: (p) => has(p.attrs?.themes, 'brazil') },
+  { id: 'jerseys', label: 'Jerseys', blurb: 'Numbers on the back, football and hockey style.', test: (p) => p.attrs?.print === 'jersey' || p.attrs?.sub === 'jersey-tee' },
+  { id: 'acid-wash', label: 'Acid Wash', blurb: 'Faded, washed and broken in from day one.', test: (p) => has(p.attrs?.material, 'acid-wash') || p.attrs?.sub === 'acid-wash-tee' },
+  { id: 'rhinestone', label: 'Rhinestone', blurb: 'Rhinestones, sequins and a lot of sparkle.', test: (p) => has(p.attrs?.material, 'rhinestone') || p.attrs?.sub === 'rhinestone-zip-hoodie' },
+  { id: 'lace', label: 'Lace', blurb: 'Lace trim, lace camis and lace everything.', test: (p) => has(p.attrs?.material, 'lace') },
+  { id: 'leather-jackets', label: 'Leather Jackets', blurb: 'Faux leather jackets for every night out.', test: (p) => p.attrs?.sub === 'leather-jacket' },
+  { id: 'skulls', label: 'Skulls', blurb: 'Skulls, skeletons and bones.', test: (p) => has(p.attrs?.themes, 'skulls') },
+  { id: 'cats', label: 'Cats', blurb: 'Kitties on everything. We had to.', test: (p) => has(p.attrs?.themes, 'cats') },
+  { id: 'stripes', label: 'Stripes', blurb: 'Emo stripes, ringer stripes, all the stripes.', test: (p) => has(p.attrs?.themes, 'stripes') },
+  { id: 'cropped-hoodies', label: 'Cropped Hoodies', blurb: 'Short hoodies and cropped zip-ups.', test: (p) => p.attrs?.sub === 'cropped-hoodie' },
+  { id: 'under-20', label: 'Under $20', blurb: 'Full fits for less.', test: (p) => p.price < 20 },
+];
+
+export const getEdit = (id: string) => EDITS.find((e) => e.id === id);
 
 // ---------- detail tags and filters ----------
 

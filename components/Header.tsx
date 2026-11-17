@@ -5,6 +5,7 @@ import { usePathname } from 'next/navigation';
 import { useEffect, useRef, useState } from 'react';
 import { useCart } from './CartProvider';
 import { Wordmark } from './Media';
+import SearchBox from './SearchBox';
 import type { Menu } from '@/lib/collections';
 
 type Tab = 'women' | 'men' | 'vibes';
@@ -26,6 +27,12 @@ function MegaPanel({ tab, menu, onPick }: { tab: Tab; menu: Menu; onPick: () => 
           <div className="mega-col">
             <span className="mega-head">Shop by vibe</span>
             {menu.vibes.map((v) => <Link key={v.href} href={v.href} onClick={onPick}>{v.label}</Link>)}
+          </div>
+        )}
+        {tab === 'vibes' && menu.edits.length > 0 && (
+          <div className="mega-col">
+            <span className="mega-head">Collections</span>
+            {menu.edits.map((e) => <Link key={e.href} href={e.href} onClick={onPick}>{e.label}</Link>)}
           </div>
         )}
       </div>
@@ -71,7 +78,7 @@ export default function Header({ menu }: { menu: Menu }) {
 
   const openMega = (t: Tab) => { clearTimeout(closeTimer.current); setMega(t); };
   const closeMega = () => { closeTimer.current = setTimeout(() => setMega(null), 120); };
-  const isOn = (t: Tab) => (t === 'vibes' ? pathname.startsWith('/shop/vibe') : pathname === `/shop/${t}` || pathname.startsWith(`/shop/${t}/`));
+  const isOn = (t: Tab) => (t === 'vibes' ? (pathname.startsWith('/shop/vibe') && pathname !== '/shop/vibe/anime') || pathname.startsWith('/shop/edit') : pathname === `/shop/${t}` || pathname.startsWith(`/shop/${t}/`));
   const tabs: { id: Tab; label: string; href: string }[] = [
     ...menu.depts.map((d) => ({ id: d.id as Tab, label: d.label, href: d.href })),
     ...(menu.vibes.length ? [{ id: 'vibes' as Tab, label: 'Vibes', href: menu.vibes[0].href }] : []),
@@ -104,6 +111,7 @@ export default function Header({ menu }: { menu: Menu }) {
         </Link>
 
         <div className="header-right">
+          <SearchBox />
           <button type="button" className="bag-btn" onClick={() => setOpen(true)} aria-label={`Open bag, ${count} item${count === 1 ? '' : 's'}`}>
             Bag ({count})
           </button>
@@ -146,6 +154,14 @@ export default function Header({ menu }: { menu: Menu }) {
                 <summary className="m-top">Vibes</summary>
                 <div className="m-sub m-cats">
                   {menu.vibes.map((v) => <Link key={v.href} href={v.href}>{v.label}</Link>)}
+                </div>
+              </details>
+            )}
+            {menu.edits.length > 0 && (
+              <details className="m-group">
+                <summary className="m-top">Collections</summary>
+                <div className="m-sub m-cats">
+                  {menu.edits.map((e) => <Link key={e.href} href={e.href}>{e.label}</Link>)}
                 </div>
               </details>
             )}

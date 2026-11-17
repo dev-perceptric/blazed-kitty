@@ -1,4 +1,5 @@
 import type { CategoryId, Dept, LineId } from './taxonomy';
+import type { Attrs } from './tags';
 import CJ_PRODUCTS from './cj-products.json';
 import AE_PRODUCTS from './ae-products.json';
 
@@ -73,6 +74,8 @@ export interface Product {
   oldSlugs?: string[];
   /** Theme tags such as 'anime', used by theme collections. */
   tags?: string[];
+  /** Detailed tags read from the photos (lib/tags.ts). */
+  attrs?: Attrs;
 }
 
 // Generated from the Printful store (Blazed Kitty) by scripts/build_catalog.py.

@@ -7,11 +7,12 @@ import {
 } from '@/lib/collections';
 import type { Product } from '@/lib/products';
 import ProductCard from '@/components/ProductCard';
+import { searchProducts } from '@/lib/search';
 import { AdultConfirm } from '@/components/Adult';
 import ComingSoon from '@/components/ComingSoon';
 import Crumbs from '@/components/Crumbs';
 
-type Search = { c?: string; sort?: string } & Partial<Record<FilterKey, string>>;
+type Search = { c?: string; sort?: string; q?: string } & Partial<Record<FilterKey, string>>;
 type Props = { params: { path?: string[] }; searchParams: Search };
 
 const SORTS = [
@@ -56,7 +57,7 @@ export function generateMetadata({ params }: Props): Metadata {
 /** Link to the same page with one search param changed (undefined removes it). */
 function hrefWith(base: string, search: Search, change: Partial<Search>) {
   const q = new URLSearchParams();
-  for (const k of [...FILTER_KEYS, 'sort'] as const) {
+  for (const k of ['q', ...FILTER_KEYS, 'sort'] as const) {
     const v = k in change ? change[k] : search[k];
     if (v && !(k === 'sort' && v === 'featured')) q.set(k, v);
   }
@@ -73,15 +74,19 @@ export default function ShopPage({ params, searchParams }: Props) {
     notFound();
   }
 
+  const q = searchParams.q?.trim().slice(0, 80) || '';
+  const pool = q ? searchProducts(col.products, q) : col.products;
   const filters: Filters = {};
   for (const k of FILTER_KEYS) if (searchParams[k]) filters[k] = searchParams[k];
-  const facets = facetsFor(col.products, filters, col.vibe ? ['vibe'] : []);
+  const facets = facetsFor(pool, filters, col.vibe ? ['vibe'] : []);
   const active = facets.flatMap((f) => (filters[f.key] ? [{ key: f.key, label: f.options.find((o) => o.id === filters[f.key])?.label ?? filters[f.key]! }] : []));
 
   const sort = SORTS.some((s) => s.id === searchParams.sort) ? searchParams.sort! : 'featured';
-  const list = sortList(applyFilters(col.products, filters), sort);
-  const total = col.products.length;
-  const big = !!col.image && col.crumbs.length <= 1 && col.children.length > 0;
+  // Search results keep their best-match order unless a sort is picked.
+  const list = q && sort === 'featured' ? applyFilters(pool, filters) : sortList(applyFilters(pool, filters), sort);
+  const total = pool.length;
+  const big = !q && !!col.image && col.crumbs.length <= 1 && col.children.length > 0;
+  const title = q ? `Results for “${q}”` : col.title;
   const countLabel = (n: number) => (n ? `${n} ${n === 1 ? 'piece' : 'pieces'}` : 'Dropping soon');
 
   return (
@@ -92,7 +97,7 @@ export default function ShopPage({ params, searchParams }: Props) {
         {big ? (
           <header className="coll-hero">
             <div className="coll-hero-copy">
-              <h1>{col.title}</h1>
+              <h1>{title}</h1>
               {col.blurb && <p className="lede">{col.blurb}</p>}
               <span className="count">{countLabel(total)}</span>
             </div>
@@ -100,12 +105,12 @@ export default function ShopPage({ params, searchParams }: Props) {
           </header>
         ) : (
           <div className="shop-head">
-            <h1>{col.title}</h1>
-            <span className="count">{countLabel(total)}</span>
+            <h1>{title}</h1>
+            <span className="count">{q ? `${total} ${total === 1 ? 'piece' : 'pieces'}` : countLabel(total)}</span>
           </div>
         )}
 
-        {col.children.length > 0 && (
+        {!q && col.children.length > 0 && (
           <nav className="chips" aria-label="Browse">
             {col.children.map((ch) => (
               <Link key={ch.href} href={ch.href} className={`chip${ch.href === col.href ? ' is-active' : ''}`} aria-current={ch.href === col.href ? 'page' : undefined}>
@@ -146,7 +151,7 @@ export default function ShopPage({ params, searchParams }: Props) {
                         {a.label} ✕
                       </Link>
                     ))}
-                    <Link href={hrefWith(col.href, { sort: searchParams.sort }, {})} className="link" scroll={false}>Clear all</Link>
+                    <Link href={hrefWith(col.href, { sort: searchParams.sort, q: searchParams.q }, {})} className="link" scroll={false}>Clear all</Link>
                   </div>
                 )}
               </div>
@@ -170,6 +175,8 @@ export default function ShopPage({ params, searchParams }: Props) {
               <p className="lede">Nothing matches all of those. <Link href={col.href} className="link">Clear the filters</Link></p>
             )}
           </>
+        ) : q ? (
+          <p className="lede">Nothing found for “{q}”. Try fewer words, or <Link href="/shop/new" className="link">browse new in</Link>.</p>
         ) : (
           <ComingSoon title={col.title} image={big ? undefined : col.image} />
         )}

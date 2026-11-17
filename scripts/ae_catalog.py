@@ -215,6 +215,7 @@ def build(pick, n, cats):
         'ae': {'productId': pid, 'delivery': delivery, 'variants': variants},
         'photos': photos,
         **({'tags': pick['tags']} if pick.get('tags') else {}),
+        **({'attrs': pick['attrs']} if pick.get('attrs') else {}),
     }
     if pick.get('description'):
         product['description'] = pick['description']
@@ -234,7 +235,7 @@ def main():
         prev = old.get(str(pick['id']))
         if prev:
             # Keep built products, but pick up edited names, prices and text.
-            for k in ('name', 'blurb', 'description', 'depts', 'afterDark', 'category', 'tags'):
+            for k in ('name', 'blurb', 'description', 'depts', 'afterDark', 'category', 'tags', 'attrs'):
                 if k in pick:
                     prev[k] = pick[k]
             if pick.get('price'):

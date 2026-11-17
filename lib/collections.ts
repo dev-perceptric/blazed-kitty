@@ -1,8 +1,9 @@
 import { PRODUCTS, type Product } from './products';
 import {
-  CATEGORIES, COLOR_FAMILIES, DETAILS, LINES, PRICE_RANGES, SIZE_ORDER, VIBES, categoriesFor, getCategory, getLine, getVibe, vibeText,
+  CATEGORIES, COLOR_FAMILIES, EDITS, LINES, PRICE_RANGES, SIZE_ORDER, VIBES, categoriesFor, getCategory, getEdit, getLine, getVibe, vibeText,
   type LineDef,
 } from './taxonomy';
+import { ALL_SUBTYPES, CUTS, LENGTHS, MATERIALS, PRINTS, SLEEVES, SUBTYPES, THEMES, type TagOption } from './tags';
 
 export interface Crumb { label: string; href: string }
 export interface Child { label: string; href: string; count: number }
@@ -37,7 +38,13 @@ export function coverFor(list: Product[]) {
   return p?.photos?.[0]?.src;
 }
 
-export const vibeMatches = (p: Product, vibeId: string) => !!getVibe(vibeId)?.match.test(vibeText(p));
+/** Vibes come from the photo tags; products without tags fall back to words in the name. */
+export function vibeMatches(p: Product, vibeId: string) {
+  const a = p.attrs;
+  if (vibeId === 'anime' && (p.tags?.includes('anime') || a?.print === 'anime')) return true;
+  if (a?.vibe) return a.vibe === vibeId || !!a.vibes?.includes(vibeId);
+  return !!getVibe(vibeId)?.match.test(vibeText(p));
+}
 
 export type DeptId = 'women' | 'men';
 export const DEPTS: { id: DeptId; label: string; blurb: string }[] = [
@@ -58,7 +65,11 @@ function lineChildren(list: Product[], base: string[] = []): Child[] {
 }
 
 function vibeChildren(): Child[] {
-  return VIBES.map((v) => ({ label: v.label, href: shopHref('vibe', v.id), count: PRODUCTS.filter((p) => v.match.test(vibeText(p))).length })).filter((c) => c.count > 0);
+  return VIBES.map((v) => ({ label: v.label, href: shopHref('vibe', v.id), count: PRODUCTS.filter((p) => vibeMatches(p, v.id)).length })).filter((c) => c.count > 0);
+}
+
+function editChildren(): Child[] {
+  return EDITS.map((e) => ({ label: e.label, href: shopHref('edit', e.id), count: PRODUCTS.filter((p) => visible(p) && e.test(p)).length })).filter((c) => c.count > 0);
 }
 
 /**
@@ -102,10 +113,20 @@ export function resolveCollection(path: string[] = []): Collection | null {
   if (a === 'vibe') {
     const vibe = b ? getVibe(b) : undefined;
     if (!vibe || c) return null;
-    const list = all.filter((p) => vibe.match.test(vibeText(p)));
+    const list = all.filter((p) => vibeMatches(p, vibe.id));
     return {
       key: `vibe/${vibe.id}`, title: vibe.label, blurb: vibe.blurb, image: coverFor(list), href: shopHref('vibe', vibe.id),
       crumbs: [shop], products: list, children: vibeChildren(), vibe: vibe.id,
+    };
+  }
+
+  if (a === 'edit') {
+    const edit = b ? getEdit(b) : undefined;
+    if (!edit || c) return null;
+    const list = all.filter((p) => visible(p) && edit.test(p));
+    return {
+      key: `edit/${edit.id}`, title: edit.label, blurb: edit.blurb, image: coverFor(list), href: shopHref('edit', edit.id),
+      crumbs: [shop], products: list, children: editChildren(),
     };
   }
 
@@ -154,6 +175,7 @@ export function allCollectionPaths(): string[][] {
     for (const c of categoriesFor(l.id)) paths.push([l.id, c.id]);
   }
   for (const v of VIBES) paths.push(['vibe', v.id]);
+  for (const e of EDITS) paths.push(['edit', e.id]);
   for (const d of DEPTS) {
     paths.push([d.id]);
     for (const l of LINES) {
@@ -209,23 +231,26 @@ export function legacyRedirect(path: string[] = []): string | null {
 
 // ---------- filters ----------
 
-export interface Filters {
-  vibe?: string;
-  detail?: string;
-  color?: string;
-  size?: string;
-  price?: string;
-}
+export type Filters = Partial<Record<FilterKey, string>>;
 
-export const FILTER_KEYS = ['vibe', 'detail', 'color', 'size', 'price'] as const;
+export const FILTER_KEYS = ['type', 'vibe', 'print', 'theme', 'fit', 'sleeve', 'length', 'material', 'color', 'size', 'price'] as const;
 export type FilterKey = (typeof FILTER_KEYS)[number];
 
-const colorFamilies = (p: Product) => COLOR_FAMILIES.filter((f) => p.colors.some((c) => f.match.test(c.name)) || f.match.test(p.name)).map((f) => f.id);
+/** Main color from the photo tags; untagged products fall back to their color options. */
+const colorFamilies = (p: Product) =>
+  p.attrs?.color ? [p.attrs.color] : COLOR_FAMILIES.filter((f) => p.colors.some((c) => f.match.test(c.name)) || f.match.test(p.name)).map((f) => f.id);
 
 export function matchesFilter(p: Product, key: FilterKey, value: string) {
+  const a = p.attrs;
   switch (key) {
+    case 'type': return a?.sub === value;
     case 'vibe': return vibeMatches(p, value);
-    case 'detail': return !!DETAILS.find((d) => d.id === value)?.match.test(p.name);
+    case 'print': return a?.print === value;
+    case 'theme': return !!a?.themes?.includes(value);
+    case 'fit': return !!a?.cut?.includes(value);
+    case 'sleeve': return a?.sleeve === value;
+    case 'length': return a?.length === value;
+    case 'material': return !!a?.material?.includes(value);
     case 'color': return colorFamilies(p).includes(value);
     case 'size': return p.sizes.includes(value);
     case 'price': {
@@ -249,9 +274,18 @@ export function facetsFor(list: Product[], f: Filters, hide: FilterKey[] = []): 
     return defs.map((d) => ({ id: d.id, label: d.label, count: base.filter((p) => matchesFilter(p, key, d.id)).length })).filter((o) => o.count > 0);
   };
   const sizes = SIZE_ORDER.filter((s) => list.some((p) => p.sizes.includes(s))).map((s) => ({ id: s, label: s }));
+  // Sub-types: only those for the categories in this list, in category order.
+  const cats = new Set(list.map((p) => p.category));
+  const types: TagOption[] = cats.size ? Object.entries(SUBTYPES).filter(([c]) => cats.has(c as Product['category'])).flatMap(([, o]) => o) : ALL_SUBTYPES;
   const facets: Facet[] = [
+    { key: 'type', label: 'Type', options: opts('type', types) },
     { key: 'vibe', label: 'Vibe', options: opts('vibe', VIBES) },
-    { key: 'detail', label: 'Details', options: opts('detail', DETAILS) },
+    { key: 'print', label: 'Print', options: opts('print', PRINTS) },
+    { key: 'theme', label: 'Theme', options: opts('theme', THEMES) },
+    { key: 'fit', label: 'Fit', options: opts('fit', CUTS) },
+    { key: 'sleeve', label: 'Sleeve', options: opts('sleeve', SLEEVES) },
+    { key: 'length', label: 'Length', options: opts('length', LENGTHS) },
+    { key: 'material', label: 'Material', options: opts('material', MATERIALS) },
     { key: 'color', label: 'Color', options: opts('color', COLOR_FAMILIES) },
     { key: 'size', label: 'Size', options: opts('size', sizes) },
     { key: 'price', label: 'Price', options: opts('price', PRICE_RANGES) },
@@ -263,7 +297,7 @@ export function facetsFor(list: Product[], f: Filters, hide: FilterKey[] = []): 
 
 export interface MenuLine { id: string; label: string; href: string; categories: Child[] }
 export interface MenuDept { id: DeptId; label: string; href: string; lines: MenuLine[]; cover?: string }
-export interface Menu { depts: MenuDept[]; vibes: Child[]; afterDark: boolean; vibeCover?: string }
+export interface Menu { depts: MenuDept[]; vibes: Child[]; edits: Child[]; afterDark: boolean; vibeCover?: string }
 
 /** The menu, with only sections that have products. Built on the server and passed to the header. */
 export function buildMenu(): Menu {
@@ -277,6 +311,7 @@ export function buildMenu(): Menu {
   return {
     depts,
     vibes: vibeChildren(),
+    edits: editChildren(),
     afterDark: PRODUCTS.some((p) => p.afterDark),
     vibeCover: coverFor(PRODUCTS.filter((p) => /\bGoth\b/.test(p.name)).slice(5)),
   };
