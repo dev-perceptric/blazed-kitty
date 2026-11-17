@@ -1,133 +1,167 @@
-// How the store is organized: departments (women, men), product lines, and categories.
-// Lines and categories exist before their products do, so the site can show
-// "dropping soon" pages and fill in as each drop lands in Printful.
+// How the store is organized: lines (Tops, Knits & Layers...), the categories inside them, plus vibes and
+// detail tags for browsing and filtering. Blazed Kitty is a women's alt store, so there are no departments.
 
+/** Kept for the hidden Printful catalog, which still lists departments. The store itself is women-only. */
 export type Dept = 'women' | 'men';
 
-export type LineId = 'tops' | 'bottoms' | 'lounge' | 'swim' | 'headwear' | 'stash' | 'home';
+export type LineId =
+  | 'tops' | 'knits' | 'bottoms' | 'dresses' | 'accessories'
+  // Lines from the old layout, still used by the hidden Printful catalog.
+  | 'lounge' | 'swim' | 'headwear' | 'stash' | 'home';
 
 export type CategoryId =
   // Tops
-  | 'baby-tees' | 'crop-tees' | 'tees' | 'tanks' | 'long-sleeves'
-  // Dresses & bottoms
-  | 'dresses' | 'skirts' | 'pants'
-  // Layers (lounge)
-  | 'hoodies' | 'sweatpants' | 'shorts' | 'pajamas'
-  // Swim and underwear
-  | 'panties' | 'bikinis' | 'lingerie' | 'boxers' | 'trunks'
-  // Headwear
-  | 'hats' | 'beanies' | 'bucket-hats'
-  // Extras (stash)
-  | 'stickers' | 'glassware' | 'bags' | 'socks' | 'tech' | 'jewelry' | 'accessories' | 'shoes'
-  // Room (home)
-  | 'blankets' | 'wall-art' | 'candles' | 'rolling-mats';
+  | 'baby-tees' | 'crop-tees' | 'long-sleeves' | 'oversized-tees' | 'camis-tanks' | 'halter-tube' | 'corsets-bodysuits' | 'blouses'
+  // Knits & layers
+  | 'sweaters' | 'cardigans' | 'hoodies' | 'jackets'
+  // Bottoms
+  | 'skirts' | 'jeans' | 'pants' | 'shorts'
+  // Dresses & sets
+  | 'dresses' | 'sets'
+  // Accessories
+  | 'jewelry' | 'legwear' | 'arm-warmers' | 'hair' | 'bags' | 'belts' | 'shoes' | 'extras'
+  // Old categories, still used by the hidden Printful catalog.
+  | 'tees' | 'tanks' | 'sweatpants' | 'pajamas' | 'panties' | 'bikinis' | 'lingerie' | 'boxers' | 'trunks' | 'hats' | 'beanies'
+  | 'bucket-hats' | 'stickers' | 'glassware' | 'socks' | 'tech' | 'accessories' | 'blankets' | 'wall-art' | 'candles' | 'rolling-mats';
 
 export const CDN = 'https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev';
-const lineImg = (name: string) => `${CDN}/site/web/lines/${name}.jpg`;
-
-export interface DeptDef {
-  id: Dept;
-  label: string;
-  blurb: string;
-  image: string;
-}
-
-export const DEPTS: DeptDef[] = [
-  { id: 'women', label: 'Women', blurb: 'Baby tees, goth tops, grunge layers and everything in between.', image: lineImg('women') },
-  { id: 'men', label: 'Men', blurb: 'Dark tees, hoodies and layers. More landing soon.', image: lineImg('men') },
-];
 
 export interface LineDef {
   id: LineId;
   label: string;
-  /** Label override per department, e.g. "Swim & Panties" vs "Swim & Boxers". */
-  deptLabel?: Partial<Record<Dept, string>>;
   blurb: string;
-  image: string;
-  deptImage?: Partial<Record<Dept, string>>;
-  /** Unisex lines (Stash, Home) get their own spot in the main menu. */
-  unisex?: boolean;
+  /** Which top-level menu tab the line lives under. */
+  group: 'clothing' | 'accessories';
 }
 
 export const LINES: LineDef[] = [
-  { id: 'tops', label: 'Tops', blurb: 'Fitted, cropped and a little rude.', image: lineImg('women'), deptImage: { men: lineImg('men') } },
-  { id: 'bottoms', label: 'Dresses & Bottoms', deptLabel: { men: 'Pants' }, blurb: 'Mini skirts, slip dresses and baggy jeans.', image: lineImg('women'), deptImage: { men: lineImg('men') } },
-  { id: 'lounge', label: 'Layers', blurb: 'Zip-ups, fur trim and cardigans for cold nights out.', image: lineImg('lounge'), deptImage: { men: lineImg('menlounge') } },
-  { id: 'swim', label: 'Swim & Underwear', deptLabel: { women: 'Panties', men: 'Swim & Boxers' }, blurb: 'Bikinis, lingerie and the little things underneath.', image: lineImg('swim') },
-  { id: 'headwear', label: 'Headwear', blurb: 'Beanies, caps and buckets to finish the fit.', image: lineImg('headwear') },
-  { id: 'stash', label: 'Extras', blurb: 'Jewelry, bags, shoes and odd little extras.', image: lineImg('stash'), unisex: true },
-  { id: 'home', label: 'Room', blurb: 'Decor for a room that matches your playlist.', image: lineImg('home'), unisex: true },
+  { id: 'tops', label: 'Tops', blurb: 'Baby tees, long sleeves and camis. Fitted, cropped and a little rude.', group: 'clothing' },
+  { id: 'knits', label: 'Knits & Layers', blurb: 'Sweaters, cardigans and zip-ups for cold nights and loud music.', group: 'clothing' },
+  { id: 'bottoms', label: 'Bottoms', blurb: 'Mini skirts, baggy jeans and everything low-rise.', group: 'clothing' },
+  { id: 'dresses', label: 'Dresses & Sets', blurb: 'One piece, whole look.', group: 'clothing' },
+  { id: 'accessories', label: 'Accessories', blurb: 'Jewelry, legwear, bags and the little things that finish the fit.', group: 'accessories' },
 ];
 
 export interface CategoryDef {
   id: CategoryId;
   label: string;
   line: LineId;
-  /** Departments that list this category in their menu. */
+  /** Kept so the import scripts can read this file; always women. */
   depts: Dept[];
 }
 
-const BOTH: Dept[] = ['women', 'men'];
+const W: Dept[] = ['women'];
 
 export const CATEGORIES: CategoryDef[] = [
-  { id: 'baby-tees', label: 'Baby Tees', line: 'tops', depts: ['women'] },
-  { id: 'crop-tees', label: 'Crop Tees', line: 'tops', depts: ['women'] },
-  { id: 'tees', label: 'Tees', line: 'tops', depts: ['men'] },
-  { id: 'tanks', label: 'Tanks', line: 'tops', depts: BOTH },
-  { id: 'long-sleeves', label: 'Long Sleeves', line: 'tops', depts: BOTH },
+  { id: 'baby-tees', label: 'Baby Tees', line: 'tops', depts: W },
+  { id: 'crop-tees', label: 'Crop Tees', line: 'tops', depts: W },
+  { id: 'long-sleeves', label: 'Long Sleeve Tees', line: 'tops', depts: W },
+  { id: 'oversized-tees', label: 'Oversized & Raglan Tees', line: 'tops', depts: W },
+  { id: 'camis-tanks', label: 'Camis & Tanks', line: 'tops', depts: W },
+  { id: 'halter-tube', label: 'Halter & Tube Tops', line: 'tops', depts: W },
+  { id: 'corsets-bodysuits', label: 'Corsets & Bodysuits', line: 'tops', depts: W },
+  { id: 'blouses', label: 'Blouses & Shirts', line: 'tops', depts: W },
 
-  { id: 'dresses', label: 'Dresses & Sets', line: 'bottoms', depts: ['women'] },
-  { id: 'skirts', label: 'Skirts', line: 'bottoms', depts: ['women'] },
-  { id: 'pants', label: 'Pants & Jeans', line: 'bottoms', depts: BOTH },
+  { id: 'sweaters', label: 'Sweaters', line: 'knits', depts: W },
+  { id: 'cardigans', label: 'Cardigans & Shrugs', line: 'knits', depts: W },
+  { id: 'hoodies', label: 'Hoodies & Zip-Ups', line: 'knits', depts: W },
+  { id: 'jackets', label: 'Jackets', line: 'knits', depts: W },
 
-  { id: 'hoodies', label: 'Hoodies', line: 'lounge', depts: BOTH },
-  { id: 'sweatpants', label: 'Sweatpants', line: 'lounge', depts: BOTH },
-  { id: 'shorts', label: 'Shorts', line: 'lounge', depts: BOTH },
-  { id: 'pajamas', label: 'Pajamas', line: 'lounge', depts: ['women'] },
+  { id: 'skirts', label: 'Skirts', line: 'bottoms', depts: W },
+  { id: 'jeans', label: 'Jeans', line: 'bottoms', depts: W },
+  { id: 'pants', label: 'Pants', line: 'bottoms', depts: W },
+  { id: 'shorts', label: 'Shorts', line: 'bottoms', depts: W },
 
-  { id: 'panties', label: 'Panties', line: 'swim', depts: ['women'] },
-  { id: 'bikinis', label: 'Bikinis', line: 'swim', depts: ['women'] },
-  { id: 'lingerie', label: 'Lingerie', line: 'swim', depts: ['women'] },
-  { id: 'boxers', label: 'Boxers', line: 'swim', depts: ['men'] },
-  { id: 'trunks', label: 'Swim Trunks', line: 'swim', depts: ['men'] },
+  { id: 'dresses', label: 'Dresses', line: 'dresses', depts: W },
+  { id: 'sets', label: 'Matching Sets', line: 'dresses', depts: W },
 
-  { id: 'hats', label: 'Hats', line: 'headwear', depts: BOTH },
-  { id: 'beanies', label: 'Beanies', line: 'headwear', depts: BOTH },
-  { id: 'bucket-hats', label: 'Bucket Hats', line: 'headwear', depts: BOTH },
-
-  { id: 'stickers', label: 'Stickers', line: 'stash', depts: BOTH },
-  { id: 'glassware', label: 'Glassware', line: 'stash', depts: BOTH },
-  { id: 'bags', label: 'Bags', line: 'stash', depts: BOTH },
-  { id: 'socks', label: 'Socks', line: 'stash', depts: BOTH },
-  { id: 'tech', label: 'Tech', line: 'stash', depts: BOTH },
-  { id: 'jewelry', label: 'Jewelry', line: 'stash', depts: BOTH },
-  { id: 'accessories', label: 'Accessories', line: 'stash', depts: BOTH },
-  { id: 'shoes', label: 'Shoes', line: 'stash', depts: BOTH },
-
-  { id: 'blankets', label: 'Blankets', line: 'home', depts: BOTH },
-  { id: 'wall-art', label: 'Wall Art', line: 'home', depts: BOTH },
-  { id: 'candles', label: 'Candles', line: 'home', depts: BOTH },
-  { id: 'rolling-mats', label: 'Rolling Mats', line: 'home', depts: BOTH },
+  { id: 'jewelry', label: 'Jewelry', line: 'accessories', depts: W },
+  { id: 'legwear', label: 'Socks & Legwear', line: 'accessories', depts: W },
+  { id: 'arm-warmers', label: 'Arm Warmers & Gloves', line: 'accessories', depts: W },
+  { id: 'hair', label: 'Hair', line: 'accessories', depts: W },
+  { id: 'bags', label: 'Bags', line: 'accessories', depts: W },
+  { id: 'belts', label: 'Belts, Scarves & More', line: 'accessories', depts: W },
+  { id: 'shoes', label: 'Shoes', line: 'accessories', depts: W },
+  { id: 'extras', label: 'Extras', line: 'accessories', depts: W },
 ];
 
-export const getDept = (id: string) => DEPTS.find((d) => d.id === id);
 export const getLine = (id: string) => LINES.find((l) => l.id === id);
 export const getCategory = (id: string) => CATEGORIES.find((c) => c.id === id);
 
-export function lineLabel(line: LineDef, dept?: Dept) {
-  return (dept && line.deptLabel?.[dept]) || line.label;
+/** Categories in a line. */
+export function categoriesFor(line: LineId) {
+  return CATEGORIES.filter((c) => c.line === line);
 }
 
-export function lineImage(line: LineDef, dept?: Dept) {
-  return (dept && line.deptImage?.[dept]) || line.image;
+// ---------- vibes (a second way to browse) ----------
+
+export interface VibeDef {
+  id: string;
+  label: string;
+  blurb: string;
+  match: RegExp;
 }
 
-/** Categories in a line, narrowed to one department when given. */
-export function categoriesFor(line: LineId, dept?: Dept) {
-  return CATEGORIES.filter((c) => c.line === line && (!dept || c.depts.includes(dept)));
+/** Read from the aesthetic word in each product name ("... Grunge Long Sleeve Tee"). */
+export const VIBES: VibeDef[] = [
+  { id: 'y2k', label: 'Y2K', blurb: 'Low-rise, rhinestones and 2003 energy.', match: /\bY2K\b/ },
+  { id: 'grunge', label: 'Grunge', blurb: 'Faded, layered and a little wrecked.', match: /(?<!Fairy )\bGrunge\b/ },
+  { id: 'goth', label: 'Goth', blurb: 'Lace, crosses and everything black.', match: /\bGoth\b/ },
+  { id: 'coquette', label: 'Coquette', blurb: 'Bows, ruffles and a sweet face.', match: /\bCoquette\b/ },
+  { id: 'fairy-grunge', label: 'Fairy Grunge', blurb: 'Soft, sheer and slightly haunted.', match: /\bFairy Grunge\b/ },
+  { id: 'emo-punk', label: 'Emo & Punk', blurb: 'Stripes, studs and eyeliner.', match: /\b(Emo|Punk)\b/ },
+  { id: 'harajuku', label: 'Harajuku', blurb: 'Loud, layered and kawaii.', match: /\bHarajuku\b/ },
+];
+
+export const getVibe = (id: string) => VIBES.find((v) => v.id === id);
+
+// ---------- detail tags and filters ----------
+
+export interface TagDef {
+  id: string;
+  label: string;
+  match: RegExp;
 }
 
-/** Lines shown under a department in the menu (unisex lines live at the top level). */
-export function linesFor(dept: Dept) {
-  return LINES.filter((l) => !l.unisex && categoriesFor(l.id, dept).length > 0);
-}
+/** Details read from product names. Used as filters on every shop page. */
+export const DETAILS: TagDef[] = [
+  { id: 'off-shoulder', label: 'Off Shoulder', match: /off[- ]shoulder|one[- ]shoulder|skew/i },
+  { id: 'lace', label: 'Lace', match: /\blace\b/i },
+  { id: 'striped', label: 'Striped', match: /strip/i },
+  { id: 'rhinestone', label: 'Rhinestone', match: /rhinestone|sequin|diamond|glitter/i },
+  { id: 'mesh', label: 'Mesh & Sheer', match: /mesh|sheer|fishnet/i },
+  { id: 'layered', label: 'Layered', match: /layered|fake two|two piece/i },
+  { id: 'skull', label: 'Skull & Skeleton', match: /skull|skeleton|ribcage|bone/i },
+  { id: 'star', label: 'Stars', match: /\bstars?\b/i },
+  { id: 'cross', label: 'Crosses', match: /\bcross(es)?\b|rosary/i },
+  { id: 'heart', label: 'Hearts', match: /heart/i },
+  { id: 'animal', label: 'Cats & Bunnies', match: /\b(cat|cats|kitty|kitten|bunny|bunnies|rabbit)\b/i },
+  { id: 'leopard', label: 'Leopard & Animal Print', match: /leopard|cheetah|zebra|snake|cow print/i },
+  { id: 'plaid', label: 'Plaid', match: /plaid|tartan|checker/i },
+  { id: 'bow', label: 'Bows & Ruffles', match: /\bbows?\b|ruffle|frill/i },
+  { id: 'fur', label: 'Faux Fur', match: /\bfur\b|fluffy|plush/i },
+  { id: 'wings', label: 'Wings & Angels', match: /wing|angel/i },
+];
+
+/** Basic color families, read from each product's color options. */
+export const COLOR_FAMILIES: TagDef[] = [
+  { id: 'black', label: 'Black', match: /black|charcoal|ink/i },
+  { id: 'white', label: 'White', match: /white|ivory|cream|off white/i },
+  { id: 'grey', label: 'Grey', match: /gr[ae]y|silver/i },
+  { id: 'pink', label: 'Pink', match: /pink|rose|fuchsia|magenta|blush/i },
+  { id: 'red', label: 'Red', match: /\bred\b|burgundy|wine|claret|maroon/i },
+  { id: 'purple', label: 'Purple', match: /purple|violet|lavender|lilac/i },
+  { id: 'blue', label: 'Blue', match: /blue|navy|denim|sky/i },
+  { id: 'green', label: 'Green', match: /green|olive|mint|sage/i },
+  { id: 'brown', label: 'Brown & Beige', match: /brown|beige|khaki|coffee|apricot|camel|tan\b/i },
+  { id: 'yellow', label: 'Yellow & Orange', match: /yellow|orange|gold/i },
+];
+
+export const SIZE_ORDER = ['XXS', 'XS', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL', 'One Size'];
+
+export const PRICE_RANGES = [
+  { id: 'under-20', label: 'Under $20', min: 0, max: 20 },
+  { id: '20-30', label: '$20 to $30', min: 20, max: 30 },
+  { id: '30-40', label: '$30 to $40', min: 30, max: 40 },
+  { id: '40-up', label: '$40 and up', min: 40, max: Infinity },
+];

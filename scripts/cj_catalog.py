@@ -118,8 +118,8 @@ def categories():
     """Category id -> (line, depts) read straight from lib/taxonomy.ts."""
     src = open(os.path.join(REPO, 'lib', 'taxonomy.ts')).read()
     out = {}
-    for m in re.finditer(r"\{ id: '([a-z-]+)', label: '[^']*', line: '([a-z]+)', depts: (BOTH|\[[^\]]*\]) \}", src):
-        depts = ['women', 'men'] if m.group(3) == 'BOTH' else re.findall(r"'(\w+)'", m.group(3))
+    for m in re.finditer(r"\{ id: '([a-z-]+)', label: '[^']*', line: '([a-z]+)', depts: (BOTH|W|\[[^\]]*\]) \}", src):
+        depts = ['women', 'men'] if m.group(3) == 'BOTH' else ['women'] if m.group(3) == 'W' else re.findall(r"'(\w+)'", m.group(3))
         out[m.group(1)] = (m.group(2), depts)
     return out
 

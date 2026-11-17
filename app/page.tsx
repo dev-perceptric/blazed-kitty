@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { PRODUCTS, getProduct } from '@/lib/products';
-import { NEWEST_DROP, shopHref } from '@/lib/collections';
-import { DEPTS, LINES } from '@/lib/taxonomy';
+import { NEWEST_DROP, coverFor, shopHref } from '@/lib/collections';
+import { LINES, VIBES } from '@/lib/taxonomy';
 import ProductCard from '@/components/ProductCard';
 import { ProductPhoto } from '@/components/Media';
 import { AdultBlur, AdultConfirm } from '@/components/Adult';
@@ -33,8 +33,8 @@ export default function Home() {
           <h1>Nine lives.<br />Zero basics.</h1>
           <p className="whisper">cute face, dark heart</p>
           <div className="hero-actions">
-            <Link href={shopHref('women')} className="btn">Shop Women</Link>
-            <Link href={shopHref('men')} className="btn btn-line btn-glass">Shop Men</Link>
+            <Link href={shopHref('new')} className="btn">Shop New In</Link>
+            <Link href={shopHref('tops')} className="btn btn-line btn-glass">Shop Tops</Link>
           </div>
         </div>
       </section>
@@ -51,20 +51,25 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="sec depts">
-        <div className="wrap depts-row">
-          {DEPTS.map((d) => {
-            const n = PRODUCTS.filter((p) => p.depts.includes(d.id)).length;
-            return (
-              <Link key={d.id} href={shopHref(d.id)} className="dept">
-                <div className="photo"><img src={d.image} alt="" loading="lazy" /></div>
-                <div className="dept-copy">
-                  <span className="dept-label">{d.label}</span>
-                  <span className="eyebrow">{n ? `${n} pieces` : 'First drop soon'}</span>
-                </div>
-              </Link>
-            );
-          })}
+      <section className="sec lines">
+        <div className="wrap">
+          <div className="sec-head">
+            <h2>Shop by vibe</h2>
+            <Link href="/shop" className="link">Shop all</Link>
+          </div>
+          <div className="vibes-row">
+            {VIBES.map((v) => {
+              const list = PRODUCTS.filter((p) => v.match.test(p.name));
+              if (!list.length) return null;
+              return (
+                <Link key={v.id} href={shopHref('vibe', v.id)} className="line-tile">
+                  <div className="photo"><img src={coverFor(list.slice(2))} alt="" loading="lazy" className="is-product" /></div>
+                  <span className="line-label">{v.label}</span>
+                  <span className="line-blurb">{v.blurb}</span>
+                </Link>
+              );
+            })}
+          </div>
         </div>
       </section>
 
@@ -76,11 +81,11 @@ export default function Home() {
           </div>
           <div className="lines-row">
             {LINES.map((l) => {
-              const n = PRODUCTS.filter((p) => p.line === l.id).length;
+              const list = PRODUCTS.filter((p) => p.line === l.id && (l.id !== 'accessories' || p.category === 'jewelry' || p.category === 'legwear'));
+              if (!list.length) return null;
               return (
                 <Link key={l.id} href={shopHref(l.id)} className="line-tile">
-                  <div className="photo"><img src={l.image} alt="" loading="lazy" /></div>
-                  {n === 0 && <span className="badge">Soon</span>}
+                  <div className="photo"><img src={coverFor(list.slice(1))} alt="" loading="lazy" className="is-product" /></div>
                   <span className="line-label">{l.label}</span>
                   <span className="line-blurb">{l.blurb}</span>
                 </Link>

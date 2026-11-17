@@ -7,6 +7,9 @@
   "details": [
    "Stretchy rib knit",
    "Slim, body-hugging fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -17,16 +20,22 @@
   "details": [
    "Skewed neckline that falls off one shoulder",
    "Varsity number print"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005009157498643",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "White Draped Y2K One Shoulder Crop Tee",
   "blurb": "One shoulder out, all attitude.",
   "details": [
    "Asymmetric one-shoulder neckline",
    "Slim, shrunken fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -37,6 +46,9 @@
   "details": [
    "Animal photo print",
    "Slim cropped fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -47,6 +59,9 @@
   "details": [
    "Ruched side seams",
    "Slim round-neck fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -61,36 +76,48 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007118244898/c082e4ca05da.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007118244898/c400fcb489e0.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005009095438815",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Black Cowl Neck Grunge Halter Top",
   "blurb": "Sweet stripes, bad intentions.",
   "details": [
    "Cotton stripe knit",
    "Slim fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005004100495594",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Gingham Bow Lace Trim Coquette Square Neck Crop Tee",
   "blurb": "Cottage core, after hours.",
   "details": [
    "Lace-trimmed square neckline",
    "Slim cropped fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005008082099822",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Black Basic Y2K Fitted Crop Tee",
   "blurb": "The one you'll wear four times a week.",
   "details": [
    "Solid crewneck",
    "Skinny cropped fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -101,6 +128,9 @@
   "details": [
    "Butterfly fairy print",
    "Cropped fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -114,6 +144,9 @@
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011984299652/50908dd0db44.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -124,6 +157,9 @@
   "details": [
    "Vintage flower and wing print",
    "Slim V-neck crop"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -134,16 +170,22 @@
   "details": [
    "Soft cotton",
    "Slim V-neck fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005006690635845",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Black Bow Ruffle Coquette Milkmaid Crop Tee",
   "blurb": "Sweet up top, trouble everywhere else.",
   "details": [
    "Square collar with bow",
    "Puff sleeves, cropped fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -158,6 +200,9 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012290376510/449f1f2157c8.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012290376510/eafeb6253ad2.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -168,6 +213,9 @@
   "details": [
    "Striped knit",
    "Mock neck, cropped fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -178,16 +226,22 @@
   "details": [
    "Slogan print",
    "Slim cropped fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005006994513380",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Vintage Clown Doll Print Y2K Cami",
   "blurb": "Send in the clowns.",
   "details": [
    "Vintage clown print",
    "Contrast ringer trim"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -198,6 +252,9 @@
   "details": [
    "Slogan print",
    "Slim cropped fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -208,6 +265,9 @@
   "details": [
    "Bold slogan print",
    "Slim cropped fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -218,13 +278,19 @@
   "details": [
    "Skeleton rib cage print",
    "Slim cropped fit"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "3256808858849911",
   "category": "baby-tees",
   "name": "Black Slouchy Y2K Off Shoulder Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812550574359",
@@ -237,7 +303,7 @@
  },
  {
   "id": "3256804502985747",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "AB Rhinestone Y2K Corset Cami",
   "depts": [
    "women"
@@ -249,25 +315,37 @@
   "id": "3256812782977204",
   "category": "baby-tees",
   "name": "Studded Cross Goth Crisscross V Neck Baby Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812793989373",
   "category": "baby-tees",
   "name": "Gothic Cathedral Goth Baby Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812732872026",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Black Floral Script Grunge Cami",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256813337809010",
   "category": "long-sleeves",
   "name": "Navy Slim Fit Y2K Long Sleeve Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256807737265399",
@@ -280,7 +358,7 @@
  },
  {
   "id": "3256805120381251",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Nude Diamond Lattice Rhinestone Y2K Corset Cami",
   "depts": [
    "women"
@@ -299,7 +377,7 @@
  },
  {
   "id": "3256805119508136",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Gold Studded Punk Corset Cami",
   "depts": [
    "women"
@@ -309,9 +387,12 @@
  },
  {
   "id": "3256810160734908",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Cream Cable Coquette Off Shoulder Knit Sweater",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256806726439781",
@@ -324,7 +405,7 @@
  },
  {
   "id": "3256811564614510",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Blue Plaid Leopard Bow Harajuku Ruffle Cami",
   "depts": [
    "women"
@@ -361,19 +442,25 @@
  },
  {
   "id": "3256812722159779",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Pink Drip Bones Emo Cami",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256810620277406",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Cherry Y2K Fitted Crop Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256811556561020",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Predict Your Future Fur Trim Grunge Halter Top",
   "depts": [
    "women"
@@ -393,14 +480,20 @@
   "id": "3256808011384198",
   "category": "long-sleeves",
   "name": "Skeleton X-Ray Grunge Thermal Long Sleeve Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256809567529614",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Black Spiked Punk Strappy Halter Top",
   "price": 47.99,
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256806622950424",
@@ -451,7 +544,7 @@
  },
  {
   "id": "3256811976111583",
-  "category": "shorts",
+  "category": "sets",
   "name": "New York Halter Studded Punk Shorts Set",
   "depts": [
    "women"
@@ -466,6 +559,9 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256809386174464/9502315c34a9.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256809386174464/9eb08d57ac26.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -479,9 +575,12 @@
  },
  {
   "id": "3256810183426760",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Blue Star Y2K Raglan Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256813089184164",
@@ -524,7 +623,7 @@
  },
  {
   "id": "3256810617743623",
-  "category": "shorts",
+  "category": "sets",
   "name": "Zebra Print Y2K Cami Shorts Set",
   "depts": [
    "women"
@@ -533,29 +632,41 @@
  },
  {
   "id": "3256812306851658",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Black Ruched Y2K One Shoulder Crop Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256807987999969",
   "category": "baby-tees",
   "name": "White Basic Y2K Fitted Baby Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812434949157",
   "category": "baby-tees",
   "name": "White Grommet Grunge Deep V Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256810153300832",
-  "category": "hoodies",
+  "category": "sets",
   "name": "Brown Polka Dot Fairy Grunge Knit Cardigan Set",
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256810153300832/ed1b19abeef0.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -569,7 +680,7 @@
  },
  {
   "id": "3256813209617342",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Navy Striped Coquette Knit Cardigan",
   "depts": [
    "women"
@@ -614,13 +725,19 @@
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256809572530968/308afa748d2f.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "3256810248354366",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Navy Grey Striped Emo Oversized Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256809968701678",
@@ -633,7 +750,7 @@
  },
  {
   "id": "3256812614837620",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "White Tie Front Coquette Cropped Cardigan",
   "depts": [
    "women"
@@ -642,7 +759,7 @@
  },
  {
   "id": "3256810620151568",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Pink Leopard Print Punk Cami",
   "depts": [
    "women"
@@ -651,7 +768,7 @@
  },
  {
   "id": "3256813224518541",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Hunting Spider Web Goth Tube Top",
   "depts": [
    "women"
@@ -662,11 +779,14 @@
   "id": "3256808746278067",
   "category": "baby-tees",
   "name": "Blue Rhinestone Filigree Y2K Baby Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812589836794",
-  "category": "shorts",
+  "category": "sets",
   "name": "Leopard Raglan Y2K Tee Shorts Set",
   "depts": [
    "women"
@@ -675,7 +795,7 @@
  },
  {
   "id": "3256813037285666",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Rainbow Unicorn Angel Kitten Y2K Cami",
   "depts": [
    "women"
@@ -684,7 +804,7 @@
  },
  {
   "id": "3256812197189226",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Red Basic Y2K Fitted Tube Top",
   "depts": [
    "women"
@@ -693,7 +813,7 @@
  },
  {
   "id": "3256809408987271",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Red Mock Neck Ruched Y2K Arm Warmer Tank Top",
   "depts": [
    "women"
@@ -719,7 +839,7 @@
  },
  {
   "id": "3256812443958104",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Skull Crossbones Emo Cami",
   "depts": [
    "women"
@@ -764,15 +884,21 @@
  },
  {
   "id": "3256811878246867",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Black Cat Guitar Rock Grunge Oversized Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256811816847390",
   "category": "baby-tees",
   "name": "Striped Lace Hem Emo Square Neck Baby Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256809717023605",
@@ -791,35 +917,47 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013020934517/6c631179117a.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013020934517/a15e941f89d3.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012511393538",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Orange Star Patch Harajuku Raglan Tee",
   "blurb": "Pairs with low-rise and bad decisions.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012511393538/435ee87ec300.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005009193011318",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Black Lips Print Grunge Oversized Tee",
-  "blurb": "The baby tee your ex remembers."
+  "blurb": "The baby tee your ex remembers.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005011966347460",
-  "category": "long-sleeves",
+  "category": "sweaters",
   "name": "Colorful Graffiti Harajuku Thin Knit Sweater",
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011966347460/7286e59c8a42.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012934272377",
-  "category": "tanks",
+  "category": "sets",
   "name": "Mint Cutout Skull Grunge Off Shoulder Set",
   "depts": [
    "women"
@@ -836,6 +974,9 @@
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012209427818/f93763c30d72.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -866,7 +1007,10 @@
   "id": "1005011743974361",
   "category": "baby-tees",
   "name": "Tattoo Letter Collage Grunge Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005011799854067",
@@ -875,6 +1019,9 @@
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011799854067/e387fb19d59a.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -896,6 +1043,9 @@
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012283988563/a24908100cb7.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -905,6 +1055,9 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008756300391/589914c8bc25.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -921,7 +1074,7 @@
  },
  {
   "id": "1005012758622522",
-  "category": "long-sleeves",
+  "category": "sets",
   "name": "Black Tie Front Shrug Striped Cami Grunge Set",
   "depts": [
    "women"
@@ -960,7 +1113,7 @@
  },
  {
   "id": "1005013586300873",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "White Faux Fur Trim Goth Zip Knit Cardigan",
   "depts": [
    "women"
@@ -969,7 +1122,7 @@
  },
  {
   "id": "1005008455247676",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Mystery Varsity Y2K Layered Crop Tee",
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
@@ -980,11 +1133,14 @@
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008455247676/82b3ae77f9b9.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008455247676/9088d0312d87.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008455247676/98cf620b6602.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005004050245093",
-  "category": "socks",
+  "category": "legwear",
   "name": "Black Lace Ruffle Coquette Thigh High Socks",
   "depts": [
    "women"
@@ -1020,6 +1176,9 @@
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012704587221/deab45727c10.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1054,6 +1213,9 @@
   "blurb": "Pairs with low-rise and bad decisions.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012585424591/22d130142665.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1063,6 +1225,9 @@
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012333791988/fdbce7e39ce4.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1072,6 +1237,9 @@
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012181551170/b71b5597bad2.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1081,6 +1249,9 @@
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011892382920/d38453f41b23.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1090,20 +1261,26 @@
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010763281469/16dd7c9efba5.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012095215419",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Brown Ruched V Neck Y2K Fitted Crop Tee",
   "blurb": "Small tee, big attitude.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012095215419/cb8e392489bc.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012112851118",
-  "category": "socks",
+  "category": "legwear",
   "name": "White Criss Cross Goth Hollow Out Tights",
   "depts": [
    "women"
@@ -1117,6 +1294,9 @@
   "blurb": "Cropped for a reason.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012200883231/aee2d4251c08.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1126,15 +1306,21 @@
   "blurb": "Pairs with low-rise and bad decisions.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012882078613/82ebe215d62c.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012591846101",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Pink Deep V Y2K Fitted Crop Tee",
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012591846101/0a33aaa7b786.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1153,7 +1339,10 @@
   "id": "1005008183031749",
   "category": "bags",
   "name": "Brown Faux Leather Studded Y2K Shoulder Bag",
-  "blurb": "Fits your phone, your lipstick and your secrets."
+  "blurb": "Fits your phone, your lipstick and your secrets.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005005442936203",
@@ -1166,7 +1355,7 @@
  },
  {
   "id": "1005010566547357",
-  "category": "long-sleeves",
+  "category": "sweaters",
   "name": "Grey Striped Fairy Grunge Babydoll Knit Sweater",
   "depts": [
    "women"
@@ -1177,45 +1366,66 @@
   "id": "1005012131756291",
   "category": "baby-tees",
   "name": "Black Plaid Lace Trim Grunge Pleated Baby Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005012841912364",
   "category": "baby-tees",
   "name": "Pixel Skull Crossbones Emo Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005008807308420",
   "category": "baby-tees",
   "name": "Peace And Love Grunge Baby Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005007957370552",
   "category": "long-sleeves",
   "name": "White Lace Tie Front Coquette Long Sleeve Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005010796349587",
   "category": "long-sleeves",
   "name": "White Lace Bow Coquette Ribbed Long Sleeve Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005008706968273",
-  "category": "long-sleeves",
+  "category": "cardigans",
   "name": "Black Lace Flare Sleeve Goth Cropped Shrug",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005011973368066",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Invitation For Sweet Girl Y2K Layered Ringer Tee",
   "blurb": "The baby tee your ex remembers.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011973368066/f3abeae43107.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1244,7 +1454,7 @@
  },
  {
   "id": "1005013003114918",
-  "category": "long-sleeves",
+  "category": "sets",
   "name": "Striped Long Sleeve Cami Grunge Layered Set",
   "depts": [
    "women"
@@ -1273,6 +1483,9 @@
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006237248947/9531b1ad913f.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1282,6 +1495,9 @@
   "blurb": "Cropped for a reason.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011532103311/abcfd2fb144a.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1315,6 +1531,9 @@
   "blurb": "Cropped for a reason.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011899240916/a67e7ca9ff48.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1336,6 +1555,9 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012267326602/b0b635fd38cf.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1363,7 +1585,10 @@
   "id": "1005008905516763",
   "category": "baby-tees",
   "name": "Black Mandarin Collar Swirl Goth Fitted Baby Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005009598483727",
@@ -1376,15 +1601,21 @@
  },
  {
   "id": "1005010428371525",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "White Grommet V Neck Punk Fitted Crop Tee",
-  "blurb": "The baby tee your ex remembers."
+  "blurb": "The baby tee your ex remembers.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005012017726954",
   "category": "baby-tees",
   "name": "Join Me In My Dreams Y2K Baby Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005010434425961",
@@ -1399,7 +1630,10 @@
   "id": "1005012899887271",
   "category": "baby-tees",
   "name": "Crossed Bones Emo Fitted Baby Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005011912371746",
@@ -1408,6 +1642,9 @@
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011912371746/710cc9a80231.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1429,15 +1666,21 @@
   "blurb": "Small tee, big attitude.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012148152080/d1d6b1c884df.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012910885767",
-  "category": "baby-tees",
+  "category": "sets",
   "name": "White Shrug Striped Cami Y2K Layered Set",
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012910885767/92573bba59c0.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1447,13 +1690,19 @@
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013291373709/7250cbaaaf3b.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012220349988",
   "category": "baby-tees",
   "name": "Studded Cross Goth Fitted Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005011990203234",
@@ -1462,15 +1711,21 @@
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011990203234/2528be466837.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005007444620349",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Pink Letter Print Y2K Skinny Crop Tee",
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007444620349/25e4869f9238.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1480,15 +1735,21 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013419881191/bc14b2291d97.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005011974438351",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Blue Scoop Neck Y2K Fitted Crop Tee",
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011974438351/3413be0d1a79.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1510,6 +1771,9 @@
   "blurb": "The baby tee your ex remembers.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012777673021/513d10f48ce7.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1519,23 +1783,32 @@
   "blurb": "Pairs with low-rise and bad decisions.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013128415782/feb7578317ed.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005003244354006",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Black Criss Cross Strap Y2K Mock Neck Crop Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005010151121150",
   "category": "baby-tees",
   "name": "Grey Slouchy Y2K Cropped Off Shoulder Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005008256304894",
-  "category": "socks",
+  "category": "legwear",
   "name": "White Bow Ruffle Coquette Fishnet Thigh High Socks",
   "depts": [
    "women"
@@ -1549,19 +1822,28 @@
   "blurb": "Cropped for a reason.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012010125050/50fec3daae71.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005008178303175",
   "category": "baby-tees",
   "name": "Goldfish Snorkel Y2K Print Baby Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005008875846750",
   "category": "baby-tees",
   "name": "Black Corset Waist Y2K Cropped Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005011552882535",
@@ -1580,13 +1862,19 @@
   "id": "1005012002924912",
   "category": "baby-tees",
   "name": "Grey Striped Lace Bow Goth Button Baby Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005003633668086",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Black Scoop Neck Y2K Fitted Crop Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005013424608076",
@@ -1602,11 +1890,14 @@
  },
  {
   "id": "1005010339615584",
-  "category": "baby-tees",
+  "category": "sets",
   "name": "Brown Polka Dot Ruffle Y2K Knit Cardigan Set",
   "blurb": "Pairs with low-rise and bad decisions.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010339615584/ed1b19abeef0.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1616,6 +1907,9 @@
   "blurb": "Pairs with low-rise and bad decisions.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011570150643/2537ef3808bf.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1637,6 +1931,9 @@
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008898069166/2b838e55fb22.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1646,6 +1943,9 @@
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012252081237/889565055e6f.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -1655,17 +1955,23 @@
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012812272200/74db5157fbd2.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005011780171851",
   "category": "baby-tees",
   "name": "Black Lace Collar Goth Sheer Button Up Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005010280282794",
-  "category": "hoodies",
+  "category": "jackets",
   "name": "White Faux Fur Hood Y2K Cropped Puffer Jacket",
   "depts": [
    "women"
@@ -1691,13 +1997,19 @@
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005372906343/07718150163b.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005009431060731",
   "category": "baby-tees",
   "name": "Red Star Cat Grunge Graphic Baby Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005011816324414",
@@ -1712,11 +2024,14 @@
   "id": "1005013296290666",
   "category": "baby-tees",
   "name": "Camo Pink Lace Hem Y2K Henley Baby Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005013362563537",
-  "category": "tanks",
+  "category": "corsets-bodysuits",
   "name": "Black Satin Lace Up Goth Corset Top",
   "depts": [
    "women"
@@ -1733,7 +2048,10 @@
   "id": "1005010661158465",
   "category": "baby-tees",
   "name": "Grey Black Striped Fairy Grunge Baby Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005006161391195",
@@ -1748,7 +2066,10 @@
   "id": "1005009964000285",
   "category": "baby-tees",
   "name": "Halftone Cat Face Grunge Fitted Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005010805055707",
@@ -1763,7 +2084,10 @@
   "id": "1005010682835169",
   "category": "baby-tees",
   "name": "Black Plaid Collar Goth Layered Puff Sleeve Baby Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005005079020544",
@@ -1776,7 +2100,7 @@
  },
  {
   "id": "1005012875351171",
-  "category": "accessories",
+  "category": "hair",
   "name": "Treble Clef Y2K Jelly Claw Hair Clip",
   "depts": [
    "women"
@@ -1785,7 +2109,7 @@
  },
  {
   "id": "32822513278",
-  "category": "accessories",
+  "category": "belts",
   "name": "Double Row Grommet Punk Belt",
   "depts": [
    "women"
@@ -1794,22 +2118,25 @@
  },
  {
   "id": "1005011917152352",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Blue Jellyfish Fairy Grunge Oversized Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005009469359013",
-  "category": "pants",
+  "category": "jeans",
   "name": "Pink Cherry Blossom Y2K Baggy Wide Leg Jeans",
   "depts": [
-   "men"
+   "women"
   ],
   "blurb": "Baggy, low and loud."
  },
  {
   "id": "1005013174256539",
-  "category": "accessories",
+  "category": "arm-warmers",
   "name": "Red Star Y2K Knit Fingerless Gloves",
   "depts": [
    "women"
@@ -1836,7 +2163,7 @@
  },
  {
   "id": "1005009242067162",
-  "category": "accessories",
+  "category": "hair",
   "name": "Colorful Star Y2K Snap Hair Clips",
   "depts": [
    "women"
@@ -1845,9 +2172,12 @@
  },
  {
   "id": "1005009725755787",
-  "category": "long-sleeves",
+  "category": "corsets-bodysuits",
   "name": "Camo Lace Up Grunge Off Shoulder Corset Top",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005006710480273",
@@ -1860,7 +2190,7 @@
  },
  {
   "id": "1005013221691721",
-  "category": "long-sleeves",
+  "category": "corsets-bodysuits",
   "name": "Black Lace Ruffle Goth Off Shoulder Corset Top",
   "depts": [
    "women"
@@ -1869,7 +2199,7 @@
  },
  {
   "id": "32804765784",
-  "category": "accessories",
+  "category": "arm-warmers",
   "name": "Rhinestone Bow Faux Fur Y2K Fingerless Gloves",
   "depts": [
    "women"
@@ -1880,11 +2210,14 @@
   "id": "1005008228733961",
   "category": "skirts",
   "name": "White Tiered Coquette Ruffle Skirt",
-  "blurb": "Mini on purpose."
+  "blurb": "Mini on purpose.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005010609897872",
-  "category": "accessories",
+  "category": "legwear",
   "name": "Black Lace Heart Lace Up Goth Leg Garter",
   "depts": [
    "women"
@@ -1895,11 +2228,14 @@
   "id": "1005011749836963",
   "category": "long-sleeves",
   "name": "Navy Collared Henley Y2K Layered Long Sleeve Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005007036481876",
-  "category": "accessories",
+  "category": "arm-warmers",
   "name": "Pink Striped Emo Thumb Hole Arm Warmers",
   "depts": [
    "women"
@@ -1919,17 +2255,23 @@
   "id": "1005008657547631",
   "category": "baby-tees",
   "name": "Black Ruffle Lace Goth Puff Sleeve Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005009190266441",
   "category": "skirts",
   "name": "Red Plaid Chain Punk Asymmetric Lace Mini Skirt",
-  "blurb": "Pairs with platforms and thigh-highs."
+  "blurb": "Pairs with platforms and thigh-highs.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005010000519742",
-  "category": "accessories",
+  "category": "arm-warmers",
   "name": "Pink Star Y2K Ribbed Knit Arm Warmers",
   "depts": [
    "women"
@@ -1940,29 +2282,41 @@
   "id": "1005008704944487",
   "category": "skirts",
   "name": "Black Lace Up Rivet Goth Layered Ruffle Mini Skirt",
-  "blurb": "Ruffles with a bad attitude."
+  "blurb": "Ruffles with a bad attitude.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005010408799747",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "This Rock Is Pissing Me Off Y2K Oversized Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005006071879111",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Autism Skeleton Grunge Oversized Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005011633549927",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Autism Flame Skeleton Grunge Washed Oversized Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005009348490544",
-  "category": "socks",
+  "category": "legwear",
   "name": "White Lace Ruffle Bow Coquette Leg Warmers",
   "depts": [
    "women"
@@ -1973,14 +2327,17 @@
   "id": "4001364651210",
   "category": "skirts",
   "name": "Red Plaid Buckle Strap Punk Asymmetric Mini Skirt",
-  "blurb": "Ruffles with a bad attitude."
+  "blurb": "Ruffles with a bad attitude.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005009092075502",
   "category": "shorts",
   "name": "Black Pleated Wide Leg Grunge Long Shorts",
   "depts": [
-   "men"
+   "women"
   ],
   "blurb": "Baggy, low and loud."
  },
@@ -2004,13 +2361,16 @@
  },
  {
   "id": "1005008586909527",
-  "category": "long-sleeves",
+  "category": "blouses",
   "name": "Black Lace Ruffle Victorian Goth Bell Sleeve Blouse",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005012768235548",
-  "category": "accessories",
+  "category": "hair",
   "name": "Pink Long Straight Bangs Harajuku Wig",
   "depts": [
    "women"
@@ -2037,7 +2397,7 @@
  },
  {
   "id": "1005013431014877",
-  "category": "hoodies",
+  "category": "jackets",
   "name": "Brown Faux Fur Hood Y2K Zip Parka Jacket",
   "depts": [
    "women"
@@ -2064,7 +2424,7 @@
  },
  {
   "id": "3256813298026438",
-  "category": "pants",
+  "category": "jeans",
   "name": "Black Angel Wing Embroidered Y2K Wide Leg Jeans",
   "depts": [
    "women"
@@ -2091,9 +2451,12 @@
  },
  {
   "id": "3256803858741454",
-  "category": "tanks",
+  "category": "corsets-bodysuits",
   "name": "Black Lace Coquette Bustier Corset Top",
-  "blurb": "Lace, but make it dark."
+  "blurb": "Lace, but make it dark.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256808654726923",
@@ -2106,7 +2469,7 @@
  },
  {
   "id": "3256807968108480",
-  "category": "long-sleeves",
+  "category": "oversized-tees",
   "name": "Black White Colorblock Y2K Oversized Raglan Tee",
   "depts": [
    "women"
@@ -2117,7 +2480,10 @@
   "id": "3256812597259385",
   "category": "skirts",
   "name": "Brown Plaid Bow Lace Coquette Ruffle Mini Skirt",
-  "blurb": "Mini on purpose."
+  "blurb": "Mini on purpose.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812623609900",
@@ -2139,13 +2505,16 @@
  },
  {
   "id": "3256807806233696",
-  "category": "dresses",
+  "category": "sets",
   "name": "White Bow Blouse Black Skort Coquette Set",
-  "blurb": "One piece, whole look."
+  "blurb": "One piece, whole look.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812337060146",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "White Cross Wrap Ruched Y2K Halter Top",
   "depts": [
    "women"
@@ -2163,7 +2532,7 @@
  },
  {
   "id": "3256813344079946",
-  "category": "pants",
+  "category": "jeans",
   "name": "Light Wash Ripped Y2K Straight Leg Jeans",
   "depts": [
    "women"
@@ -2174,41 +2543,59 @@
   "id": "3256813151925351",
   "category": "dresses",
   "name": "Grey Lace Trim Coquette Ruffle Hem Mini Dress",
-  "blurb": "Throw it on, go out."
+  "blurb": "Throw it on, go out.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812493303993",
   "category": "skirts",
   "name": "Black Lace Tiered Ruffle Goth Mini Skirt",
-  "blurb": "Pairs with platforms and thigh-highs."
+  "blurb": "Pairs with platforms and thigh-highs.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812403150852",
-  "category": "skirts",
+  "category": "sets",
   "name": "Brown Distressed Top Fur Trim Shorts Grunge Set",
-  "blurb": "Ruffles with a bad attitude."
+  "blurb": "Ruffles with a bad attitude.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812801328484",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Brown Deep V Button Coquette Puff Sleeve Crop Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812710584972",
   "category": "skirts",
   "name": "Black Bow Lace Trim Y2K Tiered Mini Skirt",
-  "blurb": "Twirl at your own risk."
+  "blurb": "Twirl at your own risk.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256813204935940",
   "category": "baby-tees",
   "name": "Skeleton Ribcage Goth Oversized Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812313739057",
-  "category": "pants",
+  "category": "jeans",
   "name": "Union Jack Pocket Y2K Low Rise Straight Jeans",
   "depts": [
    "women"
@@ -2219,7 +2606,10 @@
   "id": "3256812574803309",
   "category": "dresses",
   "name": "White Lace Babydoll Coquette Puff Sleeve Mini Dress",
-  "blurb": "For the party and the after-party."
+  "blurb": "For the party and the after-party.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256813216004217",
@@ -2232,13 +2622,16 @@
  },
  {
   "id": "3256813393055732",
-  "category": "dresses",
+  "category": "sets",
   "name": "Red Faux Fur Cape Coquette Christmas Dress Set",
-  "blurb": "Dress up, act out."
+  "blurb": "Dress up, act out.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812943672659",
-  "category": "pants",
+  "category": "jeans",
   "name": "Rhinestone Asymmetric Distressed Y2K Wide Leg Jeans",
   "depts": [
    "women"
@@ -2249,13 +2642,19 @@
   "id": "3256812477677260",
   "category": "skirts",
   "name": "White Tiered Ruffle Cross Charm Y2K Mini Skirt",
-  "blurb": "Ruffles with a bad attitude."
+  "blurb": "Ruffles with a bad attitude.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812248496054",
   "category": "baby-tees",
   "name": "Grey Black Striped Lace Trim Grunge Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256807258346589",
@@ -2268,7 +2667,7 @@
  },
  {
   "id": "3256812701305828",
-  "category": "hoodies",
+  "category": "jackets",
   "name": "Black Bondage Strap Buckle Goth Zip Up Jacket",
   "depts": [
    "women"
@@ -2277,7 +2676,7 @@
  },
  {
   "id": "3256812772960862",
-  "category": "pants",
+  "category": "jeans",
   "name": "Red Tribal Embroidered Y2K Wide Leg Jeans",
   "depts": [
    "women"
@@ -2286,27 +2685,39 @@
  },
  {
   "id": "3256813171967783",
-  "category": "dresses",
+  "category": "sets",
   "name": "Grey Bodysuit Wide Leg Pants Y2K Set",
-  "blurb": "For the party and the after-party."
+  "blurb": "For the party and the after-party.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256810037704919",
   "category": "skirts",
   "name": "Piano Key Polka Dot Lace Goth Mini Skirt",
-  "blurb": "Ruffles with a bad attitude."
+  "blurb": "Ruffles with a bad attitude.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256810463343948",
   "category": "baby-tees",
   "name": "Not Cute Anymore Y2K Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812137980731",
   "category": "baby-tees",
   "name": "Black Ruched Puff Sleeve Goth Button Up Top",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256813003733700",
@@ -2319,15 +2730,21 @@
  },
  {
   "id": "3256806808255914",
-  "category": "long-sleeves",
+  "category": "blouses",
   "name": "Blue Knit Vest Collar Layered Y2K Blouse",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256813242460832",
-  "category": "dresses",
+  "category": "sets",
   "name": "Black White Piping Y2K Split Flare Pants Set",
-  "blurb": "Dress up, act out."
+  "blurb": "Dress up, act out.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812190496116",
@@ -2342,11 +2759,14 @@
   "id": "3256812390051742",
   "category": "dresses",
   "name": "Black White Bow Lolita Harajuku Tiered Ruffle Dress",
-  "blurb": "For the party and the after-party."
+  "blurb": "For the party and the after-party.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256809230786543",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Brown Victorian Tailcoat Goth Double Breasted Vest",
   "depts": [
    "women"
@@ -2357,35 +2777,50 @@
   "id": "3256805742470567",
   "category": "skirts",
   "name": "Grey Damask Lace Up Goth Fishtail Maxi Skirt",
-  "blurb": "Pairs with platforms and thigh-highs."
+  "blurb": "Pairs with platforms and thigh-highs.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256810037921862",
   "category": "skirts",
   "name": "White Ruffle Lace Coquette Asymmetric Bustle Skirt",
-  "blurb": "Twirl at your own risk."
+  "blurb": "Twirl at your own risk.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256809836908647",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Red 23 Jersey Y2K V Neck Oversized Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256809640613654",
   "category": "baby-tees",
   "name": "Ni Hao Fine Shyt Y2K Baby Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256812428785313",
   "category": "skirts",
   "name": "Navy Pink Ruffle Trim Harajuku Tiered Mini Skirt",
-  "blurb": "Mini on purpose."
+  "blurb": "Mini on purpose.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "3256813156025577",
-  "category": "hoodies",
+  "category": "jackets",
   "name": "Black Oversized Button Down Grunge Overshirt Jacket",
   "depts": [
    "women"
@@ -2394,7 +2829,7 @@
  },
  {
   "id": "3256809849860303",
-  "category": "pants",
+  "category": "jeans",
   "name": "Blue Washed Trashy Y2K Low Rise Baggy Jeans",
   "depts": [
    "women"
@@ -2403,7 +2838,7 @@
  },
  {
   "id": "1005013031681720",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Black Grey Striped V Neck Grunge Knit Sweater",
   "depts": [
    "women"
@@ -2415,7 +2850,7 @@
  },
  {
   "id": "1005005763645625",
-  "category": "pants",
+  "category": "jeans",
   "name": "Black Asymmetric Waist Grunge Low Rise Flare Jeans",
   "depts": [
    "women"
@@ -2432,11 +2867,14 @@
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013032768679/eca86e320a17.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005013101567944",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Navy Fair Isle Jacquard Y2K Slim Knit Sweater",
   "depts": [
    "women"
@@ -2448,7 +2886,7 @@
  },
  {
   "id": "1005010408956492",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Purple Striped Turtleneck Y2K Zip Up Knit Cardigan",
   "depts": [
    "women"
@@ -2478,11 +2916,14 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009572489216/9502315c34a9.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009572489216/9eb08d57ac26.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005010323965323",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Khaki Cable Knit Cape Turtleneck Y2K Knit Sweater",
   "depts": [
    "women"
@@ -2494,7 +2935,7 @@
  },
  {
   "id": "1005010284560089",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Blue Snowflake Jacquard Off Shoulder Y2K Knit Sweater",
   "depts": [
    "women"
@@ -2506,7 +2947,7 @@
  },
  {
   "id": "1005003830520577",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Red Black Striped Distressed Emo Knit Sweater",
   "depts": [
    "women"
@@ -2520,11 +2961,14 @@
  },
  {
   "id": "1005013173845114",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Blue Striped Sleeve Patchwork Harajuku Raglan Tee",
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013173845114/a9c39d80bb92.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -2558,6 +3002,9 @@
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012849914423/0b4279845be9.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -2579,6 +3026,9 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009598727823/18fe33fee3c9.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -2595,7 +3045,7 @@
  },
  {
   "id": "1005012180868344",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Silver Metal Sequin Trashy Y2K Tank Top",
   "depts": [
    "women"
@@ -2637,6 +3087,9 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010652191598/bb95c3cc7580.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010652191598/be5839f40807.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -2646,6 +3099,9 @@
   "blurb": "Pairs with low-rise and bad decisions.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008991094904/ad77fc4a0760.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -2662,20 +3118,26 @@
  },
  {
   "id": "1005003827520990",
-  "category": "long-sleeves",
+  "category": "blouses",
   "name": "Black Crinkle Irregular Hem Goth Button Up Blouse",
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003827520990/a5bd0d82f78a.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005005572768391",
-  "category": "long-sleeves",
+  "category": "blouses",
   "name": "Cream Lace Up Ruffle Fairy Grunge Long Sleeve Blouse",
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005572768391/d1ef16459236.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -2716,16 +3178,19 @@
  },
  {
   "id": "1005009348602047",
-  "category": "baby-tees",
+  "category": "blouses",
   "name": "Blue Plaid Button Y2K Puff Sleeve Shirt",
   "blurb": "Pairs with low-rise and bad decisions.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009348602047/2f24a1e004e7.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012460346238",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Blue Black Layered Fake Two Piece Y2K Halter Top",
   "depts": [
    "women"
@@ -2737,7 +3202,7 @@
  },
  {
   "id": "1005008012767582",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Navy White Striped V Neck Y2K Slim Knit Sweater",
   "depts": [
    "women"
@@ -2782,7 +3247,7 @@
  },
  {
   "id": "1005012329331983",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Green Lace Trim Layered Trashy Y2K Cami",
   "depts": [
    "women"
@@ -2806,20 +3271,26 @@
  },
  {
   "id": "1005007380036374",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Yellow Rhinestone Letter Trashy Y2K Crop Tee",
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007380036374/b1ea3ab52614.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005007606846909",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Red Rhinestone Superstar Off Shoulder Y2K Crop Tee",
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007606846909/08d0c74a96b8.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -2848,7 +3319,7 @@
  },
  {
   "id": "1005007279744053",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Cherry Print Y2K Zip Front Tank Top",
   "depts": [
    "women"
@@ -2860,7 +3331,7 @@
  },
  {
   "id": "1005013185287361",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "White Ribbed Henley Y2K Knit Sweater",
   "depts": [
    "women"
@@ -2877,6 +3348,9 @@
   "blurb": "Small tee, big attitude.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007614263742/564eed2319c2.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -2910,6 +3384,9 @@
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009459360283/89da135f58fc.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -2919,6 +3396,9 @@
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008579337276/69268d6fecbf.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -2928,6 +3408,9 @@
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007278981758/465e8ad7cb74.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -2950,20 +3433,26 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012936091621/297a58c8b151.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012936091621/5e082bd14a85.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005013358678092",
-  "category": "hoodies",
+  "category": "sets",
   "name": "Brown Argyle Fur Collar Y2K Knit Cardigan Set",
   "blurb": "Dress up, act out.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013358678092/88da9eb54a9e.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012794212619",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Rhinestone Pink Anchor Stripe Y2K Halter Top",
   "depts": [
    "women"
@@ -2999,7 +3488,7 @@
  },
  {
   "id": "1005008592072110",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Khaki Lace Fur Collar Fairy Grunge Cardigan",
   "depts": [
    "women"
@@ -3008,7 +3497,7 @@
  },
  {
   "id": "1005007880156230",
-  "category": "hoodies",
+  "category": "jackets",
   "name": "Grey Cross Print Grunge Layered Knit Jacket",
   "depts": [
    "women"
@@ -3020,7 +3509,7 @@
  },
  {
   "id": "1005010035850979",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "White V Neck Y2K Cable Knit Sweater",
   "depts": [
    "women"
@@ -3037,6 +3526,9 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006976019114/bb0861261a9f.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3046,15 +3538,21 @@
   "blurb": "Cropped for a reason.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012708205003/382325cc6a67.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005009855173952",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Leopard Patchwork Y2K Layered Tie Crop Tee",
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009855173952/9f3c83d8c158.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3064,11 +3562,14 @@
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009253031979/c899944d3c75.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005010044664974",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Navy Blue Y2K Fitted Cable Knit Sweater",
   "depts": [
    "women"
@@ -3086,6 +3587,9 @@
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007077858198/df70fd42725d.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3103,16 +3607,19 @@
  },
  {
   "id": "1005005414465331",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Bunny Pink Heart Y2K Crop Tee",
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005414465331/e1179a712140.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005013224629130",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Coffee Striped Y2K Knit Cardigan With Scarf",
   "depts": [
    "women"
@@ -3157,16 +3664,19 @@
  },
  {
   "id": "1005011768018773",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "White Lace Puff Sleeve Coquette Square Neck Crop Tee",
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011768018773/38e27e14e6f7.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005003874810526",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Purple Striped Goth Distressed Knit Sweater",
   "depts": [
    "women"
@@ -3175,7 +3685,7 @@
  },
  {
   "id": "1005006462597171",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Purple Ribbed Y2K Crop Cardigan With Scarf",
   "depts": [
    "women"
@@ -3192,6 +3702,9 @@
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008690745863/0af2236b9e6c.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3217,7 +3730,7 @@
  },
  {
   "id": "1005013167842313",
-  "category": "hoodies",
+  "category": "jackets",
   "name": "Blue Polka Dot Y2K Hooded Zip Up Jacket",
   "depts": [
    "women"
@@ -3252,13 +3765,19 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012892309131/a0c06567cb01.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005007409931329",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Pink Perfection Y2K Backless Lace Up Crop Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005011967066048",
@@ -3267,11 +3786,14 @@
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011967066048/3477c1f71d01.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005005062086248",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Black Skull Star Goth Mohair Knit Sweater",
   "depts": [
    "women"
@@ -3283,7 +3805,7 @@
  },
  {
   "id": "1005008863764074",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Yellow Letter Print Y2K Slim Tank Top",
   "depts": [
    "women"
@@ -3300,6 +3822,9 @@
   "blurb": "Pairs with low-rise and bad decisions.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007047171346/beb465f949a3.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3316,11 +3841,14 @@
  },
  {
   "id": "1005007033177844",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Call Delivery Bunny Y2K Pink Crop Tee",
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007033177844/1a31880064ad.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3337,7 +3865,7 @@
  },
  {
   "id": "1005009280141915",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Red Letter Print Y2K Cropped Tank Top",
   "depts": [
    "women"
@@ -3361,7 +3889,7 @@
  },
  {
   "id": "1005008929301267",
-  "category": "tanks",
+  "category": "baby-tees",
   "name": "Rhinestone Dark Grey Y2K Sleeveless Off Shoulder Tee",
   "depts": [
    "women"
@@ -3373,11 +3901,14 @@
  },
  {
   "id": "1005009244004239",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Polka Dot Palm Tree Y2K Crop Tee",
   "blurb": "Cropped for a reason.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009244004239/0d48ba285c49.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3399,6 +3930,9 @@
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012412616814/bcecbd1e8f66.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3420,15 +3954,21 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008800213460/1acf73fabbc2.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005003334486936",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Sage Green Sheer Fairy Grunge Flare Sleeve Knit Sweater",
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003334486936/7fcae923b610.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3450,6 +3990,9 @@
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006703959821/d3834e2425cc.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3459,11 +4002,14 @@
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009850713869/4f240fdc1262.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005013339630357",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Mint Green Y2K Single Breasted Knit Cardigan",
   "depts": [
    "women"
@@ -3480,6 +4026,9 @@
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009290388758/40b23906cac4.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3496,7 +4045,7 @@
  },
  {
   "id": "1005009207131248",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Blue Floral Print Fairy Grunge Ribbed Tank Top",
   "depts": [
    "women"
@@ -3508,7 +4057,7 @@
  },
  {
   "id": "1005010103852537",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Navy Blue Furry Y2K Knit Cardigan",
   "depts": [
    "women"
@@ -3520,11 +4069,14 @@
  },
  {
   "id": "1005012720177240",
-  "category": "tanks",
+  "category": "sets",
   "name": "Pink Grey Y2K Layered Cami Set",
   "blurb": "Dress up, act out.",
   "hide_photos": [
    "https://ae01.alicdn.com/kf/Sea69dbee3d714695bacbceae9ab3b15fK.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3535,6 +4087,9 @@
   "hide_photos": [
    "https://ae01.alicdn.com/kf/S1fb9925f6fa44ae8b913803100599062c.jpg",
    "https://ae01.alicdn.com/kf/S67952ea7d4ab4a39a0cb1e49e1e46fbbr.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3544,15 +4099,21 @@
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://ae01.alicdn.com/kf/S021efb681d8745d2ab1f2ebde979a7d1P.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012212569428",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Black Dotted Letter Y2K Oversized Tee",
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://ae01.alicdn.com/kf/S04131512684e4224863289667c343f91z.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3570,11 +4131,14 @@
  },
  {
   "id": "1005013066708161",
-  "category": "long-sleeves",
+  "category": "baby-tees",
   "name": "Music Is The Answer Y2K Off Shoulder Tee",
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013066708161/8ce4658bc0ef.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3592,7 +4156,7 @@
  },
  {
   "id": "1005013375401257",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "White Striped Y2K Single Breasted Knit Cardigan",
   "depts": [
    "women"
@@ -3604,7 +4168,7 @@
  },
  {
   "id": "1005009204660905",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Yellow Layered Y2K Double Strap Cami",
   "depts": [
    "women"
@@ -3621,13 +4185,19 @@
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://ae01.alicdn.com/kf/S218c2f6fe53d4c13ba3ac4b4ceba5227l.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005009165374638",
-  "category": "long-sleeves",
+  "category": "baby-tees",
   "name": "Shine On Y2K Sheer Knit Off Shoulder Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005008479834341",
@@ -3660,6 +4230,9 @@
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://ae01.alicdn.com/kf/Sd6dea9bbec2c4f26b42b2d781b5f123fc.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3702,11 +4275,14 @@
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://ae01.alicdn.com/kf/S223ead09c8314c378be32d598d3f7d27W.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005007254794991",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Red Black Sheer Knit Grunge Layered Tank Top",
   "depts": [
    "women"
@@ -3742,7 +4318,7 @@
  },
  {
   "id": "1005007112972715",
-  "category": "hoodies",
+  "category": "jackets",
   "name": "Army Green Y2K Cargo Zip Up Short Sleeve Jacket",
   "depts": [
    "women"
@@ -3760,6 +4336,9 @@
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://ae01.alicdn.com/kf/S37dfc2f9c1164fbba92c520136dbbf2dy.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3776,11 +4355,14 @@
  },
  {
   "id": "1005006839163266",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "White Bunny Knit Y2K Cutout Crop Tee",
   "blurb": "Pairs with low-rise and bad decisions.",
   "hide_photos": [
    "https://ae01.alicdn.com/kf/Sb4a8110c44884583ac8897d802bbd29cO.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3802,15 +4384,21 @@
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://ae01.alicdn.com/kf/S31831b83ee2b41adaeb34c9e95de16fbo.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005005393366179",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Strawberry Cake Y2K Mesh Crop Tee",
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://ae01.alicdn.com/kf/Scdb655d4b3b94dfb9a85c3a9a301a9d4s.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3820,11 +4408,14 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://ae01.alicdn.com/kf/S68aa4efabc904d918b8bc86d618b97ad2.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005005830088998",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Good Day Ice Cream Y2K Tank Top",
   "depts": [
    "women"
@@ -3853,11 +4444,14 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://ae01.alicdn.com/kf/S07a13a69b89c42cabb3c35257317546ft.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005011528709468",
-  "category": "hoodies",
+  "category": "jackets",
   "name": "Black Fur Hood Grunge Zip Up Jacket",
   "depts": [
    "women"
@@ -3870,18 +4464,24 @@
  },
  {
   "id": "1005008811897539",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Chrysanthemum Red Flower Y2K Oversized Tee",
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://ae01.alicdn.com/kf/Sfe333eee970b4eafa8e7f5c3768c518cS.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005006904976669",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "No One Will Love Anyone Else Y2K Crop Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005006779019800",
@@ -3903,6 +4503,9 @@
   "hide_photos": [
    "https://ae01.alicdn.com/kf/Sbacec6268d424ed8a083200d049d78af4.jpg",
    "https://ae01.alicdn.com/kf/Sfbe92b70054a421cad1fdb1905ab67ed9.png"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3932,24 +4535,33 @@
  },
  {
   "id": "1005006734056735",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Pink Bear Print Y2K Lace Patchwork Crop Tee",
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://ae01.alicdn.com/kf/S1ab8e34f08b14cbdb57f6430a1244599x.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005006699473759",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Blue Tie Dye Grunge Graphic Crop Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005009041948960",
   "category": "baby-tees",
   "name": "Green Floral Graffiti Y2K Distressed Baby Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005007420172057",
@@ -3958,6 +4570,9 @@
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007420172057/4ab67ebc694d.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -3974,7 +4589,7 @@
  },
  {
   "id": "1005003718765806",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Red Ribbed Knit Y2K Off Shoulder Halter Top",
   "depts": [
    "women"
@@ -4003,33 +4618,45 @@
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005514484181/bc63304235fd.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005009641180790",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Pastel Letter Print Y2K Knit Crop Tee",
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009641180790/50fafdf5a5ce.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005005368165978",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Angel Kitty Print Y2K Crop Tee",
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005368165978/ea87ac19b053.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005004064369099",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Black Sheer Mesh Grunge Asymmetric Crop Tee",
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004064369099/22047f2c04f1.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4046,11 +4673,14 @@
  },
  {
   "id": "1005003187361872",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Black Floral Lace Goth Sheer Oversized Tee",
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003187361872/3072819de0a4.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4072,13 +4702,19 @@
   "blurb": "Small tee, big attitude.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005164605288/3dfca18b2bfd.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012059289449",
   "category": "baby-tees",
   "name": "Puppy Print Y2K Striped Raglan Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005007154215513",
@@ -4087,6 +4723,9 @@
   "blurb": "Cropped for a reason.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007154215513/5683b6c83fe7.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4105,11 +4744,14 @@
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004375428902/c0c1d7cbada4.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005007068220628",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Cyber Sketch Punk Irregular Hem Cami",
   "depts": [
    "women"
@@ -4121,11 +4763,14 @@
  },
  {
   "id": "1005004459885676",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Coffee Mug Manicure Y2K Fitted Crop Tee",
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004459885676/d29d56b8198e.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4135,15 +4780,21 @@
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007287978527/60689a0ce41c.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005004238501649",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "I Want Young And Rich Y2K Fitted Crop Tee",
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004238501649/75f97923142d.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4157,7 +4808,7 @@
  },
  {
   "id": "1005007495849672",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Black Sun Knit Y2K Button Tank Top",
   "depts": [
    "women"
@@ -4169,7 +4820,7 @@
  },
  {
   "id": "1005006166076707",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Pink Fuzzy Mohair Harajuku Knit Sweater",
   "depts": [
    "women"
@@ -4205,7 +4856,7 @@
  },
  {
   "id": "1005007283091943",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Red Polka Dot Ruffle Y2K Backless Halter Top",
   "depts": [
    "women"
@@ -4229,7 +4880,7 @@
  },
  {
   "id": "1005004570283704",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Photo Print Grunge Corset Tube Top",
   "depts": [
    "women"
@@ -4243,11 +4894,14 @@
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005282572401/6142e2d00f33.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005004149649461",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Purple Gingham Y2K Asymmetric Halter Top",
   "depts": [
    "women"
@@ -4259,11 +4913,14 @@
  },
  {
   "id": "1005006578245562",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Leopard Print Lace Y2K V Neck Crop Tee",
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006578245562/bd209b1f91fd.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4285,11 +4942,14 @@
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004614386278/390d07652f19.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005008017460230",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Blue Bow Coquette Cropped Knit Sweater",
   "depts": [
    "women"
@@ -4307,11 +4967,14 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006579630115/17005fc1896b.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006579630115/e9ef5a19808d.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005007192709553",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "White Star Heart Lace Trim Y2K Cami",
   "depts": [
    "women"
@@ -4332,7 +4995,7 @@
  },
  {
   "id": "1005005805613669",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Puppy Tennis Ball Y2K Raglan Tank Top",
   "depts": [
    "women"
@@ -4370,7 +5033,7 @@
  },
  {
   "id": "1005006884545479",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Black Text Print Grunge Collared Tank Top",
   "depts": [
    "women"
@@ -4382,16 +5045,19 @@
  },
  {
   "id": "1005006600865221",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Pink Sequin Trim Coquette Ribbed Knit Cardigan",
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006600865221/c952af1fa594.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005004178121286",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Stop Thief Bear Y2K Lace Cami",
   "depts": [
    "women"
@@ -4408,6 +5074,9 @@
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008704086579/a1e275516b2f.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4418,11 +5087,14 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012039085652/c0fcf0ae3004.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012039085652/c18303311573.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005005577208340",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Bat Wing Bunny Goth Tube Top",
   "depts": [
    "women"
@@ -4439,6 +5111,9 @@
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007067281353/286717f6b9fb.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4455,11 +5130,14 @@
  },
  {
   "id": "1005008955956057",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Purple Winged Y2K Fitted Crop Tee",
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008955956057/e6763df08095.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4469,35 +5147,47 @@
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005787394655/ab4c16e3176f.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012251837230",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Black Serif Slogan Y2K Oversized Tee",
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012251837230/eb5450feac83.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005008334614316",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Khaki Distressed Grunge Hollow Out Knit Sweater",
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008334614316/6f9e695bc3f1.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005007401567590",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Cat Doodle Stamp Y2K Crop Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005003692811273",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Black Criss Cross Goth Off Shoulder Knit Sweater",
   "depts": [
    "women"
@@ -4515,11 +5205,14 @@
   "blurb": "Pairs with low-rise and bad decisions.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007402711768/d1884eeadd24.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005004709829197",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "White Ripped Fairy Grunge Hollow Out Knit Sweater",
   "depts": [
    "women"
@@ -4531,11 +5224,14 @@
  },
  {
   "id": "1005003645458415",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "White Sheer Criss Cross Y2K Cropped Knit Sweater",
   "blurb": "Cropped for a reason.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003645458415/36e7b80f8f4b.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4545,6 +5241,9 @@
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008959847682/cc34c822e07e.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4554,11 +5253,14 @@
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007371321246/51a8c7c4b755.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005006358741710",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Pink Cable Knit Coquette Turtleneck Cardigan",
   "depts": [
    "women"
@@ -4570,7 +5272,7 @@
  },
  {
   "id": "1005008949417416",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Grey Lace Trim Y2K Knit Tank Top",
   "depts": [
    "women"
@@ -4584,11 +5286,14 @@
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008354401788/654becbf4588.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012594562422",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Skull Print Y2K Sheer Tank Top",
   "depts": [
    "women"
@@ -4605,6 +5310,9 @@
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012371349209/fe6a22182ad0.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4614,6 +5322,9 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012022159609/cb1c480c0454.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4623,11 +5334,14 @@
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012171989862/6359bbe1e41d.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005006454055756",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Olive Ribbed Fairy Grunge Cropped Knit Cardigan",
   "depts": [
    "women"
@@ -4639,11 +5353,14 @@
  },
  {
   "id": "1005008798891565",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Green Apple Y2K Fitted Crop Tee",
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008798891565/f3bce1f093ca.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4653,11 +5370,14 @@
   "blurb": "For the party and the after-party.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007054980585/c9c67e64fbf2.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005003989598347",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Khaki Oversized Y2K V Neck Knit Cardigan",
   "depts": [
    "women"
@@ -4681,16 +5401,19 @@
  },
  {
   "id": "1005007524327303",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Spider Web Crochet Grunge Hollow Out Knit Sweater",
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007524327303/18602deecfb0.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005011799696419",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Pink Polka Dot V Neck Y2K Halter Top",
   "depts": [
    "women"
@@ -4707,6 +5430,9 @@
   "blurb": "Small tee, big attitude.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009015758589/6ec677382075.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4716,6 +5442,9 @@
   "blurb": "Throw it on, go out.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005622866207/6ee32df05bff.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4725,6 +5454,9 @@
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003211838789/66e96f144489.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4734,11 +5466,14 @@
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013231445261/cd7431dace86.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005013266446747",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Black Twist Knit Y2K Slim Zip Up Cardigan",
   "depts": [
    "women"
@@ -4794,6 +5529,9 @@
   "blurb": "Small tee, big attitude.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013130443786/ea4077ef0ad3.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4803,11 +5541,14 @@
   "blurb": "One piece, whole look.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005609942823/311d3f756f5a.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005003215561357",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "White Sheer Mohair Coquette Cropped Cardigan",
   "depts": [
    "women"
@@ -4842,6 +5583,9 @@
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012498155817/2e2f04c3b361.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4851,6 +5595,9 @@
   "blurb": "Small tee, big attitude.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009066155503/e2d1ea3d127b.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4860,13 +5607,19 @@
   "blurb": "The baby tee your ex remembers.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011968675069/3f76fa39d8a1.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005013477573220",
   "category": "baby-tees",
   "name": "Black Rivet Goth Off Shoulder Baby Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005012733265289",
@@ -4875,6 +5628,9 @@
   "blurb": "Small tee, big attitude.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012733265289/584ebf8ac60d.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4891,7 +5647,7 @@
  },
  {
   "id": "1005010504787358",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Grey Henley Button Grunge Fitted Tank Top",
   "depts": [
    "women"
@@ -4920,6 +5676,9 @@
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010600220171/3256218e434b.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4929,6 +5688,9 @@
   "blurb": "Pairs with low-rise and bad decisions.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008209073074/7c3732f8898e.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4966,7 +5728,7 @@
  },
  {
   "id": "1005012957771661",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Sky Blue Button Y2K Fitted Knit Cardigan",
   "depts": [
    "women"
@@ -4980,6 +5742,9 @@
   "blurb": "Made for mirror pics.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013089875020/3333283d3a47.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4989,6 +5754,9 @@
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008666860506/1b2be754c48d.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -4998,6 +5766,9 @@
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009720178200/30a41cbeff94.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5016,7 +5787,10 @@
   "id": "1005009740431678",
   "category": "long-sleeves",
   "name": "Black Striped Collar Goth Layered Long Sleeve Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005013035748183",
@@ -5025,6 +5799,9 @@
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013035748183/4c72ccda0963.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5034,11 +5811,14 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012793488016/04caf64b454c.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005010085405754",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Grey Diagonal Stripe Grunge Turtleneck Knit Sweater",
   "depts": [
    "women"
@@ -5050,7 +5830,7 @@
  },
  {
   "id": "1005005806191169",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Blue Butterfly Fairy Grunge Ruffle Hem Cami",
   "depts": [
    "women"
@@ -5079,13 +5859,19 @@
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008188745442/9e5de3c08dfa.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012681725594",
   "category": "baby-tees",
   "name": "Purple Script Face Print Y2K Fitted Baby Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005009536375657",
@@ -5094,6 +5880,9 @@
   "blurb": "Cropped for a reason.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009536375657/7f5a85e7e8bb.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5104,6 +5893,9 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009680894971/9b08914d2f3f.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009680894971/fae3caa21fa3.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5113,6 +5905,9 @@
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011775600347/71118fffe39f.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5122,13 +5917,19 @@
   "blurb": "Cropped for a reason.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011590486011/bf3233f73056.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005011749789383",
   "category": "baby-tees",
   "name": "Grey Plaid Grunge Button Up Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005007895089625",
@@ -5168,7 +5969,7 @@
  },
  {
   "id": "1005013331540889",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Pink Ribbed V Neck Coquette Knit Sweater",
   "depts": [
    "women"
@@ -5180,7 +5981,7 @@
  },
  {
   "id": "1005013194931024",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Black Grey Striped Emo V Neck Knit Sweater",
   "depts": [
    "women"
@@ -5198,6 +5999,9 @@
   "blurb": "Cropped for a reason.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010472932761/46e60b680f1e.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5207,6 +6011,9 @@
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009685737354/b371d26c16bf.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5217,11 +6024,14 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008263525842/e717c804fe4e.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008263525842/f36ff48b87c0.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005008518018223",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Red Dragon Grunge Mock Neck Tank Top",
   "depts": [
    "women"
@@ -5258,7 +6068,7 @@
  },
  {
   "id": "1005013409289524",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Striped Star Sleeve Emo Knit Cardigan",
   "depts": [
    "women"
@@ -5270,7 +6080,7 @@
  },
  {
   "id": "1005011833386394",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Girl Club Angel Y2K Fitted Tank Top",
   "depts": [
    "women"
@@ -5282,7 +6092,7 @@
  },
  {
   "id": "1005011736866436",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Black Leopard Trim Studded Grunge Layered Cami",
   "depts": [
    "women"
@@ -5299,6 +6109,9 @@
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010780434165/f15c706070ca.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5308,6 +6121,9 @@
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012202942060/1782373b959e.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5329,6 +6145,9 @@
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008321880602/33c8a3829a09.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5345,7 +6164,7 @@
  },
  {
   "id": "1005012847592791",
-  "category": "hoodies",
+  "category": "sweaters",
   "name": "Charcoal Cowl Neck Grunge Batwing Knit Sweater",
   "depts": [
    "women"
@@ -5357,7 +6176,7 @@
  },
  {
   "id": "1005013345587204",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Mint Layered Coquette Button Knit Cardigan",
   "depts": [
    "women"
@@ -5386,11 +6205,14 @@
   "blurb": "Small tee, big attitude.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009563330069/c0f71fb88970.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012188152018",
-  "category": "tanks",
+  "category": "sets",
   "name": "Coffee Lace Bow Coquette Cami And Shrug Set",
   "depts": [
    "women"
@@ -5407,11 +6229,14 @@
   "blurb": "Small tee, big attitude.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008228610016/6e9fe1aaa7f4.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005009171113563",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Navy Ruffle Sleeve Grunge Button Up Tank Top",
   "depts": [
    "women"
@@ -5428,6 +6253,9 @@
   "blurb": "Twirl at your own risk.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010565282534/95a7e90eab77.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5437,6 +6265,9 @@
   "blurb": "Tight fit, loud mouth.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009231229682/1d718160c82e.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5453,11 +6284,14 @@
  },
  {
   "id": "1005010547043503",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Charcoal Basic Y2K Fitted Crop Tee",
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010547043503/e4bd852000aa.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5479,6 +6313,9 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013202863333/777b2b0a28bb.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5488,15 +6325,21 @@
   "blurb": "The baby tee your ex remembers.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012010735083/a668d85693b1.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005010510304021",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Black Turtleneck Y2K Fitted Crop Tee",
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010510304021/f0b94623fa4e.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5513,7 +6356,7 @@
  },
  {
   "id": "1005013010759747",
-  "category": "hoodies",
+  "category": "sets",
   "name": "White Tie Front Shrug Pink Cami Coquette Set",
   "depts": [
    "women"
@@ -5548,11 +6391,14 @@
   "id": "1005013194422152",
   "category": "long-sleeves",
   "name": "White Scribble Stripe Goth Layered Long Sleeve Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005009967383123",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Blue Tie Front Y2K Knit Cardigan",
   "depts": [
    "women"
@@ -5581,20 +6427,26 @@
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008940580309/49ad7988a4dc.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005013274652702",
-  "category": "shorts",
+  "category": "sets",
   "name": "Polka Dot Ruffle Trim Coquette Shorts Set",
   "blurb": "Throw it on, go out.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013274652702/be3e42128f3c.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005008330941108",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Ruffle Collar Goth Fitted Knit Cardigan",
   "depts": [
    "women"
@@ -5603,7 +6455,7 @@
  },
  {
   "id": "1005012824715379",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Navy Striped Y2K Knit Cardigan",
   "depts": [
    "women"
@@ -5628,7 +6480,7 @@
  },
  {
   "id": "1005013293847102",
-  "category": "long-sleeves",
+  "category": "sweaters",
   "name": "Black Star Y2K Flare Sleeve Knit Sweater",
   "depts": [
    "women"
@@ -5645,11 +6497,14 @@
   "blurb": "Pairs with low-rise and bad decisions.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011621389628/38481d456bb8.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012953232055",
-  "category": "hoodies",
+  "category": "sets",
   "name": "Blue Striped Tube Top Cream Shrug Y2K Set",
   "depts": [
    "women"
@@ -5666,15 +6521,21 @@
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008120570046/39c3e253f5a2.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012518647947",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Black Lace V Neck Goth Lace Up Crop Tee",
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012518647947/74223a47ac67.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5697,6 +6558,9 @@
   "blurb": "Cropped for a reason.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007915801260/618a4bc578ed.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5710,7 +6574,7 @@
  },
  {
   "id": "1005012017294748",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Pink Plaid Cowl Neck Y2K Halter Top",
   "depts": [
    "women"
@@ -5727,6 +6591,9 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012699181812/54aef05065ea.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5736,6 +6603,9 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012812057967/f27a1780c610.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5792,7 +6662,10 @@
   "id": "1005009975287188",
   "category": "long-sleeves",
   "name": "Music Note Y2K Striped Raglan Long Sleeve Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005012775055315",
@@ -5808,7 +6681,7 @@
  },
  {
   "id": "1005010514322085",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Purple Striped Grunge Zip Up Cardigan",
   "depts": [
    "women"
@@ -5849,11 +6722,14 @@
   "blurb": "Cropped for a reason.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008911751332/006e5abe9b10.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005007234892231",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Striped Bow Navy Coquette Knit Tank Top",
   "depts": [
    "women"
@@ -5870,6 +6746,9 @@
   "blurb": "Small tee, big attitude.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009370646292/5f72cb6f772e.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5879,11 +6758,14 @@
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009823930801/a7f05dcc347c.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005010504232571",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Black Lace Tie Front Goth Cami",
   "depts": [
    "women"
@@ -5902,6 +6784,9 @@
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011850932620/345c4de58a2e.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011850932620/4405c81e9530.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011850932620/70ba2648ca70.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5912,6 +6797,9 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009783637160/07e2f68b62a8.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009783637160/ecd3ba778f4f.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5921,6 +6809,9 @@
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008264167233/832d315af31a.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -5930,11 +6821,14 @@
   "blurb": "Grunge-girl approved.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012598015620/7a851b73cc82.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005006897239060",
-  "category": "tanks",
+  "category": "halter-tube",
   "name": "Yellow Cherry Lace Trim Y2K Halter Top",
   "depts": [
    "women"
@@ -5980,6 +6874,9 @@
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008835717007/af441204d0e1.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008835717007/b0e14d6987f0.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008835717007/c3329da4438b.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -6001,15 +6898,21 @@
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012811876643/d3ed2275fc96.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005008306006527",
-  "category": "long-sleeves",
+  "category": "baby-tees",
   "name": "Faux Fur Collar Script Y2K Off Shoulder Tee",
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008306006527/5ddfdd54bf86.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -6031,11 +6934,14 @@
   "blurb": "Wear it with chunky boots and zero apologies.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008083155588/bc0c264a4edf.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005008544286257",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Grey Lace Ruffle Fairy Grunge Cami",
   "depts": [
    "women"
@@ -6064,6 +6970,9 @@
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007878180558/a346e0758951.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -6081,11 +6990,14 @@
  },
  {
   "id": "1005012806610355",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Black Button Henley Y2K Fitted Crop Tee",
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012806610355/9d55058c8405.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -6104,7 +7016,10 @@
   "id": "1005010361592839",
   "category": "long-sleeves",
   "name": "Leopard Cross Goth Striped Layered Long Sleeve Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005008690434908",
@@ -6113,6 +7028,9 @@
   "blurb": "Small tee, big attitude.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008690434908/d940dc370cb7.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -6122,6 +7040,9 @@
   "blurb": "Your new go-out top.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009668996030/16c5af201ec8.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -6149,15 +7070,21 @@
   "id": "1005010208214200",
   "category": "long-sleeves",
   "name": "Distressed Graphic Goth Layered Long Sleeve Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005011926700079",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "Navy Blue Y2K Layered Crop Tee",
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011926700079/eff83575f3a4.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -6167,6 +7094,9 @@
   "blurb": "Pairs with low-rise and bad decisions.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012038841160/b906115cf21c.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -6188,20 +7118,26 @@
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012025892753/2ac22f4349ed.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005012624087059",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "White Hooded Half Zip Y2K Crop Tee",
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012624087059/eb09d35f402b.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
   "id": "1005008034440136",
-  "category": "tanks",
+  "category": "sets",
   "name": "Leopard Halter Top Black Shrug Y2K Set",
   "depts": [
    "women"
@@ -6225,7 +7161,7 @@
  },
  {
   "id": "1005009882101897",
-  "category": "tanks",
+  "category": "sets",
   "name": "Pink Striped Tube Top Grey Shrug Fairy Grunge Set",
   "depts": [
    "women"
@@ -6263,7 +7199,7 @@
  },
  {
   "id": "1005008071703050",
-  "category": "hoodies",
+  "category": "cardigans",
   "name": "Patchwork Star Graphic Goth Knit Cardigan",
   "depts": [
    "women"
@@ -6275,11 +7211,14 @@
  },
  {
   "id": "1005012569527202",
-  "category": "baby-tees",
+  "category": "sets",
   "name": "Navy Floral Top White Tie Shrug Coquette Set",
   "blurb": "For the front row of the show.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012569527202/e284a6e661d8.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -6289,6 +7228,9 @@
   "blurb": "Cropped for a reason.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009226339087/5f5fc5655672.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -6298,6 +7240,9 @@
   "blurb": "2003 called. It wants this back.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009311246951/446ddea585fd.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -6307,6 +7252,9 @@
   "blurb": "Throw it on, go out.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006728440219/e9638a4a8bb4.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {
@@ -6323,19 +7271,25 @@
  },
  {
   "id": "1005007627136871",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Frog With Dandelion Y2K Raglan Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005005274552031",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Daughters Of The Witches Cat Moon Goth Oversized Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005005269600842",
-  "category": "tanks",
+  "category": "camis-tanks",
   "name": "Everything's Nice Pink Heart Y2K Cami",
   "depts": [
    "women"
@@ -6344,27 +7298,39 @@
  },
  {
   "id": "1005007629895010",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Maine Coon Anatomy Y2K Raglan Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005007629385347",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Capybara Bubble Bath Y2K Raglan Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005005271954200",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Cross Dresser Candy Heart Y2K Raglan Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005007629207744",
-  "category": "baby-tees",
+  "category": "oversized-tees",
   "name": "Vintage Dinosaur Chart Y2K Raglan Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "depts": [
+   "women"
+  ]
  },
  {
   "id": "1005012779090271",
@@ -6389,11 +7355,14 @@
  },
  {
   "id": "1005009132055612",
-  "category": "baby-tees",
+  "category": "crop-tees",
   "name": "White Pinstripe Patch Y2K Baseball Jersey Crop Tee",
   "blurb": "Cute enough for the party, dark enough for after.",
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009132055612/c8ec38a21ede.jpg"
+  ],
+  "depts": [
+   "women"
   ]
  },
  {

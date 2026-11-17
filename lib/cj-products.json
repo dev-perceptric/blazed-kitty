@@ -4,11 +4,10 @@
   "code": "BK-CJ1",
   "name": "Rainbow Metal Y2K 4 Piece Grinder",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
-  "line": "stash",
-  "category": "tech",
+  "line": "accessories",
+  "category": "extras",
   "design": "cj",
   "drop": "cj",
   "price": 14.99,
@@ -69,11 +68,10 @@
   "code": "BK-CJ2",
   "name": "Chunky Zinc Y2K Swifty Grinder",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
-  "line": "stash",
-  "category": "tech",
+  "line": "accessories",
+  "category": "extras",
   "design": "cj",
   "drop": "cj",
   "price": 22.99,
@@ -205,11 +203,10 @@
   "code": "BK-CJ3",
   "name": "Printed Metal Y2K Fold Up Rolling Tray",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
-  "line": "home",
-  "category": "rolling-mats",
+  "line": "accessories",
+  "category": "extras",
   "design": "cj",
   "drop": "cj",
   "price": 18.99,
@@ -397,11 +394,10 @@
   "code": "BK-CJ4",
   "name": "LED Glow Y2K Sealed Stash Jar",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
-  "line": "stash",
-  "category": "glassware",
+  "line": "accessories",
+  "category": "extras",
   "design": "cj",
   "drop": "cj",
   "price": 18.99,
@@ -576,11 +572,10 @@
   "code": "BK-CJ5",
   "name": "Glazed Ceramic Goth Ashtray",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
-  "line": "stash",
-  "category": "glassware",
+  "line": "accessories",
+  "category": "extras",
   "design": "cj",
   "drop": "cj",
   "price": 33.99,
@@ -658,11 +653,10 @@
   "code": "BK-CJ6",
   "name": "Gold Or Black Concrete Goth Ashtray",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
-  "line": "stash",
-  "category": "glassware",
+  "line": "accessories",
+  "category": "extras",
   "design": "cj",
   "drop": "cj",
   "price": 21.99,

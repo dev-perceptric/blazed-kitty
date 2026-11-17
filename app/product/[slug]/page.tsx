@@ -23,7 +23,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
     notFound();
   }
   const others = PRODUCTS.filter((p) => p.slug !== product.slug && (product.afterDark || !p.afterDark));
-  const shares = (p: (typeof PRODUCTS)[number]) => p.depts.some((d) => product.depts.includes(d));
+  const shares = (_p: (typeof PRODUCTS)[number]) => true;
   // Same design in another cut first (matching sets), then same category, then same line.
   const ranked = [
     ...(product.printful ? others.filter((p) => p.design === product.design) : []),
