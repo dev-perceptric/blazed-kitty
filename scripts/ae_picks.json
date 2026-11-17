@@ -7572,7 +7572,7 @@
  {
   "id": "1005009319317948",
   "category": "camis-tanks",
-  "name": "Tank",
+  "name": "Satin Tank",
   "depts": [
    "women"
   ]
@@ -7807,7 +7807,8 @@
   "name": "Lace Bow Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 33.99
  },
  {
   "id": "1005013215758492",
@@ -7887,7 +7888,8 @@
   "name": "Goth Layered Set",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 48.99
  },
  {
   "id": "1005013168202747",
@@ -7911,7 +7913,8 @@
   "name": "Lace Bow Baby Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 41.99
  },
  {
   "id": "1005012988704855",
@@ -7919,7 +7922,8 @@
   "name": "Stripe Layered Set",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 35.99
  },
  {
   "id": "1005013107164000",
@@ -7940,7 +7944,7 @@
  {
   "id": "1005013031146299",
   "category": "hoodies",
-  "name": "Punk Jacket 2",
+  "name": "Punk White Jacket",
   "depts": [
    "women"
   ]
@@ -7972,7 +7976,7 @@
  {
   "id": "1005012925495343",
   "category": "hoodies",
-  "name": "Goth Punk Jacket 2",
+  "name": "Blue Goth Punk Jacket",
   "depts": [
    "women"
   ]
@@ -8012,7 +8016,7 @@
  {
   "id": "1005013031200543",
   "category": "jackets",
-  "name": "Jacket",
+  "name": "Harajuku Jacket",
   "depts": [
    "women"
   ]
@@ -8079,7 +8083,8 @@
   "name": "Lace Plaid Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 49.99
  },
  {
   "id": "1005013109461474",
@@ -8108,7 +8113,7 @@
  {
   "id": "1005012984246715",
   "category": "hoodies",
-  "name": "Goth Punk Jacket 3",
+  "name": "Black Goth Punk Jacket",
   "depts": [
    "women"
   ]
@@ -8116,7 +8121,7 @@
  {
   "id": "1005012979419079",
   "category": "hoodies",
-  "name": "Vintage Jacket 2",
+  "name": "Bronw Vintage Jacket",
   "depts": [
    "women"
   ]
@@ -8159,7 +8164,8 @@
   "name": "Goth Ruffle Cardigan",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 47.99
  },
  {
   "id": "1005013183444337",
@@ -8183,12 +8189,13 @@
   "name": "Goth Punk Kawaii Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 25.99
  },
  {
   "id": "1005013102742471",
   "category": "hoodies",
-  "name": "Goth Punk Grunge Jacket 2",
+  "name": "Goth Punk Grunge Zip Jacket",
   "depts": [
    "women"
   ]
@@ -8220,7 +8227,7 @@
  {
   "id": "1005013350100354",
   "category": "hoodies",
-  "name": "Goth Punk Jacket 4",
+  "name": "Goth Punk Jacket No. 354",
   "depts": [
    "women"
   ]
@@ -8228,7 +8235,7 @@
  {
   "id": "1005013191980983",
   "category": "hoodies",
-  "name": "Knit Hoodie 2",
+  "name": "Black Knit Hoodie",
   "depts": [
    "women"
   ]
@@ -8260,7 +8267,7 @@
  {
   "id": "1005013086469205",
   "category": "hoodies",
-  "name": "Knit Hoodie 3",
+  "name": "White Knit Hoodie",
   "depts": [
    "women"
   ]
@@ -8300,7 +8307,7 @@
  {
   "id": "1005012979293153",
   "category": "hoodies",
-  "name": "Vintage Jacket 3",
+  "name": "Skirts Vintage Jacket",
   "depts": [
    "women"
   ]
@@ -8684,7 +8691,7 @@
  {
   "id": "1005012226991423",
   "category": "baby-tees",
-  "name": "Goth Punk Crop Tee 2",
+  "name": "Goth Punk Harajuku Crop Tee",
   "depts": [
    "women"
   ]
@@ -8932,7 +8939,7 @@
  {
   "id": "1005012543087802",
   "category": "baby-tees",
-  "name": "Goth Punk Vintage Crop Tee 2",
+  "name": "Goth Punk Vintage Blue Crop Tee",
   "depts": [
    "women"
   ]
@@ -9004,7 +9011,7 @@
  {
   "id": "1005010621454550",
   "category": "hoodies",
-  "name": "Goth Jacket 2",
+  "name": "Goth Button Jacket",
   "depts": [
    "women"
   ]
@@ -9180,7 +9187,7 @@
  {
   "id": "1005010218756114",
   "category": "hoodies",
-  "name": "Vintage Jacket 4",
+  "name": "Vintage Button Jacket",
   "depts": [
    "women"
   ]
@@ -9444,7 +9451,7 @@
  {
   "id": "1005008099679542",
   "category": "hoodies",
-  "name": "Goth Punk Jacket 5",
+  "name": "Goth Punk Camo Jacket",
   "depts": [
    "women"
   ]
@@ -9452,7 +9459,7 @@
  {
   "id": "1005010007682164",
   "category": "hoodies",
-  "name": "Jacket 2",
+  "name": "Jacket",
   "depts": [
    "women"
   ]
@@ -10212,7 +10219,7 @@
  {
   "id": "1005004800528269",
   "category": "long-sleeves",
-  "name": "Long Sleeve Tee",
+  "name": "Distressed Long Sleeve Tee",
   "depts": [
    "women"
   ]
@@ -10407,7 +10414,8 @@
   "name": "Punk Jewelry",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 22.99
  },
  {
   "id": "1005012329457904",
@@ -10492,7 +10500,7 @@
  {
   "id": "1005010053647423",
   "category": "jewelry",
-  "name": "Goth Punk Jewelry 2",
+  "name": "Goth Punk Studded Jewelry",
   "depts": [
    "women"
   ]
@@ -10500,7 +10508,7 @@
  {
   "id": "1005009524241335",
   "category": "jewelry",
-  "name": "Heart Jewelry 2",
+  "name": "Otn9028 Heart Jewelry",
   "depts": [
    "women"
   ]
@@ -10524,15 +10532,7 @@
  {
   "id": "1005013009705243",
   "category": "jewelry",
-  "name": "Punk Jewelry 2",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005007180153669",
-  "category": "jewelry",
-  "name": "Floral Vintage Jewelry",
+  "name": "Punk Black Jewelry",
   "depts": [
    "women"
   ]
@@ -10543,7 +10543,8 @@
   "name": "Butterfly Rhinestone Jewelry",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 16.99
  },
  {
   "id": "1005005581299892",
@@ -10564,10 +10565,11 @@
  {
   "id": "1005011957049264",
   "category": "jewelry",
-  "name": "Jewelry 2",
+  "name": "Jewelry No. 264",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 4.99
  },
  {
   "id": "1005011591029312",
@@ -10628,7 +10630,7 @@
  {
   "id": "1005010570237761",
   "category": "jewelry",
-  "name": "Jewelry 3",
+  "name": "Jewelry No. 761",
   "depts": [
    "women"
   ]
@@ -10644,7 +10646,7 @@
  {
   "id": "1005010544631928",
   "category": "jewelry",
-  "name": "Heart Cross Jewelry 2",
+  "name": "Heart Cross Jewelry No. 928",
   "depts": [
    "women"
   ]
@@ -10663,12 +10665,13 @@
   "name": "Floral Jewelry",
   "depts": [
    "women"
-  ]
+  ],
+  "price": 22.99
  },
  {
   "id": "1005012959406827",
   "category": "jewelry",
-  "name": "Goth Jewelry 2",
+  "name": "Silver Set Goth Jewelry",
   "depts": [
    "women"
   ]
@@ -10676,7 +10679,7 @@
  {
   "id": "1005013071008924",
   "category": "jewelry",
-  "name": "Goth Jewelry 3",
+  "name": "Goth Purple Jewelry",
   "depts": [
    "women"
   ]
@@ -10716,7 +10719,7 @@
  {
   "id": "1005012419067220",
   "category": "jewelry",
-  "name": "Punk Jewelry 3",
+  "name": "Punk Leather Jewelry",
   "depts": [
    "women"
   ]
@@ -10732,7 +10735,7 @@
  {
   "id": "1005012600290903",
   "category": "jewelry",
-  "name": "Jewelry 4",
+  "name": "Pink Chunky Jewelry",
   "depts": [
    "women"
   ]
@@ -10748,7 +10751,7 @@
  {
   "id": "1005010236891122",
   "category": "jewelry",
-  "name": "Jewelry 5",
+  "name": "Jewelry No. 122",
   "depts": [
    "women"
   ]
@@ -10764,7 +10767,7 @@
  {
   "id": "1005007785257755",
   "category": "jewelry",
-  "name": "Jewelry 6",
+  "name": "Yc105 Jewelry",
   "depts": [
    "women"
   ]
@@ -10812,7 +10815,7 @@
  {
   "id": "1005007469491125",
   "category": "jewelry",
-  "name": "Heart Floral Jewelry 2",
+  "name": "December Heart Floral Jewelry",
   "depts": [
    "women"
   ]
@@ -10820,7 +10823,7 @@
  {
   "id": "1005010246253138",
   "category": "jewelry",
-  "name": "Jewelry 7",
+  "name": "Br25y0102-3 Jewelry",
   "depts": [
    "women"
   ]
@@ -10836,7 +10839,7 @@
  {
   "id": "1005008329988976",
   "category": "jewelry",
-  "name": "Jewelry 8",
+  "name": "Button Jewelry",
   "depts": [
    "women"
   ]
@@ -10850,57 +10853,9 @@
   ]
  },
  {
-  "id": "1005005847356781",
-  "category": "jewelry",
-  "name": "Jewelry 9",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005004720754986",
-  "category": "jewelry",
-  "name": "Jewelry 10",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005005089248916",
-  "category": "shoes",
-  "name": "Shoes",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005005828658439",
-  "category": "shoes",
-  "name": "Shoes 2",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005003178592016",
-  "category": "belts",
-  "name": "Rhinestone Belt",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005005344760341",
-  "category": "shoes",
-  "name": "Shoes 3",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "1005007299586511",
   "category": "baby-tees",
-  "name": "Baby Tee 2",
+  "name": "T Shirt Green Baby Tee",
   "depts": [
    "women"
   ]
@@ -10916,7 +10871,7 @@
  {
   "id": "1005013478822455",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 2",
+  "name": "Vintage Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -10932,7 +10887,7 @@
  {
   "id": "1005007299424268",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 3",
+  "name": "T-shirt Red Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -10948,7 +10903,7 @@
  {
   "id": "1005007921810071",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 2",
+  "name": "Kitty Black Baby Tee",
   "depts": [
    "women"
   ]
@@ -10956,7 +10911,7 @@
  {
   "id": "1005007921278909",
   "category": "baby-tees",
-  "name": "Baby Tee 3",
+  "name": "White Baby Tee",
   "depts": [
    "women"
   ]
@@ -10964,7 +10919,7 @@
  {
   "id": "1005012480797646",
   "category": "baby-tees",
-  "name": "Baby Tee 4",
+  "name": "Gray Baby Tee",
   "depts": [
    "women"
   ]
@@ -10972,7 +10927,7 @@
  {
   "id": "1005008366657574",
   "category": "baby-tees",
-  "name": "Baby Tee 5",
+  "name": "Yellow Baby Tee",
   "depts": [
    "women"
   ]
@@ -10996,7 +10951,7 @@
  {
   "id": "1005006829047162",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 2",
+  "name": "Graphic Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -11004,7 +10959,7 @@
  {
   "id": "1005007211531105",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 4",
+  "name": "Red Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11012,7 +10967,7 @@
  {
   "id": "1005007299475118",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 3",
+  "name": "T-shirt Red Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11028,7 +10983,7 @@
  {
   "id": "1005008364144355",
   "category": "baby-tees",
-  "name": "Baby Tee 6",
+  "name": "Oversized Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -11036,7 +10991,7 @@
  {
   "id": "1005006651905620",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 2",
+  "name": "T Shirt Blue Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11044,7 +10999,7 @@
  {
   "id": "1005006674493395",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 4",
+  "name": "Graphic Baby Tee No. 395",
   "depts": [
    "women"
   ]
@@ -11052,7 +11007,7 @@
  {
   "id": "1005007299502240",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 3",
+  "name": "T-shirt Red Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11060,7 +11015,7 @@
  {
   "id": "1005006677295811",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 4",
+  "name": "Kitty Graphic Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -11068,7 +11023,7 @@
  {
   "id": "1005006850032019",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 5",
+  "name": "Tshirt 2 Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11076,7 +11031,7 @@
  {
   "id": "1005007516135767",
   "category": "baby-tees",
-  "name": "Baby Tee 7",
+  "name": "Black Baby Tee",
   "depts": [
    "women"
   ]
@@ -11084,7 +11039,7 @@
  {
   "id": "1005007175069771",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 5",
+  "name": "Sky Blue Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11092,7 +11047,7 @@
  {
   "id": "1005008363756588",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 3",
+  "name": "Green Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -11100,7 +11055,7 @@
  {
   "id": "1005006828782805",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 2",
+  "name": "Red Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11116,7 +11071,7 @@
  {
   "id": "1005007170825665",
   "category": "baby-tees",
-  "name": "Baby Tee 8",
+  "name": "Red Baby Tee",
   "depts": [
    "women"
   ]
@@ -11124,7 +11079,7 @@
  {
   "id": "1005007474167220",
   "category": "baby-tees",
-  "name": "Baby Tee 9",
+  "name": "T Shirt Blue Baby Tee",
   "depts": [
    "women"
   ]
@@ -11132,7 +11087,7 @@
  {
   "id": "1005007503893145",
   "category": "baby-tees",
-  "name": "Baby Tee 10",
+  "name": "Pink Baby Tee",
   "depts": [
    "women"
   ]
@@ -11140,7 +11095,7 @@
  {
   "id": "1005007809692517",
   "category": "baby-tees",
-  "name": "Baby Tee 11",
+  "name": "Sky Blue Baby Tee",
   "depts": [
    "women"
   ]
@@ -11148,7 +11103,7 @@
  {
   "id": "1005006652184238",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 6",
+  "name": "Gray Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11156,7 +11111,7 @@
  {
   "id": "1005012271568463",
   "category": "baby-tees",
-  "name": "Baby Tee 12",
+  "name": "Khaki Baby Tee",
   "depts": [
    "women"
   ]
@@ -11164,7 +11119,7 @@
  {
   "id": "1005012128247301",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 6",
+  "name": "Black Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11172,7 +11127,7 @@
  {
   "id": "1005007949366848",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 5",
+  "name": "Black Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11180,7 +11135,7 @@
  {
   "id": "1005007949338853",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 7",
+  "name": "Sky Blue Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11188,7 +11143,7 @@
  {
   "id": "1005012266759211",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 3",
+  "name": "Yellow Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11196,7 +11151,7 @@
  {
   "id": "1005007555484791",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 8",
+  "name": "Yellow Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11204,7 +11159,7 @@
  {
   "id": "1005007915909594",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 9",
+  "name": "Graphic Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -11212,7 +11167,7 @@
  {
   "id": "1005012092763529",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 6",
+  "name": "Pink Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11220,7 +11175,7 @@
  {
   "id": "1005007256525999",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 10",
+  "name": "T Shirt Blue Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11228,7 +11183,7 @@
  {
   "id": "1005006666084532",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 11",
+  "name": "Gray Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11244,7 +11199,7 @@
  {
   "id": "1005011992554428",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 4",
+  "name": "Yellow Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -11260,7 +11215,7 @@
  {
   "id": "1005011911203486",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 7",
+  "name": "Red Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11268,7 +11223,7 @@
  {
   "id": "1005008239432330",
   "category": "baby-tees",
-  "name": "Baby Tee 13",
+  "name": "Green Baby Tee",
   "depts": [
    "women"
   ]
@@ -11276,7 +11231,7 @@
  {
   "id": "1005006629649878",
   "category": "baby-tees",
-  "name": "Baby Tee 14",
+  "name": "Blue Baby Tee",
   "depts": [
    "women"
   ]
@@ -11284,7 +11239,7 @@
  {
   "id": "1005011992508658",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 7",
+  "name": "White Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11292,7 +11247,7 @@
  {
   "id": "1005012139962895",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 8",
+  "name": "Black Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11300,7 +11255,7 @@
  {
   "id": "1005006652278141",
   "category": "baby-tees",
-  "name": "Baby Tee 15",
+  "name": "Black Tshirt Baby Tee",
   "depts": [
    "women"
   ]
@@ -11308,7 +11263,7 @@
  {
   "id": "1005012095976715",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 4",
+  "name": "Army Green Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11316,7 +11271,7 @@
  {
   "id": "1005012362441090",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 5",
+  "name": "Graphic Vintage Distressed Baby Tee",
   "depts": [
    "women"
   ]
@@ -11332,7 +11287,7 @@
  {
   "id": "1005006666002001",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 12",
+  "name": "Army Green Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11340,7 +11295,7 @@
  {
   "id": "1005008239412222",
   "category": "baby-tees",
-  "name": "Baby Tee 16",
+  "name": "Baby Tee No. 222",
   "depts": [
    "women"
   ]
@@ -11348,7 +11303,7 @@
  {
   "id": "1005006672727651",
   "category": "baby-tees",
-  "name": "Baby Tee 17",
+  "name": "Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -11356,7 +11311,7 @@
  {
   "id": "1005007211282541",
   "category": "baby-tees",
-  "name": "Baby Tee 18",
+  "name": "Baby Tee No. 541",
   "depts": [
    "women"
   ]
@@ -11364,7 +11319,7 @@
  {
   "id": "1005008363961525",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 13",
+  "name": "Pink Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11372,7 +11327,7 @@
  {
   "id": "1005013106961716",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 6",
+  "name": "Black Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11380,7 +11335,7 @@
  {
   "id": "1005011990177964",
   "category": "baby-tees",
-  "name": "Baby Tee 19",
+  "name": "Army Green Baby Tee",
   "depts": [
    "women"
   ]
@@ -11388,7 +11343,7 @@
  {
   "id": "1005013465379532",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 14",
+  "name": "Beige Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11396,7 +11351,7 @@
  {
   "id": "1005013117086256",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 9",
+  "name": "Army Green Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11412,7 +11367,7 @@
  {
   "id": "1005013465403638",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 10",
+  "name": "Beige Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11420,7 +11375,7 @@
  {
   "id": "1005013465061972",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 7",
+  "name": "Champagne Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11452,7 +11407,7 @@
  {
   "id": "1005012096159834",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 15",
+  "name": "Graphic Baby Tee No. 834",
   "depts": [
    "women"
   ]
@@ -11468,7 +11423,7 @@
  {
   "id": "1005013117030191",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 11",
+  "name": "Vintage Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -11476,7 +11431,7 @@
  {
   "id": "1005013456601862",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 12",
+  "name": "Purple Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11484,7 +11439,7 @@
  {
   "id": "1005013478964190",
   "category": "baby-tees",
-  "name": "Kitty Graphic Vintage Baby Tee 2",
+  "name": "Champagne Kitty Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11500,7 +11455,7 @@
  {
   "id": "1005007164020418",
   "category": "baby-tees",
-  "name": "Baby Tee 20",
+  "name": "T Shirts Grey Baby Tee",
   "depts": [
    "women"
   ]
@@ -11508,7 +11463,7 @@
  {
   "id": "1005013456645734",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 8",
+  "name": "Beige Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11516,7 +11471,7 @@
  {
   "id": "1005006651996491",
   "category": "baby-tees",
-  "name": "Baby Tee 21",
+  "name": "Baby Tee No. 491",
   "depts": [
    "women"
   ]
@@ -11524,7 +11479,7 @@
  {
   "id": "1005007280380078",
   "category": "baby-tees",
-  "name": "Baby Tee 22",
+  "name": "T-shirt Red Baby Tee",
   "depts": [
    "women"
   ]
@@ -11532,7 +11487,7 @@
  {
   "id": "1005013456693810",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 13",
+  "name": "Champagne Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11540,7 +11495,7 @@
  {
   "id": "1005012091855793",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 16",
+  "name": "Red Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11548,7 +11503,7 @@
  {
   "id": "1005007503974544",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 8",
+  "name": "Yellow Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11556,7 +11511,7 @@
  {
   "id": "1005007189222781",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 14",
+  "name": "T Shirts Grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11564,7 +11519,7 @@
  {
   "id": "1005006651767737",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 17",
+  "name": "White Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11580,7 +11535,7 @@
  {
   "id": "1005006641111814",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 18",
+  "name": "Khaki Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11588,7 +11543,7 @@
  {
   "id": "1005007516225992",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 5",
+  "name": "Gray Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -11596,7 +11551,7 @@
  {
   "id": "1005007949352933",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 9",
+  "name": "Khaki Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11604,7 +11559,7 @@
  {
   "id": "1005006672980774",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 19",
+  "name": "Graphic Baby Tee No. 774",
   "depts": [
    "women"
   ]
@@ -11612,7 +11567,7 @@
  {
   "id": "1005007280313607",
   "category": "baby-tees",
-  "name": "Baby Tee 23",
+  "name": "T Shirt Pink Baby Tee",
   "depts": [
    "women"
   ]
@@ -11620,7 +11575,7 @@
  {
   "id": "1005006665127391",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 20",
+  "name": "Graphic Baby Tee No. 391",
   "depts": [
    "women"
   ]
@@ -11628,7 +11583,7 @@
  {
   "id": "1005006651662766",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 21",
+  "name": "Graphic Baby Tee No. 766",
   "depts": [
    "women"
   ]
@@ -11636,7 +11591,7 @@
  {
   "id": "1005007047670349",
   "category": "baby-tees",
-  "name": "Baby Tee 24",
+  "name": "Baby Tee No. 349",
   "depts": [
    "women"
   ]
@@ -11644,7 +11599,7 @@
  {
   "id": "1005007280267832",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 22",
+  "name": "T Shirt Pink Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11660,7 +11615,7 @@
  {
   "id": "1005007949444175",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 6",
+  "name": "Pink Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -11668,7 +11623,7 @@
  {
   "id": "1005007295461239",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 9",
+  "name": "Graphic Vintage Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -11676,7 +11631,7 @@
  {
   "id": "1005007171526161",
   "category": "baby-tees",
-  "name": "Baby Tee 25",
+  "name": "T Shirt Khaki Baby Tee",
   "depts": [
    "women"
   ]
@@ -11684,7 +11639,7 @@
  {
   "id": "1005007516100973",
   "category": "baby-tees",
-  "name": "Skeleton Baby Tee 2",
+  "name": "Black Skeleton Baby Tee",
   "depts": [
    "women"
   ]
@@ -11692,7 +11647,7 @@
  {
   "id": "1005007555551905",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 7",
+  "name": "Kitty Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -11708,7 +11663,7 @@
  {
   "id": "1005008237181612",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 23",
+  "name": "Green Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11716,7 +11671,7 @@
  {
   "id": "1005007988846202",
   "category": "baby-tees",
-  "name": "Baby Tee 26",
+  "name": "White T Shirt Baby Tee",
   "depts": [
    "women"
   ]
@@ -11724,7 +11679,7 @@
  {
   "id": "1005006665642227",
   "category": "baby-tees",
-  "name": "Baby Tee 27",
+  "name": "Baby Tee No. 227",
   "depts": [
    "women"
   ]
@@ -11732,7 +11687,7 @@
  {
   "id": "1005006672937339",
   "category": "baby-tees",
-  "name": "Heart Baby Tee 2",
+  "name": "Yellow Heart Baby Tee",
   "depts": [
    "women"
   ]
@@ -11740,7 +11695,7 @@
  {
   "id": "1005008195029627",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 8",
+  "name": "Black Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -11748,7 +11703,7 @@
  {
   "id": "1005007554824384",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 10",
+  "name": "Sky Blue Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11756,7 +11711,7 @@
  {
   "id": "1005007121237908",
   "category": "baby-tees",
-  "name": "Heart Baby Tee 3",
+  "name": "T Shirts Grey Heart Baby Tee",
   "depts": [
    "women"
   ]
@@ -11772,7 +11727,7 @@
  {
   "id": "1005008195139442",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 9",
+  "name": "White Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -11780,7 +11735,7 @@
  {
   "id": "1005008363593601",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 24",
+  "name": "Graphic Baby Tee No. 601",
   "depts": [
    "women"
   ]
@@ -11788,7 +11743,7 @@
  {
   "id": "1005006677407450",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 11",
+  "name": "White Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11796,7 +11751,7 @@
  {
   "id": "1005007503881574",
   "category": "baby-tees",
-  "name": "Skeleton Baby Tee 3",
+  "name": "Sky Blue Skeleton Baby Tee",
   "depts": [
    "women"
   ]
@@ -11804,7 +11759,7 @@
  {
   "id": "1005006663294260",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 10",
+  "name": "Khaki Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -11812,7 +11767,7 @@
  {
   "id": "1005006911341169",
   "category": "baby-tees",
-  "name": "Floral Graphic Baby Tee 2",
+  "name": "Black Dudu Floral Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11820,7 +11775,7 @@
  {
   "id": "1005007555067532",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 12",
+  "name": "Kitty Graphic Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -11828,7 +11783,7 @@
  {
   "id": "1005007163847705",
   "category": "baby-tees",
-  "name": "Baby Tee 28",
+  "name": "Baby Tee No. 705",
   "depts": [
    "women"
   ]
@@ -11836,7 +11791,7 @@
  {
   "id": "1005011989917858",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 11",
+  "name": "Sky Blue Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -11844,7 +11799,7 @@
  {
   "id": "1005007804367336",
   "category": "baby-tees",
-  "name": "Baby Tee 29",
+  "name": "Baby Tee No. 336",
   "depts": [
    "women"
   ]
@@ -11852,7 +11807,7 @@
  {
   "id": "1005007216310635",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 25",
+  "name": "Graphic Baby Tee No. 635",
   "depts": [
    "women"
   ]
@@ -11860,7 +11815,7 @@
  {
   "id": "1005008364010458",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 26",
+  "name": "Graphic Baby Tee No. 458",
   "depts": [
    "women"
   ]
@@ -11868,7 +11823,7 @@
  {
   "id": "1005006651901288",
   "category": "baby-tees",
-  "name": "Baby Tee 30",
+  "name": "Baby Tee No. 288",
   "depts": [
    "women"
   ]
@@ -11876,7 +11831,7 @@
  {
   "id": "1005012266911790",
   "category": "baby-tees",
-  "name": "Baby Tee 31",
+  "name": "Baby Tee No. 790",
   "depts": [
    "women"
   ]
@@ -11884,7 +11839,7 @@
  {
   "id": "1005008239326200",
   "category": "baby-tees",
-  "name": "Baby Tee 32",
+  "name": "Baby Tee No. 200",
   "depts": [
    "women"
   ]
@@ -11892,7 +11847,7 @@
  {
   "id": "1005006828755071",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 15",
+  "name": "Blue Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11900,7 +11855,7 @@
  {
   "id": "1005007554806558",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 13",
+  "name": "Gray Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11908,7 +11863,7 @@
  {
   "id": "1005007175275625",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 27",
+  "name": "T Shirt Green Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -11916,7 +11871,7 @@
  {
   "id": "1005012362169835",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 16",
+  "name": "Vintage Baby Tee No. 835",
   "depts": [
    "women"
   ]
@@ -11924,7 +11879,7 @@
  {
   "id": "1005012480871035",
   "category": "baby-tees",
-  "name": "Baby Tee 33",
+  "name": "Baby Tee No. 035",
   "depts": [
    "women"
   ]
@@ -11932,7 +11887,7 @@
  {
   "id": "1005006652041352",
   "category": "baby-tees",
-  "name": "Baby Tee 34",
+  "name": "Baby Tee No. 352",
   "depts": [
    "women"
   ]
@@ -11940,7 +11895,7 @@
  {
   "id": "1005011993480333",
   "category": "baby-tees",
-  "name": "Baby Tee 35",
+  "name": "Baby Tee No. 333",
   "depts": [
    "women"
   ]
@@ -11948,7 +11903,7 @@
  {
   "id": "1005012365856929",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 17",
+  "name": "Vintage Mini Baby Tee",
   "depts": [
    "women"
   ]
@@ -11964,7 +11919,7 @@
  {
   "id": "1005011986034804",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 12",
+  "name": "Army Green Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -11980,7 +11935,7 @@
  {
   "id": "1005011990193259",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 13",
+  "name": "Red Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -11988,7 +11943,7 @@
  {
   "id": "1005011913436088",
   "category": "baby-tees",
-  "name": "Skeleton Vintage Baby Tee 2",
+  "name": "Sky Blue Skeleton Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -11996,7 +11951,7 @@
  {
   "id": "1005011910839085",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 28",
+  "name": "Graphic Baby Tee No. 085",
   "depts": [
    "women"
   ]
@@ -12004,7 +11959,7 @@
  {
   "id": "1005012272184021",
   "category": "baby-tees",
-  "name": "Baby Tee 36",
+  "name": "Baby Tee No. 021",
   "depts": [
    "women"
   ]
@@ -12012,7 +11967,7 @@
  {
   "id": "1005011989529894",
   "category": "baby-tees",
-  "name": "Baby Tee 37",
+  "name": "Baby Tee No. 894",
   "depts": [
    "women"
   ]
@@ -12020,7 +11975,7 @@
  {
   "id": "1005012092249763",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 18",
+  "name": "Khaki Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12028,7 +11983,7 @@
  {
   "id": "1005011913156277",
   "category": "baby-tees",
-  "name": "Baby Tee 38",
+  "name": "Baby Tee No. 277",
   "depts": [
    "women"
   ]
@@ -12036,7 +11991,7 @@
  {
   "id": "1005012096127634",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 29",
+  "name": "Graphic Baby Tee No. 634",
   "depts": [
    "women"
   ]
@@ -12044,7 +11999,7 @@
  {
   "id": "1005012421085953",
   "category": "hoodies",
-  "name": "Zip Hoodie",
+  "name": "Hoodie",
   "depts": [
    "women"
   ]
@@ -12052,7 +12007,7 @@
  {
   "id": "1005012128217546",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 30",
+  "name": "Graphic Baby Tee No. 546",
   "depts": [
    "women"
   ]
@@ -12068,7 +12023,7 @@
  {
   "id": "1005012096972749",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 10",
+  "name": "Pink Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12076,7 +12031,7 @@
  {
   "id": "1005012132592321",
   "category": "baby-tees",
-  "name": "Baby Tee 39",
+  "name": "Baby Tee No. 321",
   "depts": [
    "women"
   ]
@@ -12084,7 +12039,7 @@
  {
   "id": "1005012096095900",
   "category": "baby-tees",
-  "name": "Baby Tee 40",
+  "name": "Baby Tee No. 900",
   "depts": [
    "women"
   ]
@@ -12092,7 +12047,7 @@
  {
   "id": "1005011915053175",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 19",
+  "name": "Vintage Baggy Baby Tee",
   "depts": [
    "women"
   ]
@@ -12100,7 +12055,7 @@
  {
   "id": "1005012095564958",
   "category": "baby-tees",
-  "name": "Baby Tee 41",
+  "name": "Baby Tee No. 958",
   "depts": [
    "women"
   ]
@@ -12108,7 +12063,7 @@
  {
   "id": "1005012093179296",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 14",
+  "name": "Kitty Baby Tee No. 296",
   "depts": [
    "women"
   ]
@@ -12116,7 +12071,7 @@
  {
   "id": "1005012091863246",
   "category": "baby-tees",
-  "name": "Baby Tee 42",
+  "name": "Moon Baby Tee",
   "depts": [
    "women"
   ]
@@ -12124,7 +12079,7 @@
  {
   "id": "1005012093159911",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 15",
+  "name": "Kitty Baby Tee No. 911",
   "depts": [
    "women"
   ]
@@ -12132,7 +12087,7 @@
  {
   "id": "1005012140088214",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 20",
+  "name": "Pink Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12140,15 +12095,7 @@
  {
   "id": "1005011993274305",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 31",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005011989555835",
-  "category": "baby-tees",
-  "name": "Graphic Baby Tee 32",
+  "name": "Graphic Baby Tee No. 305",
   "depts": [
    "women"
   ]
@@ -12156,7 +12103,7 @@
  {
   "id": "1005011992380879",
   "category": "baby-tees",
-  "name": "Baby Tee 43",
+  "name": "Baby Tee No. 879",
   "depts": [
    "women"
   ]
@@ -12164,7 +12111,7 @@
  {
   "id": "1005011859411850",
   "category": "baby-tees",
-  "name": "Baby Tee 44",
+  "name": "Baby Tee No. 850",
   "depts": [
    "women"
   ]
@@ -12172,7 +12119,7 @@
  {
   "id": "1005012092339079",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 33",
+  "name": "Graphic Baby Tee No. 079",
   "depts": [
    "women"
   ]
@@ -12180,7 +12127,7 @@
  {
   "id": "1005011859883705",
   "category": "baby-tees",
-  "name": "Baby Tee 45",
+  "name": "Baby Tee 2",
   "depts": [
    "women"
   ]
@@ -12188,7 +12135,7 @@
  {
   "id": "1005011990529034",
   "category": "baby-tees",
-  "name": "Baby Tee 46",
+  "name": "Baby Tee No. 034",
   "depts": [
    "women"
   ]
@@ -12196,7 +12143,7 @@
  {
   "id": "1005012128227624",
   "category": "baby-tees",
-  "name": "Baby Tee 47",
+  "name": "Baby Tee No. 624",
   "depts": [
    "women"
   ]
@@ -12212,7 +12159,7 @@
  {
   "id": "1005012137263669",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 34",
+  "name": "Graphic Baby Tee No. 669",
   "depts": [
    "women"
   ]
@@ -12220,7 +12167,7 @@
  {
   "id": "1005011989639385",
   "category": "baby-tees",
-  "name": "Floral Graphic Baby Tee 3",
+  "name": "Pink Floral Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -12228,7 +12175,7 @@
  {
   "id": "1005011990375805",
   "category": "baby-tees",
-  "name": "Baby Tee 48",
+  "name": "Baby Tee No. 805",
   "depts": [
    "women"
   ]
@@ -12236,7 +12183,7 @@
  {
   "id": "1005012135935749",
   "category": "baby-tees",
-  "name": "Heart Graphic Baby Tee 2",
+  "name": "Black Heart Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -12244,7 +12191,7 @@
  {
   "id": "1005012140130234",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 11",
+  "name": "Sky Blue Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12252,7 +12199,7 @@
  {
   "id": "1005012092657546",
   "category": "baby-tees",
-  "name": "Baby Tee 49",
+  "name": "Baby Tee No. 546",
   "depts": [
    "women"
   ]
@@ -12260,7 +12207,7 @@
  {
   "id": "1005011990331107",
   "category": "baby-tees",
-  "name": "Baby Tee 50",
+  "name": "Baby Tee No. 107",
   "depts": [
    "women"
   ]
@@ -12268,7 +12215,7 @@
  {
   "id": "1005012096698518",
   "category": "baby-tees",
-  "name": "Baby Tee 51",
+  "name": "Baby Tee No. 518",
   "depts": [
    "women"
   ]
@@ -12276,7 +12223,7 @@
  {
   "id": "1005012096962230",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 14",
+  "name": "Army Green Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -12284,7 +12231,7 @@
  {
   "id": "1005012140206322",
   "category": "baby-tees",
-  "name": "Heart Baby Tee 4",
+  "name": "Heart Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -12292,7 +12239,7 @@
  {
   "id": "1005012128403980",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 12",
+  "name": "Gray Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12300,7 +12247,7 @@
  {
   "id": "1005012128239032",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 13",
+  "name": "Khaki Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12308,7 +12255,7 @@
  {
   "id": "1005012092885906",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 15",
+  "name": "Kitty Graphic Baby Tee No. 906",
   "depts": [
    "women"
   ]
@@ -12316,7 +12263,7 @@
  {
   "id": "1005012140080425",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 14",
+  "name": "White Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12324,7 +12271,7 @@
  {
   "id": "1005012092085569",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 35",
+  "name": "Graphic Baby Tee No. 569",
   "depts": [
    "women"
   ]
@@ -12332,7 +12279,7 @@
  {
   "id": "1005011989663480",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 36",
+  "name": "Graphic Baby Tee No. 480",
   "depts": [
    "women"
   ]
@@ -12340,7 +12287,7 @@
  {
   "id": "1005011989781677",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 15",
+  "name": "Graphic Vintage Baby Tee No. 677",
   "depts": [
    "women"
   ]
@@ -12356,7 +12303,7 @@
  {
   "id": "1005012132548212",
   "category": "baby-tees",
-  "name": "Bunny Baby Tee 2",
+  "name": "Yellow Bunny Baby Tee",
   "depts": [
    "women"
   ]
@@ -12364,7 +12311,7 @@
  {
   "id": "1005012135959537",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 16",
+  "name": "Graphic Vintage Baby Tee No. 537",
   "depts": [
    "women"
   ]
@@ -12372,7 +12319,7 @@
  {
   "id": "1005011985972735",
   "category": "baby-tees",
-  "name": "Baby Tee 52",
+  "name": "Baby Tee No. 735",
   "depts": [
    "women"
   ]
@@ -12380,7 +12327,7 @@
  {
   "id": "1005011992448922",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 37",
+  "name": "Graphic Baby Tee No. 922",
   "depts": [
    "women"
   ]
@@ -12388,7 +12335,7 @@
  {
   "id": "1005012140170158",
   "category": "baby-tees",
-  "name": "Baby Tee 53",
+  "name": "Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -12396,7 +12343,7 @@
  {
   "id": "1005012140108710",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 38",
+  "name": "Graphic Baby Tee No. 710",
   "depts": [
    "women"
   ]
@@ -12404,7 +12351,7 @@
  {
   "id": "1005011992764496",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 39",
+  "name": "Graphic Baby Tee No. 496",
   "depts": [
    "women"
   ]
@@ -12412,7 +12359,7 @@
  {
   "id": "1005011860243195",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 40",
+  "name": "Graphic Baby Tee No. 195",
   "depts": [
    "women"
   ]
@@ -12420,7 +12367,7 @@
  {
   "id": "1005011992422635",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 16",
+  "name": "Kitty Graphic Moon Baby Tee",
   "depts": [
    "women"
   ]
@@ -12428,7 +12375,7 @@
  {
   "id": "1005011983267565",
   "category": "baby-tees",
-  "name": "Baby Tee 54",
+  "name": "Mini Baby Tee",
   "depts": [
    "women"
   ]
@@ -12436,7 +12383,7 @@
  {
   "id": "1005012096962903",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 41",
+  "name": "Graphic Bat Baby Tee",
   "depts": [
    "women"
   ]
@@ -12444,7 +12391,7 @@
  {
   "id": "1005012141350607",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 17",
+  "name": "Graphic Vintage Baby Tee No. 607",
   "depts": [
    "women"
   ]
@@ -12452,7 +12399,7 @@
  {
   "id": "1005012128223944",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 42",
+  "name": "Graphic Baby Tee No. 944",
   "depts": [
    "women"
   ]
@@ -12460,7 +12407,7 @@
  {
   "id": "1005012132302908",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 43",
+  "name": "Graphic Baby Tee No. 908",
   "depts": [
    "women"
   ]
@@ -12468,7 +12415,7 @@
  {
   "id": "1005012335879445",
   "category": "hoodies",
-  "name": "Zip Hoodie 2",
+  "name": "Gray Zip Hoodie",
   "depts": [
    "women"
   ]
@@ -12484,7 +12431,7 @@
  {
   "id": "1005012266659163",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 44",
+  "name": "Graphic Baby Tee No. 163",
   "depts": [
    "women"
   ]
@@ -12492,7 +12439,7 @@
  {
   "id": "1005012341368520",
   "category": "hoodies",
-  "name": "Hoodie",
+  "name": "Hoodie No. 520",
   "depts": [
    "women"
   ]
@@ -12508,7 +12455,7 @@
  {
   "id": "1005012341330494",
   "category": "hoodies",
-  "name": "Zip Hoodie 3",
+  "name": "Zip Hoodie No. 494",
   "depts": [
    "women"
   ]
@@ -12516,7 +12463,7 @@
  {
   "id": "1005012336879177",
   "category": "hoodies",
-  "name": "Zip Hoodie 4",
+  "name": "Navy Blue Zip Hoodie",
   "depts": [
    "women"
   ]
@@ -12524,7 +12471,7 @@
  {
   "id": "1005012341960213",
   "category": "hoodies",
-  "name": "Zip Hoodie 5",
+  "name": "Zip Hoodie No. 213",
   "depts": [
    "women"
   ]
@@ -12532,7 +12479,7 @@
  {
   "id": "1005013285152645",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 2",
+  "name": "Black Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -12540,7 +12487,7 @@
  {
   "id": "1005012746109921",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 18",
+  "name": "Light Purple Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12548,7 +12495,7 @@
  {
   "id": "1005013277633621",
   "category": "baby-tees",
-  "name": "Goth Baby Tee 2",
+  "name": "Goth Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -12556,7 +12503,7 @@
  {
   "id": "1005012740412503",
   "category": "hoodies",
-  "name": "Jacket 3",
+  "name": "Zip Harajuku Jacket",
   "depts": [
    "women"
   ]
@@ -12564,7 +12511,7 @@
  {
   "id": "1005013432704454",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 3",
+  "name": "Graphic Goth Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -12580,7 +12527,7 @@
  {
   "id": "1005012833448651",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 21",
+  "name": "Vintage Oversized Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -12588,7 +12535,7 @@
  {
   "id": "1005012745011679",
   "category": "baby-tees",
-  "name": "Baby Tee 55",
+  "name": "Light Purple Baby Tee",
   "depts": [
    "women"
   ]
@@ -12596,7 +12543,7 @@
  {
   "id": "1005013159208996",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 45",
+  "name": "Navy Blue Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -12604,7 +12551,7 @@
  {
   "id": "1005012661942288",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 19",
+  "name": "Graphic Vintage Baby Tee No. 288",
   "depts": [
    "women"
   ]
@@ -12612,7 +12559,7 @@
  {
   "id": "1005012962136120",
   "category": "baby-tees",
-  "name": "Baby Tee 56",
+  "name": "Navy Blue Baby Tee",
   "depts": [
    "women"
   ]
@@ -12620,7 +12567,7 @@
  {
   "id": "1005012619106356",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 22",
+  "name": "Light Purple Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12628,7 +12575,7 @@
  {
   "id": "1005012746185753",
   "category": "baby-tees",
-  "name": "Baby Tee 57",
+  "name": "Gary Baby Tee",
   "depts": [
    "women"
   ]
@@ -12636,7 +12583,7 @@
  {
   "id": "1005013049102489",
   "category": "baby-tees",
-  "name": "Baby Tee 58",
+  "name": "Dark Grey Baby Tee",
   "depts": [
    "women"
   ]
@@ -12644,7 +12591,7 @@
  {
   "id": "1005012751603639",
   "category": "baby-tees",
-  "name": "Baby Tee 59",
+  "name": "Baby Tee No. 639",
   "depts": [
    "women"
   ]
@@ -12652,7 +12599,7 @@
  {
   "id": "1005012656265388",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 20",
+  "name": "Black Z03609 Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12668,7 +12615,7 @@
  {
   "id": "1005013257388787",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 46",
+  "name": "Graphic Oversized Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -12676,7 +12623,7 @@
  {
   "id": "1005013262062157",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 47",
+  "name": "Light Purple Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -12684,7 +12631,7 @@
  {
   "id": "1005013264522948",
   "category": "baby-tees",
-  "name": "Baby Tee 60",
+  "name": "Baby Tee No. 948",
   "depts": [
    "women"
   ]
@@ -12692,7 +12639,7 @@
  {
   "id": "1005012770933832",
   "category": "baby-tees",
-  "name": "Baby Tee 61",
+  "name": "Baby Tee No. 832",
   "depts": [
    "women"
   ]
@@ -12700,7 +12647,7 @@
  {
   "id": "1005013246871505",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 23",
+  "name": "Navy Blue Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12708,7 +12655,7 @@
  {
   "id": "1005012619484898",
   "category": "baby-tees",
-  "name": "Baby Tee 62",
+  "name": "Baby Tee No. 898",
   "depts": [
    "women"
   ]
@@ -12716,7 +12663,7 @@
  {
   "id": "1005012743742734",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 48",
+  "name": "Dark Grey Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -12732,7 +12679,7 @@
  {
   "id": "1005012604311202",
   "category": "baby-tees",
-  "name": "Baby Tee 63",
+  "name": "Baby Tee No. 202",
   "depts": [
    "women"
   ]
@@ -12740,7 +12687,7 @@
  {
   "id": "1005012659541744",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 21",
+  "name": "Green Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12748,7 +12695,7 @@
  {
   "id": "1005012898817553",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 24",
+  "name": "Ft-c1321-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12756,7 +12703,7 @@
  {
   "id": "1005012735486083",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 49",
+  "name": "Gary Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -12764,7 +12711,7 @@
  {
   "id": "1005013149177511",
   "category": "baby-tees",
-  "name": "Kitty Graphic Vintage Baby Tee 3",
+  "name": "Green Kitty Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12772,7 +12719,7 @@
  {
   "id": "1005012729143148",
   "category": "baby-tees",
-  "name": "Goth Baby Tee 3",
+  "name": "Dark Grey Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -12780,7 +12727,7 @@
  {
   "id": "1005012833500685",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 2",
+  "name": "Khaki Goth Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12788,7 +12735,7 @@
  {
   "id": "1005012874092015",
   "category": "baby-tees",
-  "name": "Baby Tee 64",
+  "name": "Baby Tee No. 015",
   "depts": [
    "women"
   ]
@@ -12796,7 +12743,7 @@
  {
   "id": "1005012604239554",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 50",
+  "name": "Blue Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -12804,7 +12751,7 @@
  {
   "id": "1005012838572624",
   "category": "hoodies",
-  "name": "Jacket 4",
+  "name": "Zip Jacket",
   "depts": [
    "women"
   ]
@@ -12812,7 +12759,7 @@
  {
   "id": "1005012953447675",
   "category": "baby-tees",
-  "name": "Baby Tee 65",
+  "name": "Baby Tee No. 675",
   "depts": [
    "women"
   ]
@@ -12828,7 +12775,7 @@
  {
   "id": "1005013223344239",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 17",
+  "name": "Navy Blue Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -12836,7 +12783,7 @@
  {
   "id": "1005013195499691",
   "category": "baby-tees",
-  "name": "Baby Tee 66",
+  "name": "Baby Tee No. 691",
   "depts": [
    "women"
   ]
@@ -12852,7 +12799,7 @@
  {
   "id": "1005012808473339",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 25",
+  "name": "Yellow Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12860,7 +12807,7 @@
  {
   "id": "1005012647834855",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 51",
+  "name": "Graphic Baby Tee No. 855",
   "depts": [
    "women"
   ]
@@ -12868,7 +12815,7 @@
  {
   "id": "1005012866527816",
   "category": "baby-tees",
-  "name": "Baby Tee 67",
+  "name": "Baby Tee No. 816",
   "depts": [
    "women"
   ]
@@ -12876,7 +12823,7 @@
  {
   "id": "1005012873776509",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 52",
+  "name": "Graphic Baby Tee No. 509",
   "depts": [
    "women"
   ]
@@ -12884,7 +12831,7 @@
  {
   "id": "1005012873822859",
   "category": "baby-tees",
-  "name": "Baby Tee 68",
+  "name": "Baby Tee No. 859",
   "depts": [
    "women"
   ]
@@ -12892,7 +12839,7 @@
  {
   "id": "1005013248252205",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 53",
+  "name": "Graphic Baby Tee No. 205",
   "depts": [
    "women"
   ]
@@ -12900,7 +12847,7 @@
  {
   "id": "1005012866105355",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 54",
+  "name": "Graphic Baby Tee No. 355",
   "depts": [
    "women"
   ]
@@ -12908,7 +12855,7 @@
  {
   "id": "1005012953925702",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 18",
+  "name": "Light Purple Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -12916,7 +12863,7 @@
  {
   "id": "1005012664366996",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 26",
+  "name": "Dark Grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12924,7 +12871,7 @@
  {
   "id": "1005013173511440",
   "category": "baby-tees",
-  "name": "Baby Tee 69",
+  "name": "Baby Tee No. 440",
   "depts": [
    "women"
   ]
@@ -12932,15 +12879,7 @@
  {
   "id": "1005013159114377",
   "category": "baby-tees",
-  "name": "Baby Tee 70",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005013231043548",
-  "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 19",
+  "name": "Baby Tee No. 377",
   "depts": [
    "women"
   ]
@@ -12948,7 +12887,7 @@
  {
   "id": "1005013039837200",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 22",
+  "name": "Gary Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12964,7 +12903,7 @@
  {
   "id": "1005013358714618",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 23",
+  "name": "Navy Blue Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12972,7 +12911,7 @@
  {
   "id": "1005013230969694",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 20",
+  "name": "Dark Grey Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -12980,7 +12919,7 @@
  {
   "id": "1005013177544882",
   "category": "baby-tees",
-  "name": "Kitty Graphic Vintage Baby Tee 4",
+  "name": "Pink Kitty Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -12988,7 +12927,7 @@
  {
   "id": "1005012729467003",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 3",
+  "name": "Goth Vintage Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -12996,7 +12935,7 @@
  {
   "id": "1005013383760648",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 55",
+  "name": "Dark-grey Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -13004,7 +12943,7 @@
  {
   "id": "1005013173739329",
   "category": "baby-tees",
-  "name": "Baby Tee 71",
+  "name": "Baby Tee No. 329",
   "depts": [
    "women"
   ]
@@ -13012,7 +12951,7 @@
  {
   "id": "1005013140063250",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 24",
+  "name": "Blue Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13020,7 +12959,7 @@
  {
   "id": "1005013241864281",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 16",
+  "name": "Navy Blue Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -13028,7 +12967,7 @@
  {
   "id": "1005013282437270",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 25",
+  "name": "Dark Grey Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13036,7 +12975,7 @@
  {
   "id": "1005013270947117",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 26",
+  "name": "Graphic Vintage Baby Tee No. 117",
   "depts": [
    "women"
   ]
@@ -13044,15 +12983,7 @@
  {
   "id": "1005013237735811",
   "category": "baby-tees",
-  "name": "Kitty Graphic Vintage Baby Tee 5",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005013075297103",
-  "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 27",
+  "name": "Gary Kitty Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13060,7 +12991,7 @@
  {
   "id": "1005013107477490",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 56",
+  "name": "Graphic Baby Tee No. 490",
   "depts": [
    "women"
   ]
@@ -13068,7 +12999,7 @@
  {
   "id": "1005012612312799",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 27",
+  "name": "Green Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13076,7 +13007,7 @@
  {
   "id": "1005013304661494",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 21",
+  "name": "Green Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -13084,7 +13015,7 @@
  {
   "id": "1005013285226290",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 4",
+  "name": "White Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -13092,7 +13023,7 @@
  {
   "id": "1005013082034975",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 28",
+  "name": "Ft-s9240-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13100,7 +13031,7 @@
  {
   "id": "1005013039433906",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 57",
+  "name": "Graphic Baby Tee No. 906",
   "depts": [
    "women"
   ]
@@ -13108,7 +13039,7 @@
  {
   "id": "1005012838412748",
   "category": "hoodies",
-  "name": "Goth Jacket 3",
+  "name": "Goth Hooded Jacket",
   "depts": [
    "women"
   ]
@@ -13116,7 +13047,7 @@
  {
   "id": "1005013293542094",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 28",
+  "name": "Graphic Vintage Baby Tee No. 094",
   "depts": [
    "women"
   ]
@@ -13124,7 +13055,7 @@
  {
   "id": "1005013371487471",
   "category": "baby-tees",
-  "name": "Baby Tee 72",
+  "name": "Light-purple Baby Tee",
   "depts": [
    "women"
   ]
@@ -13132,7 +13063,7 @@
  {
   "id": "1005013228687559",
   "category": "baby-tees",
-  "name": "Kitty Vintage Baby Tee 2",
+  "name": "Kitty Vintage Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -13140,7 +13071,7 @@
  {
   "id": "1005012866565111",
   "category": "baby-tees",
-  "name": "Baby Tee 73",
+  "name": "Baby Tee No. 111",
   "depts": [
    "women"
   ]
@@ -13148,7 +13079,7 @@
  {
   "id": "1005013282622410",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 58",
+  "name": "Graphic Baby Tee No. 410",
   "depts": [
    "women"
   ]
@@ -13156,7 +13087,7 @@
  {
   "id": "1005013212089384",
   "category": "baby-tees",
-  "name": "Kitty Vintage Baby Tee 3",
+  "name": "White Kitty Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13164,7 +13095,7 @@
  {
   "id": "1005013432778800",
   "category": "baby-tees",
-  "name": "Baby Tee 74",
+  "name": "Navy-blue Baby Tee",
   "depts": [
    "women"
   ]
@@ -13172,7 +13103,7 @@
  {
   "id": "1005013358516891",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 59",
+  "name": "Graphic Baby Tee No. 891",
   "depts": [
    "women"
   ]
@@ -13180,7 +13111,7 @@
  {
   "id": "1005013173799104",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 60",
+  "name": "Graphic Baby Tee No. 104",
   "depts": [
    "women"
   ]
@@ -13188,7 +13119,7 @@
  {
   "id": "1005013248254286",
   "category": "baby-tees",
-  "name": "Kitty Graphic Goth Baby Tee 2",
+  "name": "Gary Kitty Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -13196,7 +13127,7 @@
  {
   "id": "1005013206614740",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 61",
+  "name": "Graphic Baby Tee No. 740",
   "depts": [
    "women"
   ]
@@ -13204,7 +13135,7 @@
  {
   "id": "1005013285084343",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 29",
+  "name": "Gary Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13212,7 +13143,7 @@
  {
   "id": "1005013116498259",
   "category": "baby-tees",
-  "name": "Baby Tee 75",
+  "name": "Baby Tee No. 259",
   "depts": [
    "women"
   ]
@@ -13220,7 +13151,7 @@
  {
   "id": "1005013241872239",
   "category": "baby-tees",
-  "name": "Kitty Graphic Vintage Baby Tee 6",
+  "name": "Navy Blue Kitty Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13228,7 +13159,7 @@
  {
   "id": "1005013206510518",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 62",
+  "name": "Graphic Baby Tee No. 518",
   "depts": [
    "women"
   ]
@@ -13236,7 +13167,7 @@
  {
   "id": "1005013338844509",
   "category": "baby-tees",
-  "name": "Baby Tee 76",
+  "name": "Baby Tee No. 509",
   "depts": [
    "women"
   ]
@@ -13244,7 +13175,7 @@
  {
   "id": "1005013212541296",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 29",
+  "name": "Graphic Vintage Baby Tee No. 296",
   "depts": [
    "women"
   ]
@@ -13252,7 +13183,7 @@
  {
   "id": "1005013321460540",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 63",
+  "name": "Graphic Baby Tee No. 540",
   "depts": [
    "women"
   ]
@@ -13260,7 +13191,7 @@
  {
   "id": "1005013240278528",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 30",
+  "name": "Graphic Vintage Oversized Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -13268,7 +13199,7 @@
  {
   "id": "1005013316048545",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 22",
+  "name": "Gary Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -13276,7 +13207,7 @@
  {
   "id": "1005013039823459",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 30",
+  "name": "Vintage Baby Tee No. 459",
   "depts": [
    "women"
   ]
@@ -13284,7 +13215,7 @@
  {
   "id": "1005013177544142",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 23",
+  "name": "Blue Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -13292,7 +13223,7 @@
  {
   "id": "1005012735674503",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 4",
+  "name": "Ft-s9014-grey Goth Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13300,7 +13231,7 @@
  {
   "id": "1005012953237468",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 31",
+  "name": "Vintage Baby Tee No. 468",
   "depts": [
    "women"
   ]
@@ -13316,7 +13247,7 @@
  {
   "id": "1005013316092589",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 31",
+  "name": "Graphic Vintage Baby Tee No. 589",
   "depts": [
    "women"
   ]
@@ -13324,7 +13255,7 @@
  {
   "id": "1005013084988960",
   "category": "baby-tees",
-  "name": "Kitty Vintage Baby Tee 4",
+  "name": "Ft-s9524-grey Kitty Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13332,7 +13263,7 @@
  {
   "id": "1005013358512816",
   "category": "baby-tees",
-  "name": "Baby Tee 77",
+  "name": "Oversized Baby Tee 2",
   "depts": [
    "women"
   ]
@@ -13340,7 +13271,7 @@
  {
   "id": "1005013084263243",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 32",
+  "name": "Ft-s9536-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13356,7 +13287,7 @@
  {
   "id": "1005013248128242",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 24",
+  "name": "Kitty Graphic Baby Tee No. 242",
   "depts": [
    "women"
   ]
@@ -13364,7 +13295,7 @@
  {
   "id": "1005013251539334",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 33",
+  "name": "Vintage Baby Tee No. 334",
   "depts": [
    "women"
   ]
@@ -13380,7 +13311,7 @@
  {
   "id": "1005013321466855",
   "category": "baby-tees",
-  "name": "Baby Tee 78",
+  "name": "Baby Tee No. 855",
   "depts": [
    "women"
   ]
@@ -13396,7 +13327,7 @@
  {
   "id": "1005013371199878",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 34",
+  "name": "Dark-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13404,7 +13335,7 @@
  {
   "id": "1005013164137882",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 64",
+  "name": "Graphic Baby Tee No. 882",
   "depts": [
    "women"
   ]
@@ -13412,7 +13343,7 @@
  {
   "id": "1005013206676552",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 65",
+  "name": "Graphic Baby Tee No. 552",
   "depts": [
    "women"
   ]
@@ -13420,7 +13351,7 @@
  {
   "id": "1005013316014515",
   "category": "baby-tees",
-  "name": "Kitty Vintage Baby Tee 5",
+  "name": "Red Kitty Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13428,7 +13359,7 @@
  {
   "id": "1005013237601662",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 17",
+  "name": "Blue Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -13436,7 +13367,7 @@
  {
   "id": "1005013346055324",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 66",
+  "name": "Graphic Baby Tee No. 324",
   "depts": [
    "women"
   ]
@@ -13444,7 +13375,7 @@
  {
   "id": "1005013383808030",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 35",
+  "name": "Light-purple Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13452,7 +13383,7 @@
  {
   "id": "1005013240952449",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 18",
+  "name": "Light Purple Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -13460,7 +13391,7 @@
  {
   "id": "1005013159108341",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 32",
+  "name": "Graphic Vintage Baby Tee No. 341",
   "depts": [
    "women"
   ]
@@ -13468,7 +13399,7 @@
  {
   "id": "1005013109831630",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 67",
+  "name": "Graphic Baby Tee No. 630",
   "depts": [
    "women"
   ]
@@ -13476,7 +13407,7 @@
  {
   "id": "1005013237437335",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 25",
+  "name": "Kitty Graphic Baby Tee No. 335",
   "depts": [
    "women"
   ]
@@ -13484,7 +13415,7 @@
  {
   "id": "1005013383722430",
   "category": "baby-tees",
-  "name": "Kitty Graphic Goth Baby Tee 3",
+  "name": "Kitty Graphic Goth Black Baby Tee",
   "depts": [
    "women"
   ]
@@ -13492,7 +13423,7 @@
  {
   "id": "1005013175128456",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 68",
+  "name": "Graphic Baby Tee No. 456",
   "depts": [
    "women"
   ]
@@ -13508,7 +13439,7 @@
  {
   "id": "1005013312875670",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 33",
+  "name": "Ft-c2171-grey Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13516,7 +13447,7 @@
  {
   "id": "1005013093974659",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 34",
+  "name": "Ft-c881-black Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13524,7 +13455,7 @@
  {
   "id": "1005013312721560",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 26",
+  "name": "Kitty Graphic Baby Tee No. 560",
   "depts": [
    "women"
   ]
@@ -13532,7 +13463,7 @@
  {
   "id": "1005013196261990",
   "category": "baby-tees",
-  "name": "Star Baby Tee 2",
+  "name": "Khaki Star Baby Tee",
   "depts": [
    "women"
   ]
@@ -13540,7 +13471,7 @@
  {
   "id": "1005013159050389",
   "category": "baby-tees",
-  "name": "Kitty Graphic Vintage Baby Tee 7",
+  "name": "Khaki Kitty Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13548,7 +13479,7 @@
  {
   "id": "1005013225856815",
   "category": "baby-tees",
-  "name": "Baby Tee 79",
+  "name": "Baby Tee No. 815",
   "depts": [
    "women"
   ]
@@ -13556,7 +13487,7 @@
  {
   "id": "1005013255893618",
   "category": "baby-tees",
-  "name": "Heart Graphic Vintage Baby Tee 2",
+  "name": "Black Heart Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13564,7 +13495,7 @@
  {
   "id": "1005013327703519",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 5",
+  "name": "Blue Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -13572,7 +13503,7 @@
  {
   "id": "1005013131506624",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 69",
+  "name": "Graphic Baby Tee No. 624",
   "depts": [
    "women"
   ]
@@ -13580,7 +13511,7 @@
  {
   "id": "1005013039489577",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 70",
+  "name": "Graphic Baby Tee No. 577",
   "depts": [
    "women"
   ]
@@ -13588,7 +13519,7 @@
  {
   "id": "1005013159096267",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 35",
+  "name": "Graphic Vintage Baby Tee No. 267",
   "depts": [
    "women"
   ]
@@ -13596,7 +13527,7 @@
  {
   "id": "1005013002838495",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 71",
+  "name": "Graphic Baby Tee No. 495",
   "depts": [
    "women"
   ]
@@ -13604,7 +13535,7 @@
  {
   "id": "1005013239610736",
   "category": "baby-tees",
-  "name": "Kitty Graphic Vintage Baby Tee 8",
+  "name": "Kitty Graphic Vintage Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -13612,7 +13543,7 @@
  {
   "id": "1005013371687507",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 72",
+  "name": "Graphic Oversized Bat Baby Tee",
   "depts": [
    "women"
   ]
@@ -13620,7 +13551,7 @@
  {
   "id": "1005013237417989",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 27",
+  "name": "Kitty Graphic Black Baby Tee",
   "depts": [
    "women"
   ]
@@ -13628,7 +13559,7 @@
  {
   "id": "1005013175058336",
   "category": "baby-tees",
-  "name": "Goth Baby Tee 4",
+  "name": "Khaki Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -13636,7 +13567,7 @@
  {
   "id": "1005013002404532",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 73",
+  "name": "Graphic Baby Tee No. 532",
   "depts": [
    "women"
   ]
@@ -13644,7 +13575,7 @@
  {
   "id": "1005013277593269",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 74",
+  "name": "Graphic Baby Tee No. 269",
   "depts": [
    "women"
   ]
@@ -13652,7 +13583,7 @@
  {
   "id": "1005013039595135",
   "category": "baby-tees",
-  "name": "Baby Tee 80",
+  "name": "Baby Tee No. 135",
   "depts": [
    "women"
   ]
@@ -13660,7 +13591,7 @@
  {
   "id": "1005013002872004",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 36",
+  "name": "Vintage Baby Tee No. 004",
   "depts": [
    "women"
   ]
@@ -13668,7 +13599,7 @@
  {
   "id": "1005013146024118",
   "category": "baby-tees",
-  "name": "Baby Tee 81",
+  "name": "Baby Tee No. 118",
   "depts": [
    "women"
   ]
@@ -13676,7 +13607,7 @@
  {
   "id": "1005012993897258",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 6",
+  "name": "Green Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -13684,7 +13615,7 @@
  {
   "id": "1005013039691784",
   "category": "baby-tees",
-  "name": "Baby Tee 82",
+  "name": "Baby Tee No. 784",
   "depts": [
    "women"
   ]
@@ -13692,7 +13623,7 @@
  {
   "id": "1005013274395587",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 75",
+  "name": "Graphic Baby Tee No. 587",
   "depts": [
    "women"
   ]
@@ -13700,7 +13631,7 @@
  {
   "id": "1005013264756248",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 76",
+  "name": "Graphic Baby Tee No. 248",
   "depts": [
    "women"
   ]
@@ -13708,15 +13639,7 @@
  {
   "id": "1005013338742401",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 77",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005013248278957",
-  "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 28",
+  "name": "Graphic Baby Tee No. 401",
   "depts": [
    "women"
   ]
@@ -13724,7 +13647,7 @@
  {
   "id": "1005013175296624",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 78",
+  "name": "Graphic Oversized Baby Tee 2",
   "depts": [
    "women"
   ]
@@ -13732,7 +13655,7 @@
  {
   "id": "1005013324358406",
   "category": "baby-tees",
-  "name": "Kitty Graphic Vintage Baby Tee 9",
+  "name": "Kitty Graphic Vintage Baby Tee No. 406",
   "depts": [
    "women"
   ]
@@ -13740,7 +13663,7 @@
  {
   "id": "1005013282407006",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 37",
+  "name": "Vintage Baby Tee No. 006",
   "depts": [
    "women"
   ]
@@ -13748,7 +13671,7 @@
  {
   "id": "1005013121227971",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 79",
+  "name": "Graphic Baby Tee No. 971",
   "depts": [
    "women"
   ]
@@ -13764,7 +13687,7 @@
  {
   "id": "1005013163627605",
   "category": "baby-tees",
-  "name": "Baby Tee 83",
+  "name": "Baby Tee No. 605",
   "depts": [
    "women"
   ]
@@ -13772,7 +13695,7 @@
  {
   "id": "1005013223974377",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 19",
+  "name": "Gary Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -13788,7 +13711,7 @@
  {
   "id": "1005013048790701",
   "category": "baby-tees",
-  "name": "Baby Tee 84",
+  "name": "Baby Tee No. 701",
   "depts": [
    "women"
   ]
@@ -13796,7 +13719,7 @@
  {
   "id": "1005013284704322",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 80",
+  "name": "Graphic Baby Tee No. 322",
   "depts": [
    "women"
   ]
@@ -13804,15 +13727,7 @@
  {
   "id": "1005013274041330",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 81",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005013282609909",
-  "category": "baby-tees",
-  "name": "Graphic Cow Vintage Baby Tee",
+  "name": "Graphic Baby Tee No. 330",
   "depts": [
    "women"
   ]
@@ -13820,7 +13735,7 @@
  {
   "id": "1005013284822142",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 82",
+  "name": "Graphic Baby Tee No. 142",
   "depts": [
    "women"
   ]
@@ -13828,7 +13743,7 @@
  {
   "id": "1005013277531856",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 83",
+  "name": "Graphic Baby Tee No. 856",
   "depts": [
    "women"
   ]
@@ -13836,7 +13751,7 @@
  {
   "id": "1005013080399900",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 38",
+  "name": "Ft-s9530-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13844,7 +13759,7 @@
  {
   "id": "1005013371493478",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 29",
+  "name": "Navy-blue Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -13852,7 +13767,7 @@
  {
   "id": "1005013229395612",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 30",
+  "name": "Kitty Graphic Baby Tee No. 612",
   "depts": [
    "women"
   ]
@@ -13860,7 +13775,7 @@
  {
   "id": "1005013324136970",
   "category": "baby-tees",
-  "name": "Kitty Graphic Vintage Baby Tee 10",
+  "name": "Ft-c2165-grey Kitty Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13868,7 +13783,7 @@
  {
   "id": "1005013214999726",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 39",
+  "name": "Vintage Baby Tee No. 726",
   "depts": [
    "women"
   ]
@@ -13876,7 +13791,7 @@
  {
   "id": "1005013048254368",
   "category": "baby-tees",
-  "name": "Baby Tee 85",
+  "name": "Baby Tee No. 368",
   "depts": [
    "women"
   ]
@@ -13884,7 +13799,7 @@
  {
   "id": "1005013107110036",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 40",
+  "name": "Vintage Black Baby Tee",
   "depts": [
    "women"
   ]
@@ -13892,7 +13807,7 @@
  {
   "id": "1005012994027990",
   "category": "baby-tees",
-  "name": "Baby Tee 86",
+  "name": "Baby Tee No. 990",
   "depts": [
    "women"
   ]
@@ -13900,7 +13815,7 @@
  {
   "id": "1005013195895901",
   "category": "baby-tees",
-  "name": "Baby Tee 87",
+  "name": "Baby Tee No. 901",
   "depts": [
    "women"
   ]
@@ -13908,7 +13823,7 @@
  {
   "id": "1005013346863134",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 20",
+  "name": "Kitty Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -13916,7 +13831,7 @@
  {
   "id": "1005013282499431",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 7",
+  "name": "Yellow Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -13924,7 +13839,7 @@
  {
   "id": "1005013375463376",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 5",
+  "name": "Goth Vintage Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -13932,7 +13847,7 @@
  {
   "id": "1005013164563047",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 84",
+  "name": "Graphic Baby Tee No. 047",
   "depts": [
    "women"
   ]
@@ -13940,7 +13855,7 @@
  {
   "id": "1005013146134839",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 85",
+  "name": "Graphic Baby Tee No. 839",
   "depts": [
    "women"
   ]
@@ -13948,7 +13863,7 @@
  {
   "id": "1005013098783178",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 41",
+  "name": "Ft-c1770-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13956,7 +13871,7 @@
  {
   "id": "1005012994001903",
   "category": "baby-tees",
-  "name": "Baby Tee 88",
+  "name": "Baby Tee No. 903",
   "depts": [
    "women"
   ]
@@ -13964,7 +13879,7 @@
  {
   "id": "1005012808387619",
   "category": "baby-tees",
-  "name": "Baby Tee 89",
+  "name": "Baby Tee No. 619",
   "depts": [
    "women"
   ]
@@ -13972,7 +13887,7 @@
  {
   "id": "1005013312799581",
   "category": "baby-tees",
-  "name": "Kitty Graphic Vintage Baby Tee 11",
+  "name": "Ft-c2170-grey Kitty Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -13980,7 +13895,7 @@
  {
   "id": "1005013282591317",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 42",
+  "name": "Vintage Baby Tee No. 317",
   "depts": [
    "women"
   ]
@@ -13988,7 +13903,7 @@
  {
   "id": "1005013212277136",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 21",
+  "name": "Dark Grey Kitty Baby Tee",
   "depts": [
    "women"
   ]
@@ -13996,7 +13911,7 @@
  {
   "id": "1005013158968874",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 31",
+  "name": "Kitty Graphic Baby Tee No. 874",
   "depts": [
    "women"
   ]
@@ -14004,7 +13919,7 @@
  {
   "id": "1005013048962910",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 36",
+  "name": "Graphic Vintage Baby Tee No. 910",
   "depts": [
    "women"
   ]
@@ -14012,7 +13927,7 @@
  {
   "id": "1005013109092390",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 43",
+  "name": "Vintage Baby Tee No. 390",
   "depts": [
    "women"
   ]
@@ -14020,7 +13935,7 @@
  {
   "id": "1005013048558876",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 44",
+  "name": "Vintage Baby Tee No. 876",
   "depts": [
    "women"
   ]
@@ -14028,7 +13943,7 @@
  {
   "id": "1005013383592399",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 86",
+  "name": "Navy-blue Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -14036,7 +13951,7 @@
  {
   "id": "1005013324404439",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 6",
+  "name": "Goth Vintage Baby Tee No. 439",
   "depts": [
    "women"
   ]
@@ -14052,7 +13967,7 @@
  {
   "id": "1005013228809802",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 32",
+  "name": "Kitty Graphic Baby Tee No. 802",
   "depts": [
    "women"
   ]
@@ -14060,7 +13975,7 @@
  {
   "id": "1005013274451591",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 87",
+  "name": "Graphic Baby Tee No. 591",
   "depts": [
    "women"
   ]
@@ -14068,7 +13983,7 @@
  {
   "id": "1005012993853691",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 88",
+  "name": "Graphic Baby Tee No. 691",
   "depts": [
    "women"
   ]
@@ -14076,7 +13991,7 @@
  {
   "id": "1005013049110342",
   "category": "baby-tees",
-  "name": "Baby Tee 90",
+  "name": "Baby Tee No. 342",
   "depts": [
    "women"
   ]
@@ -14084,7 +13999,7 @@
  {
   "id": "1005013093996960",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 37",
+  "name": "Ft-s9536-grey Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14092,7 +14007,7 @@
  {
   "id": "1005013313021322",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 38",
+  "name": "Ft-c2172-grey Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14100,7 +14015,7 @@
  {
   "id": "1005013248264836",
   "category": "baby-tees",
-  "name": "Kitty Graphic Goth Baby Tee 4",
+  "name": "Kitty Graphic Goth Black Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -14108,7 +14023,7 @@
  {
   "id": "1005013324600586",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 45",
+  "name": "Ft-c2173-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14116,7 +14031,7 @@
  {
   "id": "1005013121325553",
   "category": "baby-tees",
-  "name": "Baby Tee 91",
+  "name": "Baby Tee No. 553",
   "depts": [
    "women"
   ]
@@ -14124,7 +14039,7 @@
  {
   "id": "1005012899522955",
   "category": "baby-tees",
-  "name": "Baby Tee 92",
+  "name": "Baby Tee No. 955",
   "depts": [
    "women"
   ]
@@ -14132,7 +14047,7 @@
  {
   "id": "1005013282459226",
   "category": "baby-tees",
-  "name": "Goth Baby Tee 5",
+  "name": "Light Purple Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -14140,7 +14055,7 @@
  {
   "id": "1005013096747356",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 39",
+  "name": "Graphic Vintage Baby Tee No. 356",
   "depts": [
    "women"
   ]
@@ -14148,7 +14063,7 @@
  {
   "id": "1005013310205914",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 46",
+  "name": "Vintage Baby Tee No. 914",
   "depts": [
    "women"
   ]
@@ -14156,7 +14071,7 @@
  {
   "id": "1005013324624086",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 47",
+  "name": "Ft-c2171-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14164,7 +14079,7 @@
  {
   "id": "1005013262666254",
   "category": "baby-tees",
-  "name": "Baby Tee 93",
+  "name": "Baby Tee No. 254",
   "depts": [
    "women"
   ]
@@ -14172,7 +14087,7 @@
  {
   "id": "1005013048708071",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 89",
+  "name": "Graphic Baby Tee No. 071",
   "depts": [
    "women"
   ]
@@ -14180,7 +14095,7 @@
  {
   "id": "1005013139881394",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 90",
+  "name": "Graphic Baby Tee No. 394",
   "depts": [
    "women"
   ]
@@ -14188,7 +14103,7 @@
  {
   "id": "1005013228701197",
   "category": "baby-tees",
-  "name": "Baby Tee 94",
+  "name": "Baby Tee No. 197",
   "depts": [
    "women"
   ]
@@ -14204,7 +14119,7 @@
  {
   "id": "1005013075235906",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 48",
+  "name": "Ft-s9519-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14220,7 +14135,7 @@
  {
   "id": "1005013419315666",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 33",
+  "name": "Light-purple Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -14228,7 +14143,7 @@
  {
   "id": "1005013107344374",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 40",
+  "name": "Graphic Vintage Baby Tee No. 374",
   "depts": [
    "women"
   ]
@@ -14236,7 +14151,7 @@
  {
   "id": "1005013039661071",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 34",
+  "name": "Kitty Graphic Baby Tee No. 071",
   "depts": [
    "women"
   ]
@@ -14244,7 +14159,7 @@
  {
   "id": "1005013419851126",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 49",
+  "name": "Navy-blue Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14252,7 +14167,7 @@
  {
   "id": "1005013048910364",
   "category": "baby-tees",
-  "name": "Baby Tee 95",
+  "name": "Baby Tee No. 364",
   "depts": [
    "women"
   ]
@@ -14260,7 +14175,7 @@
  {
   "id": "1005013072745878",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 41",
+  "name": "Ft-s9416-grey Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14268,7 +14183,7 @@
  {
   "id": "1005013048838213",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 91",
+  "name": "Graphic Baby Tee No. 213",
   "depts": [
    "women"
   ]
@@ -14276,7 +14191,7 @@
  {
   "id": "1005013223420178",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 35",
+  "name": "Kitty Graphic Baby Tee No. 178",
   "depts": [
    "women"
   ]
@@ -14284,7 +14199,7 @@
  {
   "id": "1005013228861126",
   "category": "baby-tees",
-  "name": "Kitty Graphic Goth Baby Tee 5",
+  "name": "Yellow Kitty Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -14292,7 +14207,7 @@
  {
   "id": "1005013237611245",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee 22",
+  "name": "Kitty Baby Tee No. 245",
   "depts": [
    "women"
   ]
@@ -14308,7 +14223,7 @@
  {
   "id": "1005013039747244",
   "category": "baby-tees",
-  "name": "Baby Tee 96",
+  "name": "Baby Tee No. 244",
   "depts": [
    "women"
   ]
@@ -14316,7 +14231,7 @@
  {
   "id": "1005013264758604",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 42",
+  "name": "Graphic Vintage Baby Tee No. 604",
   "depts": [
    "women"
   ]
@@ -14332,7 +14247,7 @@
  {
   "id": "1005013432510676",
   "category": "baby-tees",
-  "name": "Goth Baby Tee 6",
+  "name": "Black Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -14340,7 +14255,7 @@
  {
   "id": "1005012988364869",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 50",
+  "name": "Ft-c1815-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14348,7 +14263,7 @@
  {
   "id": "1005013252235448",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 92",
+  "name": "Graphic Baby Tee No. 448",
   "depts": [
    "women"
   ]
@@ -14356,7 +14271,7 @@
  {
   "id": "1005013273765840",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 43",
+  "name": "Graphic Vintage Baby Tee No. 840",
   "depts": [
    "women"
   ]
@@ -14364,7 +14279,7 @@
  {
   "id": "1005013164849773",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 93",
+  "name": "Graphic Baby Tee No. 773",
   "depts": [
    "women"
   ]
@@ -14372,7 +14287,7 @@
  {
   "id": "1005013319801466",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 51",
+  "name": "Ft-c2184-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14380,7 +14295,7 @@
  {
   "id": "1005013237739605",
   "category": "baby-tees",
-  "name": "Kitty Vintage Baby Tee 6",
+  "name": "Kitty Vintage Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -14388,7 +14303,7 @@
  {
   "id": "1005013319767473",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 44",
+  "name": "Ft-c2181-grey Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14396,7 +14311,7 @@
  {
   "id": "1005013339264867",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 94",
+  "name": "Graphic Baby Tee No. 867",
   "depts": [
    "women"
   ]
@@ -14404,7 +14319,7 @@
  {
   "id": "1005013255787746",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 52",
+  "name": "Vintage Baby Tee No. 746",
   "depts": [
    "women"
   ]
@@ -14412,7 +14327,7 @@
  {
   "id": "1005013237561576",
   "category": "baby-tees",
-  "name": "Kitty Vintage Baby Tee 7",
+  "name": "Dark Grey Kitty Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14420,7 +14335,7 @@
  {
   "id": "1005013085032290",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 53",
+  "name": "Ft-s9520-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14428,7 +14343,7 @@
  {
   "id": "1005013145109655",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 95",
+  "name": "Graphic Baby Tee No. 655",
   "depts": [
    "women"
   ]
@@ -14436,7 +14351,7 @@
  {
   "id": "1005013048824995",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 45",
+  "name": "Graphic Vintage Baby Tee No. 995",
   "depts": [
    "women"
   ]
@@ -14444,7 +14359,7 @@
  {
   "id": "1005013224176023",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 36",
+  "name": "Kitty Graphic Baby Tee No. 023",
   "depts": [
    "women"
   ]
@@ -14452,7 +14367,7 @@
  {
   "id": "1005013419557776",
   "category": "baby-tees",
-  "name": "Graphic Cow Baby Tee 2",
+  "name": "Graphic Cow Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -14460,7 +14375,7 @@
  {
   "id": "1005013094150636",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 54",
+  "name": "Ft-c1272-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14468,7 +14383,7 @@
  {
   "id": "1005013254009015",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 46",
+  "name": "Graphic Vintage Baby Tee No. 015",
   "depts": [
    "women"
   ]
@@ -14476,7 +14391,7 @@
  {
   "id": "1005013319959338",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 7",
+  "name": "Ft-c2184-grey Goth Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14484,7 +14399,7 @@
  {
   "id": "1005013316118266",
   "category": "baby-tees",
-  "name": "Goth Baby Tee 7",
+  "name": "Green Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -14492,7 +14407,7 @@
  {
   "id": "1005013339326392",
   "category": "baby-tees",
-  "name": "Baby Tee 97",
+  "name": "Baby Tee No. 392",
   "depts": [
    "women"
   ]
@@ -14500,7 +14415,7 @@
  {
   "id": "1005013312787781",
   "category": "baby-tees",
-  "name": "Kitty Vintage Baby Tee 8",
+  "name": "Ft-c2169-grey Kitty Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14508,15 +14423,7 @@
  {
   "id": "1005013130060237",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 55",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005013274031730",
-  "category": "baby-tees",
-  "name": "Graphic Baby Tee 96",
+  "name": "Vintage Baby Tee No. 237",
   "depts": [
    "women"
   ]
@@ -14524,7 +14431,7 @@
  {
   "id": "1005012899618846",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 47",
+  "name": "Ft-c1812-grey Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14532,7 +14439,7 @@
  {
   "id": "1005013117754468",
   "category": "baby-tees",
-  "name": "Baby Tee 98",
+  "name": "Baby Tee No. 468",
   "depts": [
    "women"
   ]
@@ -14540,7 +14447,7 @@
  {
   "id": "1005013206240877",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 97",
+  "name": "Graphic Baby Tee No. 877",
   "depts": [
    "women"
   ]
@@ -14548,7 +14455,7 @@
  {
   "id": "1005013125218336",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 48",
+  "name": "Graphic Vintage Baby Tee No. 336",
   "depts": [
    "women"
   ]
@@ -14556,7 +14463,7 @@
  {
   "id": "1005013109688546",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 56",
+  "name": "Vintage Baby Tee No. 546",
   "depts": [
    "women"
   ]
@@ -14564,7 +14471,7 @@
  {
   "id": "1005013100522971",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 57",
+  "name": "Ft-c1332-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14572,7 +14479,7 @@
  {
   "id": "1005012978559242",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 58",
+  "name": "Ft-s9266-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14580,7 +14487,7 @@
  {
   "id": "1005013331578018",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 59",
+  "name": "Ft-c2183-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14596,7 +14503,7 @@
  {
   "id": "1005013419411691",
   "category": "baby-tees",
-  "name": "Baby Tee 99",
+  "name": "Dark-grey Baby Tee",
   "depts": [
    "women"
   ]
@@ -14604,7 +14511,7 @@
  {
   "id": "1005013331270808",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 8",
+  "name": "Ft-c2182-grey Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -14620,7 +14527,7 @@
  {
   "id": "1005013331662098",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 9",
+  "name": "Light Purple Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -14628,7 +14535,7 @@
  {
   "id": "1005013097185484",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 60",
+  "name": "Vintage Baby Tee No. 484",
   "depts": [
    "women"
   ]
@@ -14636,7 +14543,7 @@
  {
   "id": "1005013374279386",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 61",
+  "name": "Ft-c2229-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14644,7 +14551,7 @@
  {
   "id": "1005013256131256",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 98",
+  "name": "Graphic Baby Tee No. 256",
   "depts": [
    "women"
   ]
@@ -14652,7 +14559,7 @@
  {
   "id": "1005013320903339",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 8",
+  "name": "Blue Goth Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14660,7 +14567,7 @@
  {
   "id": "1005013120060988",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 10",
+  "name": "Navy Blue Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -14668,7 +14575,7 @@
  {
   "id": "1005013319845969",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 99",
+  "name": "Ft-c2178-grey Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -14684,7 +14591,7 @@
  {
   "id": "1005013320883029",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 11",
+  "name": "Red Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -14692,7 +14599,7 @@
  {
   "id": "1005013082510546",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 62",
+  "name": "Ft-s9418-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14700,7 +14607,7 @@
  {
   "id": "1005013371169849",
   "category": "baby-tees",
-  "name": "Baby Tee 100",
+  "name": "Baby Tee No. 849",
   "depts": [
    "women"
   ]
@@ -14708,7 +14615,7 @@
  {
   "id": "1005013374363240",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 63",
+  "name": "Ft-c2190-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14716,7 +14623,7 @@
  {
   "id": "1005013225894334",
   "category": "baby-tees",
-  "name": "Baby Tee 101",
+  "name": "Baby Tee No. 334",
   "depts": [
    "women"
   ]
@@ -14724,7 +14631,7 @@
  {
   "id": "1005013332930091",
   "category": "hoodies",
-  "name": "Vintage Jacket 5",
+  "name": "Vintage Hooded Jacket",
   "depts": [
    "women"
   ]
@@ -14732,7 +14639,7 @@
  {
   "id": "1005013357954395",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 100",
+  "name": "Graphic Oversized Baby Tee 3",
   "depts": [
    "women"
   ]
@@ -14748,7 +14655,7 @@
  {
   "id": "1005013419291621",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 37",
+  "name": "Dark-grey Kitty Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -14756,7 +14663,7 @@
  {
   "id": "1005013321125142",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 9",
+  "name": "Green Goth Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14764,7 +14671,7 @@
  {
   "id": "1005013271683324",
   "category": "baby-tees",
-  "name": "Goth Baby Tee 8",
+  "name": "Gary Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -14772,7 +14679,7 @@
  {
   "id": "1005013196403623",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 49",
+  "name": "Graphic Vintage Baby Tee No. 623",
   "depts": [
    "women"
   ]
@@ -14780,7 +14687,7 @@
  {
   "id": "1005013321331162",
   "category": "hoodies",
-  "name": "Vintage Jacket 6",
+  "name": "Vintage Zip Jacket",
   "depts": [
    "women"
   ]
@@ -14788,7 +14695,7 @@
  {
   "id": "1005013320803983",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 64",
+  "name": "Vintage Baby Tee No. 983",
   "depts": [
    "women"
   ]
@@ -14796,7 +14703,7 @@
  {
   "id": "1005013173587768",
   "category": "baby-tees",
-  "name": "Goth Baby Tee 9",
+  "name": "Navy Blue Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -14804,7 +14711,7 @@
  {
   "id": "1005013257630013",
   "category": "baby-tees",
-  "name": "Baby Tee 102",
+  "name": "Baby Tee No. 013",
   "depts": [
    "women"
   ]
@@ -14812,7 +14719,7 @@
  {
   "id": "1005013094152063",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 65",
+  "name": "Ft-s9538-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14820,7 +14727,7 @@
  {
   "id": "1005013195721197",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 50",
+  "name": "Graphic Vintage Wrap Baby Tee",
   "depts": [
    "women"
   ]
@@ -14836,7 +14743,7 @@
  {
   "id": "1005013418979968",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 38",
+  "name": "Kitty Graphic Baby Tee No. 968",
   "depts": [
    "women"
   ]
@@ -14844,7 +14751,7 @@
  {
   "id": "1005013320843853",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 51",
+  "name": "Graphic Vintage Baby Tee No. 853",
   "depts": [
    "women"
   ]
@@ -14852,7 +14759,7 @@
  {
   "id": "1005013215037553",
   "category": "baby-tees",
-  "name": "Baby Tee 103",
+  "name": "Baby Tee 3",
   "depts": [
    "women"
   ]
@@ -14860,7 +14767,7 @@
  {
   "id": "1005013101763791",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 52",
+  "name": "Graphic Vintage Baby Tee No. 791",
   "depts": [
    "women"
   ]
@@ -14868,7 +14775,7 @@
  {
   "id": "1005013293606700",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 101",
+  "name": "Graphic Baby Tee No. 700",
   "depts": [
    "women"
   ]
@@ -14876,7 +14783,7 @@
  {
   "id": "1005013107653032",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 12",
+  "name": "Graphic Goth Oversized Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -14892,7 +14799,7 @@
  {
   "id": "1005013002133035",
   "category": "baby-tees",
-  "name": "Baby Tee 104",
+  "name": "Oversized Baby Tee 3",
   "depts": [
    "women"
   ]
@@ -14900,7 +14807,7 @@
  {
   "id": "1005013332888766",
   "category": "hoodies",
-  "name": "Jacket 5",
+  "name": "Oversized Zip Jacket",
   "depts": [
    "women"
   ]
@@ -14908,7 +14815,7 @@
  {
   "id": "1005012984273882",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 66",
+  "name": "Vintage Baby Tee No. 882",
   "depts": [
    "women"
   ]
@@ -14916,7 +14823,7 @@
  {
   "id": "1005013121299587",
   "category": "baby-tees",
-  "name": "Baby Tee 105",
+  "name": "Baby Tee No. 587",
   "depts": [
    "women"
   ]
@@ -14924,7 +14831,7 @@
  {
   "id": "1005013098987220",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 67",
+  "name": "Vintage Baby Tee No. 220",
   "depts": [
    "women"
   ]
@@ -14940,7 +14847,7 @@
  {
   "id": "1005013121074203",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 68",
+  "name": "Vintage Baby Tee No. 203",
   "depts": [
    "women"
   ]
@@ -14948,7 +14855,7 @@
  {
   "id": "1005013323633465",
   "category": "hoodies",
-  "name": "Graphic Goth Hoodie 2",
+  "name": "Red Graphic Goth Hoodie",
   "depts": [
    "women"
   ]
@@ -14956,7 +14863,7 @@
  {
   "id": "1005013092571408",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 69",
+  "name": "Vintage Baby Tee No. 408",
   "depts": [
    "women"
   ]
@@ -14964,7 +14871,7 @@
  {
   "id": "1005013386678671",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 53",
+  "name": "Ft-c2189-grey Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14972,7 +14879,7 @@
  {
   "id": "1005013072791319",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 54",
+  "name": "Ft-s9431-grey Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14980,7 +14887,7 @@
  {
   "id": "1005013099610612",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 70",
+  "name": "Ft-c1333-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -14988,7 +14895,7 @@
  {
   "id": "1005013282555511",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 102",
+  "name": "Graphic Baby Tee No. 511",
   "depts": [
    "women"
   ]
@@ -14996,7 +14903,7 @@
  {
   "id": "1005013296242087",
   "category": "baby-tees",
-  "name": "Graphic Goth Vintage Baby Tee 2",
+  "name": "Ft-c2125-grey Graphic Goth Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15004,7 +14911,7 @@
  {
   "id": "1005013335860194",
   "category": "hoodies",
-  "name": "Hoodie 2",
+  "name": "Oversized Hoodie",
   "depts": [
    "women"
   ]
@@ -15012,7 +14919,7 @@
  {
   "id": "1005013281602727",
   "category": "baby-tees",
-  "name": "Graphic Goth Vintage Baby Tee 3",
+  "name": "Graphic Goth Vintage Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -15020,7 +14927,7 @@
  {
   "id": "1005013084405196",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 71",
+  "name": "Ft-c889-grey. Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15028,7 +14935,7 @@
  {
   "id": "1005013373955427",
   "category": "baby-tees",
-  "name": "Goth Baby Tee 10",
+  "name": "Red Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -15036,7 +14943,7 @@
  {
   "id": "1005013321205944",
   "category": "hoodies",
-  "name": "Jacket 6",
+  "name": "Hooded Zip Jacket",
   "depts": [
    "women"
   ]
@@ -15044,7 +14951,7 @@
  {
   "id": "1005013089733178",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 55",
+  "name": "Ft-c1272-grey Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15052,7 +14959,7 @@
  {
   "id": "1005013419283549",
   "category": "baby-tees",
-  "name": "Kitty Vintage Baby Tee 9",
+  "name": "Navy-blue Kitty Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15060,7 +14967,7 @@
  {
   "id": "1005013116734547",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 103",
+  "name": "Graphic Baby Tee No. 547",
   "depts": [
    "women"
   ]
@@ -15068,7 +14975,7 @@
  {
   "id": "1005013335674427",
   "category": "hoodies",
-  "name": "Graphic Vintage Hoodie 2",
+  "name": "Pink Graphic Vintage Hoodie",
   "depts": [
    "women"
   ]
@@ -15076,7 +14983,7 @@
  {
   "id": "1005013237277981",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 39",
+  "name": "Kitty Graphic Baby Tee No. 981",
   "depts": [
    "women"
   ]
@@ -15084,7 +14991,7 @@
  {
   "id": "1005013090086167",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 72",
+  "name": "Vintage Baby Tee No. 167",
   "depts": [
    "women"
   ]
@@ -15092,7 +14999,7 @@
  {
   "id": "1005013327611725",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 40",
+  "name": "Kitty Graphic Baby Tee No. 725",
   "depts": [
    "women"
   ]
@@ -15100,7 +15007,7 @@
  {
   "id": "1005013089865082",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 73",
+  "name": "Ft-c1273-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15108,7 +15015,7 @@
  {
   "id": "1005013432382875",
   "category": "baby-tees",
-  "name": "Kitty Vintage Baby Tee 10",
+  "name": "Dark-grey Kitty Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15116,7 +15023,7 @@
  {
   "id": "1005013346785301",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 104",
+  "name": "Graphic Baby Tee No. 301",
   "depts": [
    "women"
   ]
@@ -15124,7 +15031,7 @@
  {
   "id": "1005013101777704",
   "category": "baby-tees",
-  "name": "Baby Tee 106",
+  "name": "Baby Tee No. 704",
   "depts": [
    "women"
   ]
@@ -15132,7 +15039,7 @@
  {
   "id": "1005013213113387",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 41",
+  "name": "Kitty Graphic Baby Tee No. 387",
   "depts": [
    "women"
   ]
@@ -15140,15 +15047,7 @@
  {
   "id": "1005013419119736",
   "category": "baby-tees",
-  "name": "Kitty Goth Baby Tee 2",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005013293702059",
-  "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 13",
+  "name": "Kitty Goth Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -15156,7 +15055,7 @@
  {
   "id": "1005013288406502",
   "category": "baby-tees",
-  "name": "Kitty Graphic Goth Baby Tee 6",
+  "name": "Kitty Graphic Goth Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -15164,7 +15063,7 @@
  {
   "id": "1005013116288856",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 74",
+  "name": "Vintage Baby Tee No. 856",
   "depts": [
    "women"
   ]
@@ -15172,7 +15071,7 @@
  {
   "id": "1005013084874109",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 75",
+  "name": "Vintage Baby Tee No. 109",
   "depts": [
    "women"
   ]
@@ -15180,7 +15079,7 @@
  {
   "id": "1005012675555050",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 76",
+  "name": "Vintage Baby Tee No. 050",
   "depts": [
    "women"
   ]
@@ -15188,7 +15087,7 @@
  {
   "id": "1005013375657267",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 56",
+  "name": "Ft-c2238-grey Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15196,7 +15095,7 @@
  {
   "id": "1005013139973198",
   "category": "baby-tees",
-  "name": "Baby Tee 107",
+  "name": "Baby Tee No. 198",
   "depts": [
    "women"
   ]
@@ -15204,7 +15103,7 @@
  {
   "id": "1005013125164743",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 77",
+  "name": "Vintage Baby Tee No. 743",
   "depts": [
    "women"
   ]
@@ -15212,7 +15111,7 @@
  {
   "id": "1005013120268227",
   "category": "baby-tees",
-  "name": "Baby Tee 108",
+  "name": "Black Baby Tee 2",
   "depts": [
    "women"
   ]
@@ -15220,7 +15119,7 @@
  {
   "id": "1005013093606112",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 78",
+  "name": "Vintage Baby Tee No. 112",
   "depts": [
    "women"
   ]
@@ -15228,7 +15127,7 @@
  {
   "id": "1005012892091026",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 79",
+  "name": "Ft-c1812-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15236,7 +15135,7 @@
  {
   "id": "1005012873796259",
   "category": "baby-tees",
-  "name": "Baby Tee 109",
+  "name": "Oversized Baby Tee 4",
   "depts": [
    "women"
   ]
@@ -15244,7 +15143,7 @@
  {
   "id": "1005013149820594",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 14",
+  "name": "Gary Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -15252,7 +15151,7 @@
  {
   "id": "1005013195825687",
   "category": "baby-tees",
-  "name": "Kitty Graphic Goth Baby Tee 7",
+  "name": "Khaki Kitty Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -15260,7 +15159,7 @@
  {
   "id": "1005013215129310",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 105",
+  "name": "Graphic Baby Tee No. 310",
   "depts": [
    "women"
   ]
@@ -15268,7 +15167,7 @@
  {
   "id": "1005013206410067",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 15",
+  "name": "Khaki Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -15276,7 +15175,7 @@
  {
   "id": "1005012988666374",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 80",
+  "name": "Ft-c1855-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15284,7 +15183,7 @@
  {
   "id": "1005013419131843",
   "category": "baby-tees",
-  "name": "Kitty Graphic Vintage Baby Tee 12",
+  "name": "Dark-grey Kitty Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15292,7 +15191,7 @@
  {
   "id": "1005013139737094",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 81",
+  "name": "Vintage Baby Tee No. 094",
   "depts": [
    "women"
   ]
@@ -15300,7 +15199,7 @@
  {
   "id": "1005013106447854",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 106",
+  "name": "Graphic Baby Tee No. 854",
   "depts": [
    "women"
   ]
@@ -15308,7 +15207,7 @@
  {
   "id": "1005013261538894",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 107",
+  "name": "Graphic Baby Tee No. 894",
   "depts": [
    "women"
   ]
@@ -15316,7 +15215,7 @@
  {
   "id": "1005013247065235",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 16",
+  "name": "Pink Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -15324,7 +15223,7 @@
  {
   "id": "1005012979699760",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 82",
+  "name": "Ft-c1856-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15332,7 +15231,7 @@
  {
   "id": "1005013094096678",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 83",
+  "name": "Ft-c881-grey. Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15340,7 +15239,7 @@
  {
   "id": "1005013358577000",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 42",
+  "name": "Kitty Graphic Black Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -15348,7 +15247,7 @@
  {
   "id": "1005013089866563",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 57",
+  "name": "Graphic Vintage Baby Tee No. 563",
   "depts": [
    "women"
   ]
@@ -15356,7 +15255,7 @@
  {
   "id": "1005012988680229",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 84",
+  "name": "Ft-c1853-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15364,7 +15263,7 @@
  {
   "id": "1005013157364576",
   "category": "baby-tees",
-  "name": "Goth Baby Tee 11",
+  "name": "Yellow Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -15372,15 +15271,7 @@
  {
   "id": "1005012986533461",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 108",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005013159272548",
-  "category": "baby-tees",
-  "name": "Goth Baby Tee 12",
+  "name": "Graphic Baby Tee No. 461",
   "depts": [
    "women"
   ]
@@ -15388,7 +15279,7 @@
  {
   "id": "1005013139991787",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 109",
+  "name": "Graphic Baby Tee No. 787",
   "depts": [
    "women"
   ]
@@ -15396,7 +15287,7 @@
  {
   "id": "1005013224290085",
   "category": "baby-tees",
-  "name": "Baby Tee 110",
+  "name": "Baby Tee No. 085",
   "depts": [
    "women"
   ]
@@ -15404,7 +15295,7 @@
  {
   "id": "1005013280647935",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 110",
+  "name": "Graphic Baby Tee No. 935",
   "depts": [
    "women"
   ]
@@ -15412,7 +15303,7 @@
  {
   "id": "1005013373897965",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 111",
+  "name": "Light-purple Graphic Baby Tee",
   "depts": [
    "women"
   ]
@@ -15420,7 +15311,7 @@
  {
   "id": "1005012899578760",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 85",
+  "name": "Ft-c1810-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15428,7 +15319,7 @@
  {
   "id": "1005012988378945",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 86",
+  "name": "Ft-c1857-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15436,7 +15327,7 @@
  {
   "id": "1005013250993892",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 58",
+  "name": "Graphic Vintage Baby Tee No. 892",
   "depts": [
    "women"
   ]
@@ -15444,7 +15335,7 @@
  {
   "id": "1005013386338714",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 59",
+  "name": "Navy-blue Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15452,7 +15343,7 @@
  {
   "id": "1005013257542227",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 112",
+  "name": "Graphic Baby Tee No. 227",
   "depts": [
    "women"
   ]
@@ -15460,7 +15351,7 @@
  {
   "id": "1005013173581238",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 113",
+  "name": "Graphic Baby Tee No. 238",
   "depts": [
    "women"
   ]
@@ -15468,7 +15359,7 @@
  {
   "id": "1005013107375066",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 114",
+  "name": "Graphic Baby Tee No. 066",
   "depts": [
    "women"
   ]
@@ -15476,7 +15367,7 @@
  {
   "id": "1005012995148612",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 115",
+  "name": "Graphic Baby Tee No. 612",
   "depts": [
    "women"
   ]
@@ -15484,7 +15375,7 @@
  {
   "id": "1005012986933497",
   "category": "baby-tees",
-  "name": "Baby Tee 111",
+  "name": "Baby Tee No. 497",
   "depts": [
    "women"
   ]
@@ -15492,7 +15383,7 @@
  {
   "id": "1005013206632466",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 116",
+  "name": "Graphic Baby Tee No. 466",
   "depts": [
    "women"
   ]
@@ -15500,7 +15391,7 @@
  {
   "id": "1005012988312925",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 87",
+  "name": "Ft-c1854-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15508,7 +15399,7 @@
  {
   "id": "1005012987700133",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 88",
+  "name": "Ft-s9267-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15516,7 +15407,7 @@
  {
   "id": "1005013266800123",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 117",
+  "name": "Graphic Baby Tee No. 123",
   "depts": [
    "women"
   ]
@@ -15524,7 +15415,7 @@
  {
   "id": "1005013332860263",
   "category": "hoodies",
-  "name": "Jacket 7",
+  "name": "Hooded Jacket",
   "depts": [
    "women"
   ]
@@ -15532,7 +15423,7 @@
  {
   "id": "1005012759498410",
   "category": "baby-tees",
-  "name": "Baby Tee 112",
+  "name": "Baby Tee No. 410",
   "depts": [
    "women"
   ]
@@ -15540,7 +15431,7 @@
  {
   "id": "1005013332708164",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 89",
+  "name": "Vintage Baby Tee No. 164",
   "depts": [
    "women"
   ]
@@ -15548,7 +15439,7 @@
  {
   "id": "1005013150298424",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 90",
+  "name": "Vintage Baby Tee No. 424",
   "depts": [
    "women"
   ]
@@ -15556,7 +15447,7 @@
  {
   "id": "1005013140093050",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 118",
+  "name": "Graphic Baby Tee No. 050",
   "depts": [
    "women"
   ]
@@ -15564,7 +15455,7 @@
  {
   "id": "1005013257544557",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 119",
+  "name": "Graphic Blue Baby Tee",
   "depts": [
    "women"
   ]
@@ -15572,7 +15463,7 @@
  {
   "id": "1005013327191855",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 17",
+  "name": "Dark Grey Graphic Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -15580,7 +15471,7 @@
  {
   "id": "1005013150090559",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 60",
+  "name": "Graphic Vintage Baby Tee No. 559",
   "depts": [
    "women"
   ]
@@ -15588,7 +15479,7 @@
  {
   "id": "1005012984333206",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 10",
+  "name": "Goth Vintage Baby Tee No. 206",
   "depts": [
    "women"
   ]
@@ -15596,7 +15487,7 @@
  {
   "id": "1005013419667232",
   "category": "baby-tees",
-  "name": "Baby Tee 113",
+  "name": "Baby Tee No. 232",
   "depts": [
    "women"
   ]
@@ -15604,7 +15495,7 @@
  {
   "id": "1005013373987487",
   "category": "baby-tees",
-  "name": "Baby Tee 114",
+  "name": "Baby Tee No. 487",
   "depts": [
    "women"
   ]
@@ -15612,7 +15503,7 @@
  {
   "id": "1005012839348662",
   "category": "hoodies",
-  "name": "Goth Hoodie 2",
+  "name": "Khaki Goth Hoodie",
   "depts": [
    "women"
   ]
@@ -15620,7 +15511,7 @@
  {
   "id": "1005012825990097",
   "category": "baby-tees",
-  "name": "Baby Tee 115",
+  "name": "Baby Tee No. 097",
   "depts": [
    "women"
   ]
@@ -15628,7 +15519,7 @@
  {
   "id": "1005013101785856",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 120",
+  "name": "Graphic Baby Tee 2",
   "depts": [
    "women"
   ]
@@ -15636,7 +15527,7 @@
  {
   "id": "1005013002120947",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 18",
+  "name": "Graphic Goth Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -15644,7 +15535,7 @@
  {
   "id": "1005013251307750",
   "category": "baby-tees",
-  "name": "Baby Tee 116",
+  "name": "Baby Tee No. 750",
   "depts": [
    "women"
   ]
@@ -15652,7 +15543,7 @@
  {
   "id": "1005013445825497",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 91",
+  "name": "Vintage Baby Tee No. 497",
   "depts": [
    "women"
   ]
@@ -15660,7 +15551,7 @@
  {
   "id": "1005013149944814",
   "category": "baby-tees",
-  "name": "Baby Tee 117",
+  "name": "Baby Tee No. 814",
   "depts": [
    "women"
   ]
@@ -15668,7 +15559,7 @@
  {
   "id": "1005013387768692",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 92",
+  "name": "Ft-c2236-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15676,7 +15567,7 @@
  {
   "id": "1005013100746414",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 93",
+  "name": "Vintage Baby Tee No. 414",
   "depts": [
    "women"
   ]
@@ -15684,7 +15575,7 @@
  {
   "id": "1005013332888120",
   "category": "hoodies",
-  "name": "Jacket 8",
+  "name": "Oversized Jacket",
   "depts": [
    "women"
   ]
@@ -15692,7 +15583,7 @@
  {
   "id": "1005012978763979",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 94",
+  "name": "Ft-s9265-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15700,7 +15591,7 @@
  {
   "id": "1005013205920216",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 61",
+  "name": "Graphic Vintage Baby Tee No. 216",
   "depts": [
    "women"
   ]
@@ -15708,7 +15599,7 @@
  {
   "id": "1005013356940368",
   "category": "baby-tees",
-  "name": "Baby Tee 118",
+  "name": "Oversized Baby Tee 5",
   "depts": [
    "women"
   ]
@@ -15716,7 +15607,7 @@
  {
   "id": "1005013149203569",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 62",
+  "name": "Graphic Vintage Baby Tee No. 569",
   "depts": [
    "women"
   ]
@@ -15724,7 +15615,7 @@
  {
   "id": "1005013111102215",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 95",
+  "name": "Vintage Baby Tee No. 215",
   "depts": [
    "women"
   ]
@@ -15732,7 +15623,7 @@
  {
   "id": "1005013048874646",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 11",
+  "name": "Goth Vintage Oversized Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -15740,7 +15631,7 @@
  {
   "id": "1005012988500440",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 96",
+  "name": "Ft-c1858-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15748,7 +15639,7 @@
  {
   "id": "1005012995878206",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 121",
+  "name": "Graphic Baby Tee No. 206",
   "depts": [
    "women"
   ]
@@ -15756,7 +15647,7 @@
  {
   "id": "1005012737945015",
   "category": "hoodies",
-  "name": "Hoodie 3",
+  "name": "Harajuku Hoodie",
   "depts": [
    "women"
   ]
@@ -15764,7 +15655,7 @@
  {
   "id": "1005012988458242",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 63",
+  "name": "Ft-s9262-grey Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15772,7 +15663,7 @@
  {
   "id": "1005013383718735",
   "category": "baby-tees",
-  "name": "Cow Baby Tee 2",
+  "name": "Cow Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -15780,7 +15671,7 @@
  {
   "id": "1005013002160977",
   "category": "baby-tees",
-  "name": "Graphic Goth Vintage Baby Tee 4",
+  "name": "Green Graphic Goth Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15788,7 +15679,7 @@
  {
   "id": "1005012993359806",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 122",
+  "name": "Graphic Baby Tee No. 806",
   "depts": [
    "women"
   ]
@@ -15796,7 +15687,7 @@
  {
   "id": "1005013419307743",
   "category": "baby-tees",
-  "name": "Kitty Vintage Baby Tee 11",
+  "name": "Blue Kitty Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15804,7 +15695,7 @@
  {
   "id": "1005012978863265",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 97",
+  "name": "Ft-s9262-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15812,7 +15703,7 @@
  {
   "id": "1005012988506479",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 64",
+  "name": "Ft-c1815-grey Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15820,7 +15711,7 @@
  {
   "id": "1005013102868319",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 98",
+  "name": "Vintage Baby Tee No. 319",
   "depts": [
    "women"
   ]
@@ -15828,7 +15719,7 @@
  {
   "id": "1005012987336410",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 99",
+  "name": "Ft-s9263-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15836,7 +15727,7 @@
  {
   "id": "1005013255881917",
   "category": "baby-tees",
-  "name": "Graphic Goth Vintage Baby Tee 5",
+  "name": "Graphic Goth Vintage Oversized Bat Baby Tee",
   "depts": [
    "women"
   ]
@@ -15852,7 +15743,7 @@
  {
   "id": "1005012729213087",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 12",
+  "name": "Ft-s9001-grey Goth Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15860,7 +15751,7 @@
  {
   "id": "1005012684329300",
   "category": "baby-tees",
-  "name": "Goth Baby Tee 13",
+  "name": "Pink Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -15868,7 +15759,7 @@
  {
   "id": "1005012613881421",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 100",
+  "name": "Vintage Baby Tee No. 421",
   "depts": [
    "women"
   ]
@@ -15876,7 +15767,7 @@
  {
   "id": "1005012604223712",
   "category": "baby-tees",
-  "name": "Baby Tee 119",
+  "name": "Baby Tee No. 712",
   "depts": [
    "women"
   ]
@@ -15884,7 +15775,7 @@
  {
   "id": "1005012751738235",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 101",
+  "name": "Vintage Baby Tee No. 235",
   "depts": [
    "women"
   ]
@@ -15892,7 +15783,7 @@
  {
   "id": "1005012606881770",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 65",
+  "name": "Graphic Vintage Baby Tee No. 770",
   "depts": [
    "women"
   ]
@@ -15900,7 +15791,7 @@
  {
   "id": "1005012736047403",
   "category": "baby-tees",
-  "name": "Goth Baby Tee 14",
+  "name": "White Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -15908,7 +15799,7 @@
  {
   "id": "1005012735228635",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 13",
+  "name": "Ft-s9004-grey Goth Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -15916,7 +15807,7 @@
  {
   "id": "1005012776488462",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 123",
+  "name": "Graphic Baby Tee No. 462",
   "depts": [
    "women"
   ]
@@ -15924,7 +15815,7 @@
  {
   "id": "1005012866129611",
   "category": "baby-tees",
-  "name": "Baby Tee 120",
+  "name": "Baby Tee No. 611",
   "depts": [
    "women"
   ]
@@ -15932,7 +15823,7 @@
  {
   "id": "1005012650771272",
   "category": "baby-tees",
-  "name": "Baby Tee 121",
+  "name": "Baby Tee No. 272",
   "depts": [
    "women"
   ]
@@ -15940,7 +15831,7 @@
  {
   "id": "1005012743618660",
   "category": "baby-tees",
-  "name": "Baby Tee 122",
+  "name": "Baby Tee No. 660",
   "depts": [
    "women"
   ]
@@ -15948,7 +15839,7 @@
  {
   "id": "1005012606737756",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 124",
+  "name": "Graphic Baby Tee No. 756",
   "depts": [
    "women"
   ]
@@ -15956,7 +15847,7 @@
  {
   "id": "1005012873750469",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 66",
+  "name": "Graphic Vintage Baby Tee No. 469",
   "depts": [
    "women"
   ]
@@ -15964,7 +15855,7 @@
  {
   "id": "1005012684195832",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee 43",
+  "name": "Kitty Graphic Baby Tee No. 832",
   "depts": [
    "women"
   ]
@@ -15972,7 +15863,7 @@
  {
   "id": "1005012742272947",
   "category": "baby-tees",
-  "name": "Baby Tee 123",
+  "name": "Baby Tee No. 947",
   "depts": [
    "women"
   ]
@@ -15980,7 +15871,7 @@
  {
   "id": "1005012712276157",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 125",
+  "name": "Graphic Baby Tee No. 157",
   "depts": [
    "women"
   ]
@@ -15988,7 +15879,7 @@
  {
   "id": "1005012743604394",
   "category": "baby-tees",
-  "name": "Baby Tee 124",
+  "name": "Baby Tee No. 394",
   "depts": [
    "women"
   ]
@@ -15996,7 +15887,7 @@
  {
   "id": "1005012737297639",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 126",
+  "name": "Graphic Baby Tee No. 639",
   "depts": [
    "women"
   ]
@@ -16004,7 +15895,7 @@
  {
   "id": "1005012866249531",
   "category": "baby-tees",
-  "name": "Baby Tee 125",
+  "name": "Baby Tee No. 531",
   "depts": [
    "women"
   ]
@@ -16012,7 +15903,7 @@
  {
   "id": "1005012612860638",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 102",
+  "name": "Vintage Baby Tee No. 638",
   "depts": [
    "women"
   ]
@@ -16020,7 +15911,7 @@
  {
   "id": "1005012606855658",
   "category": "baby-tees",
-  "name": "Baby Tee 126",
+  "name": "Baby Tee No. 658",
   "depts": [
    "women"
   ]
@@ -16028,7 +15919,7 @@
  {
   "id": "1005012703686589",
   "category": "baby-tees",
-  "name": "Goth Baby Tee 15",
+  "name": "Blue Goth Baby Tee",
   "depts": [
    "women"
   ]
@@ -16036,7 +15927,7 @@
  {
   "id": "1005012831208649",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 103",
+  "name": "Ft-s9153-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -16044,7 +15935,7 @@
  {
   "id": "1005012873722273",
   "category": "baby-tees",
-  "name": "Baby Tee 127",
+  "name": "Baby Tee No. 273",
   "depts": [
    "women"
   ]
@@ -16052,15 +15943,7 @@
  {
   "id": "1005012681234704",
   "category": "baby-tees",
-  "name": "Baby Tee 128",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012633631130",
-  "category": "baby-tees",
-  "name": "Baby Tee 129",
+  "name": "Baby Tee 4",
   "depts": [
    "women"
   ]
@@ -16068,7 +15951,7 @@
  {
   "id": "1005012659736700",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 104",
+  "name": "Vintage Baby Tee No. 700",
   "depts": [
    "women"
   ]
@@ -16076,7 +15959,7 @@
  {
   "id": "1005012728989784",
   "category": "baby-tees",
-  "name": "Baby Tee 130",
+  "name": "Oversized Baby Tee 6",
   "depts": [
    "women"
   ]
@@ -16084,7 +15967,7 @@
  {
   "id": "1005012873278758",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 105",
+  "name": "Vintage Baby Tee No. 758",
   "depts": [
    "women"
   ]
@@ -16092,7 +15975,7 @@
  {
   "id": "1005012729199889",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 14",
+  "name": "Ft-s9013-grey Goth Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -16100,7 +15983,7 @@
  {
   "id": "1005012757019880",
   "category": "baby-tees",
-  "name": "Baby Tee 131",
+  "name": "Baby Tee No. 880",
   "depts": [
    "women"
   ]
@@ -16108,7 +15991,7 @@
  {
   "id": "1005012826525227",
   "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee 19",
+  "name": "Graphic Goth Baby Tee No. 227",
   "depts": [
    "women"
   ]
@@ -16116,7 +15999,7 @@
  {
   "id": "1005012627282395",
   "category": "baby-tees",
-  "name": "Baby Tee 132",
+  "name": "Baby Tee No. 395",
   "depts": [
    "women"
   ]
@@ -16124,7 +16007,7 @@
  {
   "id": "1005012735242601",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 106",
+  "name": "Ft-s9005-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -16132,7 +16015,7 @@
  {
   "id": "1005012873772896",
   "category": "baby-tees",
-  "name": "Goth Baby Tee 16",
+  "name": "Goth Oversized Harajuku Baby Tee",
   "depts": [
    "women"
   ]
@@ -16140,7 +16023,7 @@
  {
   "id": "1005012757393831",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 107",
+  "name": "Vintage Baby Tee No. 831",
   "depts": [
    "women"
   ]
@@ -16148,7 +16031,7 @@
  {
   "id": "1005012607275788",
   "category": "baby-tees",
-  "name": "Baby Tee 133",
+  "name": "Baby Tee No. 788",
   "depts": [
    "women"
   ]
@@ -16164,7 +16047,7 @@
  {
   "id": "1005012865959825",
   "category": "baby-tees",
-  "name": "Baby Tee 134",
+  "name": "Baby Tee No. 825",
   "depts": [
    "women"
   ]
@@ -16172,7 +16055,7 @@
  {
   "id": "1005012734207603",
   "category": "hoodies",
-  "name": "Goth Jacket 4",
+  "name": "Goth Zip Jacket",
   "depts": [
    "women"
   ]
@@ -16180,7 +16063,7 @@
  {
   "id": "1005012866331117",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 67",
+  "name": "Graphic Vintage Baby Tee 2",
   "depts": [
    "women"
   ]
@@ -16188,7 +16071,7 @@
  {
   "id": "1005012622429835",
   "category": "baby-tees",
-  "name": "Baby Tee 135",
+  "name": "Baby Tee No. 835",
   "depts": [
    "women"
   ]
@@ -16196,7 +16079,7 @@
  {
   "id": "1005012898579300",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 68",
+  "name": "Ft-c1444-grey Graphic Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -16204,7 +16087,7 @@
  {
   "id": "1005012609808340",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 15",
+  "name": "Black Goth Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -16212,7 +16095,7 @@
  {
   "id": "1005012690012340",
   "category": "baby-tees",
-  "name": "Graphic Goth Vintage Baby Tee 6",
+  "name": "Yellow Graphic Goth Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -16220,7 +16103,7 @@
  {
   "id": "1005012753113576",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 69",
+  "name": "Graphic Vintage Baby Tee No. 576",
   "depts": [
    "women"
   ]
@@ -16228,7 +16111,7 @@
  {
   "id": "1005012647724546",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 127",
+  "name": "Graphic Harajuku Baby Tee 2",
   "depts": [
    "women"
   ]
@@ -16236,7 +16119,7 @@
  {
   "id": "1005012729301373",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee 108",
+  "name": "Ft-s9012-grey Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -16244,7 +16127,7 @@
  {
   "id": "1005012613551980",
   "category": "baby-tees",
-  "name": "Baby Tee 136",
+  "name": "Baby Tee No. 980",
   "depts": [
    "women"
   ]
@@ -16252,7 +16135,7 @@
  {
   "id": "1005012729181831",
   "category": "baby-tees",
-  "name": "Goth Vintage Baby Tee 16",
+  "name": "Ft-s9000-grey Goth Vintage Baby Tee",
   "depts": [
    "women"
   ]
@@ -16260,7 +16143,7 @@
  {
   "id": "1005012729469643",
   "category": "hoodies",
-  "name": "Vintage Jacket 7",
+  "name": "Black Vintage Jacket",
   "depts": [
    "women"
   ]
@@ -16268,7 +16151,7 @@
  {
   "id": "1005012756951216",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 70",
+  "name": "Graphic Vintage Baby Tee 3",
   "depts": [
    "women"
   ]
@@ -16276,7 +16159,7 @@
  {
   "id": "1005012604171439",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 128",
+  "name": "Graphic Baby Tee No. 439",
   "depts": [
    "women"
   ]
@@ -16284,7 +16167,7 @@
  {
   "id": "1005012604335566",
   "category": "baby-tees",
-  "name": "Baby Tee 137",
+  "name": "Black Oversized Baby Tee",
   "depts": [
    "women"
   ]
@@ -16292,7 +16175,7 @@
  {
   "id": "1005012866785396",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 129",
+  "name": "Graphic Baby Tee No. 396",
   "depts": [
    "women"
   ]
@@ -16300,7 +16183,7 @@
  {
   "id": "1005012874006524",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee 71",
+  "name": "Graphic Vintage Baby Tee No. 524",
   "depts": [
    "women"
   ]
@@ -16308,7 +16191,7 @@
  {
   "id": "1005012752558195",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 130",
+  "name": "Graphic Baby Tee 3",
   "depts": [
    "women"
   ]
@@ -16316,7 +16199,47 @@
  {
   "id": "1005012866723754",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee 131",
+  "name": "Graphic Baby Tee No. 754",
+  "depts": [
+   "women"
+  ]
+ },
+ {
+  "id": "1005013231043548",
+  "category": "baby-tees",
+  "name": "Kitty Graphic Baby Tee No. 548",
+  "depts": [
+   "women"
+  ]
+ },
+ {
+  "id": "1005013282609909",
+  "category": "baby-tees",
+  "name": "Graphic Cow Vintage Baby Tee",
+  "depts": [
+   "women"
+  ]
+ },
+ {
+  "id": "1005013274031730",
+  "category": "baby-tees",
+  "name": "Graphic Baby Tee No. 730",
+  "depts": [
+   "women"
+  ]
+ },
+ {
+  "id": "1005013159272548",
+  "category": "baby-tees",
+  "name": "Goth Baby Tee No. 548",
+  "depts": [
+   "women"
+  ]
+ },
+ {
+  "id": "1005012633631130",
+  "category": "baby-tees",
+  "name": "Baby Tee No. 130",
   "depts": [
    "women"
   ]
