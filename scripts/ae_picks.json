@@ -26091,15 +26091,6 @@
   ]
  },
  {
-  "id": "1005013306231495",
-  "category": "hoodies",
-  "name": "Hoodie",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
   "id": "1005005862295678",
   "category": "shorts",
   "name": "Slogan Grunge Shorts",
@@ -26172,18 +26163,6 @@
   "name": "Goth Baby Tee",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005013318970900",
-  "category": "hoodies",
-  "name": "Goth Hoodie",
-  "depts": [
-   "women",
-   "men"
-  ],
-  "tags": [
-   "anime"
   ]
  },
  {
@@ -26456,14 +26435,6 @@
   ]
  },
  {
-  "id": "1005012318072708",
-  "category": "hoodies",
-  "name": "Fitted Zip Hoodie",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "1005007547562655",
   "category": "hoodies",
   "name": "Jacket 11",
@@ -26520,15 +26491,6 @@
   "id": "1005009897261230",
   "category": "jackets",
   "name": "Goth Grunge Jacket",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005006118070070",
-  "category": "hoodies",
-  "name": "Hoodie 2",
   "depts": [
    "women",
    "men"
@@ -27425,15 +27387,6 @@
   "name": "Lace Corset Lingerie",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005012281589500",
-  "category": "hoodies",
-  "name": "Hoodie 3",
-  "depts": [
-   "women",
-   "men"
   ]
  },
  {
