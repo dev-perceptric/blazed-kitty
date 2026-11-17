@@ -2,7 +2,7 @@
  {
   "id": "1005006819221772",
   "category": "baby-tees",
-  "name": "Second Skin Baby Tee",
+  "name": "Black Second Skin Y2K Fitted Baby Tee",
   "blurb": "Painted on, in every color.",
   "details": [
    "Stretchy rib knit",
@@ -12,7 +12,7 @@
  {
   "id": "1005011980905640",
   "category": "baby-tees",
-  "name": "Off-Shoulder Number Tee",
+  "name": "Red Star 06 Y2K Off Shoulder Tee",
   "blurb": "Slipping off on purpose.",
   "details": [
    "Skewed neckline that falls off one shoulder",
@@ -22,7 +22,7 @@
  {
   "id": "1005009157498643",
   "category": "baby-tees",
-  "name": "One-Shoulder Shrink Tee",
+  "name": "White Draped Y2K One Shoulder Crop Tee",
   "blurb": "One shoulder out, all attitude.",
   "details": [
    "Asymmetric one-shoulder neckline",
@@ -32,7 +32,7 @@
  {
   "id": "1005009665164577",
   "category": "baby-tees",
-  "name": "Kitty Print Crop Tee",
+  "name": "Halftone Torso Print Grunge Baby Tee",
   "blurb": "Nine lives, one crop top.",
   "details": [
    "Animal photo print",
@@ -42,7 +42,7 @@
  {
   "id": "1005010464601466",
   "category": "baby-tees",
-  "name": "Ruched Fitted Tee",
+  "name": "White Ruched Side Y2K Fitted Baby Tee",
   "blurb": "Gathered in all the right places.",
   "details": [
    "Ruched side seams",
@@ -52,7 +52,7 @@
  {
   "id": "1005007118244898",
   "category": "baby-tees",
-  "name": "Trashy 2000s Letter Baby Tee",
+  "name": "Red Kiss Letter Y2K Baby Tee",
   "blurb": "Straight out of a 2003 mall.",
   "details": [
    "Y2K letter print",
@@ -61,8 +61,8 @@
  },
  {
   "id": "1005009095438815",
-  "category": "baby-tees",
-  "name": "Candy Stripe Baby Tee",
+  "category": "tanks",
+  "name": "Black Cowl Neck Grunge Halter Top",
   "blurb": "Sweet stripes, bad intentions.",
   "details": [
    "Cotton stripe knit",
@@ -72,7 +72,7 @@
  {
   "id": "1005004100495594",
   "category": "baby-tees",
-  "name": "Lace Trim Square Neck Crop Tee",
+  "name": "Gingham Bow Lace Trim Coquette Square Neck Crop Tee",
   "blurb": "Cottage core, after hours.",
   "details": [
    "Lace-trimmed square neckline",
@@ -82,7 +82,7 @@
  {
   "id": "1005008082099822",
   "category": "baby-tees",
-  "name": "Skinny Crop Tee",
+  "name": "Black Basic Y2K Fitted Crop Tee",
   "blurb": "The one you'll wear four times a week.",
   "details": [
    "Solid crewneck",
@@ -92,7 +92,7 @@
  {
   "id": "1005010509723363",
   "category": "baby-tees",
-  "name": "Fairy Butterfly Crop Tee",
+  "name": "Butterfly Filigree Y2K V Neck Baby Tee",
   "blurb": "Wings out, eyes low.",
   "details": [
    "Butterfly fairy print",
@@ -102,7 +102,7 @@
  {
   "id": "1005011984299652",
   "category": "baby-tees",
-  "name": "Trashy Stripe Letter Tee",
+  "name": "Grey Distressed Flag Stripe Grunge Baby Tee",
   "blurb": "Grunge, but make it baby.",
   "details": [
    "Striped knit with letter print",
@@ -112,7 +112,7 @@
  {
   "id": "1005009464264837",
   "category": "baby-tees",
-  "name": "Flower Wing V-Neck Crop Tee",
+  "name": "Winged Heart Rose Y2K V Neck Baby Tee",
   "blurb": "Angel on the front, chaos everywhere else.",
   "details": [
    "Vintage flower and wing print",
@@ -122,7 +122,7 @@
  {
   "id": "1005006160917646",
   "category": "baby-tees",
-  "name": "Vintage V-Neck Slim Tee",
+  "name": "White Lace Trim Wrap Coquette V Neck Baby Tee",
   "blurb": "Simple, tight, done.",
   "details": [
    "Soft cotton",
@@ -132,7 +132,7 @@
  {
   "id": "1005006690635845",
   "category": "baby-tees",
-  "name": "Bow Milkmaid Crop Top",
+  "name": "Black Bow Ruffle Coquette Milkmaid Crop Tee",
   "blurb": "Sweet up top, trouble everywhere else.",
   "details": [
    "Square collar with bow",
@@ -140,49 +140,9 @@
   ]
  },
  {
-  "id": "1005005609662314",
-  "category": "baby-tees",
-  "name": "Pink Slogan Baby Tee",
-  "blurb": "Say it with your chest.",
-  "details": [
-   "Letter graphic",
-   "Slim cropped fit"
-  ]
- },
- {
-  "id": "1005010073752894",
-  "category": "baby-tees",
-  "name": "Gothic Filigree Baby Tee",
-  "blurb": "Dark lace, darker thoughts.",
-  "details": [
-   "Gothic filigree print",
-   "Slim cropped fit"
-  ]
- },
- {
-  "id": "1005005882435664",
-  "category": "baby-tees",
-  "name": "Meet Me in the Morgue Baby Tee",
-  "blurb": "Dead serious about this date.",
-  "details": [
-   "Gothic letter print",
-   "Slim cropped fit"
-  ]
- },
- {
-  "id": "1005009774477099",
-  "category": "baby-tees",
-  "name": "Kitty Face Crop Tee",
-  "blurb": "Whiskers out, belly out.",
-  "details": [
-   "Cat face graphic",
-   "Cropped fit"
-  ]
- },
- {
   "id": "1005012290376510",
   "category": "baby-tees",
-  "name": "Skull Stripe V-Neck Tee",
+  "name": "Grey Striped Skull Crossbones Emo Baby Tee",
   "blurb": "Stripes with a little bite.",
   "details": [
    "Striped knit with skull print",
@@ -190,29 +150,9 @@
   ]
  },
  {
-  "id": "1005012024580603",
-  "category": "baby-tees",
-  "name": "Disco Occasionally Baby Tee",
-  "blurb": "Kiss all the time. Disco, occasionally.",
-  "details": [
-   "Pixel text slogan",
-   "Slim cropped fit"
-  ]
- },
- {
-  "id": "1005011608884617",
-  "category": "baby-tees",
-  "name": "Ladybug Stripe Baby Tee",
-  "blurb": "Lucky, and she knows it.",
-  "details": [
-   "Striped knit with ladybug print",
-   "Slim fit"
-  ]
- },
- {
   "id": "1005012528616376",
   "category": "baby-tees",
-  "name": "Stripe Mock Neck Crop Tee",
+  "name": "Yellow Striped Ladybug Y2K Baby Tee",
   "blurb": "Hot girl, cold stare.",
   "details": [
    "Striped knit",
@@ -222,7 +162,7 @@
  {
   "id": "1005005994002200",
   "category": "baby-tees",
-  "name": "Ugly People Hate Me Baby Tee",
+  "name": "Ugly People Hate Me Y2K Baby Tee",
   "blurb": "Not our problem.",
   "details": [
    "Slogan print",
@@ -231,8 +171,8 @@
  },
  {
   "id": "1005006994513380",
-  "category": "baby-tees",
-  "name": "Clown Ringer Baby Tee",
+  "category": "tanks",
+  "name": "Vintage Clown Doll Print Y2K Cami",
   "blurb": "Send in the clowns.",
   "details": [
    "Vintage clown print",
@@ -242,7 +182,7 @@
  {
   "id": "1005011731172214",
   "category": "baby-tees",
-  "name": "J'adore 2002 Baby Tee",
+  "name": "J'adore 2002 Y2K Baby Tee",
   "blurb": "Peak year, peak tee.",
   "details": [
    "Slogan print",
@@ -252,7 +192,7 @@
  {
   "id": "1005012817224154",
   "category": "baby-tees",
-  "name": "MILF Baby Tee",
+  "name": "MILF Pink Letter Y2K Baby Tee",
   "blurb": "Read it however you want.",
   "details": [
    "Bold slogan print",
@@ -262,7 +202,7 @@
  {
   "id": "1005013331976335",
   "category": "baby-tees",
-  "name": "Skeleton Rib Baby Tee",
+  "name": "Skeleton Ribcage Goth V Neck Baby Tee",
   "blurb": "Bare to the bone.",
   "details": [
    "Skeleton rib cage print",
@@ -270,24 +210,15 @@
   ]
  },
  {
-  "id": "3256813393944260",
-  "category": "tanks",
-  "name": "Goth Kawaii Cami",
-  "depts": [
-   "women"
-  ],
-  "blurb": "For hot days and hotter nights."
- },
- {
   "id": "3256808858849911",
   "category": "baby-tees",
-  "name": "Clean Fit Baby Tee",
+  "name": "Black Slouchy Y2K Off Shoulder Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "3256812550574359",
   "category": "long-sleeves",
-  "name": "Waffle Knit Long Sleeve Tee",
+  "name": "Spider Lily Script Grunge Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -296,7 +227,7 @@
  {
   "id": "3256804502985747",
   "category": "tanks",
-  "name": "Rhinestone Corset Cami",
+  "name": "AB Rhinestone Y2K Corset Cami",
   "depts": [
    "women"
   ],
@@ -306,61 +237,31 @@
  {
   "id": "3256812782977204",
   "category": "baby-tees",
-  "name": "Cross Deep V Baby Tee",
+  "name": "Studded Cross Goth Crisscross V Neck Baby Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "3256812793989373",
   "category": "baby-tees",
-  "name": "Goth Emo Crop Tee",
+  "name": "Gothic Cathedral Goth Baby Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "3256812732872026",
-  "category": "baby-tees",
-  "name": "Shrunken Y2K Baby Tee",
-  "blurb": "Small tee, big attitude."
- },
- {
-  "id": "3256813405647739",
   "category": "tanks",
-  "name": "Goth Emo Tank",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Show some skin, keep the mystery."
- },
- {
-  "id": "3256812914660356",
-  "category": "baby-tees",
-  "name": "Butterfly Graphic Baby Tee",
-  "blurb": "For the front row of the show."
- },
- {
-  "id": "3256812732734603",
-  "category": "baby-tees",
-  "name": "Graphic Goth Crop Tee",
-  "blurb": "Grunge-girl approved."
+  "name": "Black Floral Script Grunge Cami",
+  "blurb": "Small tee, big attitude."
  },
  {
   "id": "3256813337809010",
-  "category": "baby-tees",
-  "name": "Vintage Fitted Baby Tee",
+  "category": "long-sleeves",
+  "name": "Navy Slim Fit Y2K Long Sleeve Tee",
   "blurb": "Small tee, big attitude."
- },
- {
-  "id": "3256813405410233",
-  "category": "tanks",
-  "name": "Corset Goth Tank",
-  "depts": [
-   "women"
-  ],
-  "blurb": "The top that does the talking."
  },
  {
   "id": "3256807737265399",
   "category": "long-sleeves",
-  "name": "Fairy Lace Long Sleeve Tee",
+  "name": "Grey Lace Trim Fairy Grunge Henley Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -369,7 +270,7 @@
  {
   "id": "3256805120381251",
   "category": "tanks",
-  "name": "Diamond Rhinestone Cami",
+  "name": "Nude Diamond Lattice Rhinestone Y2K Corset Cami",
   "depts": [
    "women"
   ],
@@ -377,19 +278,9 @@
   "blurb": "Show some skin, keep the mystery."
  },
  {
-  "id": "3256812845206587",
-  "category": "hoodies",
-  "name": "Turtleneck Zip Jacket",
-  "depts": [
-   "women"
-  ],
-  "price": 49.99,
-  "blurb": "Hood up, world off."
- },
- {
   "id": "3256807275365629",
   "category": "long-sleeves",
-  "name": "Fairy Graphic Long Sleeve Tee",
+  "name": "Luxurious Rose Y2K V Neck Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -398,7 +289,7 @@
  {
   "id": "3256805119508136",
   "category": "tanks",
-  "name": "Pearl Rhinestone Corset Cami",
+  "name": "Gold Studded Punk Corset Cami",
   "depts": [
    "women"
   ],
@@ -406,30 +297,15 @@
   "blurb": "The top that does the talking."
  },
  {
-  "id": "3256812985826984",
-  "category": "tanks",
-  "name": "Skeleton Graphic Cami",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Little top, big night."
- },
- {
   "id": "3256810160734908",
-  "category": "baby-tees",
-  "name": "Bow Patchwork Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
- },
- {
-  "id": "3256804680213398",
-  "category": "baby-tees",
-  "name": "Vintage Baby Tee",
+  "category": "hoodies",
+  "name": "Cream Cable Coquette Off Shoulder Knit Sweater",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "3256806726439781",
   "category": "hoodies",
-  "name": "Slogan Goth Zip Hoodie",
+  "name": "Yellow Gothic Letter Y2K Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -438,7 +314,7 @@
  {
   "id": "3256811564614510",
   "category": "tanks",
-  "name": "Leopard Lace Cami",
+  "name": "Blue Plaid Leopard Bow Harajuku Ruffle Cami",
   "depts": [
    "women"
   ],
@@ -447,7 +323,7 @@
  {
   "id": "3256810465165975",
   "category": "hoodies",
-  "name": "Skull Cross Jacket",
+  "name": "Skull Crossbones Emo Fleece Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -457,7 +333,7 @@
  {
   "id": "3256806078953829",
   "category": "hoodies",
-  "name": "Ultra Crop Hoodie",
+  "name": "Black Ultra Cropped Y2K Hoodie",
   "depts": [
    "women"
   ],
@@ -466,7 +342,7 @@
  {
   "id": "3256809522638473",
   "category": "hoodies",
-  "name": "Fur Slogan Zip Hoodie",
+  "name": "Faux Fur Hood Graphic Grunge Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -474,26 +350,20 @@
  },
  {
   "id": "3256812722159779",
-  "category": "baby-tees",
-  "name": "Corset Emo Crop Tee",
+  "category": "tanks",
+  "name": "Pink Drip Bones Emo Cami",
   "blurb": "Tight fit, loud mouth."
- },
- {
-  "id": "3256807543389315",
-  "category": "baby-tees",
-  "name": "Wave Print V-Neck Tee",
-  "blurb": "Made for mirror pics."
  },
  {
   "id": "3256810620277406",
   "category": "baby-tees",
-  "name": "Cherry Fitted Crop Tee",
+  "name": "Cherry Y2K Fitted Crop Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "3256811556561020",
   "category": "tanks",
-  "name": "Cross Fur Halter Top",
+  "name": "Predict Your Future Fur Trim Grunge Halter Top",
   "depts": [
    "women"
   ],
@@ -502,41 +372,29 @@
  {
   "id": "3256805877040714",
   "category": "long-sleeves",
-  "name": "Basic Crop Long Sleeve Tee",
+  "name": "Black Basic Y2K Cropped Long Sleeve Tee",
   "depts": [
    "women"
   ],
   "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
-  "id": "3256812767381069",
-  "category": "baby-tees",
-  "name": "Goth Kawaii Baby Tee",
-  "blurb": "Grunge-girl approved."
- },
- {
-  "id": "3256812904018374",
-  "category": "baby-tees",
-  "name": "Cross Graphic Baby Tee",
-  "blurb": "Your new go-out top."
- },
- {
   "id": "3256808011384198",
-  "category": "baby-tees",
-  "name": "Skeleton Graphic Baby Tee",
+  "category": "long-sleeves",
+  "name": "Skeleton X-Ray Grunge Thermal Long Sleeve Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "3256809567529614",
-  "category": "baby-tees",
-  "name": "Spiked Goth Crop Top",
+  "category": "tanks",
+  "name": "Black Spiked Punk Strappy Halter Top",
   "price": 47.99,
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "3256806622950424",
   "category": "long-sleeves",
-  "name": "Stripe Trashy Long Sleeve Tee",
+  "name": "Black Grey Striped Y2K Cropped Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -545,7 +403,7 @@
  {
   "id": "3256809865549815",
   "category": "hoodies",
-  "name": "Fur Slogan Cardigan",
+  "name": "Black Faux Fur Hood Studded Emo Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -553,42 +411,18 @@
   "blurb": "For cold nights and loud music."
  },
  {
-  "id": "3256812721981578",
-  "category": "baby-tees",
-  "name": "Goth Kawaii Crop Tee",
-  "blurb": "2003 called. It wants this back."
- },
- {
-  "id": "3256809101227709",
-  "category": "tanks",
-  "name": "Slogan Punk Tank",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Little top, big night."
- },
- {
   "id": "3256810439154441",
   "category": "hoodies",
-  "name": "Fur Cardigan",
+  "name": "Grey Faux Fur Hood Fitted Emo Zip Hoodie",
   "depts": [
    "women"
   ],
   "blurb": "Oversized and over it."
  },
  {
-  "id": "3256812578083530",
-  "category": "tanks",
-  "name": "Grunge Emo Cami",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Throw it under a jacket. Or don't."
- },
- {
   "id": "3256811366567783",
   "category": "long-sleeves",
-  "name": "Grunge Snakeskin Long Sleeve Tee",
+  "name": "White Snakeskin Knit Grunge Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -597,7 +431,7 @@
  {
   "id": "3256811976111583",
   "category": "shorts",
-  "name": "Punk Layered Shorts",
+  "name": "New York Halter Studded Punk Shorts Set",
   "depts": [
    "women"
   ],
@@ -606,13 +440,13 @@
  {
   "id": "3256809386174464",
   "category": "baby-tees",
-  "name": "Cross Grunge Baby Tee",
+  "name": "Metal Cross Sheer Grunge V Neck Baby Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "3256813339590849",
   "category": "shorts",
-  "name": "Fairy Lace Shorts",
+  "name": "Brown Lace Ruffle Fairy Grunge Bloomer Shorts",
   "depts": [
    "women"
   ],
@@ -621,13 +455,13 @@
  {
   "id": "3256810183426760",
   "category": "baby-tees",
-  "name": "Star Slogan Baby Tee",
+  "name": "Blue Star Y2K Raglan Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "3256813089184164",
   "category": "long-sleeves",
-  "name": "Lace Patchwork Long Sleeve Tee",
+  "name": "Grey Lace Trim Goth Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -636,7 +470,7 @@
  {
   "id": "3256808412145872",
   "category": "long-sleeves",
-  "name": "Stripe Off-Shoulder Long Sleeve Tee",
+  "name": "Black White Striped Emo Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -645,7 +479,7 @@
  {
   "id": "3256812384294238",
   "category": "long-sleeves",
-  "name": "Graphic Henley Long Sleeve Tee",
+  "name": "Angel Wing Cross Grunge Henley Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -654,7 +488,7 @@
  {
   "id": "3256813364706280",
   "category": "long-sleeves",
-  "name": "Fairy Polka Dot Long Sleeve Tee",
+  "name": "Polka Dot Babydoll Fairy Grunge Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -663,7 +497,7 @@
  {
   "id": "3256810617743623",
   "category": "shorts",
-  "name": "Backless Zebra Shorts",
+  "name": "Zebra Print Y2K Cami Shorts Set",
   "depts": [
    "women"
   ],
@@ -672,31 +506,31 @@
  {
   "id": "3256812306851658",
   "category": "baby-tees",
-  "name": "Ruched One-Shoulder Crop Tee",
+  "name": "Black Ruched Y2K One Shoulder Crop Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "3256807987999969",
   "category": "baby-tees",
-  "name": "Fitted Sexy Baby Tee",
+  "name": "White Basic Y2K Fitted Baby Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "3256812434949157",
   "category": "baby-tees",
-  "name": "Stripe Square Neck Crop Tee",
+  "name": "White Grommet Grunge Deep V Baby Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "3256810153300832",
-  "category": "baby-tees",
-  "name": "Knit Layered Baby Tee",
+  "category": "hoodies",
+  "name": "Brown Polka Dot Fairy Grunge Knit Cardigan Set",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "3256813037402640",
   "category": "long-sleeves",
-  "name": "Cross Off-Shoulder Long Sleeve Tee",
+  "name": "Studded Cross Goth Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -705,7 +539,7 @@
  {
   "id": "3256813209617342",
   "category": "hoodies",
-  "name": "Stripe Knit Cardigan",
+  "name": "Navy Striped Coquette Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -715,7 +549,7 @@
  {
   "id": "3256809874670088",
   "category": "long-sleeves",
-  "name": "Knit Sexy Long Sleeve Tee",
+  "name": "White Ribbed Shrug Y2K Cropped Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -724,7 +558,7 @@
  {
   "id": "3256807521363680",
   "category": "long-sleeves",
-  "name": "Slogan Ribbed Long Sleeve Tee",
+  "name": "Beige Letter Print Y2K Ribbed Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -733,7 +567,7 @@
  {
   "id": "3256807869078158",
   "category": "long-sleeves",
-  "name": "Stripe Punk Long Sleeve Tee",
+  "name": "Black Heart Grey Striped Emo Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -741,20 +575,20 @@
  },
  {
   "id": "3256809572530968",
-  "category": "baby-tees",
-  "name": "Graphic Grunge Baby Tee",
+  "category": "long-sleeves",
+  "name": "White Rock Patch Y2K Cropped Long Sleeve Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "3256810248354366",
   "category": "baby-tees",
-  "name": "Stripe Goth Baby Tee",
+  "name": "Navy Grey Striped Emo Oversized Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "3256809968701678",
   "category": "long-sleeves",
-  "name": "Goth Grunge Long Sleeve Tee",
+  "name": "Star Filigree Goth Bell Sleeve Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -763,7 +597,7 @@
  {
   "id": "3256812614837620",
   "category": "hoodies",
-  "name": "Coquette Cardigan",
+  "name": "White Tie Front Coquette Cropped Cardigan",
   "depts": [
    "women"
   ],
@@ -772,7 +606,7 @@
  {
   "id": "3256810620151568",
   "category": "tanks",
-  "name": "Leopard Punk Cami",
+  "name": "Pink Leopard Print Punk Cami",
   "depts": [
    "women"
   ],
@@ -781,7 +615,7 @@
  {
   "id": "3256813224518541",
   "category": "tanks",
-  "name": "Spider Web Plaid Tank",
+  "name": "Hunting Spider Web Goth Tube Top",
   "depts": [
    "women"
   ],
@@ -790,22 +624,13 @@
  {
   "id": "3256808746278067",
   "category": "baby-tees",
-  "name": "Heart Rhinestone Baby Tee",
+  "name": "Blue Rhinestone Filigree Y2K Baby Tee",
   "blurb": "Your new go-out top."
- },
- {
-  "id": "3256809449688919",
-  "category": "long-sleeves",
-  "name": "Floral Graphic Long Sleeve Tee",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Thumbholes optional, mood mandatory."
  },
  {
   "id": "3256812589836794",
   "category": "shorts",
-  "name": "Leopard Patchwork Shorts",
+  "name": "Leopard Raglan Y2K Tee Shorts Set",
   "depts": [
    "women"
   ],
@@ -813,26 +638,17 @@
  },
  {
   "id": "3256813037285666",
-  "category": "long-sleeves",
-  "name": "Angel Kitty Long Sleeve Tee",
+  "category": "tanks",
+  "name": "Rainbow Unicorn Angel Kitten Y2K Cami",
   "depts": [
    "women"
   ],
   "blurb": "Thumbholes optional, mood mandatory."
  },
  {
-  "id": "3256812044415475",
-  "category": "tanks",
-  "name": "Skull Graphic Tank",
-  "depts": [
-   "women"
-  ],
-  "blurb": "The top that does the talking."
- },
- {
   "id": "3256812197189226",
   "category": "tanks",
-  "name": "Fitted Tube Top",
+  "name": "Red Basic Y2K Fitted Tube Top",
   "depts": [
    "women"
   ],
@@ -841,7 +657,7 @@
  {
   "id": "3256809408987271",
   "category": "tanks",
-  "name": "Turtleneck Cami",
+  "name": "Red Mock Neck Ruched Y2K Arm Warmer Tank Top",
   "depts": [
    "women"
   ],
@@ -850,7 +666,7 @@
  {
   "id": "3256813267428512",
   "category": "hoodies",
-  "name": "Faux Fur Fawn Zip Hoodie",
+  "name": "Fawn Spot Faux Fur Reversible Y2K Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -858,15 +674,9 @@
   "blurb": "Fur trim, zero chill."
  },
  {
-  "id": "3256810593689390",
-  "category": "baby-tees",
-  "name": "Slogan Crop Tee",
-  "blurb": "Grunge-girl approved."
- },
- {
   "id": "3256812443958104",
   "category": "tanks",
-  "name": "Corset Graphic Cami",
+  "name": "Skull Crossbones Emo Cami",
   "depts": [
    "women"
   ],
@@ -875,7 +685,7 @@
  {
   "id": "3256809779592625",
   "category": "hoodies",
-  "name": "Fur Punk Jacket",
+  "name": "They Can't Be Us Grunge Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -885,7 +695,7 @@
  {
   "id": "3256807774287450",
   "category": "hoodies",
-  "name": "Fur Vintage Jacket",
+  "name": "Angel Wing 2008 Grunge Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -894,7 +704,7 @@
  {
   "id": "3256812557229485",
   "category": "shorts",
-  "name": "Leopard Fitted Shorts",
+  "name": "Leopard Fold Over Y2K Low Rise Shorts",
   "depts": [
    "women"
   ],
@@ -903,19 +713,19 @@
  {
   "id": "3256811878246867",
   "category": "baby-tees",
-  "name": "Kitty Rockstar Baby Tee",
+  "name": "Black Cat Guitar Rock Grunge Oversized Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "3256811816847390",
   "category": "baby-tees",
-  "name": "Lace Punk Crop Tee",
+  "name": "Striped Lace Hem Emo Square Neck Baby Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "3256809717023605",
   "category": "hoodies",
-  "name": "Cherry Goth Hoodie",
+  "name": "Cherry Y2K Pullover Hoodie",
   "depts": [
    "women"
   ],
@@ -924,31 +734,31 @@
  {
   "id": "1005013020934517",
   "category": "baby-tees",
-  "name": "Slogan Trashy Baby Tee",
+  "name": "Navy Doodle Letter Y2K Baby Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005012511393538",
   "category": "baby-tees",
-  "name": "Patchwork Vintage Baby Tee",
+  "name": "Orange Star Patch Harajuku Raglan Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005009193011318",
   "category": "baby-tees",
-  "name": "Baby Tee",
+  "name": "Black Lips Print Grunge Oversized Tee",
   "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005011966347460",
-  "category": "baby-tees",
-  "name": "Slogan Knit Baby Tee",
+  "category": "long-sleeves",
+  "name": "Colorful Graffiti Harajuku Thin Knit Sweater",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005012934272377",
   "category": "tanks",
-  "name": "Skull Grunge Tube Top",
+  "name": "Mint Cutout Skull Grunge Off Shoulder Set",
   "depts": [
    "women"
   ],
@@ -957,13 +767,13 @@
  {
   "id": "1005012209427818",
   "category": "baby-tees",
-  "name": "Patchwork Grunge Baby Tee",
+  "name": "Rhinestone Horse Grunge Raglan Baby Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005011628283674",
   "category": "long-sleeves",
-  "name": "Grunge Trashy Long Sleeve Tee",
+  "name": "96 Number Grunge Jersey Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -972,7 +782,7 @@
  {
   "id": "1005013485474607",
   "category": "long-sleeves",
-  "name": "Graphic Goth Long Sleeve Tee",
+  "name": "Black Bold Graphic Goth Slim Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -981,19 +791,19 @@
  {
   "id": "1005011743974361",
   "category": "baby-tees",
-  "name": "Slogan Grunge Baby Tee",
+  "name": "Tattoo Letter Collage Grunge Baby Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005011799854067",
   "category": "baby-tees",
-  "name": "Graphic Vintage Baby Tee",
+  "name": "Treble Clef Music Note Y2K Baby Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005010691875267",
   "category": "long-sleeves",
-  "name": "Stripe Patchwork Long Sleeve Tee",
+  "name": "Navy Red Striped Layered Harajuku Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1002,19 +812,19 @@
  {
   "id": "1005012283988563",
   "category": "baby-tees",
-  "name": "Angel Fairy Baby Tee",
+  "name": "Angel Wing Fairy Grunge Baby Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005008756300391",
   "category": "baby-tees",
-  "name": "Stripe Off-Shoulder Baby Tee",
+  "name": "Grey Striped Grunge Off Shoulder Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005010722480705",
   "category": "long-sleeves",
-  "name": "Floral Grunge Long Sleeve Tee",
+  "name": "Pink Lily Fairy Grunge Sheer Knit Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1023,7 +833,7 @@
  {
   "id": "1005012758622522",
   "category": "long-sleeves",
-  "name": "Lace Stripe Long Sleeve Tee",
+  "name": "Black Tie Front Shrug Striped Cami Grunge Set",
   "depts": [
    "women"
   ],
@@ -1032,7 +842,7 @@
  {
   "id": "1005010770595922",
   "category": "long-sleeves",
-  "name": "Fairy Long Sleeve Tee",
+  "name": "Blue Tie Dye Angel Fairy Grunge Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1041,7 +851,7 @@
  {
   "id": "1005009312731347",
   "category": "long-sleeves",
-  "name": "Long Sleeve Tee",
+  "name": "Black Wide Sleeve Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1050,7 +860,7 @@
  {
   "id": "1005007816179765",
   "category": "long-sleeves",
-  "name": "Fitted Sexy Long Sleeve Tee",
+  "name": "White Slash Neck Y2K Cropped Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1059,7 +869,7 @@
  {
   "id": "1005013586300873",
   "category": "hoodies",
-  "name": "Fur Goth Cardigan",
+  "name": "White Faux Fur Trim Goth Zip Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -1068,46 +878,22 @@
  {
   "id": "1005008455247676",
   "category": "baby-tees",
-  "name": "Graphic Layered Crop Tee",
+  "name": "Mystery Varsity Y2K Layered Crop Tee",
   "blurb": "Cute enough for the party, dark enough for after."
- },
- {
-  "id": "1005012831636703",
-  "category": "baby-tees",
-  "name": "Slogan Baby Tee",
-  "blurb": "Tight fit, loud mouth."
- },
- {
-  "id": "1005007023638918",
-  "category": "baby-tees",
-  "name": "Punk Emo Crop Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
- },
- {
-  "id": "1005012211831046",
-  "category": "baby-tees",
-  "name": "Graphic Crop Tee",
-  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005004050245093",
   "category": "socks",
-  "name": "Lace Sexy Socks",
+  "name": "Black Lace Ruffle Coquette Thigh High Socks",
   "depts": [
    "women"
   ],
   "blurb": "Layer them under everything."
  },
  {
-  "id": "1005012770769828",
-  "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee",
-  "blurb": "Grunge-girl approved."
- },
- {
   "id": "1005013131278587",
   "category": "long-sleeves",
-  "name": "Graphic Trashy Long Sleeve Tee",
+  "name": "Mint Green Graphic Y2K Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1116,7 +902,7 @@
  {
   "id": "1005011744348019",
   "category": "long-sleeves",
-  "name": "Heart Vintage Long Sleeve Tee",
+  "name": "Music Note Heart Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1125,13 +911,13 @@
  {
   "id": "1005012704587221",
   "category": "baby-tees",
-  "name": "Leopard Slogan Baby Tee",
+  "name": "Leopard Print Pink Script Y2K Baby Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005013204189156",
   "category": "long-sleeves",
-  "name": "Rhinestone Sequin Long Sleeve Tee",
+  "name": "Rhinestone Angel Wings Grunge Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1140,7 +926,7 @@
  {
   "id": "1005013313175179",
   "category": "long-sleeves",
-  "name": "Star Stripe Long Sleeve Tee",
+  "name": "Grey Striped Star Grunge Turtleneck Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1149,43 +935,43 @@
  {
   "id": "1005012585424591",
   "category": "baby-tees",
-  "name": "Fairy Graphic Crop Tee",
+  "name": "Light Blue Script Print Y2K Fitted Baby Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005012333791988",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee",
+  "name": "Pink Shoujo Girl Print Y2K Baby Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005012181551170",
   "category": "baby-tees",
-  "name": "Polka Dot Vintage Baby Tee",
+  "name": "Polka Dot Letter Y2K Puff Sleeve Baby Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005011892382920",
   "category": "baby-tees",
-  "name": "Lace Patchwork Baby Tee",
+  "name": "White Lace Tie Front Y2K V Neck Baby Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005010763281469",
   "category": "baby-tees",
-  "name": "Patchwork Graphic Baby Tee",
+  "name": "Striped Sleeve Music Note Y2K Layered Baby Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005012095215419",
   "category": "baby-tees",
-  "name": "Fairy Fitted Crop Tee",
+  "name": "Brown Ruched V Neck Y2K Fitted Crop Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005012112851118",
   "category": "socks",
-  "name": "Mesh Goth Socks",
+  "name": "White Criss Cross Goth Hollow Out Tights",
   "depts": [
    "women"
   ],
@@ -1194,25 +980,25 @@
  {
   "id": "1005012200883231",
   "category": "baby-tees",
-  "name": "Punk Grunge Baby Tee",
+  "name": "Piano Key Music Note Grunge V Neck Baby Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005012882078613",
   "category": "baby-tees",
-  "name": "Slogan Punk Baby Tee",
+  "name": "Pink Slogan Portrait Print Punk Baby Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005012591846101",
   "category": "baby-tees",
-  "name": "Fairy Vintage Crop Tee",
+  "name": "Pink Deep V Y2K Fitted Crop Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005013463045415",
   "category": "long-sleeves",
-  "name": "Lace Long Sleeve Tee",
+  "name": "Purple Lace Trim Knit Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1221,13 +1007,13 @@
  {
   "id": "1005008183031749",
   "category": "bags",
-  "name": "Cross Bag",
+  "name": "Brown Faux Leather Studded Y2K Shoulder Bag",
   "blurb": "Fits your phone, your lipstick and your secrets."
  },
  {
   "id": "1005005442936203",
   "category": "long-sleeves",
-  "name": "Fitted Long Sleeve Tee",
+  "name": "Orange Thumb Hole Y2K Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1236,70 +1022,58 @@
  {
   "id": "1005010566547357",
   "category": "long-sleeves",
-  "name": "Fairy Grunge Long Sleeve Tee",
+  "name": "Grey Striped Fairy Grunge Babydoll Knit Sweater",
   "depts": [
    "women"
   ],
   "blurb": "Layer it or wear it alone."
  },
  {
-  "id": "1005012095931802",
-  "category": "baby-tees",
-  "name": "Graphic Goth Kawaii Baby Tee",
-  "blurb": "Small tee, big attitude."
- },
- {
   "id": "1005012131756291",
   "category": "baby-tees",
-  "name": "Pleated Button Baby Tee",
+  "name": "Black Plaid Lace Trim Grunge Pleated Baby Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005012841912364",
   "category": "baby-tees",
-  "name": "Star Goth Crop Tee",
+  "name": "Pixel Skull Crossbones Emo Baby Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005008807308420",
   "category": "baby-tees",
-  "name": "Slogan Goth Grunge Crop Tee",
+  "name": "Peace And Love Grunge Baby Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005007957370552",
-  "category": "baby-tees",
-  "name": "Fairy Knit Crop Tee",
+  "category": "long-sleeves",
+  "name": "White Lace Tie Front Coquette Long Sleeve Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005010796349587",
-  "category": "baby-tees",
-  "name": "Lace Patchwork Crop Tee",
+  "category": "long-sleeves",
+  "name": "White Lace Bow Coquette Ribbed Long Sleeve Tee",
   "blurb": "Your new go-out top."
  },
  {
-  "id": "1005012018642156",
-  "category": "baby-tees",
-  "name": "Trashy Vintage Baby Tee",
-  "blurb": "The baby tee your ex remembers."
- },
- {
   "id": "1005008706968273",
-  "category": "baby-tees",
-  "name": "Lace Goth Crop Tee",
+  "category": "long-sleeves",
+  "name": "Black Lace Flare Sleeve Goth Cropped Shrug",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005011973368066",
   "category": "baby-tees",
-  "name": "Slogan Layered Baby Tee",
+  "name": "Invitation For Sweet Girl Y2K Layered Ringer Tee",
   "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005010760755267",
   "category": "long-sleeves",
-  "name": "Slogan Knit Long Sleeve Tee",
+  "name": "Grey Script Print Y2K Knit Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1308,7 +1082,7 @@
  {
   "id": "1005012872501857",
   "category": "long-sleeves",
-  "name": "Stripe Long Sleeve Tee",
+  "name": "Grey Striped Grunge Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1317,7 +1091,7 @@
  {
   "id": "1005013003114918",
   "category": "long-sleeves",
-  "name": "Stripe Layered Long Sleeve Tee",
+  "name": "Striped Long Sleeve Cami Grunge Layered Set",
   "depts": [
    "women"
   ],
@@ -1326,7 +1100,7 @@
  {
   "id": "1005013483208578",
   "category": "long-sleeves",
-  "name": "Lace Vintage Long Sleeve Tee",
+  "name": "Black Lace Up Goth Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1334,20 +1108,20 @@
  },
  {
   "id": "1005006237248947",
-  "category": "baby-tees",
-  "name": "Star Vintage Crop Tee",
+  "category": "long-sleeves",
+  "name": "Black Striped Star Y2K Knit Long Sleeve Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005011532103311",
-  "category": "baby-tees",
-  "name": "Cross Off-Shoulder Baby Tee",
+  "category": "long-sleeves",
+  "name": "Studded Black Cross Goth Off Shoulder Long Sleeve Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005013123914821",
   "category": "long-sleeves",
-  "name": "Patchwork Layered Long Sleeve Tee",
+  "name": "Black Striped Collar Y2K Layered Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1356,7 +1130,7 @@
  {
   "id": "1005012849771120",
   "category": "long-sleeves",
-  "name": "Lace Vintage Fitted Long Sleeve Tee",
+  "name": "Purple Lace Tie Front Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1365,13 +1139,13 @@
  {
   "id": "1005011899240916",
   "category": "baby-tees",
-  "name": "Slogan Grunge Crop Tee",
+  "name": "Blue Letter Print Grunge Cropped Baby Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005013355753623",
   "category": "long-sleeves",
-  "name": "Goth Long Sleeve Tee",
+  "name": "Black Striped Tattoo Print Grunge Layered Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1380,13 +1154,13 @@
  {
   "id": "1005012267326602",
   "category": "baby-tees",
-  "name": "Stripe Slogan Baby Tee",
+  "name": "Cold Fashion Striped Grunge Baby Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005010480415461",
   "category": "long-sleeves",
-  "name": "Graphic Grunge Long Sleeve Tee",
+  "name": "Grey Graphic Hooded Grunge Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1395,34 +1169,22 @@
  {
   "id": "1005004595588281",
   "category": "long-sleeves",
-  "name": "Fairy Floral Long Sleeve Tee",
+  "name": "Angel Wing Rose Fairy Grunge Long Sleeve Tee",
   "depts": [
    "women"
   ],
   "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
-  "id": "1005008834830754",
-  "category": "baby-tees",
-  "name": "Punk Layered Baby Tee",
-  "blurb": "Tight fit, loud mouth."
- },
- {
-  "id": "1005011930513592",
-  "category": "baby-tees",
-  "name": "Bunny Grunge Crop Tee",
-  "blurb": "Small tee, big attitude."
- },
- {
   "id": "1005008905516763",
   "category": "baby-tees",
-  "name": "Goth Fitted Baby Tee",
+  "name": "Black Mandarin Collar Swirl Goth Fitted Baby Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005009598483727",
   "category": "long-sleeves",
-  "name": "Fairy Off-Shoulder Long Sleeve Tee",
+  "name": "Music Sheet Fairy Grunge Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1431,19 +1193,19 @@
  {
   "id": "1005010428371525",
   "category": "baby-tees",
-  "name": "Goth Punk Crop Tee",
+  "name": "White Grommet V Neck Punk Fitted Crop Tee",
   "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005012017726954",
   "category": "baby-tees",
-  "name": "Kitty Vintage Baby Tee",
+  "name": "Join Me In My Dreams Y2K Baby Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005010434425961",
   "category": "long-sleeves",
-  "name": "Patchwork Long Sleeve Tee",
+  "name": "Black Henley Y2K Layered Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1452,19 +1214,19 @@
  {
   "id": "1005012899887271",
   "category": "baby-tees",
-  "name": "Graphic Goth Emo Baby Tee",
+  "name": "Crossed Bones Emo Fitted Baby Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005011912371746",
   "category": "baby-tees",
-  "name": "Polka Dot Baby Tee",
+  "name": "Polka Dot Puppy Y2K Baby Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005013400063750",
   "category": "long-sleeves",
-  "name": "Graphic Long Sleeve Tee",
+  "name": "Graffiti Tag Wing Grunge Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1473,70 +1235,55 @@
  {
   "id": "1005012148152080",
   "category": "baby-tees",
-  "name": "Grunge Trashy Baby Tee",
+  "name": "Portrait Print Red Scribble Grunge Baby Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005012910885767",
   "category": "baby-tees",
-  "name": "Stripe Patchwork Baby Tee",
+  "name": "White Shrug Striped Cami Y2K Layered Set",
   "blurb": "2003 called. It wants this back."
- },
- {
-  "id": "1005013315582114",
-  "category": "long-sleeves",
-  "name": "Trashy Vintage Long Sleeve Tee",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
   "id": "1005013291373709",
   "category": "baby-tees",
-  "name": "Fairy Grunge Baby Tee",
+  "name": "Black Half Sleeve Henley Grunge Baby Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005012220349988",
   "category": "baby-tees",
-  "name": "Cross Goth Baby Tee",
+  "name": "Studded Cross Goth Fitted Baby Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005011990203234",
   "category": "baby-tees",
-  "name": "Blue Graphic Baby Tee",
+  "name": "Headphones Girls Y2K Blue Baby Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005007444620349",
   "category": "baby-tees",
-  "name": "Slogan Grunge Vintage Crop Tee",
+  "name": "Pink Letter Print Y2K Skinny Crop Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005013419881191",
-  "category": "baby-tees",
-  "name": "Lace Baby Tee",
+  "category": "long-sleeves",
+  "name": "Grey Black Lace Trim Goth Layered Long Sleeve Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005011974438351",
   "category": "baby-tees",
-  "name": "Fairy Crop Tee",
+  "name": "Blue Scoop Neck Y2K Fitted Crop Tee",
   "blurb": "For the front row of the show."
- },
- {
-  "id": "1005013033463271",
-  "category": "bags",
-  "name": "Bag",
-  "blurb": "Fits your phone, your lipstick and your secrets."
  },
  {
   "id": "1005010722062616",
   "category": "long-sleeves",
-  "name": "Goth Grunge Knit Long Sleeve Tee",
+  "name": "Rosary Chain Cross Grunge Sheer Knit Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1545,64 +1292,58 @@
  {
   "id": "1005012777673021",
   "category": "baby-tees",
-  "name": "Slogan Punk Grunge Baby Tee",
+  "name": "Leopard Flag Letter Print Punk Baby Tee",
   "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005013128415782",
-  "category": "baby-tees",
-  "name": "Rose Deep V Crop Tee",
+  "category": "long-sleeves",
+  "name": "Pink Wrap Deep V Y2K Fitted Long Sleeve Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005003244354006",
   "category": "baby-tees",
-  "name": "Sexy Crop Tee",
+  "name": "Black Criss Cross Strap Y2K Mock Neck Crop Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005010151121150",
   "category": "baby-tees",
-  "name": "Sexy White Crop Tee",
+  "name": "Grey Slouchy Y2K Cropped Off Shoulder Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005008256304894",
   "category": "socks",
-  "name": "Lace Mesh Socks",
+  "name": "White Bow Ruffle Coquette Fishnet Thigh High Socks",
   "depts": [
    "women"
   ],
   "blurb": "Thigh-high and a little dangerous."
  },
  {
-  "id": "1005007949249141",
-  "category": "baby-tees",
-  "name": "Graphic Emo Baby Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
- },
- {
   "id": "1005012010125050",
   "category": "baby-tees",
-  "name": "Grey Vintage Fitted Baby Tee",
+  "name": "Grey Half Sleeve Y2K Fitted Baby Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005008178303175",
   "category": "baby-tees",
-  "name": "Graphic Goth Kawaii Crop Tee",
+  "name": "Goldfish Snorkel Y2K Print Baby Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005008875846750",
   "category": "baby-tees",
-  "name": "Corset Crop Tee",
+  "name": "Black Corset Waist Y2K Cropped Baby Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005011552882535",
   "category": "long-sleeves",
-  "name": "Grunge Long Sleeve Tee",
+  "name": "White Snakeskin Grunge Knit Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1611,19 +1352,19 @@
  {
   "id": "1005012002924912",
   "category": "baby-tees",
-  "name": "Lace Stripe Crop Tee",
+  "name": "Grey Striped Lace Bow Goth Button Baby Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005003633668086",
   "category": "baby-tees",
-  "name": "Fitted Sexy Crop Tee",
+  "name": "Black Scoop Neck Y2K Fitted Crop Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005013424608076",
   "category": "long-sleeves",
-  "name": "Rhinestone Polka Dot Long Sleeve Tee",
+  "name": "Rhinestone Eye Polka Dot Y2K Raglan Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1632,76 +1373,52 @@
  {
   "id": "1005010339615584",
   "category": "baby-tees",
-  "name": "Knit Baby Tee",
+  "name": "Brown Polka Dot Ruffle Y2K Knit Cardigan Set",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005011570150643",
   "category": "baby-tees",
-  "name": "Floral Slogan Baby Tee",
+  "name": "Orange Script Flower Y2K V Neck Baby Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005013206220818",
   "category": "long-sleeves",
-  "name": "Off-Shoulder Slogan Long Sleeve Tee",
+  "name": "Green Cowgirl Y2K Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
   "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
-  "id": "1005013310971843",
-  "category": "long-sleeves",
-  "name": "Graphic Grunge Vintage Long Sleeve Tee",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Fitted, dark and a little dramatic."
- },
- {
   "id": "1005008898069166",
   "category": "baby-tees",
-  "name": "Slogan Grunge Vintage Baby Tee",
+  "name": "Yellow Script Slogan Grunge Fitted Baby Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005012252081237",
   "category": "baby-tees",
-  "name": "Patchwork Baby Tee",
+  "name": "Blue 1997 Print Y2K Patchwork Baby Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005012812272200",
   "category": "baby-tees",
-  "name": "Stripe Baby Tee",
+  "name": "Lime Striped Letter Y2K Baby Tee",
   "blurb": "For the front row of the show."
- },
- {
-  "id": "1005012176512904",
-  "category": "long-sleeves",
-  "name": "Goth Oversized Long Sleeve Tee",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Soft on the arms, hard on the vibe."
  },
  {
   "id": "1005011780171851",
   "category": "baby-tees",
-  "name": "Lace Goth Baby Tee",
+  "name": "Black Lace Collar Goth Sheer Button Up Baby Tee",
   "blurb": "Pairs with low-rise and bad decisions."
- },
- {
-  "id": "1005008456370965",
-  "category": "baby-tees",
-  "name": "Floral Graphic Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005010280282794",
   "category": "hoodies",
-  "name": "Pink Hooded Jacket",
+  "name": "White Faux Fur Hood Y2K Cropped Puffer Jacket",
   "depts": [
    "women"
   ],
@@ -1710,34 +1427,28 @@
  {
   "id": "1005012972342234",
   "category": "long-sleeves",
-  "name": "Punk Grunge Long Sleeve Tee",
+  "name": "Angel Wing Tattoo Punk Sheer Knit Long Sleeve Tee",
   "depts": [
    "women"
   ],
   "blurb": "Thumbholes optional, mood mandatory."
  },
  {
-  "id": "1005012003162142",
-  "category": "baby-tees",
-  "name": "Lace Crop Tee",
-  "blurb": "Cropped for a reason."
- },
- {
   "id": "1005005372906343",
   "category": "baby-tees",
-  "name": "Fairy Graphic Emo Crop Tee",
+  "name": "Red J'adore 2002 Y2K Baby Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005009431060731",
   "category": "baby-tees",
-  "name": "Kitty Graphic Baby Tee",
+  "name": "Red Star Cat Grunge Graphic Baby Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005011816324414",
   "category": "long-sleeves",
-  "name": "Floral Punk Long Sleeve Tee",
+  "name": "Floral Print Grunge Wrap V Neck Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1746,13 +1457,13 @@
  {
   "id": "1005013296290666",
   "category": "baby-tees",
-  "name": "Lace Henley Baby Tee",
+  "name": "Camo Pink Lace Hem Y2K Henley Baby Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005013362563537",
   "category": "tanks",
-  "name": "Lace Corset Tube Top",
+  "name": "Black Satin Lace Up Goth Corset Top",
   "depts": [
    "women"
   ],
@@ -1761,19 +1472,13 @@
  {
   "id": "1005010661158465",
   "category": "baby-tees",
-  "name": "Fairy Stripe Baby Tee",
+  "name": "Grey Black Striped Fairy Grunge Baby Tee",
   "blurb": "Small tee, big attitude."
- },
- {
-  "id": "1005007989195748",
-  "category": "baby-tees",
-  "name": "Slogan Goth Grunge Emo Vintage Crop Tee",
-  "blurb": "Your new go-out top."
  },
  {
   "id": "1005006161391195",
   "category": "long-sleeves",
-  "name": "Fairy Lace Graphic Long Sleeve Tee",
+  "name": "Black Lace Trim Fairy Grunge Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1782,13 +1487,13 @@
  {
   "id": "1005009964000285",
   "category": "baby-tees",
-  "name": "Kitty Fitted Baby Tee",
+  "name": "Halftone Cat Face Grunge Fitted Baby Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005010805055707",
   "category": "long-sleeves",
-  "name": "Fairy Floral Coquette Long Sleeve Tee",
+  "name": "Pink Floral Coquette Wrap V Neck Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -1797,22 +1502,13 @@
  {
   "id": "1005010682835169",
   "category": "baby-tees",
-  "name": "Goth Layered Crop Tee",
+  "name": "Black Plaid Collar Goth Layered Puff Sleeve Baby Tee",
   "blurb": "Tight fit, loud mouth."
- },
- {
-  "id": "1005013554320688",
-  "category": "hoodies",
-  "name": "Fitted Jacket",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Fur trim, zero chill."
  },
  {
   "id": "1005005079020544",
   "category": "jewelry",
-  "name": "Goth Punk Jewelry",
+  "name": "Spiked Rivet Goth Hoop Earrings",
   "depts": [
    "women"
   ],
@@ -1821,7 +1517,7 @@
  {
   "id": "1005012875351171",
   "category": "accessories",
-  "name": "Floral Accessory",
+  "name": "Treble Clef Y2K Jelly Claw Hair Clip",
   "depts": [
    "women"
   ],
@@ -1830,7 +1526,7 @@
  {
   "id": "32822513278",
   "category": "accessories",
-  "name": "Goth Punk Belt",
+  "name": "Double Row Grommet Punk Belt",
   "depts": [
    "women"
   ],
@@ -1839,37 +1535,22 @@
  {
   "id": "1005011917152352",
   "category": "baby-tees",
-  "name": "White Vintage Baby Tee",
+  "name": "Blue Jellyfish Fairy Grunge Oversized Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005009469359013",
   "category": "pants",
-  "name": "Cherry Vintage Jeans",
+  "name": "Pink Cherry Blossom Y2K Baggy Wide Leg Jeans",
   "depts": [
    "men"
   ],
   "blurb": "Baggy, low and loud."
  },
  {
-  "id": "1005009198128636",
-  "category": "baby-tees",
-  "name": "Skeleton Punk Baby Tee",
-  "blurb": "Your new go-out top."
- },
- {
-  "id": "1005012278519805",
-  "category": "tees",
-  "name": "Vintage Tee",
-  "depts": [
-   "men"
-  ],
-  "blurb": "Washed, worn-in and a little mean."
- },
- {
   "id": "1005013174256539",
   "category": "accessories",
-  "name": "Star Knit Gloves",
+  "name": "Red Star Y2K Knit Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -1878,7 +1559,7 @@
  {
   "id": "1005006837064642",
   "category": "jewelry",
-  "name": "Goth Jewelry",
+  "name": "Spike Ear Cuff Punk Huggie Earrings",
   "depts": [
    "women"
   ],
@@ -1887,7 +1568,7 @@
  {
   "id": "1005009936214386",
   "category": "shoes",
-  "name": "Lace Bow Shoes",
+  "name": "Red Plaid Chain Bow Goth Platform Ankle Boots",
   "depts": [
    "women"
   ],
@@ -1895,8 +1576,8 @@
  },
  {
   "id": "1005009242067162",
-  "category": "jewelry",
-  "name": "Star Jewelry",
+  "category": "accessories",
+  "name": "Colorful Star Y2K Snap Hair Clips",
   "depts": [
    "women"
   ],
@@ -1904,44 +1585,23 @@
  },
  {
   "id": "1005009725755787",
-  "category": "baby-tees",
-  "name": "Lace Off-Shoulder Baby Tee",
+  "category": "long-sleeves",
+  "name": "Camo Lace Up Grunge Off Shoulder Corset Top",
   "blurb": "Made for mirror pics."
- },
- {
-  "id": "1005007702049603",
-  "category": "baby-tees",
-  "name": "Vintage Oversized Baby Tee",
-  "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005006710480273",
   "category": "jewelry",
-  "name": "Heart Punk Jewelry",
+  "name": "Gold Spiked Punk Hoop Earrings",
   "depts": [
    "women"
   ],
   "blurb": "The finishing touch nobody forgets."
  },
  {
-  "id": "1005008979204259",
-  "category": "pants",
-  "name": "Denim Baggy Jeans",
-  "depts": [
-   "women"
-  ],
-  "blurb": "The bottoms every top on here was waiting for."
- },
- {
-  "id": "1005008390403415",
-  "category": "baby-tees",
-  "name": "Oversized Baby Tee",
-  "blurb": "Made for mirror pics."
- },
- {
   "id": "1005013221691721",
   "category": "long-sleeves",
-  "name": "Lace Corset Long Sleeve Tee",
+  "name": "Black Lace Ruffle Goth Off Shoulder Corset Top",
   "depts": [
    "women"
   ],
@@ -1950,31 +1610,22 @@
  {
   "id": "32804765784",
   "category": "accessories",
-  "name": "Skull Sequin Gloves",
+  "name": "Rhinestone Bow Faux Fur Y2K Fingerless Gloves",
   "depts": [
    "women"
   ],
   "blurb": "Add it to anything black."
  },
  {
-  "id": "1005007694007448",
-  "category": "tees",
-  "name": "Skeleton Graphic Tee",
-  "depts": [
-   "men"
-  ],
-  "blurb": "Washed, worn-in and a little mean."
- },
- {
   "id": "1005008228733961",
   "category": "skirts",
-  "name": "Kawaii Fitted Skirt",
+  "name": "White Tiered Coquette Ruffle Skirt",
   "blurb": "Mini on purpose."
  },
  {
   "id": "1005010609897872",
-  "category": "jewelry",
-  "name": "Heart Lace Jewelry",
+  "category": "accessories",
+  "name": "Black Lace Heart Lace Up Goth Leg Garter",
   "depts": [
    "women"
   ],
@@ -1982,32 +1633,23 @@
  },
  {
   "id": "1005011749836963",
-  "category": "baby-tees",
-  "name": "Fairy Patchwork Baby Tee",
+  "category": "long-sleeves",
+  "name": "Navy Collared Henley Y2K Layered Long Sleeve Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005007036481876",
   "category": "accessories",
-  "name": "Stripe Goth Gloves",
+  "name": "Pink Striped Emo Thumb Hole Arm Warmers",
   "depts": [
    "women"
   ],
   "blurb": "The detail that makes the fit."
  },
  {
-  "id": "1005012994598042",
-  "category": "long-sleeves",
-  "name": "Goth Punk Long Sleeve Tee",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Fitted, dark and a little dramatic."
- },
- {
   "id": "1005004918136612",
   "category": "jewelry",
-  "name": "Goth Punk Black Jewelry",
+  "name": "Spiked Heart O Ring Goth Choker",
   "depts": [
    "women"
   ],
@@ -2016,40 +1658,19 @@
  {
   "id": "1005008657547631",
   "category": "baby-tees",
-  "name": "Goth Vintage Black Baby Tee",
+  "name": "Black Ruffle Lace Goth Puff Sleeve Baby Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005009190266441",
   "category": "skirts",
-  "name": "Plaid Patchwork Skirt",
+  "name": "Red Plaid Chain Punk Asymmetric Lace Mini Skirt",
   "blurb": "Pairs with platforms and thigh-highs."
- },
- {
-  "id": "1005008029576445",
-  "category": "baby-tees",
-  "name": "Skeleton Skull Baby Tee",
-  "blurb": "Cropped for a reason."
- },
- {
-  "id": "1005010248252290",
-  "category": "dresses",
-  "name": "Layered Sexy Set",
-  "blurb": "One piece, whole look."
- },
- {
-  "id": "1005012904480040",
-  "category": "pants",
-  "name": "Flare Leggings",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Big legs, bigger energy."
  },
  {
   "id": "1005010000519742",
   "category": "accessories",
-  "name": "Stripe Gloves",
+  "name": "Pink Star Y2K Ribbed Knit Arm Warmers",
   "depts": [
    "women"
   ],
@@ -2058,37 +1679,31 @@
  {
   "id": "1005008704944487",
   "category": "skirts",
-  "name": "Goth Punk Skirt",
+  "name": "Black Lace Up Rivet Goth Layered Ruffle Mini Skirt",
   "blurb": "Ruffles with a bad attitude."
  },
  {
   "id": "1005010408799747",
   "category": "baby-tees",
-  "name": "Gary Baby Tee",
+  "name": "This Rock Is Pissing Me Off Y2K Oversized Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005006071879111",
   "category": "baby-tees",
-  "name": "Skeleton Skull Oversized Baby Tee",
+  "name": "Autism Skeleton Grunge Oversized Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005011633549927",
   "category": "baby-tees",
-  "name": "Skeleton Skull Vintage Baby Tee",
+  "name": "Autism Flame Skeleton Grunge Washed Oversized Tee",
   "blurb": "Your new go-out top."
  },
  {
-  "id": "1005012072986258",
-  "category": "baby-tees",
-  "name": "Goth Punk Harajuku Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
- },
- {
   "id": "1005009348490544",
-  "category": "pants",
-  "name": "Lace Mesh Leggings",
+  "category": "socks",
+  "name": "White Lace Ruffle Bow Coquette Leg Warmers",
   "depts": [
    "women"
   ],
@@ -2097,61 +1712,22 @@
  {
   "id": "4001364651210",
   "category": "skirts",
-  "name": "Goth Skirt",
+  "name": "Red Plaid Buckle Strap Punk Asymmetric Mini Skirt",
   "blurb": "Ruffles with a bad attitude."
  },
  {
-  "id": "1005011906813055",
-  "category": "baby-tees",
-  "name": "Gary Skeleton Goth Vintage Oversized Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
- },
- {
-  "id": "1005013110789361",
-  "category": "baby-tees",
-  "name": "Goth Vintage Harajuku Baby Tee",
-  "blurb": "For the front row of the show."
- },
- {
   "id": "1005009092075502",
-  "category": "pants",
-  "name": "Black Grey Pants",
+  "category": "shorts",
+  "name": "Black Pleated Wide Leg Grunge Long Shorts",
   "depts": [
    "men"
   ],
   "blurb": "Baggy, low and loud."
  },
  {
-  "id": "1005012008333193",
-  "category": "jewelry",
-  "name": "Vintage Jewelry",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Spikes for your softest days."
- },
- {
-  "id": "1005013541667843",
-  "category": "pants",
-  "name": "Square Neck Pants",
-  "depts": [
-   "women"
-  ],
-  "blurb": "The bottoms every top on here was waiting for."
- },
- {
-  "id": "1005013516747003",
-  "category": "hoodies",
-  "name": "Milk Grey Fitted Jacket",
-  "depts": [
-   "women"
-  ],
-  "blurb": "The layer everyone asks about."
- },
- {
   "id": "1005012306170726",
   "category": "jewelry",
-  "name": "Goth Punk Black Studded Jewelry",
+  "name": "Razor Blade Spike Hoop Punk Earrings",
   "depts": [
    "women"
   ],
@@ -2160,31 +1736,22 @@
  {
   "id": "1005004266144184",
   "category": "jewelry",
-  "name": "Angel Slogan Jewelry",
+  "name": "Hot Pink Leather Buckle Punk Choker",
   "depts": [
    "women"
   ],
   "blurb": "Spikes for your softest days."
  },
  {
-  "id": "1005013526283770",
-  "category": "tanks",
-  "name": "Tank",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Straps out, eyes up."
- },
- {
   "id": "1005008586909527",
-  "category": "baby-tees",
-  "name": "Black Vintage Baby Tee",
+  "category": "long-sleeves",
+  "name": "Black Lace Ruffle Victorian Goth Bell Sleeve Blouse",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005012768235548",
   "category": "accessories",
-  "name": "Pink Wig",
+  "name": "Pink Long Straight Bangs Harajuku Wig",
   "depts": [
    "women"
   ],
@@ -2193,7 +1760,7 @@
  {
   "id": "1005013359061518",
   "category": "jewelry",
-  "name": "Floral Goth Jewelry",
+  "name": "Black Filigree Goth Pendant Necklace",
   "depts": [
    "women"
   ],
@@ -2202,22 +1769,16 @@
  {
   "id": "1005012496460779",
   "category": "jewelry",
-  "name": "Punk Jewelry",
+  "name": "Silver Key Ball Chain Grunge Necklace",
   "depts": [
    "women"
   ],
   "blurb": "Spikes for your softest days."
  },
  {
-  "id": "1005007594463647",
-  "category": "baby-tees",
-  "name": "Skeleton Skull Goth Vintage Baby Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
- },
- {
   "id": "1005013431014877",
   "category": "hoodies",
-  "name": "Fur Jacket",
+  "name": "Brown Faux Fur Hood Y2K Zip Parka Jacket",
   "depts": [
    "women"
   ],
@@ -2226,7 +1787,7 @@
  {
   "id": "1005003693122534",
   "category": "accessories",
-  "name": "Sunglasses",
+  "name": "Black Oversized Y2K Polarized Sunglasses",
   "depts": [
    "women"
   ],
@@ -2235,7 +1796,7 @@
  {
   "id": "3256812854101960",
   "category": "pants",
-  "name": "Leopard Pants",
+  "name": "Leopard Print Y2K High Waist Wide Leg Pants",
   "depts": [
    "women"
   ],
@@ -2244,7 +1805,7 @@
  {
   "id": "3256813297640917",
   "category": "pants",
-  "name": "Grey Baggy Sweatpants",
+  "name": "Charcoal Grey Y2K Drawstring Wide Leg Sweatpants",
   "depts": [
    "women"
   ],
@@ -2253,25 +1814,16 @@
  {
   "id": "3256813298026438",
   "category": "pants",
-  "name": "Fitted Jeans",
+  "name": "Black Angel Wing Embroidered Y2K Wide Leg Jeans",
   "depts": [
    "women"
   ],
   "blurb": "The bottoms every top on here was waiting for."
  },
  {
-  "id": "3256809198686950",
-  "category": "long-sleeves",
-  "name": "White3 Fitted Long Sleeve Tee",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Layer it or wear it alone."
- },
- {
   "id": "3256807722362845",
   "category": "hoodies",
-  "name": "Hooded Harajuku Jacket",
+  "name": "Dark Grey Y2K Cropped Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -2280,7 +1832,7 @@
  {
   "id": "3256809551990516",
   "category": "pants",
-  "name": "Camo Sweatpants",
+  "name": "Light Grey Camo Embroidered Y2K Jogger Sweatpants",
   "depts": [
    "women"
   ],
@@ -2288,14 +1840,14 @@
  },
  {
   "id": "3256803858741454",
-  "category": "lingerie",
-  "name": "Rhinestone Sequin Lingerie",
+  "category": "tanks",
+  "name": "Black Lace Coquette Bustier Corset Top",
   "blurb": "Lace, but make it dark."
  },
  {
   "id": "3256808654726923",
   "category": "pants",
-  "name": "Vintage Sweatpants",
+  "name": "Heather Grey Y2K Low Rise Wide Leg Sweatpants",
   "depts": [
    "women"
   ],
@@ -2304,7 +1856,7 @@
  {
   "id": "3256807968108480",
   "category": "long-sleeves",
-  "name": "Patchwork Black Long Sleeve Tee",
+  "name": "Black White Colorblock Y2K Oversized Raglan Tee",
   "depts": [
    "women"
   ],
@@ -2313,13 +1865,13 @@
  {
   "id": "3256812597259385",
   "category": "skirts",
-  "name": "Lace Goth Skirt",
+  "name": "Brown Plaid Bow Lace Coquette Ruffle Mini Skirt",
   "blurb": "Mini on purpose."
  },
  {
   "id": "3256812623609900",
   "category": "long-sleeves",
-  "name": "Patchwork Vintage Long Sleeve Tee",
+  "name": "Blue Patchwork Off Shoulder Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -2328,7 +1880,7 @@
  {
   "id": "3256809136382552",
   "category": "long-sleeves",
-  "name": "Slogan Long Sleeve Tee",
+  "name": "I Wish I Was Real Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -2337,28 +1889,22 @@
  {
   "id": "3256807806233696",
   "category": "dresses",
-  "name": "Lace Plaid Set",
+  "name": "White Bow Blouse Black Skort Coquette Set",
   "blurb": "One piece, whole look."
  },
  {
   "id": "3256812337060146",
   "category": "tanks",
-  "name": "Cross Ruched Halter Top",
+  "name": "White Cross Wrap Ruched Y2K Halter Top",
   "depts": [
    "women"
   ],
   "blurb": "Straps out, eyes up."
  },
  {
-  "id": "3256812972080956",
-  "category": "baby-tees",
-  "name": "Kitty Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
- },
- {
   "id": "3256812876635710",
   "category": "pants",
-  "name": "Pants",
+  "name": "Black White Pattern Stripe Y2K Flare Pants",
   "depts": [
    "women"
   ],
@@ -2367,7 +1913,7 @@
  {
   "id": "3256813344079946",
   "category": "pants",
-  "name": "Vintage Jeans",
+  "name": "Light Wash Ripped Y2K Straight Leg Jeans",
   "depts": [
    "women"
   ],
@@ -2376,73 +1922,43 @@
  {
   "id": "3256813151925351",
   "category": "dresses",
-  "name": "Lace Goth Dress",
+  "name": "Grey Lace Trim Coquette Ruffle Hem Mini Dress",
   "blurb": "Throw it on, go out."
  },
  {
   "id": "3256812493303993",
   "category": "skirts",
-  "name": "Lace Skirt",
+  "name": "Black Lace Tiered Ruffle Goth Mini Skirt",
   "blurb": "Pairs with platforms and thigh-highs."
  },
  {
   "id": "3256812403150852",
   "category": "skirts",
-  "name": "Leopard Goth Skirt",
+  "name": "Brown Distressed Top Fur Trim Shorts Grunge Set",
   "blurb": "Ruffles with a bad attitude."
- },
- {
-  "id": "3256813244700125",
-  "category": "hoodies",
-  "name": "Fur Vintage Fitted Jacket",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Fur trim, zero chill."
  },
  {
   "id": "3256812801328484",
   "category": "baby-tees",
-  "name": "Deep V Coquette Crop Tee",
+  "name": "Brown Deep V Button Coquette Puff Sleeve Crop Tee",
   "blurb": "Grunge-girl approved."
- },
- {
-  "id": "3256811793487531",
-  "category": "baby-tees",
-  "name": "Slogan Graphic Goth Crop Tee",
-  "blurb": "The baby tee your ex remembers."
- },
- {
-  "id": "3256812996876354",
-  "category": "hoodies",
-  "name": "Graphic Cow Hoodie",
-  "depts": [
-   "women"
-  ],
-  "blurb": "For cold nights and loud music."
- },
- {
-  "id": "3256812781569802",
-  "category": "dresses",
-  "name": "Sexy Dress",
-  "blurb": "One piece, whole look."
  },
  {
   "id": "3256812710584972",
   "category": "skirts",
-  "name": "Lace Patchwork Skirt",
+  "name": "Black Bow Lace Trim Y2K Tiered Mini Skirt",
   "blurb": "Twirl at your own risk."
  },
  {
   "id": "3256813204935940",
   "category": "baby-tees",
-  "name": "Skeleton Graphic Goth Baby Tee",
+  "name": "Skeleton Ribcage Goth Oversized Baby Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "3256812313739057",
   "category": "pants",
-  "name": "Blue Denim Jeans",
+  "name": "Union Jack Pocket Y2K Low Rise Straight Jeans",
   "depts": [
    "women"
   ],
@@ -2451,13 +1967,13 @@
  {
   "id": "3256812574803309",
   "category": "dresses",
-  "name": "Kawaii Vintage Dress",
+  "name": "White Lace Babydoll Coquette Puff Sleeve Mini Dress",
   "blurb": "For the party and the after-party."
  },
  {
   "id": "3256813216004217",
   "category": "long-sleeves",
-  "name": "Nq437 Slogan Long Sleeve Tee",
+  "name": "Grateful 23 Y2K Racing Jersey Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -2466,22 +1982,13 @@
  {
   "id": "3256813393055732",
   "category": "dresses",
-  "name": "Fur Kawaii Set",
+  "name": "Red Faux Fur Cape Coquette Christmas Dress Set",
   "blurb": "Dress up, act out."
- },
- {
-  "id": "3256812090549565",
-  "category": "pants",
-  "name": "Goth Punk Pants",
-  "depts": [
-   "women"
-  ],
-  "blurb": "The bottoms every top on here was waiting for."
  },
  {
   "id": "3256812943672659",
   "category": "pants",
-  "name": "Rhinestone Vintage Jeans",
+  "name": "Rhinestone Asymmetric Distressed Y2K Wide Leg Jeans",
   "depts": [
    "women"
   ],
@@ -2490,73 +1997,37 @@
  {
   "id": "3256812477677260",
   "category": "skirts",
-  "name": "Cross Goth Skirt",
+  "name": "White Tiered Ruffle Cross Charm Y2K Mini Skirt",
   "blurb": "Ruffles with a bad attitude."
- },
- {
-  "id": "3256809429223196",
-  "category": "pants",
-  "name": "Leggings",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Baggy, low and loud."
- },
- {
-  "id": "3256810061937538",
-  "category": "dresses",
-  "name": "Layered Set",
-  "blurb": "One piece, whole look."
  },
  {
   "id": "3256812248496054",
   "category": "baby-tees",
-  "name": "Stripe Graphic Crop Tee",
+  "name": "Grey Black Striped Lace Trim Grunge Baby Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "3256807258346589",
   "category": "pants",
-  "name": "Fitted Sexy Pants",
+  "name": "Grey Fold Over Y2K Low Rise Flare Pants",
   "depts": [
    "women"
   ],
   "blurb": "Baggy, low and loud."
  },
  {
-  "id": "3256813417986594",
-  "category": "dresses",
-  "name": "Leopard Jumpsuit",
-  "blurb": "Throw it on, go out."
- },
- {
   "id": "3256812701305828",
-  "category": "pants",
-  "name": "Goth Pants",
+  "category": "hoodies",
+  "name": "Black Bondage Strap Buckle Goth Zip Up Jacket",
   "depts": [
    "women"
   ],
   "blurb": "The bottoms every top on here was waiting for."
  },
  {
-  "id": "3256813310961714",
-  "category": "baby-tees",
-  "name": "Skeleton Skull Graphic Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
- },
- {
-  "id": "3256813423176237",
-  "category": "pants",
-  "name": "Fitted Pants",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Wear them low, walk like you mean it."
- },
- {
   "id": "3256812772960862",
   "category": "pants",
-  "name": "Blue Fitted Jeans",
+  "name": "Red Tribal Embroidered Y2K Wide Leg Jeans",
   "depts": [
    "women"
   ],
@@ -2565,43 +2036,31 @@
  {
   "id": "3256813171967783",
   "category": "dresses",
-  "name": "Layered Fitted Set",
+  "name": "Grey Bodysuit Wide Leg Pants Y2K Set",
   "blurb": "For the party and the after-party."
  },
  {
   "id": "3256810037704919",
   "category": "skirts",
-  "name": "Fairy Lace Skirt",
+  "name": "Piano Key Polka Dot Lace Goth Mini Skirt",
   "blurb": "Ruffles with a bad attitude."
- },
- {
-  "id": "3256813381100444",
-  "category": "dresses",
-  "name": "Fur Set",
-  "blurb": "One piece, whole look."
- },
- {
-  "id": "3256811936639508",
-  "category": "baby-tees",
-  "name": "Star Goth Baby Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "3256810463343948",
   "category": "baby-tees",
-  "name": "Dm3440-red Baby Tee",
+  "name": "Not Cute Anymore Y2K Baby Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "3256812137980731",
   "category": "baby-tees",
-  "name": "Goth Punk Grunge Baby Tee",
+  "name": "Black Ruched Puff Sleeve Goth Button Up Top",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "3256813003733700",
-  "category": "accessories",
-  "name": "Sexy Belt",
+  "category": "skirts",
+  "name": "Grey Distressed Studded Belt Grunge Micro Mini Skirt",
   "depts": [
    "women"
   ],
@@ -2609,29 +2068,20 @@
  },
  {
   "id": "3256806808255914",
-  "category": "baby-tees",
-  "name": "Layered Baby Tee",
+  "category": "long-sleeves",
+  "name": "Blue Knit Vest Collar Layered Y2K Blouse",
   "blurb": "2003 called. It wants this back."
- },
- {
-  "id": "3256813430549778",
-  "category": "tanks",
-  "name": "Bodysuit",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Little top, big night."
  },
  {
   "id": "3256813242460832",
   "category": "dresses",
-  "name": "Layered Fitted Black Set",
+  "name": "Black White Piping Y2K Split Flare Pants Set",
   "blurb": "Dress up, act out."
  },
  {
   "id": "3256812190496116",
-  "category": "accessories",
-  "name": "Emo Belt",
+  "category": "skirts",
+  "name": "Black Distressed Rivet Belt Emo Leather Mini Skirt",
   "depts": [
    "women"
   ],
@@ -2640,76 +2090,52 @@
  {
   "id": "3256812390051742",
   "category": "dresses",
-  "name": "Lace Bow Dress",
+  "name": "Black White Bow Lolita Harajuku Tiered Ruffle Dress",
   "blurb": "For the party and the after-party."
  },
  {
   "id": "3256809230786543",
   "category": "tanks",
-  "name": "Vintage Tank",
+  "name": "Brown Victorian Tailcoat Goth Double Breasted Vest",
   "depts": [
    "women"
   ],
   "blurb": "Built for summer and sold-out shows."
  },
  {
-  "id": "3256812928433452",
-  "category": "dresses",
-  "name": "Turtleneck Fitted Dress",
-  "blurb": "For the party and the after-party."
- },
- {
-  "id": "3256811933304660",
-  "category": "baby-tees",
-  "name": "Graphic Goth Grunge Crop Tee",
-  "blurb": "Small tee, big attitude."
- },
- {
-  "id": "3256809990566546",
-  "category": "baby-tees",
-  "name": "Goth Oversized Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
- },
- {
   "id": "3256805742470567",
   "category": "skirts",
-  "name": "Goth Punk Vintage Skirt",
+  "name": "Grey Damask Lace Up Goth Fishtail Maxi Skirt",
   "blurb": "Pairs with platforms and thigh-highs."
  },
  {
   "id": "3256810037921862",
   "category": "skirts",
-  "name": "Lace Goth White Skirt",
+  "name": "White Ruffle Lace Coquette Asymmetric Bustle Skirt",
   "blurb": "Twirl at your own risk."
  },
  {
   "id": "3256809836908647",
   "category": "baby-tees",
-  "name": "Slogan Graphic Baby Tee",
+  "name": "Red 23 Jersey Y2K V Neck Oversized Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "3256809640613654",
   "category": "baby-tees",
-  "name": "Baby Tee No. 654",
+  "name": "Ni Hao Fine Shyt Y2K Baby Tee",
   "blurb": "Cropped for a reason."
- },
- {
-  "id": "3256808518629735",
-  "category": "skirts",
-  "name": "Goth Punk Grunge Skirt",
-  "blurb": "Twirl at your own risk."
  },
  {
   "id": "3256812428785313",
   "category": "skirts",
-  "name": "Leopard Patchwork Skirt",
+  "name": "Navy Pink Ruffle Trim Harajuku Tiered Mini Skirt",
   "blurb": "Mini on purpose."
  },
  {
   "id": "3256813156025577",
   "category": "hoodies",
-  "name": "Button Jacket",
+  "name": "Black Oversized Button Down Grunge Overshirt Jacket",
   "depts": [
    "women"
   ],
@@ -2718,31 +2144,16 @@
  {
   "id": "3256809849860303",
   "category": "pants",
-  "name": "Trashy Vintage Jeans",
+  "name": "Blue Washed Trashy Y2K Low Rise Baggy Jeans",
   "depts": [
    "women"
   ],
   "blurb": "Baggy, low and loud."
- },
- {
-  "id": "3256806729933171",
-  "category": "pants",
-  "name": "Slogan Graphic Pants",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Baggy, low and loud."
- },
- {
-  "id": "3256811639924904",
-  "category": "dresses",
-  "name": "Rhinestone Ruched Dress",
-  "blurb": "One piece, whole look."
  },
  {
   "id": "1005013031681720",
   "category": "hoodies",
-  "name": "Stripe Knit Hoodie",
+  "name": "Black Grey Striped V Neck Grunge Knit Sweater",
   "depts": [
    "women"
   ],
@@ -2751,7 +2162,7 @@
  {
   "id": "1005005763645625",
   "category": "pants",
-  "name": "Grunge Vintage Jeans",
+  "name": "Black Asymmetric Waist Grunge Low Rise Flare Jeans",
   "depts": [
    "women"
   ],
@@ -2760,13 +2171,13 @@
  {
   "id": "1005013032768679",
   "category": "baby-tees",
-  "name": "Stripe Trashy Baby Tee",
+  "name": "Blue Striped Hooded Button Y2K Baby Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005013101567944",
   "category": "hoodies",
-  "name": "Knit Vintage Hoodie",
+  "name": "Navy Fair Isle Jacquard Y2K Slim Knit Sweater",
   "depts": [
    "women"
   ],
@@ -2775,7 +2186,7 @@
  {
   "id": "1005010408956492",
   "category": "hoodies",
-  "name": "Stripe Knit Jacket",
+  "name": "Purple Striped Turtleneck Y2K Zip Up Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -2784,7 +2195,7 @@
  {
   "id": "1005006809265176",
   "category": "long-sleeves",
-  "name": "Stripe Trashy Vintage Long Sleeve Tee",
+  "name": "Black Grey Striped Trashy Y2K Cropped Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -2793,13 +2204,13 @@
  {
   "id": "1005009572489216",
   "category": "baby-tees",
-  "name": "Cross Baby Tee",
+  "name": "Black Studded Cross Trashy Y2K V Neck Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005010323965323",
   "category": "hoodies",
-  "name": "Knit Turtleneck Hoodie",
+  "name": "Khaki Cable Knit Cape Turtleneck Y2K Knit Sweater",
   "depts": [
    "women"
   ],
@@ -2808,7 +2219,7 @@
  {
   "id": "1005010284560089",
   "category": "hoodies",
-  "name": "Off-Shoulder Knit Hoodie",
+  "name": "Blue Snowflake Jacquard Off Shoulder Y2K Knit Sweater",
   "depts": [
    "women"
   ],
@@ -2817,7 +2228,7 @@
  {
   "id": "1005003830520577",
   "category": "hoodies",
-  "name": "Stripe Goth Hoodie",
+  "name": "Red Black Striped Distressed Emo Knit Sweater",
   "depts": [
    "women"
   ],
@@ -2826,13 +2237,13 @@
  {
   "id": "1005013173845114",
   "category": "baby-tees",
-  "name": "Patchwork Vintage Harajuku Baby Tee",
+  "name": "Blue Striped Sleeve Patchwork Harajuku Raglan Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005007707678432",
   "category": "long-sleeves",
-  "name": "Slogan Ribbed Trashy Long Sleeve Tee",
+  "name": "Letter Print Ribbed Trashy Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -2841,7 +2252,7 @@
  {
   "id": "1005010082290137",
   "category": "long-sleeves",
-  "name": "Stripe Knit Long Sleeve Tee",
+  "name": "Black White Striped Lazy Knit Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -2850,37 +2261,28 @@
  {
   "id": "1005012849914423",
   "category": "baby-tees",
-  "name": "Stripe Floral Baby Tee",
+  "name": "Pink Striped Floral Print Y2K Half Sleeve Baby Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005010154242083",
-  "category": "accessories",
-  "name": "Stripe Off-Shoulder Scarf",
+  "category": "long-sleeves",
+  "name": "Grey Striped Off Shoulder Scarf Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
   "blurb": "Little extra, big difference."
  },
  {
-  "id": "1005010598024327",
-  "category": "long-sleeves",
-  "name": "Vintage Long Sleeve Tee",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Fitted, dark and a little dramatic."
- },
- {
   "id": "1005009598727823",
   "category": "baby-tees",
-  "name": "Slogan Goth Baby Tee",
+  "name": "Tattoo Letter Print Goth Sheer Baby Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005008258496294",
   "category": "long-sleeves",
-  "name": "Fur Off-Shoulder Long Sleeve Tee",
+  "name": "Faux Fur Collar Off Shoulder Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -2889,7 +2291,7 @@
  {
   "id": "1005012180868344",
   "category": "tanks",
-  "name": "Sequin Trashy Tank",
+  "name": "Silver Metal Sequin Trashy Y2K Tank Top",
   "depts": [
    "women"
   ],
@@ -2898,7 +2300,7 @@
  {
   "id": "1005010090047505",
   "category": "long-sleeves",
-  "name": "Patchwork Slogan Long Sleeve Tee",
+  "name": "Grey Layered Fake Two Piece Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -2907,7 +2309,7 @@
  {
   "id": "1005006390857505",
   "category": "long-sleeves",
-  "name": "Vintage Fitted Long Sleeve Tee",
+  "name": "Black Beaded Hollow Out Y2K Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -2916,19 +2318,19 @@
  {
   "id": "1005010652191598",
   "category": "baby-tees",
-  "name": "Cross Grunge Trashy Baby Tee",
+  "name": "Silver Cross Off Shoulder Grunge Sheer Baby Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005008991094904",
   "category": "baby-tees",
-  "name": "Slogan Grunge Trashy Baby Tee",
+  "name": "Dark Grey Back Print Grunge Trashy Baby Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005008468611487",
   "category": "long-sleeves",
-  "name": "Patchwork Knit Long Sleeve Tee",
+  "name": "Grey Black Patchwork Ribbed Knit Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -2936,20 +2338,20 @@
  },
  {
   "id": "1005003827520990",
-  "category": "baby-tees",
-  "name": "Goth Grunge Baby Tee",
+  "category": "long-sleeves",
+  "name": "Black Crinkle Irregular Hem Goth Button Up Blouse",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005005572768391",
-  "category": "baby-tees",
-  "name": "Fairy Lace Baby Tee",
+  "category": "long-sleeves",
+  "name": "Cream Lace Up Ruffle Fairy Grunge Long Sleeve Blouse",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005006061143508",
   "category": "long-sleeves",
-  "name": "Goth Grunge Knit Ribbed Long Sleeve Tee",
+  "name": "Black Tattoo Print Shirring Goth Ribbed Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -2958,7 +2360,7 @@
  {
   "id": "1005013484383931",
   "category": "long-sleeves",
-  "name": "Slogan Vintage Long Sleeve Tee",
+  "name": "Grey Flag Letter Print Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -2967,7 +2369,7 @@
  {
   "id": "1005010495070325",
   "category": "long-sleeves",
-  "name": "Cross Trashy Long Sleeve Tee",
+  "name": "White Cross Irregular Trashy V Neck Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -2976,13 +2378,13 @@
  {
   "id": "1005009348602047",
   "category": "baby-tees",
-  "name": "Plaid Vintage Baby Tee",
+  "name": "Blue Plaid Button Y2K Puff Sleeve Shirt",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005012460346238",
   "category": "tanks",
-  "name": "Patchwork Layered Halter Top",
+  "name": "Blue Black Layered Fake Two Piece Y2K Halter Top",
   "depts": [
    "women"
   ],
@@ -2991,7 +2393,7 @@
  {
   "id": "1005008012767582",
   "category": "hoodies",
-  "name": "Stripe Hoodie",
+  "name": "Navy White Striped V Neck Y2K Slim Knit Sweater",
   "depts": [
    "women"
   ],
@@ -3000,7 +2402,7 @@
  {
   "id": "1005007927056120",
   "category": "long-sleeves",
-  "name": "Kitty Vintage Long Sleeve Tee",
+  "name": "Kitten Face Jersey Y2K V Neck Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3009,7 +2411,7 @@
  {
   "id": "1005013351866168",
   "category": "long-sleeves",
-  "name": "Slogan Trashy Long Sleeve Tee",
+  "name": "Grey Graphic Letter Print Trashy Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3018,7 +2420,7 @@
  {
   "id": "1005006195386504",
   "category": "long-sleeves",
-  "name": "Mesh Goth Long Sleeve Tee",
+  "name": "Black Tattoo Print Mesh Goth Sheer Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3027,7 +2429,7 @@
  {
   "id": "1005012329331983",
   "category": "tanks",
-  "name": "Lace Patchwork Cami",
+  "name": "Green Lace Trim Layered Trashy Y2K Cami",
   "depts": [
    "women"
   ],
@@ -3036,7 +2438,7 @@
  {
   "id": "1005012016594831",
   "category": "long-sleeves",
-  "name": "Knit Vintage Long Sleeve Tee",
+  "name": "Crayon Graffiti House Print Y2K Knit Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3045,19 +2447,19 @@
  {
   "id": "1005007380036374",
   "category": "baby-tees",
-  "name": "Rhinestone Slogan Crop Tee",
+  "name": "Yellow Rhinestone Letter Trashy Y2K Crop Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005007606846909",
   "category": "baby-tees",
-  "name": "Rhinestone Off-Shoulder Crop Tee",
+  "name": "Red Rhinestone Superstar Off Shoulder Y2K Crop Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005008191675672",
   "category": "long-sleeves",
-  "name": "Patchwork Knit Ribbed Long Sleeve Tee",
+  "name": "Mouse Crossbones Y2K Ribbed Raglan Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3066,25 +2468,16 @@
  {
   "id": "1005013177532290",
   "category": "long-sleeves",
-  "name": "Patchwork Vintage Harajuku Long Sleeve Tee",
+  "name": "Cafe Sketch Y2K Raglan Long Sleeve Tee",
   "depts": [
    "women"
   ],
   "blurb": "Made for late nights and later mornings."
  },
  {
-  "id": "1005009394588558",
-  "category": "tanks",
-  "name": "Trashy Vintage Cami",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Built for summer and sold-out shows."
- },
- {
   "id": "1005007279744053",
   "category": "tanks",
-  "name": "Grunge Trashy Tank",
+  "name": "Cherry Print Y2K Zip Front Tank Top",
   "depts": [
    "women"
   ],
@@ -3093,7 +2486,7 @@
  {
   "id": "1005013185287361",
   "category": "hoodies",
-  "name": "Knit Ribbed Hoodie",
+  "name": "White Ribbed Henley Y2K Knit Sweater",
   "depts": [
    "women"
   ],
@@ -3101,14 +2494,14 @@
  },
  {
   "id": "1005007614263742",
-  "category": "baby-tees",
-  "name": "Fairy Baby Tee",
+  "category": "long-sleeves",
+  "name": "White Pleated Lace Up Fairy Grunge Long Sleeve Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005008218340745",
   "category": "long-sleeves",
-  "name": "Grunge Knit Long Sleeve Tee",
+  "name": "Grey Graffiti Grunge Ribbed Knit Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3117,7 +2510,7 @@
  {
   "id": "1005013355681421",
   "category": "long-sleeves",
-  "name": "Layered Trashy Long Sleeve Tee",
+  "name": "Black Striped Sleeve Grunge Layered Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3126,25 +2519,25 @@
  {
   "id": "1005009459360283",
   "category": "baby-tees",
-  "name": "Slogan Ribbed Crop Tee",
+  "name": "Rock Star New York Y2K Ribbed Baby Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005008579337276",
   "category": "baby-tees",
-  "name": "Slogan Trashy Crop Tee",
+  "name": "Yellow Black Script Y2K Fitted Baby Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005007278981758",
-  "category": "baby-tees",
-  "name": "Lace Mesh Baby Tee",
+  "category": "long-sleeves",
+  "name": "Plaid Lace Cross Patchwork Grunge Mesh Long Sleeve Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005010103627658",
   "category": "long-sleeves",
-  "name": "Fairy Off-Shoulder Vintage Long Sleeve Tee",
+  "name": "Heart Cupid Fairy Grunge Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3153,28 +2546,19 @@
  {
   "id": "1005012936091621",
   "category": "baby-tees",
-  "name": "Slogan Trashy Vintage Baby Tee",
+  "name": "Zebra Stripe <333 Y2K Off Shoulder Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005013358678092",
-  "category": "dresses",
-  "name": "Knit Layered Set",
+  "category": "hoodies",
+  "name": "Brown Argyle Fur Collar Y2K Knit Cardigan Set",
   "blurb": "Dress up, act out."
  },
  {
   "id": "1005012794212619",
   "category": "tanks",
-  "name": "Rhinestone Patchwork Halter Top",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Show some skin, keep the mystery."
- },
- {
-  "id": "1005007023213247",
-  "category": "tanks",
-  "name": "Fairy Ribbed Tank",
+  "name": "Rhinestone Pink Anchor Stripe Y2K Halter Top",
   "depts": [
    "women"
   ],
@@ -3183,7 +2567,7 @@
  {
   "id": "1005006798585734",
   "category": "hoodies",
-  "name": "Bunny Vintage Jacket",
+  "name": "Grey Bunny Ear Y2K Short Sleeve Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -3192,7 +2576,7 @@
  {
   "id": "1005009821279420",
   "category": "long-sleeves",
-  "name": "Slogan Graphic Long Sleeve Tee",
+  "name": "Magazine Collage Y2K Graphic Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3200,8 +2584,8 @@
  },
  {
   "id": "1005008592072110",
-  "category": "long-sleeves",
-  "name": "Lace Fur Long Sleeve Tee",
+  "category": "hoodies",
+  "name": "Khaki Lace Fur Collar Fairy Grunge Cardigan",
   "depts": [
    "women"
   ],
@@ -3210,7 +2594,7 @@
  {
   "id": "1005007880156230",
   "category": "hoodies",
-  "name": "Grunge Knit Jacket",
+  "name": "Grey Cross Print Grunge Layered Knit Jacket",
   "depts": [
    "women"
   ],
@@ -3219,7 +2603,7 @@
  {
   "id": "1005010035850979",
   "category": "hoodies",
-  "name": "Knit Hoodie",
+  "name": "White V Neck Y2K Cable Knit Sweater",
   "depts": [
    "women"
   ],
@@ -3228,31 +2612,31 @@
  {
   "id": "1005006976019114",
   "category": "baby-tees",
-  "name": "Knit Vintage Baby Tee",
+  "name": "Pink Beaded Cutout Y2K Knit Baby Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005012708205003",
   "category": "baby-tees",
-  "name": "Rhinestone Kawaii Baby Tee",
+  "name": "Rhinestone Pink Graphic Y2K Baby Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005009855173952",
   "category": "baby-tees",
-  "name": "Leopard Patchwork Crop Tee",
+  "name": "Leopard Patchwork Y2K Layered Tie Crop Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005009253031979",
   "category": "baby-tees",
-  "name": "Slogan Grunge Trashy Vintage Baby Tee",
+  "name": "Black Character Print 333 Grunge Baby Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005010044664974",
   "category": "hoodies",
-  "name": "Knit Vintage Fitted Hoodie",
+  "name": "Navy Blue Y2K Fitted Cable Knit Sweater",
   "depts": [
    "women"
   ],
@@ -3260,14 +2644,14 @@
  },
  {
   "id": "1005007077858198",
-  "category": "baby-tees",
-  "name": "Patchwork Goth Baby Tee",
+  "category": "long-sleeves",
+  "name": "Black Tattoo Print Goth Layered Long Sleeve Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005012980381437",
   "category": "long-sleeves",
-  "name": "Kitty Mesh Long Sleeve Tee",
+  "name": "Polka Dot Cat Print Y2K Mesh Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3276,13 +2660,13 @@
  {
   "id": "1005005414465331",
   "category": "baby-tees",
-  "name": "Fairy Bunny Crop Tee",
+  "name": "Bunny Pink Heart Y2K Crop Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005013224629130",
-  "category": "accessories",
-  "name": "Stripe Knit Scarf",
+  "category": "hoodies",
+  "name": "Coffee Striped Y2K Knit Cardigan With Scarf",
   "depts": [
    "women"
   ],
@@ -3291,7 +2675,7 @@
  {
   "id": "1005007601986496",
   "category": "long-sleeves",
-  "name": "Slogan Trashy Vintage Long Sleeve Tee",
+  "name": "White Handwritten Text Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3300,7 +2684,7 @@
  {
   "id": "1005013375461772",
   "category": "long-sleeves",
-  "name": "Slogan Trashy Vintage White Long Sleeve Tee",
+  "name": "White Script Letter Y2K Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3309,7 +2693,7 @@
  {
   "id": "1005008501417185",
   "category": "long-sleeves",
-  "name": "Goth Grunge Trashy Long Sleeve Tee",
+  "name": "Black Tattoo Print Goth Irregular Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3318,7 +2702,7 @@
  {
   "id": "1005006841913386",
   "category": "long-sleeves",
-  "name": "Grunge Trashy Vintage Long Sleeve Tee",
+  "name": "Green Graffiti Print Grunge Cropped Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3327,13 +2711,13 @@
  {
   "id": "1005011768018773",
   "category": "baby-tees",
-  "name": "Fairy Lace Crop Tee",
+  "name": "White Lace Puff Sleeve Coquette Square Neck Crop Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005003874810526",
   "category": "hoodies",
-  "name": "Stripe Goth Punk Hoodie",
+  "name": "Purple Striped Goth Distressed Knit Sweater",
   "depts": [
    "women"
   ],
@@ -3341,8 +2725,8 @@
  },
  {
   "id": "1005006462597171",
-  "category": "accessories",
-  "name": "Knit Vintage Scarf",
+  "category": "hoodies",
+  "name": "Purple Ribbed Y2K Crop Cardigan With Scarf",
   "depts": [
    "women"
   ],
@@ -3351,13 +2735,13 @@
  {
   "id": "1005008690745863",
   "category": "baby-tees",
-  "name": "Grunge Baby Tee",
+  "name": "Black Graffiti Sketch Grunge Baby Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005009903061552",
   "category": "long-sleeves",
-  "name": "Slogan Vintage White Long Sleeve Tee",
+  "name": "Blackletter Slogan Grunge Oversized Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3366,7 +2750,7 @@
  {
   "id": "1005010006576986",
   "category": "long-sleeves",
-  "name": "Vintage Harajuku Long Sleeve Tee",
+  "name": "Red Number 25 Y2K Jersey Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3375,22 +2759,16 @@
  {
   "id": "1005013167842313",
   "category": "hoodies",
-  "name": "Polka Dot Vintage Jacket",
+  "name": "Blue Polka Dot Y2K Hooded Zip Up Jacket",
   "depts": [
    "women"
   ],
   "blurb": "For cold nights and loud music."
  },
  {
-  "id": "1005004511378926",
-  "category": "baby-tees",
-  "name": "Fairy Grunge Harajuku Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
- },
- {
   "id": "1005013401515820",
   "category": "long-sleeves",
-  "name": "Polka Dot Kawaii Long Sleeve Tee",
+  "name": "Blue Polka Dot Y2K Tie Front Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3398,8 +2776,8 @@
  },
  {
   "id": "1005009889187751",
-  "category": "accessories",
-  "name": "Off-Shoulder Trashy Scarf",
+  "category": "long-sleeves",
+  "name": "Graffiti Scarf Y2K Off Shoulder Flare Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3408,25 +2786,25 @@
  {
   "id": "1005012892309131",
   "category": "baby-tees",
-  "name": "Leopard Stripe Baby Tee",
+  "name": "Leopard Striped Patchwork Y2K V Neck Baby Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005007409931329",
   "category": "baby-tees",
-  "name": "Backless Slogan Crop Tee",
+  "name": "Pink Perfection Y2K Backless Lace Up Crop Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005011967066048",
   "category": "baby-tees",
-  "name": "Vintage White Baby Tee",
+  "name": "White Chest Embroidery Y2K V Neck Baby Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005005062086248",
   "category": "hoodies",
-  "name": "Skull Goth Hoodie",
+  "name": "Black Skull Star Goth Mohair Knit Sweater",
   "depts": [
    "women"
   ],
@@ -3435,7 +2813,7 @@
  {
   "id": "1005008863764074",
   "category": "tanks",
-  "name": "Slogan Trashy Tank",
+  "name": "Yellow Letter Print Y2K Slim Tank Top",
   "depts": [
    "women"
   ],
@@ -3444,13 +2822,13 @@
  {
   "id": "1005007047171346",
   "category": "baby-tees",
-  "name": "Kitty Patchwork Baby Tee",
+  "name": "Pink Cat Doodle Y2K Striped Raglan Baby Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005007852310271",
   "category": "long-sleeves",
-  "name": "Cross Patchwork Long Sleeve Tee",
+  "name": "Beige Cross Patchwork Grunge Ribbed Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3459,13 +2837,13 @@
  {
   "id": "1005007033177844",
   "category": "baby-tees",
-  "name": "Kawaii Crop Tee",
+  "name": "Call Delivery Bunny Y2K Pink Crop Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005011868380164",
   "category": "long-sleeves",
-  "name": "Stripe Knit Vintage Long Sleeve Tee",
+  "name": "Brown Striped Y2K Knit Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3474,7 +2852,7 @@
  {
   "id": "1005009280141915",
   "category": "tanks",
-  "name": "Slogan Tank",
+  "name": "Red Letter Print Y2K Cropped Tank Top",
   "depts": [
    "women"
   ],
@@ -3483,7 +2861,7 @@
  {
   "id": "1005006982478341",
   "category": "long-sleeves",
-  "name": "Fairy Mesh Long Sleeve Tee",
+  "name": "Blue Panda Print Y2K Keyhole Mesh Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3492,7 +2870,7 @@
  {
   "id": "1005008929301267",
   "category": "tanks",
-  "name": "Rhinestone Off-Shoulder Tank",
+  "name": "Rhinestone Dark Grey Y2K Sleeveless Off Shoulder Tee",
   "depts": [
    "women"
   ],
@@ -3501,13 +2879,13 @@
  {
   "id": "1005009244004239",
   "category": "baby-tees",
-  "name": "Polka Dot Kawaii Crop Tee",
+  "name": "Polka Dot Palm Tree Y2K Crop Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005004866231125",
   "category": "long-sleeves",
-  "name": "Slogan Grunge Long Sleeve Tee",
+  "name": "Yellow Letter Print Grunge Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3516,13 +2894,13 @@
  {
   "id": "1005012412616814",
   "category": "baby-tees",
-  "name": "Slogan Vintage Baby Tee",
+  "name": "Born In 90s Y2K Square Neck Baby Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005008982287003",
   "category": "long-sleeves",
-  "name": "Stripe Off-Shoulder Vintage Long Sleeve Tee",
+  "name": "Blue Striped Y2K Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3531,19 +2909,19 @@
  {
   "id": "1005008800213460",
   "category": "baby-tees",
-  "name": "Slogan Trashy Vintage Distressed Baby Tee",
+  "name": "White Distressed Letter Print Y2K Baby Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005003334486936",
-  "category": "baby-tees",
-  "name": "Sexy Baby Tee",
+  "category": "hoodies",
+  "name": "Sage Green Sheer Fairy Grunge Flare Sleeve Knit Sweater",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005003347645947",
-  "category": "accessories",
-  "name": "Belt",
+  "category": "skirts",
+  "name": "Brown Belted Y2K High Waist Pleated Skirt",
   "depts": [
    "women"
   ],
@@ -3551,20 +2929,20 @@
  },
  {
   "id": "1005006703959821",
-  "category": "baby-tees",
-  "name": "Lace Grunge Baby Tee",
+  "category": "long-sleeves",
+  "name": "Green Ruffle Fairy Grunge Tie Front Long Sleeve Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005009850713869",
   "category": "baby-tees",
-  "name": "Polka Dot Vintage Harajuku Baby Tee",
+  "name": "White Polka Dot Y2K V Neck Button Baby Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005013339630357",
   "category": "hoodies",
-  "name": "Kawaii Knit Cardigan",
+  "name": "Mint Green Y2K Single Breasted Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -3573,13 +2951,13 @@
  {
   "id": "1005009290388758",
   "category": "baby-tees",
-  "name": "Trashy Baby Tee",
+  "name": "White Graffiti Star Y2K Loose Baby Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005010314605423",
   "category": "long-sleeves",
-  "name": "Lace Knit Long Sleeve Tee",
+  "name": "Purple Leopard Ruffle Y2K Lace Up Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3588,7 +2966,7 @@
  {
   "id": "1005009207131248",
   "category": "tanks",
-  "name": "Fairy Floral Tank",
+  "name": "Blue Floral Print Fairy Grunge Ribbed Tank Top",
   "depts": [
    "women"
   ],
@@ -3597,7 +2975,7 @@
  {
   "id": "1005010103852537",
   "category": "hoodies",
-  "name": "Fur Knit Jacket",
+  "name": "Navy Blue Furry Y2K Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -3605,32 +2983,32 @@
  },
  {
   "id": "1005012720177240",
-  "category": "dresses",
-  "name": "Patchwork Layered Set",
+  "category": "tanks",
+  "name": "Pink Grey Y2K Layered Cami Set",
   "blurb": "Dress up, act out."
  },
  {
   "id": "1005009449543172",
   "category": "baby-tees",
-  "name": "Slogan Grunge Trashy Vintage Harajuku Baby Tee",
+  "name": "Grey Star Print Grunge V Neck Baby Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005012862872515",
   "category": "baby-tees",
-  "name": "Slogan Layered Trashy Baby Tee",
+  "name": "Grey Blue Letter Y2K Layered V Neck Baby Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005012212569428",
   "category": "baby-tees",
-  "name": "Slogan Vintage White Baby Tee",
+  "name": "Black Dotted Letter Y2K Oversized Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005013483247899",
   "category": "long-sleeves",
-  "name": "Slogan Ribbed Vintage Long Sleeve Tee",
+  "name": "Love Heart Y2K Boat Neck Ribbed Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3638,14 +3016,14 @@
  },
  {
   "id": "1005013066708161",
-  "category": "baby-tees",
-  "name": "Off-Shoulder Slogan Baby Tee",
+  "category": "long-sleeves",
+  "name": "Music Is The Answer Y2K Off Shoulder Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005004694549271",
   "category": "long-sleeves",
-  "name": "Graphic Grunge Fitted Long Sleeve Tee",
+  "name": "White Distorted Text Grunge Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3654,7 +3032,7 @@
  {
   "id": "1005013375401257",
   "category": "hoodies",
-  "name": "Stripe Cardigan",
+  "name": "White Striped Y2K Single Breasted Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -3663,7 +3041,7 @@
  {
   "id": "1005009204660905",
   "category": "tanks",
-  "name": "Layered Vintage Cami",
+  "name": "Yellow Layered Y2K Double Strap Cami",
   "depts": [
    "women"
   ],
@@ -3672,19 +3050,19 @@
  {
   "id": "1005007546355339",
   "category": "baby-tees",
-  "name": "Grunge Trashy Vintage Baby Tee",
+  "name": "Black Red Eagle Tattoo Grunge V Neck Baby Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005009165374638",
-  "category": "baby-tees",
-  "name": "Off-Shoulder Baby Tee",
+  "category": "long-sleeves",
+  "name": "Shine On Y2K Sheer Knit Off Shoulder Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005008479834341",
   "category": "long-sleeves",
-  "name": "Mesh Vintage Long Sleeve Tee",
+  "name": "Purple Plaid Sheer Y2K Mesh Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3693,7 +3071,7 @@
  {
   "id": "1005008244188354",
   "category": "long-sleeves",
-  "name": "Grunge Vintage Long Sleeve Tee",
+  "name": "Grey Tattoo Sketch Grunge Distressed Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3702,22 +3080,13 @@
  {
   "id": "1005012541512390",
   "category": "baby-tees",
-  "name": "Slogan Trashy Vintage Grey Baby Tee",
+  "name": "Grey Pink Star Y2K Fitted Baby Tee",
   "blurb": "Made for mirror pics."
  },
  {
-  "id": "1005008301297535",
-  "category": "long-sleeves",
-  "name": "Patchwork Punk Long Sleeve Tee",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
- },
- {
   "id": "1005005320885934",
-  "category": "pants",
-  "name": "Fairy Mesh Pants",
+  "category": "long-sleeves",
+  "name": "Pink Swirl Fairy Grunge Sheer Mesh Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3726,7 +3095,7 @@
  {
   "id": "1005010422307972",
   "category": "long-sleeves",
-  "name": "Sequin Trashy Long Sleeve Tee",
+  "name": "Sequin Brown Y2K V Neck Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3735,7 +3104,7 @@
  {
   "id": "1005010306931572",
   "category": "long-sleeves",
-  "name": "Vintage White Long Sleeve Tee",
+  "name": "White Doodle Print Y2K Loose Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3744,13 +3113,13 @@
  {
   "id": "1005012221389769",
   "category": "baby-tees",
-  "name": "Patchwork Vintage White Baby Tee",
+  "name": "Puppy Embroidered Y2K Gingham Trim Baby Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005007254794991",
   "category": "tanks",
-  "name": "Grunge Knit Tank",
+  "name": "Red Black Sheer Knit Grunge Layered Tank Top",
   "depts": [
    "women"
   ],
@@ -3759,7 +3128,7 @@
  {
   "id": "1005012891440046",
   "category": "long-sleeves",
-  "name": "Vintage Harajuku Graffiti Long Sleeve Tee",
+  "name": "Brown Puppy Doodle Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3768,7 +3137,7 @@
  {
   "id": "1005006355170082",
   "category": "long-sleeves",
-  "name": "Kitty Patchwork Long Sleeve Tee",
+  "name": "Vintage Cats Painting Y2K Cropped Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3776,8 +3145,8 @@
  },
  {
   "id": "1005007112972715",
-  "category": "pants",
-  "name": "Vintage Pants",
+  "category": "hoodies",
+  "name": "Army Green Y2K Cargo Zip Up Short Sleeve Jacket",
   "depts": [
    "women"
   ],
@@ -3786,13 +3155,13 @@
  {
   "id": "1005011669752934",
   "category": "baby-tees",
-  "name": "Slogan Vintage Black Baby Tee",
+  "name": "Black Paragraph Print Y2K Baby Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005007877399509",
   "category": "long-sleeves",
-  "name": "Skull Goth Long Sleeve Tee",
+  "name": "Nothingness Skull Grunge Sheer Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3801,13 +3170,13 @@
  {
   "id": "1005006839163266",
   "category": "baby-tees",
-  "name": "Bunny Knit Crop Tee",
+  "name": "White Bunny Knit Y2K Cutout Crop Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005013298060115",
   "category": "long-sleeves",
-  "name": "Vintage Black Long Sleeve Tee",
+  "name": "White Sun Doodle Y2K Black Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3816,25 +3185,25 @@
  {
   "id": "1005012163032581",
   "category": "baby-tees",
-  "name": "Graphic Trashy Baby Tee",
+  "name": "Yellow Sunburst Grunge Graphic Baby Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005005393366179",
   "category": "baby-tees",
-  "name": "Mesh Graphic Crop Tee",
+  "name": "Strawberry Cake Y2K Mesh Crop Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005012704367341",
   "category": "baby-tees",
-  "name": "Slogan Vintage White Harajuku Baby Tee",
+  "name": "White Letter Embroidered Y2K Deep V Neck Baby Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005005830088998",
   "category": "tanks",
-  "name": "Kawaii Tank",
+  "name": "Good Day Ice Cream Y2K Tank Top",
   "depts": [
    "women"
   ],
@@ -3843,7 +3212,7 @@
  {
   "id": "1005003351673741",
   "category": "long-sleeves",
-  "name": "Skull Off-Shoulder Long Sleeve Tee",
+  "name": "Skull Butterfly Goth Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3851,14 +3220,14 @@
  },
  {
   "id": "1005005117702398",
-  "category": "baby-tees",
-  "name": "Angel Fairy Crop Tee",
+  "category": "long-sleeves",
+  "name": "Angel Heart Fairy Grunge Cropped Long Sleeve Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005011528709468",
   "category": "hoodies",
-  "name": "Fur Grunge Jacket",
+  "name": "Black Fur Hood Grunge Zip Up Jacket",
   "depts": [
    "women"
   ],
@@ -3867,19 +3236,19 @@
  {
   "id": "1005008811897539",
   "category": "baby-tees",
-  "name": "Slogan Vintage Oversized Baby Tee",
+  "name": "Chrysanthemum Red Flower Y2K Oversized Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005006904976669",
   "category": "baby-tees",
-  "name": "Trashy Vintage Crop Tee",
+  "name": "No One Will Love Anyone Else Y2K Crop Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005006779019800",
   "category": "long-sleeves",
-  "name": "Mesh Slogan Long Sleeve Tee",
+  "name": "California Brown Grunge Sheer Mesh Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3888,13 +3257,13 @@
  {
   "id": "1005003754948546",
   "category": "dresses",
-  "name": "Stripe Deep V Dress",
+  "name": "Blue Green Striped Y2K Scoop Neck Knit Mini Dress",
   "blurb": "Throw it on, go out."
  },
  {
   "id": "1005007569741093",
   "category": "long-sleeves",
-  "name": "Fairy Slogan Long Sleeve Tee",
+  "name": "Yellow Slogan Fairy Grunge Cropped Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3903,7 +3272,7 @@
  {
   "id": "1005008243863846",
   "category": "long-sleeves",
-  "name": "Grunge Knit Ribbed Long Sleeve Tee",
+  "name": "Spider Web Goth Ribbed Knit Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3912,31 +3281,31 @@
  {
   "id": "1005006734056735",
   "category": "baby-tees",
-  "name": "Lace Patchwork Vintage Crop Tee",
+  "name": "Pink Bear Print Y2K Lace Patchwork Crop Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005006699473759",
   "category": "baby-tees",
-  "name": "Graphic Grunge Crop Tee",
+  "name": "Blue Tie Dye Grunge Graphic Crop Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005009041948960",
   "category": "baby-tees",
-  "name": "Slogan Vintage Distressed Baby Tee",
+  "name": "Green Floral Graffiti Y2K Distressed Baby Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005007420172057",
   "category": "baby-tees",
-  "name": "Patchwork Grunge Vintage Baby Tee",
+  "name": "Navy Number 01 Y2K Jersey Baby Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005004879029155",
   "category": "long-sleeves",
-  "name": "Slogan Grunge Vintage Long Sleeve Tee",
+  "name": "Grey Letter Print Grunge Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3945,7 +3314,7 @@
  {
   "id": "1005003718765806",
   "category": "tanks",
-  "name": "Off-Shoulder Knit Halter Top",
+  "name": "Red Ribbed Knit Y2K Off Shoulder Halter Top",
   "depts": [
    "women"
   ],
@@ -3954,7 +3323,7 @@
  {
   "id": "1005006144533876",
   "category": "long-sleeves",
-  "name": "Patchwork Grunge Long Sleeve Tee",
+  "name": "White Handwritten Grunge Oversized Patchwork Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3963,31 +3332,31 @@
  {
   "id": "1005005514484181",
   "category": "baby-tees",
-  "name": "Fairy Graphic Baby Tee",
+  "name": "Crayon Doodle Faces Y2K Graphic Baby Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005009641180790",
   "category": "baby-tees",
-  "name": "Slogan Knit Crop Tee",
+  "name": "Pastel Letter Print Y2K Knit Crop Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005005368165978",
   "category": "baby-tees",
-  "name": "Fairy Kitty Crop Tee",
+  "name": "Angel Kitty Print Y2K Crop Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005004064369099",
   "category": "baby-tees",
-  "name": "Mesh Grunge Crop Tee",
+  "name": "Black Sheer Mesh Grunge Asymmetric Crop Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005003576272732",
   "category": "long-sleeves",
-  "name": "Long Sleeve Tee",
+  "name": "Mint Green Exposed Seam Y2K Collared Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -3996,13 +3365,13 @@
  {
   "id": "1005003187361872",
   "category": "baby-tees",
-  "name": "Lace Mesh Goth Baby Tee",
+  "name": "Black Floral Lace Goth Sheer Oversized Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005008493092109",
   "category": "long-sleeves",
-  "name": "Slogan Vintage White Harajuku Long Sleeve Tee",
+  "name": "Dancing Wildly Y2K Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4010,26 +3379,26 @@
  },
  {
   "id": "1005005164605288",
-  "category": "baby-tees",
-  "name": "Fairy Patchwork Crop Tee",
+  "category": "long-sleeves",
+  "name": "Dancing Cows Y2K Raglan Cropped Long Sleeve Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005012059289449",
   "category": "baby-tees",
-  "name": "Patchwork Trashy Baby Tee",
+  "name": "Puppy Print Y2K Striped Raglan Baby Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005007154215513",
   "category": "baby-tees",
-  "name": "Bunny Star Baby Tee",
+  "name": "Black Star Bunny Ear Y2K Hooded Baby Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005004725386252",
   "category": "long-sleeves",
-  "name": "Patchwork Grunge Ribbed Long Sleeve Tee",
+  "name": "Grey Black Grunge Ribbed Cropped Raglan Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4038,13 +3407,13 @@
  {
   "id": "1005004375428902",
   "category": "baby-tees",
-  "name": "Fairy Butterfly Baby Tee",
+  "name": "Black Butterfly Grunge Fitted Baby Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005007068220628",
   "category": "tanks",
-  "name": "Punk Grunge Cami",
+  "name": "Cyber Sketch Punk Irregular Hem Cami",
   "depts": [
    "women"
   ],
@@ -4053,34 +3422,25 @@
  {
   "id": "1005004459885676",
   "category": "baby-tees",
-  "name": "Graphic Grunge Fitted Crop Tee",
+  "name": "Coffee Mug Manicure Y2K Fitted Crop Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005007287978527",
   "category": "baby-tees",
-  "name": "Slogan Trashy Vintage Harajuku Baby Tee",
+  "name": "Blue Spiral Text Y2K Loose Baby Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005004238501649",
   "category": "baby-tees",
-  "name": "Slogan Grunge Fitted Crop Tee",
+  "name": "I Want Young And Rich Y2K Fitted Crop Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
- },
- {
-  "id": "1005003607113566",
-  "category": "long-sleeves",
-  "name": "Patchwork Off-Shoulder Long Sleeve Tee",
-  "depts": [
-   "women"
-  ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
  },
  {
   "id": "1005010019725377",
   "category": "long-sleeves",
-  "name": "Patchwork Slogan Trashy Long Sleeve Tee",
+  "name": "Renaissance Slogan Y2K Raglan Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4089,7 +3449,7 @@
  {
   "id": "1005007495849672",
   "category": "tanks",
-  "name": "Knit Vintage Tank",
+  "name": "Black Sun Knit Y2K Button Tank Top",
   "depts": [
    "women"
   ],
@@ -4098,7 +3458,7 @@
  {
   "id": "1005006166076707",
   "category": "hoodies",
-  "name": "Kawaii Knit Hoodie",
+  "name": "Pink Fuzzy Mohair Harajuku Knit Sweater",
   "depts": [
    "women"
   ],
@@ -4107,7 +3467,7 @@
  {
   "id": "1005008619808348",
   "category": "long-sleeves",
-  "name": "Patchwork Trashy Long Sleeve Tee",
+  "name": "Heart Graffiti Y2K Raglan Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4116,7 +3476,7 @@
  {
   "id": "1005003648966360",
   "category": "long-sleeves",
-  "name": "Ribbed Fitted Long Sleeve Tee",
+  "name": "Tie Dye Ribbed Grunge Cropped Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4125,7 +3485,7 @@
  {
   "id": "1005007283091943",
   "category": "tanks",
-  "name": "Polka Dot Backless Halter Top",
+  "name": "Red Polka Dot Ruffle Y2K Backless Halter Top",
   "depts": [
    "women"
   ],
@@ -4134,7 +3494,7 @@
  {
   "id": "1005003190784493",
   "category": "long-sleeves",
-  "name": "Fitted Blue Long Sleeve Tee",
+  "name": "Rose Exposed Seam Y2K Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4143,7 +3503,7 @@
  {
   "id": "1005004570283704",
   "category": "tanks",
-  "name": "Corset Grunge Tube Top",
+  "name": "Photo Print Grunge Corset Tube Top",
   "depts": [
    "women"
   ],
@@ -4151,14 +3511,14 @@
  },
  {
   "id": "1005005282572401",
-  "category": "baby-tees",
-  "name": "Fairy Mesh Baby Tee",
+  "category": "long-sleeves",
+  "name": "Sketch Heart Fairy Grunge Mesh Long Sleeve Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005004149649461",
   "category": "tanks",
-  "name": "Grunge Fitted Halter Top",
+  "name": "Purple Gingham Y2K Asymmetric Halter Top",
   "depts": [
    "women"
   ],
@@ -4167,13 +3527,13 @@
  {
   "id": "1005006578245562",
   "category": "baby-tees",
-  "name": "Leopard Lace Crop Tee",
+  "name": "Leopard Print Lace Y2K V Neck Crop Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005007858701791",
   "category": "long-sleeves",
-  "name": "Fairy Mesh Trashy Long Sleeve Tee",
+  "name": "White Embroidered Fairy Grunge Sheer Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4182,13 +3542,13 @@
  {
   "id": "1005004614386278",
   "category": "baby-tees",
-  "name": "Fairy Star Baby Tee",
+  "name": "Pastel Star Y2K Baby Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005008017460230",
   "category": "hoodies",
-  "name": "Bow Knit Hoodie",
+  "name": "Blue Bow Coquette Cropped Knit Sweater",
   "depts": [
    "women"
   ],
@@ -4197,13 +3557,13 @@
  {
   "id": "1005006579630115",
   "category": "baby-tees",
-  "name": "Graphic Grunge Trashy Baby Tee",
+  "name": "Halftone Girl Grunge Baby Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005007192709553",
   "category": "tanks",
-  "name": "Lace Grunge Cami",
+  "name": "White Star Heart Lace Trim Y2K Cami",
   "depts": [
    "women"
   ],
@@ -4212,7 +3572,7 @@
  {
   "id": "1005011731418021",
   "category": "long-sleeves",
-  "name": "Kitty Heart Long Sleeve Tee",
+  "name": "Cat Heart Print Y2K Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4221,7 +3581,7 @@
  {
   "id": "1005005805613669",
   "category": "tanks",
-  "name": "Patchwork Kawaii Tank",
+  "name": "Puppy Tennis Ball Y2K Raglan Tank Top",
   "depts": [
    "women"
   ],
@@ -4230,7 +3590,7 @@
  {
   "id": "1005007662437929",
   "category": "long-sleeves",
-  "name": "Trashy Long Sleeve Tee",
+  "name": "Lucid Dream Y2K V Neck Jersey Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4239,7 +3599,7 @@
  {
   "id": "1005007386704214",
   "category": "long-sleeves",
-  "name": "Fairy Lace Mesh Long Sleeve Tee",
+  "name": "Black Lace Goth Sheer Mesh Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4248,7 +3608,7 @@
  {
   "id": "1005006884545479",
   "category": "tanks",
-  "name": "Goth Grunge Tank",
+  "name": "Black Text Print Grunge Collared Tank Top",
   "depts": [
    "women"
   ],
@@ -4256,14 +3616,14 @@
  },
  {
   "id": "1005006600865221",
-  "category": "baby-tees",
-  "name": "Sequin Knit Baby Tee",
+  "category": "hoodies",
+  "name": "Pink Sequin Trim Coquette Ribbed Knit Cardigan",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005004178121286",
   "category": "tanks",
-  "name": "Fairy Lace Cami",
+  "name": "Stop Thief Bear Y2K Lace Cami",
   "depts": [
    "women"
   ],
@@ -4272,19 +3632,19 @@
  {
   "id": "1005008704086579",
   "category": "baby-tees",
-  "name": "Punk Baby Tee",
+  "name": "White Punk Graphic Grunge Baby Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005012039085652",
   "category": "baby-tees",
-  "name": "White Slogan Trashy Vintage Baby Tee",
+  "name": "Leopard Lips Kiss Me Y2K Baby Tee",
   "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005005577208340",
   "category": "tanks",
-  "name": "Fairy Bunny Tube Top",
+  "name": "Bat Wing Bunny Goth Tube Top",
   "depts": [
    "women"
   ],
@@ -4293,19 +3653,13 @@
  {
   "id": "1005007067281353",
   "category": "baby-tees",
-  "name": "Patchwork Vintage Crop Tee",
+  "name": "Brown Bear Patch Y2K Raglan Baby Tee",
   "blurb": "Made for mirror pics."
- },
- {
-  "id": "1005007628032316",
-  "category": "baby-tees",
-  "name": "Slogan Vintage Harajuku Baby Tee",
-  "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005010364176389",
   "category": "long-sleeves",
-  "name": "Knit Long Sleeve Tee",
+  "name": "White Ribbed Knit Y2K V Neck Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4314,37 +3668,37 @@
  {
   "id": "1005008955956057",
   "category": "baby-tees",
-  "name": "Graphic Trashy Crop Tee",
+  "name": "Purple Winged Y2K Fitted Crop Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005005787394655",
   "category": "baby-tees",
-  "name": "Graphic Goth Grunge Baby Tee",
+  "name": "Red Graffiti Scribble Grunge Baby Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005012251837230",
   "category": "baby-tees",
-  "name": "Slogan Vintage Black Harajuku Baby Tee",
+  "name": "Black Serif Slogan Y2K Oversized Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005008334614316",
-  "category": "baby-tees",
-  "name": "Grunge Knit Baby Tee",
+  "category": "hoodies",
+  "name": "Khaki Distressed Grunge Hollow Out Knit Sweater",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005007401567590",
   "category": "baby-tees",
-  "name": "Kitty Trashy Crop Tee",
+  "name": "Cat Doodle Stamp Y2K Crop Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005003692811273",
   "category": "hoodies",
-  "name": "Cross Off-Shoulder Hoodie",
+  "name": "Black Criss Cross Goth Off Shoulder Knit Sweater",
   "depts": [
    "women"
   ],
@@ -4353,13 +3707,13 @@
  {
   "id": "1005007402711768",
   "category": "baby-tees",
-  "name": "Vintage Crop Tee",
+  "name": "Red Apple Y2K Ringer Baby Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005004709829197",
   "category": "hoodies",
-  "name": "Fairy Grunge Hoodie",
+  "name": "White Ripped Fairy Grunge Hollow Out Knit Sweater",
   "depts": [
    "women"
   ],
@@ -4367,26 +3721,26 @@
  },
  {
   "id": "1005003645458415",
-  "category": "baby-tees",
-  "name": "Cross Sexy Crop Tee",
+  "category": "hoodies",
+  "name": "White Sheer Criss Cross Y2K Cropped Knit Sweater",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005008959847682",
   "category": "baby-tees",
-  "name": "Kawaii Layered Baby Tee",
+  "name": "Bear Red Bow Coquette Ringer Baby Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005007371321246",
   "category": "baby-tees",
-  "name": "Fairy Grunge Vintage Baby Tee",
+  "name": "Black Doodle Fairy Grunge Baby Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005006358741710",
   "category": "hoodies",
-  "name": "Knit Turtleneck Cardigan",
+  "name": "Pink Cable Knit Coquette Turtleneck Cardigan",
   "depts": [
    "women"
   ],
@@ -4395,7 +3749,7 @@
  {
   "id": "1005008949417416",
   "category": "tanks",
-  "name": "Lace Slogan Tank",
+  "name": "Grey Lace Trim Y2K Knit Tank Top",
   "depts": [
    "women"
   ],
@@ -4404,13 +3758,13 @@
  {
   "id": "1005008354401788",
   "category": "baby-tees",
-  "name": "Patchwork Layered Baby Tee",
+  "name": "Purple Floral French Script Y2K Layered Baby Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005012594562422",
   "category": "tanks",
-  "name": "Skull Slogan Tank",
+  "name": "Skull Print Y2K Sheer Tank Top",
   "depts": [
    "women"
   ],
@@ -4419,25 +3773,25 @@
  {
   "id": "1005012371349209",
   "category": "baby-tees",
-  "name": "Vintage White Harajuku Baby Tee",
+  "name": "Yellow Star Cloud Y2K Baby Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005012022159609",
   "category": "baby-tees",
-  "name": "Vintage Baby Tee No. 609",
+  "name": "Cute Teeth Doodle Y2K Baby Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005012171989862",
-  "category": "baby-tees",
-  "name": "Floral Knit Baby Tee",
+  "category": "long-sleeves",
+  "name": "Blue Floral Fairy Grunge Sheer Knit Long Sleeve Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005006454055756",
   "category": "hoodies",
-  "name": "Stripe Knit Vintage Cardigan",
+  "name": "Olive Ribbed Fairy Grunge Cropped Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -4446,19 +3800,19 @@
  {
   "id": "1005008798891565",
   "category": "baby-tees",
-  "name": "Vintage Green Crop Tee",
+  "name": "Green Apple Y2K Fitted Crop Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005007054980585",
   "category": "dresses",
-  "name": "Fairy Lace Dress",
+  "name": "Mint Striped Lace Hem Y2K Halter Mini Dress",
   "blurb": "For the party and the after-party."
  },
  {
   "id": "1005003989598347",
   "category": "hoodies",
-  "name": "Khaki Vintage Jacket",
+  "name": "Khaki Oversized Y2K V Neck Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -4467,7 +3821,7 @@
  {
   "id": "1005010044373670",
   "category": "long-sleeves",
-  "name": "Slogan Grunge Trashy Long Sleeve Tee",
+  "name": "Sketch Girl Print Grunge Cropped Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4475,14 +3829,14 @@
  },
  {
   "id": "1005007524327303",
-  "category": "baby-tees",
-  "name": "Spider Web Grunge Baby Tee",
+  "category": "hoodies",
+  "name": "Spider Web Crochet Grunge Hollow Out Knit Sweater",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005011799696419",
   "category": "tanks",
-  "name": "Polka Dot Vintage Halter Top",
+  "name": "Pink Polka Dot V Neck Y2K Halter Top",
   "depts": [
    "women"
   ],
@@ -4491,31 +3845,31 @@
  {
   "id": "1005009015758589",
   "category": "baby-tees",
-  "name": "Slogan Trashy Vintage Crop Tee",
+  "name": "I Love Vintage Y2K Baby Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005005622866207",
   "category": "dresses",
-  "name": "Patchwork Knit Dress",
+  "name": "Navy Ribbed Contrast Trim Y2K Knit Mini Dress",
   "blurb": "Throw it on, go out."
  },
  {
   "id": "1005003211838789",
-  "category": "baby-tees",
-  "name": "Rose Knit Baby Tee",
+  "category": "long-sleeves",
+  "name": "Red Lettuce Hem Y2K Slim Long Sleeve Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005013231445261",
-  "category": "baby-tees",
-  "name": "Lace Stripe Baby Tee",
+  "category": "long-sleeves",
+  "name": "Flower Embroidered Striped Ruffle Coquette Long Sleeve Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005013266446747",
   "category": "hoodies",
-  "name": "Knit Vintage Jacket",
+  "name": "Black Twist Knit Y2K Slim Zip Up Cardigan",
   "depts": [
    "women"
   ],
@@ -4524,7 +3878,7 @@
  {
   "id": "1005013101577553",
   "category": "long-sleeves",
-  "name": "Yellow Slogan Vintage Long Sleeve Tee",
+  "name": "Script 93 Y2K Sheer V Neck Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4533,7 +3887,7 @@
  {
   "id": "1005013093976467",
   "category": "long-sleeves",
-  "name": "Stripe Patchwork Vintage Long Sleeve Tee",
+  "name": "Blue Striped Ringer Y2K Oversized Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4542,7 +3896,7 @@
  {
   "id": "1005013140966804",
   "category": "long-sleeves",
-  "name": "Off-Shoulder Ribbed Long Sleeve Tee",
+  "name": "Black Glitter Dot Y2K Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4550,20 +3904,20 @@
  },
  {
   "id": "1005013130443786",
-  "category": "baby-tees",
-  "name": "Slogan Cyber Baby Tee",
+  "category": "long-sleeves",
+  "name": "Grey Cyber Y2K Half Zip Knit Long Sleeve Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005005609942823",
   "category": "dresses",
-  "name": "Knit Sexy Dress",
+  "name": "Grey Blue Sheer Knit Grunge Sleeveless Dress",
   "blurb": "One piece, whole look."
  },
  {
   "id": "1005003215561357",
   "category": "hoodies",
-  "name": "Knit Sexy Cardigan",
+  "name": "White Sheer Mohair Coquette Cropped Cardigan",
   "depts": [
    "women"
   ],
@@ -4572,7 +3926,7 @@
  {
   "id": "1005008598460624",
   "category": "long-sleeves",
-  "name": "Stripe Off-Shoulder Grunge Long Sleeve Tee",
+  "name": "Charcoal Striped Grunge Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4581,7 +3935,7 @@
  {
   "id": "1005013455851773",
   "category": "long-sleeves",
-  "name": "Angel Rhinestone Long Sleeve Tee",
+  "name": "Rhinestone Angel Wing Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4590,37 +3944,37 @@
  {
   "id": "1005012498155817",
   "category": "baby-tees",
-  "name": "Plaid Baby Tee",
+  "name": "Aqua Plaid Asymmetric Button Up Y2K Baby Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005009066155503",
   "category": "baby-tees",
-  "name": "Plaid Plaid Vintage Baby Tee",
+  "name": "Navy Plaid Grunge Asymmetric Button Up Baby Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005011968675069",
   "category": "baby-tees",
-  "name": "Vintage Grey Baby Tee",
+  "name": "Grey Washed Grunge Button Up Baby Tee",
   "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005013477573220",
   "category": "baby-tees",
-  "name": "Off-Shoulder Goth Baby Tee",
+  "name": "Black Rivet Goth Off Shoulder Baby Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005012733265289",
   "category": "baby-tees",
-  "name": "Fairy Floral Baby Tee",
+  "name": "Pink Striped Tribal Print Y2K Fitted Baby Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005010154206490",
   "category": "long-sleeves",
-  "name": "Black Graphic Grunge Vintage Long Sleeve Tee",
+  "name": "World Needs Justice Grunge Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4629,7 +3983,7 @@
  {
   "id": "1005010504787358",
   "category": "tanks",
-  "name": "Grunge Fitted Tank",
+  "name": "Grey Henley Button Grunge Fitted Tank Top",
   "depts": [
    "women"
   ],
@@ -4638,7 +3992,7 @@
  {
   "id": "1005009893188850",
   "category": "long-sleeves",
-  "name": "Goth Grunge Vintage Long Sleeve Tee",
+  "name": "Black Button Cuff Goth Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4646,20 +4000,20 @@
  },
  {
   "id": "1005010600220171",
-  "category": "baby-tees",
-  "name": "Fairy Lace Patchwork Crop Tee",
+  "category": "long-sleeves",
+  "name": "Black Lace Panel Goth Square Neck Long Sleeve Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005008209073074",
   "category": "baby-tees",
-  "name": "Stripe Vintage Baby Tee",
+  "name": "Lilac Pinstripe Y2K Slim Button Up Baby Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005013447735613",
   "category": "long-sleeves",
-  "name": "Patchwork Layered Vintage Long Sleeve Tee",
+  "name": "Grey Lace Bra Layered Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4668,7 +4022,7 @@
  {
   "id": "1005010409023328",
   "category": "long-sleeves",
-  "name": "Fairy Goth Long Sleeve Tee",
+  "name": "Grey Dark Floral Goth Oversized Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4677,7 +4031,7 @@
  {
   "id": "1005013149818684",
   "category": "hoodies",
-  "name": "Stripe Goth Zip Hoodie",
+  "name": "Black White Striped Cross Goth Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -4686,7 +4040,7 @@
  {
   "id": "1005012957771661",
   "category": "hoodies",
-  "name": "Knit Cardigan",
+  "name": "Sky Blue Button Y2K Fitted Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -4694,26 +4048,26 @@
  },
  {
   "id": "1005013089875020",
-  "category": "baby-tees",
-  "name": "Fairy Lace Patchwork Baby Tee",
+  "category": "long-sleeves",
+  "name": "Navy Lace Bow Coquette Layered Long Sleeve Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005008666860506",
   "category": "baby-tees",
-  "name": "Stripe Vintage Fitted Baby Tee",
+  "name": "White Pinstripe Y2K Fitted Button Up Baby Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005009720178200",
-  "category": "baby-tees",
-  "name": "Lace Stripe Goth Baby Tee",
+  "category": "long-sleeves",
+  "name": "Striped Skull Goth Lace Up Long Sleeve Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005012615381284",
-  "category": "accessories",
-  "name": "Patchwork Layered Scarf",
+  "category": "long-sleeves",
+  "name": "Lilac Scarf Collar Y2K Layered Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4721,26 +4075,26 @@
  },
  {
   "id": "1005009740431678",
-  "category": "baby-tees",
-  "name": "Patchwork Goth Grunge Baby Tee",
+  "category": "long-sleeves",
+  "name": "Black Striped Collar Goth Layered Long Sleeve Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005013035748183",
-  "category": "baby-tees",
-  "name": "Patchwork Grunge Layered Baby Tee",
+  "category": "long-sleeves",
+  "name": "Navy Draped Surplice Grunge Layered Long Sleeve Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005012793488016",
-  "category": "baby-tees",
-  "name": "Khaki Vintage Baby Tee",
+  "category": "long-sleeves",
+  "name": "Khaki Fitted Y2K Button Up Long Sleeve Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005010085405754",
   "category": "hoodies",
-  "name": "Stripe Knit Turtleneck Hoodie",
+  "name": "Grey Diagonal Stripe Grunge Turtleneck Knit Sweater",
   "depts": [
    "women"
   ],
@@ -4749,7 +4103,7 @@
  {
   "id": "1005005806191169",
   "category": "tanks",
-  "name": "Vintage Cami",
+  "name": "Blue Butterfly Fairy Grunge Ruffle Hem Cami",
   "depts": [
    "women"
   ],
@@ -4758,7 +4112,7 @@
  {
   "id": "1005007895090234",
   "category": "long-sleeves",
-  "name": "Graphic Vintage Long Sleeve Tee",
+  "name": "Cream Tribal Print Y2K Sheer Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4766,50 +4120,50 @@
  },
  {
   "id": "1005008188745442",
-  "category": "baby-tees",
-  "name": "Patchwork Graphic Grunge Baby Tee",
+  "category": "long-sleeves",
+  "name": "07 Star Number Grunge Layered Long Sleeve Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005012681725594",
   "category": "baby-tees",
-  "name": "Graphic Vintage Fitted Baby Tee",
+  "name": "Purple Script Face Print Y2K Fitted Baby Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005009536375657",
-  "category": "baby-tees",
-  "name": "Graphic Grunge Fitted Baby Tee",
+  "category": "long-sleeves",
+  "name": "Grey Tribal Wing Grunge Sheer Long Sleeve Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005009680894971",
   "category": "baby-tees",
-  "name": "Patchwork Layered Vintage Baby Tee",
+  "name": "Black Gingham Trim Y2K Layered Baby Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005011775600347",
   "category": "baby-tees",
-  "name": "Plaid Vintage Baby Tee No. 347",
+  "name": "Blue Plaid Peplum Y2K Button Up Baby Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005011590486011",
-  "category": "baby-tees",
-  "name": "Vintage Fitted Black Baby Tee",
+  "category": "long-sleeves",
+  "name": "Black Fitted Goth Button Up Long Sleeve Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005011749789383",
   "category": "baby-tees",
-  "name": "Plaid Vintage Fitted Baby Tee",
+  "name": "Grey Plaid Grunge Button Up Baby Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005007895089625",
   "category": "long-sleeves",
-  "name": "Khaki Patchwork Vintage Long Sleeve Tee",
+  "name": "Brown Cross Back Y2K Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4818,7 +4172,7 @@
  {
   "id": "1005013500318926",
   "category": "long-sleeves",
-  "name": "Stripe Vintage Long Sleeve Tee",
+  "name": "Asymmetric Collar Striped Y2K Button Up Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4827,7 +4181,7 @@
  {
   "id": "1005013416219111",
   "category": "long-sleeves",
-  "name": "Vintage Long Sleeve Tee No. 111",
+  "name": "Black Tie Schoolgirl Y2K Button Up Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4836,7 +4190,7 @@
  {
   "id": "1005013331540889",
   "category": "hoodies",
-  "name": "Pink Knit Vintage Hoodie",
+  "name": "Pink Ribbed V Neck Coquette Knit Sweater",
   "depts": [
    "women"
   ],
@@ -4845,7 +4199,7 @@
  {
   "id": "1005013194931024",
   "category": "hoodies",
-  "name": "Fairy Stripe Hoodie",
+  "name": "Black Grey Striped Emo V Neck Knit Sweater",
   "depts": [
    "women"
   ],
@@ -4854,25 +4208,25 @@
  {
   "id": "1005010472932761",
   "category": "baby-tees",
-  "name": "Grey Graphic Grunge Baby Tee",
+  "name": "Grey Faded Print Grunge Baby Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005009685737354",
   "category": "baby-tees",
-  "name": "Grunge Crop Tee",
+  "name": "Black Pocket Grunge Fitted Button Up Baby Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005008263525842",
-  "category": "baby-tees",
-  "name": "Punk Layered Black Baby Tee",
+  "category": "long-sleeves",
+  "name": "Black Rivet Punk Layered Long Sleeve Tee",
   "blurb": "Made for mirror pics."
  },
  {
   "id": "1005008518018223",
   "category": "tanks",
-  "name": "Grunge Turtleneck Tank",
+  "name": "Red Dragon Grunge Mock Neck Tank Top",
   "depts": [
    "women"
   ],
@@ -4881,7 +4235,7 @@
  {
   "id": "1005013230185313",
   "category": "long-sleeves",
-  "name": "Fairy Stripe Long Sleeve Tee",
+  "name": "Blue Pinstripe Grunge Button Up Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4890,7 +4244,7 @@
  {
   "id": "1005009641853210",
   "category": "long-sleeves",
-  "name": "Coffee Patchwork Layered Long Sleeve Tee",
+  "name": "Coffee Gingham Collar Y2K Cropped Layered Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4899,7 +4253,7 @@
  {
   "id": "1005013409289524",
   "category": "hoodies",
-  "name": "Stripe Patchwork Cardigan",
+  "name": "Striped Star Sleeve Emo Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -4908,7 +4262,7 @@
  {
   "id": "1005011833386394",
   "category": "tanks",
-  "name": "Slogan Graphic Cami",
+  "name": "Girl Club Angel Y2K Fitted Tank Top",
   "depts": [
    "women"
   ],
@@ -4917,7 +4271,7 @@
  {
   "id": "1005011736866436",
   "category": "tanks",
-  "name": "Leopard Patchwork Cami",
+  "name": "Black Leopard Trim Studded Grunge Layered Cami",
   "depts": [
    "women"
   ],
@@ -4925,20 +4279,20 @@
  },
  {
   "id": "1005010780434165",
-  "category": "baby-tees",
-  "name": "Leopard Off-Shoulder Baby Tee",
+  "category": "long-sleeves",
+  "name": "Pink Leopard Print Y2K Off Shoulder Long Sleeve Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005012202942060",
   "category": "baby-tees",
-  "name": "Plaid Patchwork Baby Tee",
+  "name": "Navy Plaid Layered Y2K Tie Front Baby Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005010370235944",
   "category": "long-sleeves",
-  "name": "Fairy Patchwork Long Sleeve Tee",
+  "name": "Winged Heart Emo Striped Sleeve Layered Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4946,14 +4300,14 @@
  },
  {
   "id": "1005008321880602",
-  "category": "baby-tees",
-  "name": "Lace Patchwork Grunge Crop Tee",
+  "category": "long-sleeves",
+  "name": "Black Leopard Lace Panel Goth Sheer Long Sleeve Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005013307323576",
   "category": "long-sleeves",
-  "name": "Patchwork Patchwork Layered Vintage Long Sleeve Tee",
+  "name": "Navy Polka Dot Corset Coquette Layered Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4962,7 +4316,7 @@
  {
   "id": "1005012847592791",
   "category": "hoodies",
-  "name": "Fairy Knit Hoodie",
+  "name": "Charcoal Cowl Neck Grunge Batwing Knit Sweater",
   "depts": [
    "women"
   ],
@@ -4971,7 +4325,7 @@
  {
   "id": "1005013345587204",
   "category": "hoodies",
-  "name": "Fairy Patchwork Cardigan",
+  "name": "Mint Layered Coquette Button Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -4980,7 +4334,7 @@
  {
   "id": "1005013037155384",
   "category": "long-sleeves",
-  "name": "Plaid Patchwork Long Sleeve Tee",
+  "name": "Navy Blue Plaid Layered Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -4988,14 +4342,14 @@
  },
  {
   "id": "1005009563330069",
-  "category": "baby-tees",
-  "name": "Graphic Grunge Vintage Baby Tee",
+  "category": "long-sleeves",
+  "name": "White Script Sleeve Print Grunge Long Sleeve Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005012188152018",
   "category": "tanks",
-  "name": "Fairy Cami",
+  "name": "Coffee Lace Bow Coquette Cami And Shrug Set",
   "depts": [
    "women"
   ],
@@ -5003,14 +4357,14 @@
  },
  {
   "id": "1005008228610016",
-  "category": "baby-tees",
-  "name": "Lace Patchwork Vintage Baby Tee",
+  "category": "long-sleeves",
+  "name": "Grey Lace Trim Coquette V Neck Long Sleeve Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005009171113563",
   "category": "tanks",
-  "name": "Grunge Ruffle Tank",
+  "name": "Navy Ruffle Sleeve Grunge Button Up Tank Top",
   "depts": [
    "women"
   ],
@@ -5019,19 +4373,19 @@
  {
   "id": "1005010565282534",
   "category": "skirts",
-  "name": "Pleated Mini Skirt",
+  "name": "Grey Star Print Y2K Tiered Ruffle Mini Skirt",
   "blurb": "Twirl at your own risk."
  },
  {
   "id": "1005009231229682",
   "category": "baby-tees",
-  "name": "Striped Fairy Stripe Baby Tee",
+  "name": "Pink Pinstripe Coquette Button Up Baby Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005010530181829",
   "category": "long-sleeves",
-  "name": "Patchwork Grunge Layered Long Sleeve Tee",
+  "name": "Navy Henley Grunge Layered Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5040,13 +4394,13 @@
  {
   "id": "1005010547043503",
   "category": "baby-tees",
-  "name": "Fitted Crop Tee",
+  "name": "Charcoal Basic Y2K Fitted Crop Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005013365176893",
   "category": "long-sleeves",
-  "name": "As Photo Graphic Vintage Long Sleeve Tee",
+  "name": "Mint Varsity Patch Y2K Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5054,26 +4408,26 @@
  },
  {
   "id": "1005013202863333",
-  "category": "baby-tees",
-  "name": "Patchwork Patchwork Layered Vintage Baby Tee",
+  "category": "long-sleeves",
+  "name": "Black White Collar Goth Layered Long Sleeve Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005012010735083",
   "category": "baby-tees",
-  "name": "Plaid Vintage Blue Baby Tee",
+  "name": "Blue Check Grunge Fitted Button Up Baby Tee",
   "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005010510304021",
   "category": "baby-tees",
-  "name": "Turtleneck Vintage Crop Tee",
+  "name": "Black Turtleneck Y2K Fitted Crop Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005013282654347",
-  "category": "accessories",
-  "name": "Layered Vintage Scarf",
+  "category": "long-sleeves",
+  "name": "Polka Dot Scarf Y2K Layered Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5082,7 +4436,7 @@
  {
   "id": "1005013010759747",
   "category": "hoodies",
-  "name": "Patchwork Layered Cardigan",
+  "name": "White Tie Front Shrug Pink Cami Coquette Set",
   "depts": [
    "women"
   ],
@@ -5091,7 +4445,7 @@
  {
   "id": "1005013212602631",
   "category": "long-sleeves",
-  "name": "Fairy Patchwork Button Long Sleeve Tee",
+  "name": "Ruffle Collar Goth Button Up Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5100,7 +4454,7 @@
  {
   "id": "1005013390903641",
   "category": "long-sleeves",
-  "name": "Drak Grey Knit Vintage Long Sleeve Tee",
+  "name": "Dark Grey Knit Grunge V Neck Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5108,14 +4462,14 @@
  },
  {
   "id": "1005013194422152",
-  "category": "baby-tees",
-  "name": "Stripe Patchwork Goth Baby Tee",
+  "category": "long-sleeves",
+  "name": "White Scribble Stripe Goth Layered Long Sleeve Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005009967383123",
   "category": "hoodies",
-  "name": "Lace Knit Jacket",
+  "name": "Blue Tie Front Y2K Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -5123,8 +4477,8 @@
  },
  {
   "id": "1005007696571067",
-  "category": "long-sleeves",
-  "name": "Graphic Goth Grunge Long Sleeve Tee",
+  "category": "hoodies",
+  "name": "Khaki Tribal Cross Goth Cropped Hoodie",
   "depts": [
    "women"
   ],
@@ -5132,20 +4486,20 @@
  },
  {
   "id": "1005008940580309",
-  "category": "baby-tees",
-  "name": "Lace Punk Baby Tee",
+  "category": "long-sleeves",
+  "name": "Cream Lace Cowl Neck Fairy Grunge Long Sleeve Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005013274652702",
-  "category": "dresses",
-  "name": "Lace Patchwork Set",
+  "category": "shorts",
+  "name": "Polka Dot Ruffle Trim Coquette Shorts Set",
   "blurb": "Throw it on, go out."
  },
  {
   "id": "1005008330941108",
   "category": "hoodies",
-  "name": "Fairy Patchwork Jacket",
+  "name": "Ruffle Collar Goth Fitted Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -5154,7 +4508,7 @@
  {
   "id": "1005012824715379",
   "category": "hoodies",
-  "name": "Stripe Jacket",
+  "name": "Navy Striped Y2K Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -5163,7 +4517,7 @@
  {
   "id": "1005013063770469",
   "category": "hoodies",
-  "name": "Star Rhinestone Jacket",
+  "name": "Rhinestone Star White Y2K Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -5171,8 +4525,8 @@
  },
  {
   "id": "1005013293847102",
-  "category": "pants",
-  "name": "Knit Vintage Pants",
+  "category": "long-sleeves",
+  "name": "Black Star Y2K Flare Sleeve Knit Sweater",
   "depts": [
    "women"
   ],
@@ -5181,13 +4535,13 @@
  {
   "id": "1005011621389628",
   "category": "baby-tees",
-  "name": "Lace Stripe Grunge Baby Tee",
+  "name": "Purple Striped Grunge Lace Up Baby Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005012953232055",
   "category": "hoodies",
-  "name": "Fairy Hoodie",
+  "name": "Blue Striped Tube Top Cream Shrug Y2K Set",
   "depts": [
    "women"
   ],
@@ -5195,20 +4549,20 @@
  },
  {
   "id": "1005008120570046",
-  "category": "baby-tees",
-  "name": "Patchwork Graphic Grunge Layered Baby Tee",
+  "category": "long-sleeves",
+  "name": "Grey Striped Hood Grunge Layered Long Sleeve Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005012518647947",
   "category": "baby-tees",
-  "name": "Fairy Lace Patchwork Vintage Crop Tee",
+  "name": "Black Lace V Neck Goth Lace Up Crop Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005012850117329",
   "category": "long-sleeves",
-  "name": "Mesh Long Sleeve Tee",
+  "name": "Purple Sheer Mesh Fairy Grunge Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5216,14 +4570,14 @@
  },
  {
   "id": "1005007915801260",
-  "category": "baby-tees",
-  "name": "Fairy Off-Shoulder Baby Tee",
+  "category": "long-sleeves",
+  "name": "Pink Bow Corset Coquette Off Shoulder Long Sleeve Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005012925560095",
-  "category": "tanks",
-  "name": "Stripe Cow Tank",
+  "category": "long-sleeves",
+  "name": "Striped Cowl Neck Grunge Layered Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5232,7 +4586,7 @@
  {
   "id": "1005012017294748",
   "category": "tanks",
-  "name": "Lace Plaid Cami",
+  "name": "Pink Plaid Cowl Neck Y2K Halter Top",
   "depts": [
    "women"
   ],
@@ -5241,19 +4595,19 @@
  {
   "id": "1005012699181812",
   "category": "baby-tees",
-  "name": "White Vintage Fitted Baby Tee",
+  "name": "Red Embroidered White Y2K Fitted Polo Baby Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005012812057967",
   "category": "baby-tees",
-  "name": "Stripe Slogan Graphic Baby Tee",
+  "name": "Lime Striped Grunge Fitted Baby Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005009745284405",
   "category": "long-sleeves",
-  "name": "Graphic Goth Grunge Vintage Long Sleeve Tee",
+  "name": "Broken Chain Print Goth Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5262,7 +4616,7 @@
  {
   "id": "1005008005632181",
   "category": "long-sleeves",
-  "name": "Slogan Grunge Turtleneck Long Sleeve Tee",
+  "name": "Cross White Grunge Turtleneck Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5271,7 +4625,7 @@
  {
   "id": "1005012871594747",
   "category": "long-sleeves",
-  "name": "Striped Stripe Off-Shoulder Vintage Long Sleeve Tee",
+  "name": "Blue Grey Striped Grunge Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5280,31 +4634,22 @@
  {
   "id": "1005013082008007",
   "category": "long-sleeves",
-  "name": "Black Graphic Vintage Long Sleeve Tee",
+  "name": "Motorcycle Star Grunge Henley Long Sleeve Tee",
   "depts": [
    "women"
   ],
   "blurb": "Fitted, dark and a little dramatic."
  },
  {
-  "id": "1005009799890967",
-  "category": "long-sleeves",
-  "name": "Grunge Vintage Harajuku Long Sleeve Tee",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Layer it or wear it alone."
- },
- {
   "id": "1005009975287188",
-  "category": "baby-tees",
-  "name": "Patchwork Graphic Grunge Vintage Baby Tee",
+  "category": "long-sleeves",
+  "name": "Music Note Y2K Striped Raglan Long Sleeve Tee",
   "blurb": "Tight fit, loud mouth."
  },
  {
   "id": "1005012775055315",
   "category": "long-sleeves",
-  "name": "Stripe Off-Shoulder Vintage Long Sleeve Tee No. 315",
+  "name": "Grey Striped Y2K Asymmetric Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5313,7 +4658,7 @@
  {
   "id": "1005010514322085",
   "category": "hoodies",
-  "name": "Stripe Grunge Jacket",
+  "name": "Purple Striped Grunge Zip Up Cardigan",
   "depts": [
    "women"
   ],
@@ -5322,7 +4667,7 @@
  {
   "id": "1005008238932994",
   "category": "long-sleeves",
-  "name": "Fairy Fitted Long Sleeve Tee",
+  "name": "Black Ruched Tie Front Goth Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5331,7 +4676,7 @@
  {
   "id": "1005012940543645",
   "category": "long-sleeves",
-  "name": "Grunge Vintage White Long Sleeve Tee",
+  "name": "White Button Up Pocket Grunge Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5339,14 +4684,14 @@
  },
  {
   "id": "1005008911751332",
-  "category": "baby-tees",
-  "name": "Plaid Grunge Baby Tee",
+  "category": "long-sleeves",
+  "name": "Blue Plaid Grunge Button Up Long Sleeve Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005007234892231",
   "category": "tanks",
-  "name": "Patchwork Backless Tank",
+  "name": "Striped Bow Navy Coquette Knit Tank Top",
   "depts": [
    "women"
   ],
@@ -5355,19 +4700,19 @@
  {
   "id": "1005009370646292",
   "category": "baby-tees",
-  "name": "Graphic Grunge White Baby Tee",
+  "name": "Red Heart Scribble Grunge Baby Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005009823930801",
-  "category": "baby-tees",
-  "name": "Grunge Vintage Baby Tee",
+  "category": "long-sleeves",
+  "name": "Dark Brown V Neck Grunge Long Sleeve Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005010504232571",
   "category": "tanks",
-  "name": "Lace Vintage Tank",
+  "name": "Black Lace Tie Front Goth Cami",
   "depts": [
    "women"
   ],
@@ -5376,31 +4721,31 @@
  {
   "id": "1005011850932620",
   "category": "baby-tees",
-  "name": "Fairy Polka Dot Baby Tee",
+  "name": "Polka Dot White Coquette Baby Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005009783637160",
-  "category": "baby-tees",
-  "name": "Graphic Grunge Layered Baby Tee",
+  "category": "long-sleeves",
+  "name": "Faded Graphic Grunge Off Shoulder Layered Long Sleeve Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005008264167233",
-  "category": "baby-tees",
-  "name": "Patchwork Goth Crop Tee",
+  "category": "long-sleeves",
+  "name": "Cross Cutout Mesh Goth Long Sleeve Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005012598015620",
   "category": "baby-tees",
-  "name": "Slogan Graphic Vintage Baby Tee",
+  "name": "Yellow Letter Print Grey Y2K Baby Tee",
   "blurb": "Grunge-girl approved."
  },
  {
   "id": "1005006897239060",
   "category": "tanks",
-  "name": "Fairy Lace Halter Top",
+  "name": "Yellow Cherry Lace Trim Y2K Halter Top",
   "depts": [
    "women"
   ],
@@ -5409,7 +4754,7 @@
  {
   "id": "1005010059120693",
   "category": "long-sleeves",
-  "name": "Star Long Sleeve Tee",
+  "name": "Studded Star Striped Grunge Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5418,7 +4763,7 @@
  {
   "id": "1005009719077933",
   "category": "long-sleeves",
-  "name": "Gray Patchwork Grunge Layered Long Sleeve Tee",
+  "name": "Grey Henley Grunge Layered Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5427,13 +4772,13 @@
  {
   "id": "1005008835717007",
   "category": "baby-tees",
-  "name": "Beige Graphic Grunge Baby Tee",
+  "name": "Star Script Print Beige Grunge Baby Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005010461864686",
-  "category": "pants",
-  "name": "Lace Graphic Pants",
+  "category": "long-sleeves",
+  "name": "Grey Graphic Grunge Flared Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5442,19 +4787,19 @@
  {
   "id": "1005012811876643",
   "category": "baby-tees",
-  "name": "Light Green Graphic Vintage Fitted Baby Tee",
+  "name": "Born In The 90s Y2K Fitted Baby Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005008306006527",
-  "category": "baby-tees",
-  "name": "Fairy Fur Baby Tee",
+  "category": "long-sleeves",
+  "name": "Faux Fur Collar Script Y2K Off Shoulder Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005009660298272",
   "category": "long-sleeves",
-  "name": "Grunge Layered Long Sleeve Tee",
+  "name": "Black Collared V Neck Grunge Layered Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5462,14 +4807,14 @@
  },
  {
   "id": "1005008083155588",
-  "category": "baby-tees",
-  "name": "Stripe Off-Shoulder Vintage Baby Tee",
+  "category": "long-sleeves",
+  "name": "Wide Striped Y2K Off Shoulder Long Sleeve Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005008544286257",
   "category": "tanks",
-  "name": "Lace Cami",
+  "name": "Grey Lace Ruffle Fairy Grunge Cami",
   "depts": [
    "women"
   ],
@@ -5478,7 +4823,7 @@
  {
   "id": "1005007989301209",
   "category": "long-sleeves",
-  "name": "Plaid Grunge Long Sleeve Tee",
+  "name": "Red Plaid Trim Black Grunge Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5486,14 +4831,14 @@
  },
  {
   "id": "1005007878180558",
-  "category": "baby-tees",
-  "name": "Plaid Vintage Crop Tee",
+  "category": "long-sleeves",
+  "name": "Pastel Plaid Y2K Scoop Neck Long Sleeve Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005010298775103",
   "category": "long-sleeves",
-  "name": "Graphic Goth Punk Long Sleeve Tee",
+  "name": "White Tribal Graphic Goth Henley Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5502,13 +4847,13 @@
  {
   "id": "1005012806610355",
   "category": "baby-tees",
-  "name": "Fairy Vintage Black Crop Tee",
+  "name": "Black Button Henley Y2K Fitted Crop Tee",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005009715134691",
   "category": "long-sleeves",
-  "name": "Plaid Vintage Long Sleeve Tee",
+  "name": "Blue Plaid Oversized Grunge Button Up Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5516,26 +4861,26 @@
  },
  {
   "id": "1005010361592839",
-  "category": "baby-tees",
-  "name": "Patchwork Goth Layered Baby Tee",
+  "category": "long-sleeves",
+  "name": "Leopard Cross Goth Striped Layered Long Sleeve Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005008690434908",
   "category": "baby-tees",
-  "name": "Graphic Grunge Vintage Fitted Baby Tee",
+  "name": "Red Dragon Y2K Fitted Baby Tee",
   "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005009668996030",
   "category": "baby-tees",
-  "name": "Grunge Green Baby Tee",
+  "name": "Green V Neck Grunge Baby Tee",
   "blurb": "Your new go-out top."
  },
  {
   "id": "1005007871661760",
   "category": "long-sleeves",
-  "name": "Patchwork Grunge Vintage Long Sleeve Tee",
+  "name": "Khaki Ribbed Patchwork Grunge Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5544,7 +4889,7 @@
  {
   "id": "1005009893893176",
   "category": "long-sleeves",
-  "name": "Mesh Graphic Long Sleeve Tee",
+  "name": "Khaki Sheer Mesh Grunge Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5552,26 +4897,26 @@
  },
  {
   "id": "1005010208214200",
-  "category": "baby-tees",
-  "name": "Goth Baby Tee",
+  "category": "long-sleeves",
+  "name": "Distressed Graphic Goth Layered Long Sleeve Tee",
   "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005011926700079",
   "category": "baby-tees",
-  "name": "Patchwork Layered Crop Tee",
+  "name": "Navy Blue Y2K Layered Crop Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005012038841160",
   "category": "baby-tees",
-  "name": "Graphic Vintage Grey Baby Tee",
+  "name": "Studded Bow Cross Grey Y2K Baby Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005008153278912",
   "category": "long-sleeves",
-  "name": "Black Button Long Sleeve Tee",
+  "name": "Black Grommet Button Up Grunge Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5580,19 +4925,19 @@
  {
   "id": "1005012025892753",
   "category": "baby-tees",
-  "name": "Fairy Polka Dot Vintage Baby Tee",
+  "name": "Polka Dot Peter Pan Collar Coquette Baby Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005012624087059",
   "category": "baby-tees",
-  "name": "Graphic Vintage Crop Tee",
+  "name": "White Hooded Half Zip Y2K Crop Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005008034440136",
   "category": "tanks",
-  "name": "Leopard Layered Halter Top",
+  "name": "Leopard Halter Top Black Shrug Y2K Set",
   "depts": [
    "women"
   ],
@@ -5601,7 +4946,7 @@
  {
   "id": "1005009823653409",
   "category": "long-sleeves",
-  "name": "Fairy Plaid Long Sleeve Tee",
+  "name": "Red Plaid Grunge Oversized Flannel Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5610,7 +4955,7 @@
  {
   "id": "1005009882101897",
   "category": "tanks",
-  "name": "Fairy Stripe Cami",
+  "name": "Pink Striped Tube Top Grey Shrug Fairy Grunge Set",
   "depts": [
    "women"
   ],
@@ -5619,7 +4964,7 @@
  {
   "id": "1005010275696245",
   "category": "hoodies",
-  "name": "Black Hooded Jacket",
+  "name": "Black Basic Y2K Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -5628,7 +4973,7 @@
  {
   "id": "1005009615847394",
   "category": "long-sleeves",
-  "name": "Plaid Long Sleeve Tee",
+  "name": "Blue Gingham Black Collar Y2K Long Sleeve Tee",
   "depts": [
    "women"
   ],
@@ -5637,7 +4982,7 @@
  {
   "id": "1005008071703050",
   "category": "hoodies",
-  "name": "Patchwork Graphic Cardigan",
+  "name": "Patchwork Star Graphic Goth Knit Cardigan",
   "depts": [
    "women"
   ],
@@ -5646,229 +4991,85 @@
  {
   "id": "1005012569527202",
   "category": "baby-tees",
-  "name": "Lace Layered Baby Tee",
+  "name": "Navy Floral Top White Tie Shrug Coquette Set",
   "blurb": "For the front row of the show."
  },
  {
   "id": "1005009226339087",
   "category": "baby-tees",
-  "name": "Plaid Vintage Baby Tee No. 087",
+  "name": "Blue Plaid Grunge Button Up Baby Tee",
   "blurb": "Cropped for a reason."
  },
  {
   "id": "1005009311246951",
   "category": "baby-tees",
-  "name": "Plaid Vintage Baby Tee No. 951",
+  "name": "Pink Plaid Ruffle Y2K Button Up Baby Tee",
   "blurb": "2003 called. It wants this back."
  },
  {
   "id": "1005006728440219",
   "category": "dresses",
-  "name": "Fairy Knit Dress",
+  "name": "Green Knit Fairy Grunge Sleeveless Maxi Dress",
   "blurb": "Throw it on, go out."
  },
  {
   "id": "1005013110375539",
   "category": "long-sleeves",
-  "name": "Fairy Plaid Patchwork Long Sleeve Tee",
+  "name": "Brown Plaid Collar Y2K Fitted Long Sleeve Tee",
   "depts": [
    "women"
   ],
   "blurb": "Soft on the arms, hard on the vibe."
  },
  {
-  "id": "1005006128566771",
-  "category": "baby-tees",
-  "name": "Baby Tee",
-  "blurb": "Small tee, big attitude."
- },
- {
-  "id": "1005012786138309",
-  "category": "bags",
-  "name": "Bag",
-  "depts": [
-   "women"
-  ],
-  "blurb": "The bag that finishes the fit."
- },
- {
-  "id": "1005011977824786",
-  "category": "baby-tees",
-  "name": "Crop Tee",
-  "blurb": "Your new go-out top."
- },
- {
   "id": "1005007627136871",
   "category": "baby-tees",
-  "name": "Graphic Harajuku Baby Tee",
+  "name": "Frog With Dandelion Y2K Raglan Tee",
   "blurb": "Tight fit, loud mouth."
- },
- {
-  "id": "1005011979492007",
-  "category": "baby-tees",
-  "name": "Goth Crop Tee",
-  "blurb": "Small tee, big attitude."
- },
- {
-  "id": "1005012772549216",
-  "category": "bags",
-  "name": "Bag No. 216",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Fits your phone, your lipstick and your secrets."
- },
- {
-  "id": "1005007629297926",
-  "category": "baby-tees",
-  "name": "Graphic Baby Tee No. 926",
-  "blurb": "Tight fit, loud mouth."
- },
- {
-  "id": "1005007636999336",
-  "category": "baby-tees",
-  "name": "Vintage Baby Tee No. 336",
-  "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005005274552031",
   "category": "baby-tees",
-  "name": "Graphic Baby Tee No. 031",
+  "name": "Daughters Of The Witches Cat Moon Goth Oversized Tee",
   "blurb": "Cute enough for the party, dark enough for after."
- },
- {
-  "id": "1005011976645631",
-  "category": "baby-tees",
-  "name": "Crop Tee No. 631",
-  "blurb": "2003 called. It wants this back."
- },
- {
-  "id": "1005011976777939",
-  "category": "baby-tees",
-  "name": "Graphic Grunge Crop Tee No. 939",
-  "blurb": "Tight fit, loud mouth."
- },
- {
-  "id": "1005011979178028",
-  "category": "baby-tees",
-  "name": "Bunny Graphic Crop Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
- },
- {
-  "id": "1005011976945915",
-  "category": "baby-tees",
-  "name": "Goth Crop Tee No. 915",
-  "blurb": "The baby tee your ex remembers."
- },
- {
-  "id": "1005011977592416",
-  "category": "baby-tees",
-  "name": "Goth Grunge Crop Tee No. 416",
-  "blurb": "Pairs with low-rise and bad decisions."
- },
- {
-  "id": "1005005267564732",
-  "category": "baby-tees",
-  "name": "Graphic Baby Tee No. 732",
-  "blurb": "Wear it with chunky boots and zero apologies."
  },
  {
   "id": "1005005269600842",
   "category": "tanks",
-  "name": "Fairy Heart Cami",
+  "name": "Everything's Nice Pink Heart Y2K Cami",
   "depts": [
    "women"
   ],
   "blurb": "Little top, big night."
- },
- {
-  "id": "1005005275959526",
-  "category": "baby-tees",
-  "name": "Baby Tee No. 526",
-  "blurb": "The baby tee your ex remembers."
  },
  {
   "id": "1005007629895010",
   "category": "baby-tees",
-  "name": "Kitty Baby Tee No. 010",
+  "name": "Maine Coon Anatomy Y2K Raglan Tee",
   "blurb": "Tight fit, loud mouth."
- },
- {
-  "id": "1005005275601622",
-  "category": "tanks",
-  "name": "Fairy Graphic Cami",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Little top, big night."
  },
  {
   "id": "1005007629385347",
   "category": "baby-tees",
-  "name": "Harajuku Baby Tee",
+  "name": "Capybara Bubble Bath Y2K Raglan Tee",
   "blurb": "Grunge-girl approved."
- },
- {
-  "id": "1005006131020879",
-  "category": "baby-tees",
-  "name": "Baby Tee No. 879",
-  "blurb": "Small tee, big attitude."
  },
  {
   "id": "1005005271954200",
   "category": "baby-tees",
-  "name": "Baby Tee No. 200",
+  "name": "Cross Dresser Candy Heart Y2K Raglan Tee",
   "blurb": "Pairs with low-rise and bad decisions."
  },
  {
   "id": "1005007629207744",
   "category": "baby-tees",
-  "name": "Baby Tee No. 744",
+  "name": "Vintage Dinosaur Chart Y2K Raglan Tee",
   "blurb": "Made for mirror pics."
- },
- {
-  "id": "1005007628810936",
-  "category": "baby-tees",
-  "name": "Baby Tee No. 936",
-  "blurb": "Your new go-out top."
- },
- {
-  "id": "1005007633376535",
-  "category": "baby-tees",
-  "name": "Graphic Baby Tee No. 535",
-  "blurb": "Tight fit, loud mouth."
- },
- {
-  "id": "1005012778975416",
-  "category": "bags",
-  "name": "Bag No. 416",
-  "depts": [
-   "women"
-  ],
-  "blurb": "The bag that finishes the fit."
- },
- {
-  "id": "1005012776881982",
-  "category": "bags",
-  "name": "Bag No. 982",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Fits your phone, your lipstick and your secrets."
  },
  {
   "id": "1005012779090271",
   "category": "bags",
-  "name": "Bag No. 271",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Carry less, say more."
- },
- {
-  "id": "1005012776891969",
-  "category": "bags",
-  "name": "Bag No. 969",
+  "name": "Blue Glass Butterfly Y2K Tote Bag",
   "depts": [
    "women"
   ],
@@ -5877,7 +5078,7 @@
  {
   "id": "1005011628894742",
   "category": "hoodies",
-  "name": "Vintage Jacket",
+  "name": "Leopard Hood Devil Puppy Y2K Zip Hoodie",
   "depts": [
    "women"
   ],
@@ -5886,13 +5087,13 @@
  {
   "id": "1005009132055612",
   "category": "baby-tees",
-  "name": "Stripe Crop Tee",
+  "name": "White Pinstripe Patch Y2K Baseball Jersey Crop Tee",
   "blurb": "Cute enough for the party, dark enough for after."
  },
  {
   "id": "1005010099111343",
   "category": "long-sleeves",
-  "name": "Fairy Graphic Layered Long Sleeve Tee",
+  "name": "Grey Distressed Print Grunge Off Shoulder Long Sleeve Tee",
   "depts": [
    "women"
   ],
