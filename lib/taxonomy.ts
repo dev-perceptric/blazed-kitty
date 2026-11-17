@@ -79,6 +79,7 @@ export const CATEGORIES: CategoryDef[] = [
   { id: 'jewelry', label: 'Jewelry', line: 'accessories', depts: W },
   { id: 'legwear', label: 'Socks & Legwear', line: 'accessories', depts: W },
   { id: 'arm-warmers', label: 'Arm Warmers & Gloves', line: 'accessories', depts: W },
+  { id: 'hats', label: 'Hats & Beanies', line: 'accessories', depts: W },
   { id: 'hair', label: 'Hair', line: 'accessories', depts: W },
   { id: 'bags', label: 'Bags', line: 'accessories', depts: W },
   { id: 'belts', label: 'Belts, Scarves & More', line: 'accessories', depts: W },

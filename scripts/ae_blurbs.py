@@ -34,7 +34,7 @@ POOL = {
 # New category ids share the old pools.
 for new, old in {'crop-tees': 'baby-tees', 'oversized-tees': 'tees', 'camis-tanks': 'tanks', 'halter-tube': 'tanks', 'corsets-bodysuits': 'tanks',
                  'blouses': 'long-sleeves', 'sweaters': 'hoodies', 'cardigans': 'hoodies', 'jackets': 'hoodies', 'jeans': 'pants', 'sets': 'dresses',
-                 'legwear': 'socks', 'bikinis': 'dresses', 'arm-warmers': 'accessories', 'hair': 'accessories', 'belts': 'accessories', 'extras': 'accessories'}.items():
+                 'legwear': 'socks', 'hats': 'accessories', 'bikinis': 'dresses', 'arm-warmers': 'accessories', 'hair': 'accessories', 'belts': 'accessories', 'extras': 'accessories'}.items():
     POOL.setdefault(new, POOL[old])
 
 picks = json.load(open(PICKS))
