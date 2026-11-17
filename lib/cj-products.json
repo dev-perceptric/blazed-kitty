@@ -1,6 +1,6 @@
 [
  {
-  "slug": "rainbow-4-piece-grinder-694016",
+  "slug": "rainbow-metal-y2k-4-piece-grinder-694016",
   "code": "BK-CJ1",
   "name": "Rainbow Metal Y2K 4 Piece Grinder",
   "depts": [
@@ -61,10 +61,13 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/1421710248900694016/f34dabb7e144.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "rainbow-4-piece-grinder-694016"
   ]
  },
  {
-  "slug": "swifty-grinder-521984",
+  "slug": "chunky-zinc-y2k-swifty-grinder-521984",
   "code": "BK-CJ2",
   "name": "Chunky Zinc Y2K Swifty Grinder",
   "depts": [
@@ -196,10 +199,13 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/1770748967492521984/8a3a9c16e894.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "swifty-grinder-521984"
   ]
  },
  {
-  "slug": "fold-up-rolling-tray-cone-loader-032896",
+  "slug": "printed-metal-y2k-fold-up-rolling-tray-032896",
   "code": "BK-CJ3",
   "name": "Printed Metal Y2K Fold Up Rolling Tray",
   "depts": [
@@ -387,10 +393,13 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/1782310648270032896/0b589ab67233.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "fold-up-rolling-tray-cone-loader-032896"
   ]
  },
  {
-  "slug": "glow-stash-jar-605000",
+  "slug": "led-glow-y2k-sealed-stash-jar-605000",
   "code": "BK-CJ4",
   "name": "LED Glow Y2K Sealed Stash Jar",
   "depts": [
@@ -565,10 +574,13 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/2406110057351605000/d6a7c4b77573.jpeg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "glow-stash-jar-605000"
   ]
  },
  {
-  "slug": "ceramic-ashtray-389120",
+  "slug": "glazed-ceramic-goth-ashtray-389120",
   "code": "BK-CJ5",
   "name": "Glazed Ceramic Goth Ashtray",
   "depts": [
@@ -646,10 +658,13 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/1362691361920389120/f816e0ebcc28.png",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "ceramic-ashtray-389120"
   ]
  },
  {
-  "slug": "concrete-ashtray-622700",
+  "slug": "gold-or-black-concrete-goth-ashtray-622700",
   "code": "BK-CJ6",
   "name": "Gold Or Black Concrete Goth Ashtray",
   "depts": [
@@ -788,6 +803,9 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/2406190651181622700/ee46aa417a88.jpg",
     "color": "*"
    }
+  ],
+  "oldSlugs": [
+   "concrete-ashtray-622700"
   ]
  }
 ]

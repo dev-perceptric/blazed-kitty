@@ -240,6 +240,10 @@ def main():
                 prev['price'] = pick['price']
             prev['details'] = (pick.get('details') or []) + ['Ships from our overseas partner']
             prev['code'] = f'BK-AE{i}'
+            new_slug = f"{slug(prev['name'])}-{str(pick['id'])[-6:]}"
+            if new_slug != prev['slug']:
+                prev['oldSlugs'] = sorted(set(prev.get('oldSlugs', [])) | {prev['slug']})
+                prev['slug'] = new_slug
             if pick.get('category') in cats:
                 prev['line'] = cats[pick['category']][0]
             hide = set(pick.get('hide_photos') or [])
