@@ -338,6 +338,8 @@ export interface Product {
   details: string[];
   /** Long description, one paragraph per entry. */
   description?: string[];
+  /** Earlier web addresses, so orders paid under an old one can still be fulfilled. Not redirected. */
+  oldSlugs?: string[];
 }
 
 // Generated from the Printful store (Blazed Kitty) by scripts/build_catalog.py.
@@ -361,7 +363,7 @@ export function getProduct(slug: string) {
 
 /** Finds a product even if it's hidden from the store. */
 export function findAnyProduct(slug: string) {
-  return ALL_PRODUCTS.find((p) => p.slug === slug);
+  return ALL_PRODUCTS.find((p) => p.slug === slug || p.oldSlugs?.includes(slug));
 }
 
 /** The CJ variant for a color and size, if CJ stocks that combo. */
