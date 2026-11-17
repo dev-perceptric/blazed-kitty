@@ -19364,7 +19364,10 @@
    "women",
    "men"
   ],
-  "blurb": "Dark, loose and loud."
+  "blurb": "Dark, loose and loud.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009298325428/76501ed9f8d8.jpg"
+  ]
  },
  {
   "id": "1005009079201586",
@@ -20978,7 +20981,10 @@
    "women",
    "men"
   ],
-  "blurb": "For the guy in the back of the pit."
+  "blurb": "For the guy in the back of the pit.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009298439068/76501ed9f8d8.jpg"
+  ]
  },
  {
   "id": "1005011661885572",
