@@ -3,13 +3,17 @@
 Run:  python3 scripts/ae_tags.py TAG_DIR        (TAG_DIR has index.json + out-*.json, see the tagging brief)
 Then: python3 scripts/ae_catalog.py
 
-Each out-*.json is a list of {i, id, sub, print, themes, cut, neck, sleeve, length, material, color, vibe, vibes, unisex,
+Each out-*.json is a list of {i, id, name?, sub, print, themes, cut, neck, sleeve, length, material, color, vibe, vibes, unisex,
 category?}. Values not in lib/tag-vocab.json are dropped. `unisex` sets the departments; `category` moves the product.
 """
 import glob
 import json
 import os
+import re
 import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from ae_cats import new_category  # noqa: E402
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PICKS = os.path.join(REPO, 'scripts', 'ae_picks.json')
@@ -63,7 +67,8 @@ def main():
             else:
                 print(f'  {os.path.basename(f)}: index {t.get("i")} does not match its id, skipped')
     picks = json.load(open(PICKS))
-    done = moved = 0
+    used = {p['name'] for p in picks}
+    done = moved = renamed = 0
     bad_total = []
     for p in picks:
         t = tags.get(str(p['id']))
@@ -75,6 +80,15 @@ def main():
             moved += 1
             p['category'] = cat
         p['attrs'] = a
+        name = re.sub(r'\s+', ' ', (t.get('name') or '').strip())
+        # New names from the photos, if they end in a product type that fits the category.
+        if name and name != p['name'] and new_category(name, p['category']) == p['category']:
+            cand, i = name, 2
+            while cand in used:
+                cand = f'{name} {i}'; i += 1
+            used.discard(p['name']); used.add(cand)
+            p['name'] = cand
+            renamed += 1
         if p['category'] != 'extras':
             p['depts'] = ['women', 'men'] if a['unisex'] else ['women']
         done += 1
@@ -82,7 +96,7 @@ def main():
         json.dump(picks, f, indent=1, ensure_ascii=False)
         f.write('\n')
     missing = [p['id'] for p in picks if str(p['id']) not in tags]
-    print(f'Tagged {done} of {len(picks)} picks, moved {moved} to a new category, {len(missing)} without tags.')
+    print(f'Tagged {done} of {len(picks)} picks, renamed {renamed}, moved {moved} to a new category, {len(missing)} without tags.')
     if bad_total:
         print(f'{len(bad_total)} unknown values dropped, e.g. {bad_total[:8]}')
 
