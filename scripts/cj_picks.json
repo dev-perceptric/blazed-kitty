@@ -1,44 +1,66 @@
 [
-  {
-    "pid": "1421710248900694016",
-    "category": "tech",
-    "name": "Rainbow 4-Piece Grinder",
-    "blurb": "Grind it pretty.",
-    "details": ["Zinc alloy, 4 layers", "Mesh screen catches the fine stuff", "Small enough for a pocket"]
-  },
-  {
-    "pid": "1770748967492521984",
-    "category": "tech",
-    "name": "Swifty Grinder",
-    "blurb": "Big grip, quick grind.",
-    "details": ["Solid zinc alloy", "Oversized body that's easy to grip"]
-  },
-  {
-    "pid": "1782310648270032896",
-    "category": "rolling-mats",
-    "name": "Fold-Up Rolling Tray & Cone Loader",
-    "blurb": "Roll, fill, fold, go.",
-    "details": ["Metal tray that folds into a stand", "Cone funnel fits king size and 1 1/4 cones", "Cone filler and brush included"]
-  },
-  {
-    "pid": "2406110057351605000",
-    "category": "glassware",
-    "name": "Glow Stash Jar",
-    "blurb": "Sealed tight, lit up, all yours.",
-    "details": ["Glass and acrylic with an LED glow", "Sealed lid keeps it fresh", "About 5 in wide and 2.6 in tall"]
-  },
-  {
-    "pid": "1362691361920389120",
-    "category": "glassware",
-    "name": "Ceramic Ashtray",
-    "blurb": "Somewhere nice to tap.",
-    "details": ["High-fired ceramic", "Heavy and steady on the table"]
-  },
-  {
-    "pid": "2406190651181622700",
-    "category": "glassware",
-    "name": "Concrete Ashtray",
-    "blurb": "Heavy enough to survive the sesh.",
-    "details": ["Cast concrete with a gold or black finish", "Comes with or without a lid", "Too heavy to tip"]
-  }
+ {
+  "pid": "1421710248900694016",
+  "category": "tech",
+  "name": "Rainbow Metal Y2K 4 Piece Grinder",
+  "blurb": "Grind it pretty.",
+  "details": [
+   "Zinc alloy, 4 layers",
+   "Mesh screen catches the fine stuff",
+   "Small enough for a pocket"
+  ]
+ },
+ {
+  "pid": "1770748967492521984",
+  "category": "tech",
+  "name": "Chunky Zinc Y2K Swifty Grinder",
+  "blurb": "Big grip, quick grind.",
+  "details": [
+   "Solid zinc alloy",
+   "Oversized body that's easy to grip"
+  ]
+ },
+ {
+  "pid": "1782310648270032896",
+  "category": "rolling-mats",
+  "name": "Printed Metal Y2K Fold Up Rolling Tray",
+  "blurb": "Roll, fill, fold, go.",
+  "details": [
+   "Metal tray that folds into a stand",
+   "Cone funnel fits king size and 1 1/4 cones",
+   "Cone filler and brush included"
+  ]
+ },
+ {
+  "pid": "2406110057351605000",
+  "category": "glassware",
+  "name": "LED Glow Y2K Sealed Stash Jar",
+  "blurb": "Sealed tight, lit up, all yours.",
+  "details": [
+   "Glass and acrylic with an LED glow",
+   "Sealed lid keeps it fresh",
+   "About 5 in wide and 2.6 in tall"
+  ]
+ },
+ {
+  "pid": "1362691361920389120",
+  "category": "glassware",
+  "name": "Glazed Ceramic Goth Ashtray",
+  "blurb": "Somewhere nice to tap.",
+  "details": [
+   "High-fired ceramic",
+   "Heavy and steady on the table"
+  ]
+ },
+ {
+  "pid": "2406190651181622700",
+  "category": "glassware",
+  "name": "Gold Or Black Concrete Goth Ashtray",
+  "blurb": "Heavy enough to survive the sesh.",
+  "details": [
+   "Cast concrete with a gold or black finish",
+   "Comes with or without a lid",
+   "Too heavy to tip"
+  ]
+ }
 ]

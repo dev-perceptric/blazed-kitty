@@ -57,6 +57,10 @@
   "details": [
    "Y2K letter print",
    "Cropped baby-tee fit"
+  ],
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007118244898/c082e4ca05da.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007118244898/c400fcb489e0.jpg"
   ]
  },
  {
@@ -107,6 +111,9 @@
   "details": [
    "Striped knit with letter print",
    "Slim fit"
+  ],
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011984299652/50908dd0db44.jpg"
   ]
  },
  {
@@ -147,6 +154,10 @@
   "details": [
    "Striped knit with skull print",
    "Slim V-neck fit"
+  ],
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012290376510/449f1f2157c8.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012290376510/eafeb6253ad2.jpg"
   ]
  },
  {
@@ -398,7 +409,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256806622950424/ed4c067060b9.jpg"
+  ]
  },
  {
   "id": "3256809865549815",
@@ -408,7 +422,10 @@
    "women"
   ],
   "price": 49.99,
-  "blurb": "For cold nights and loud music."
+  "blurb": "For cold nights and loud music.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256809865549815/201d6b6266a0.jpg"
+  ]
  },
  {
   "id": "3256810439154441",
@@ -426,7 +443,11 @@
   "depts": [
    "women"
   ],
-  "blurb": "Layer it or wear it alone."
+  "blurb": "Layer it or wear it alone.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256811366567783/80c132384bf5.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256811366567783/8349e05d9bd5.jpg"
+  ]
  },
  {
   "id": "3256811976111583",
@@ -441,7 +462,11 @@
   "id": "3256809386174464",
   "category": "baby-tees",
   "name": "Metal Cross Sheer Grunge V Neck Baby Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256809386174464/9502315c34a9.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256809386174464/9eb08d57ac26.jpg"
+  ]
  },
  {
   "id": "3256813339590849",
@@ -465,7 +490,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256813089184164/77357890eafa.jpg"
+  ]
  },
  {
   "id": "3256808412145872",
@@ -525,7 +553,10 @@
   "id": "3256810153300832",
   "category": "hoodies",
   "name": "Brown Polka Dot Fairy Grunge Knit Cardigan Set",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256810153300832/ed1b19abeef0.jpg"
+  ]
  },
  {
   "id": "3256813037402640",
@@ -562,7 +593,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256807521363680/2dba7fd40241.jpg"
+  ]
  },
  {
   "id": "3256807869078158",
@@ -577,7 +611,10 @@
   "id": "3256809572530968",
   "category": "long-sleeves",
   "name": "White Rock Patch Y2K Cropped Long Sleeve Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256809572530968/308afa748d2f.jpg"
+  ]
  },
  {
   "id": "3256810248354366",
@@ -671,7 +708,14 @@
    "women"
   ],
   "price": 78.99,
-  "blurb": "Fur trim, zero chill."
+  "blurb": "Fur trim, zero chill.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256813267428512/329413182f69.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256813267428512/8dac8f5f5cb4.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256813267428512/8ddc6cce171a.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256813267428512/96c18b0f7af3.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256813267428512/b363a28a0f55.jpg"
+  ]
  },
  {
   "id": "3256812443958104",
@@ -690,7 +734,15 @@
    "women"
   ],
   "price": 44.99,
-  "blurb": "Hood up, world off."
+  "blurb": "Hood up, world off.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256809779592625/00a80f3aeb8a.png",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256809779592625/09c7a8065dbc.png",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256809779592625/2503cdcc36e8.png",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256809779592625/5bdc00dcc875.png",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256809779592625/bc5c03670a3c.png",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256809779592625/beb8b02f885c.png"
+  ]
  },
  {
   "id": "3256807774287450",
@@ -735,13 +787,20 @@
   "id": "1005013020934517",
   "category": "baby-tees",
   "name": "Navy Doodle Letter Y2K Baby Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013020934517/6c631179117a.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013020934517/a15e941f89d3.jpg"
+  ]
  },
  {
   "id": "1005012511393538",
   "category": "baby-tees",
   "name": "Orange Star Patch Harajuku Raglan Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012511393538/435ee87ec300.jpg"
+  ]
  },
  {
   "id": "1005009193011318",
@@ -753,7 +812,10 @@
   "id": "1005011966347460",
   "category": "long-sleeves",
   "name": "Colorful Graffiti Harajuku Thin Knit Sweater",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011966347460/7286e59c8a42.jpg"
+  ]
  },
  {
   "id": "1005012934272377",
@@ -762,13 +824,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Straps out, eyes up."
+  "blurb": "Straps out, eyes up.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012934272377/82a8f073dfba.jpg"
+  ]
  },
  {
   "id": "1005012209427818",
   "category": "baby-tees",
   "name": "Rhinestone Horse Grunge Raglan Baby Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012209427818/f93763c30d72.jpg"
+  ]
  },
  {
   "id": "1005011628283674",
@@ -777,7 +845,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011628283674/ab05bcd9ac57.jpg"
+  ]
  },
  {
   "id": "1005013485474607",
@@ -786,7 +857,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013485474607/9ac540e95f52.jpg"
+  ]
  },
  {
   "id": "1005011743974361",
@@ -798,7 +872,10 @@
   "id": "1005011799854067",
   "category": "baby-tees",
   "name": "Treble Clef Music Note Y2K Baby Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011799854067/e387fb19d59a.jpg"
+  ]
  },
  {
   "id": "1005010691875267",
@@ -807,19 +884,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010691875267/d58857f2f5e5.jpg"
+  ]
  },
  {
   "id": "1005012283988563",
   "category": "baby-tees",
   "name": "Angel Wing Fairy Grunge Baby Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012283988563/a24908100cb7.jpg"
+  ]
  },
  {
   "id": "1005008756300391",
   "category": "baby-tees",
   "name": "Grey Striped Grunge Off Shoulder Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008756300391/589914c8bc25.jpg"
+  ]
  },
  {
   "id": "1005010722480705",
@@ -828,7 +914,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010722480705/69b209c2cf81.jpg"
+  ]
  },
  {
   "id": "1005012758622522",
@@ -837,7 +926,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012758622522/2542833d878e.jpg"
+  ]
  },
  {
   "id": "1005010770595922",
@@ -879,7 +971,16 @@
   "id": "1005008455247676",
   "category": "baby-tees",
   "name": "Mystery Varsity Y2K Layered Crop Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008455247676/1a2fb99ff9b8.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008455247676/57e1e5083a5c.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008455247676/7209d7a46aef.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008455247676/7d36c6a7f3a6.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008455247676/82b3ae77f9b9.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008455247676/9088d0312d87.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008455247676/98cf620b6602.jpg"
+  ]
  },
  {
   "id": "1005004050245093",
@@ -906,13 +1007,20 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011744348019/d983501f5c79.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011744348019/f509ecc82578.jpg"
+  ]
  },
  {
   "id": "1005012704587221",
   "category": "baby-tees",
   "name": "Leopard Print Pink Script Y2K Baby Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012704587221/deab45727c10.jpg"
+  ]
  },
  {
   "id": "1005013204189156",
@@ -921,7 +1029,11 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013204189156/d936530930af.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013204189156/e7127dae6df3.jpg"
+  ]
  },
  {
   "id": "1005013313175179",
@@ -930,43 +1042,64 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013313175179/ef69ab1b42bb.jpg"
+  ]
  },
  {
   "id": "1005012585424591",
   "category": "baby-tees",
   "name": "Light Blue Script Print Y2K Fitted Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012585424591/22d130142665.jpg"
+  ]
  },
  {
   "id": "1005012333791988",
   "category": "baby-tees",
   "name": "Pink Shoujo Girl Print Y2K Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012333791988/fdbce7e39ce4.jpg"
+  ]
  },
  {
   "id": "1005012181551170",
   "category": "baby-tees",
   "name": "Polka Dot Letter Y2K Puff Sleeve Baby Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012181551170/b71b5597bad2.jpg"
+  ]
  },
  {
   "id": "1005011892382920",
   "category": "baby-tees",
   "name": "White Lace Tie Front Y2K V Neck Baby Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011892382920/d38453f41b23.jpg"
+  ]
  },
  {
   "id": "1005010763281469",
   "category": "baby-tees",
   "name": "Striped Sleeve Music Note Y2K Layered Baby Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010763281469/16dd7c9efba5.jpg"
+  ]
  },
  {
   "id": "1005012095215419",
   "category": "baby-tees",
   "name": "Brown Ruched V Neck Y2K Fitted Crop Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012095215419/cb8e392489bc.jpg"
+  ]
  },
  {
   "id": "1005012112851118",
@@ -981,19 +1114,28 @@
   "id": "1005012200883231",
   "category": "baby-tees",
   "name": "Piano Key Music Note Grunge V Neck Baby Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012200883231/aee2d4251c08.jpg"
+  ]
  },
  {
   "id": "1005012882078613",
   "category": "baby-tees",
   "name": "Pink Slogan Portrait Print Punk Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012882078613/82ebe215d62c.jpg"
+  ]
  },
  {
   "id": "1005012591846101",
   "category": "baby-tees",
   "name": "Pink Deep V Y2K Fitted Crop Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012591846101/0a33aaa7b786.jpg"
+  ]
  },
  {
   "id": "1005013463045415",
@@ -1002,7 +1144,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013463045415/8c9d7a481742.jpg"
+  ]
  },
  {
   "id": "1005008183031749",
@@ -1068,7 +1213,10 @@
   "id": "1005011973368066",
   "category": "baby-tees",
   "name": "Invitation For Sweet Girl Y2K Layered Ringer Tee",
-  "blurb": "The baby tee your ex remembers."
+  "blurb": "The baby tee your ex remembers.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011973368066/f3abeae43107.jpg"
+  ]
  },
  {
   "id": "1005010760755267",
@@ -1077,7 +1225,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010760755267/29f54d7ac75b.jpg"
+  ]
  },
  {
   "id": "1005012872501857",
@@ -1086,7 +1237,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012872501857/87048a6b4480.jpg"
+  ]
  },
  {
   "id": "1005013003114918",
@@ -1095,7 +1249,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013003114918/518b9f412b8d.jpg"
+  ]
  },
  {
   "id": "1005013483208578",
@@ -1104,19 +1261,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013483208578/ae35bb877671.jpg"
+  ]
  },
  {
   "id": "1005006237248947",
   "category": "long-sleeves",
   "name": "Black Striped Star Y2K Knit Long Sleeve Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006237248947/9531b1ad913f.jpg"
+  ]
  },
  {
   "id": "1005011532103311",
   "category": "long-sleeves",
   "name": "Studded Black Cross Goth Off Shoulder Long Sleeve Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011532103311/abcfd2fb144a.jpg"
+  ]
  },
  {
   "id": "1005013123914821",
@@ -1125,7 +1291,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013123914821/730729ba2385.png"
+  ]
  },
  {
   "id": "1005012849771120",
@@ -1134,13 +1303,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012849771120/df4587a791b8.jpg"
+  ]
  },
  {
   "id": "1005011899240916",
   "category": "baby-tees",
   "name": "Blue Letter Print Grunge Cropped Baby Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011899240916/a67e7ca9ff48.jpg"
+  ]
  },
  {
   "id": "1005013355753623",
@@ -1149,13 +1324,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013355753623/e4e29b5a19f5.jpg"
+  ]
  },
  {
   "id": "1005012267326602",
   "category": "baby-tees",
   "name": "Cold Fashion Striped Grunge Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012267326602/b0b635fd38cf.jpg"
+  ]
  },
  {
   "id": "1005010480415461",
@@ -1164,7 +1345,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010480415461/631d2b5cf4a2.jpg"
+  ]
  },
  {
   "id": "1005004595588281",
@@ -1221,7 +1405,10 @@
   "id": "1005011912371746",
   "category": "baby-tees",
   "name": "Polka Dot Puppy Y2K Baby Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011912371746/710cc9a80231.jpg"
+  ]
  },
  {
   "id": "1005013400063750",
@@ -1230,25 +1417,37 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013400063750/c93fef894e5c.jpg"
+  ]
  },
  {
   "id": "1005012148152080",
   "category": "baby-tees",
   "name": "Portrait Print Red Scribble Grunge Baby Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012148152080/d1d6b1c884df.jpg"
+  ]
  },
  {
   "id": "1005012910885767",
   "category": "baby-tees",
   "name": "White Shrug Striped Cami Y2K Layered Set",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012910885767/92573bba59c0.jpg"
+  ]
  },
  {
   "id": "1005013291373709",
   "category": "baby-tees",
   "name": "Black Half Sleeve Henley Grunge Baby Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013291373709/7250cbaaaf3b.jpg"
+  ]
  },
  {
   "id": "1005012220349988",
@@ -1260,25 +1459,37 @@
   "id": "1005011990203234",
   "category": "baby-tees",
   "name": "Headphones Girls Y2K Blue Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011990203234/2528be466837.jpg"
+  ]
  },
  {
   "id": "1005007444620349",
   "category": "baby-tees",
   "name": "Pink Letter Print Y2K Skinny Crop Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007444620349/25e4869f9238.jpg"
+  ]
  },
  {
   "id": "1005013419881191",
   "category": "long-sleeves",
   "name": "Grey Black Lace Trim Goth Layered Long Sleeve Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013419881191/bc14b2291d97.jpg"
+  ]
  },
  {
   "id": "1005011974438351",
   "category": "baby-tees",
   "name": "Blue Scoop Neck Y2K Fitted Crop Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011974438351/3413be0d1a79.jpg"
+  ]
  },
  {
   "id": "1005010722062616",
@@ -1287,19 +1498,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010722062616/421ee5b1e3b7.jpg"
+  ]
  },
  {
   "id": "1005012777673021",
   "category": "baby-tees",
   "name": "Leopard Flag Letter Print Punk Baby Tee",
-  "blurb": "The baby tee your ex remembers."
+  "blurb": "The baby tee your ex remembers.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012777673021/513d10f48ce7.jpg"
+  ]
  },
  {
   "id": "1005013128415782",
   "category": "long-sleeves",
   "name": "Pink Wrap Deep V Y2K Fitted Long Sleeve Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013128415782/feb7578317ed.jpg"
+  ]
  },
  {
   "id": "1005003244354006",
@@ -1326,7 +1546,10 @@
   "id": "1005012010125050",
   "category": "baby-tees",
   "name": "Grey Half Sleeve Y2K Fitted Baby Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012010125050/50fec3daae71.jpg"
+  ]
  },
  {
   "id": "1005008178303175",
@@ -1347,7 +1570,11 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011552882535/80c132384bf5.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011552882535/8349e05d9bd5.jpg"
+  ]
  },
  {
   "id": "1005012002924912",
@@ -1368,19 +1595,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Layer it or wear it alone."
+  "blurb": "Layer it or wear it alone.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013424608076/d783a7cfec4d.jpg"
+  ]
  },
  {
   "id": "1005010339615584",
   "category": "baby-tees",
   "name": "Brown Polka Dot Ruffle Y2K Knit Cardigan Set",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010339615584/ed1b19abeef0.jpg"
+  ]
  },
  {
   "id": "1005011570150643",
   "category": "baby-tees",
   "name": "Orange Script Flower Y2K V Neck Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011570150643/2537ef3808bf.jpg"
+  ]
  },
  {
   "id": "1005013206220818",
@@ -1389,25 +1625,37 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013206220818/48ce7caca120.jpg"
+  ]
  },
  {
   "id": "1005008898069166",
   "category": "baby-tees",
   "name": "Yellow Script Slogan Grunge Fitted Baby Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008898069166/2b838e55fb22.jpg"
+  ]
  },
  {
   "id": "1005012252081237",
   "category": "baby-tees",
   "name": "Blue 1997 Print Y2K Patchwork Baby Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012252081237/889565055e6f.jpg"
+  ]
  },
  {
   "id": "1005012812272200",
   "category": "baby-tees",
   "name": "Lime Striped Letter Y2K Baby Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012812272200/74db5157fbd2.jpg"
+  ]
  },
  {
   "id": "1005011780171851",
@@ -1431,13 +1679,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012972342234/5f2030a5f30d.jpg"
+  ]
  },
  {
   "id": "1005005372906343",
   "category": "baby-tees",
   "name": "Red J'adore 2002 Y2K Baby Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005372906343/07718150163b.jpg"
+  ]
  },
  {
   "id": "1005009431060731",
@@ -1467,7 +1721,13 @@
   "depts": [
    "women"
   ],
-  "blurb": "The top that does the talking."
+  "blurb": "The top that does the talking.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013362563537/19c6514d3267.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013362563537/3795c85c09a3.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013362563537/9b8a30d325fb.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013362563537/bbe62b26b638.jpg"
+  ]
  },
  {
   "id": "1005010661158465",
@@ -1783,15 +2043,6 @@
    "women"
   ],
   "blurb": "Hood up, world off."
- },
- {
-  "id": "1005003693122534",
-  "category": "accessories",
-  "name": "Black Oversized Y2K Polarized Sunglasses",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Add it to anything black."
  },
  {
   "id": "3256812854101960",
@@ -2157,7 +2408,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "For cold nights and loud music."
+  "blurb": "For cold nights and loud music.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/Sf5c80c2dc8ab4820b37273ac88dfc199j.jpg"
+  ]
  },
  {
   "id": "1005005763645625",
@@ -2166,13 +2420,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Wear them low, walk like you mean it."
+  "blurb": "Wear them low, walk like you mean it.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005763645625/4c2f87e5ad8a.jpg"
+  ]
  },
  {
   "id": "1005013032768679",
   "category": "baby-tees",
   "name": "Blue Striped Hooded Button Y2K Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013032768679/eca86e320a17.jpg"
+  ]
  },
  {
   "id": "1005013101567944",
@@ -2181,7 +2441,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Oversized and over it."
+  "blurb": "Oversized and over it.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013101567944/14edb9c9ab58.jpg"
+  ]
  },
  {
   "id": "1005010408956492",
@@ -2190,7 +2453,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fur trim, zero chill."
+  "blurb": "Fur trim, zero chill.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010408956492/e8d28d81706d.jpg"
+  ]
  },
  {
   "id": "1005006809265176",
@@ -2199,13 +2465,20 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006809265176/ed4c067060b9.jpg"
+  ]
  },
  {
   "id": "1005009572489216",
   "category": "baby-tees",
   "name": "Black Studded Cross Trashy Y2K V Neck Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009572489216/9502315c34a9.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009572489216/9eb08d57ac26.jpg"
+  ]
  },
  {
   "id": "1005010323965323",
@@ -2214,7 +2487,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fur trim, zero chill."
+  "blurb": "Fur trim, zero chill.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010323965323/632633b8345c.jpg"
+  ]
  },
  {
   "id": "1005010284560089",
@@ -2223,7 +2499,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Hood up, world off."
+  "blurb": "Hood up, world off.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010284560089/c7c7b6b3ba64.jpg"
+  ]
  },
  {
   "id": "1005003830520577",
@@ -2232,13 +2511,21 @@
   "depts": [
    "women"
   ],
-  "blurb": "Zip it up, keep it dark."
+  "blurb": "Zip it up, keep it dark.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003830520577/0975512ba510.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003830520577/2edd6a247b83.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003830520577/6656140f8655.jpg"
+  ]
  },
  {
   "id": "1005013173845114",
   "category": "baby-tees",
   "name": "Blue Striped Sleeve Patchwork Harajuku Raglan Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013173845114/a9c39d80bb92.jpg"
+  ]
  },
  {
   "id": "1005007707678432",
@@ -2247,7 +2534,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007707678432/2dba7fd40241.jpg"
+  ]
  },
  {
   "id": "1005010082290137",
@@ -2256,13 +2546,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010082290137/473ee59d7e06.jpg"
+  ]
  },
  {
   "id": "1005012849914423",
   "category": "baby-tees",
   "name": "Pink Striped Floral Print Y2K Half Sleeve Baby Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012849914423/0b4279845be9.jpg"
+  ]
  },
  {
   "id": "1005010154242083",
@@ -2271,13 +2567,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Little extra, big difference."
+  "blurb": "Little extra, big difference.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010154242083/681761847a76.jpg"
+  ]
  },
  {
   "id": "1005009598727823",
   "category": "baby-tees",
   "name": "Tattoo Letter Print Goth Sheer Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009598727823/18fe33fee3c9.jpg"
+  ]
  },
  {
   "id": "1005008258496294",
@@ -2286,7 +2588,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008258496294/fbc4eaaf6187.jpg"
+  ]
  },
  {
   "id": "1005012180868344",
@@ -2295,7 +2600,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The top that does the talking."
+  "blurb": "The top that does the talking.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012180868344/82e951382c47.jpg"
+  ]
  },
  {
   "id": "1005010090047505",
@@ -2304,7 +2612,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010090047505/82ca2b3329cf.jpg"
+  ]
  },
  {
   "id": "1005006390857505",
@@ -2313,19 +2624,29 @@
   "depts": [
    "women"
   ],
-  "blurb": "Layer it or wear it alone."
+  "blurb": "Layer it or wear it alone.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006390857505/e9d360c26cfe.jpg"
+  ]
  },
  {
   "id": "1005010652191598",
   "category": "baby-tees",
   "name": "Silver Cross Off Shoulder Grunge Sheer Baby Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010652191598/bb95c3cc7580.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010652191598/be5839f40807.jpg"
+  ]
  },
  {
   "id": "1005008991094904",
   "category": "baby-tees",
   "name": "Dark Grey Back Print Grunge Trashy Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008991094904/ad77fc4a0760.jpg"
+  ]
  },
  {
   "id": "1005008468611487",
@@ -2334,19 +2655,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008468611487/0236b6aa464d.jpg"
+  ]
  },
  {
   "id": "1005003827520990",
   "category": "long-sleeves",
   "name": "Black Crinkle Irregular Hem Goth Button Up Blouse",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003827520990/a5bd0d82f78a.jpg"
+  ]
  },
  {
   "id": "1005005572768391",
   "category": "long-sleeves",
   "name": "Cream Lace Up Ruffle Fairy Grunge Long Sleeve Blouse",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005572768391/d1ef16459236.jpg"
+  ]
  },
  {
   "id": "1005006061143508",
@@ -2355,7 +2685,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006061143508/70c7333b8b13.jpg"
+  ]
  },
  {
   "id": "1005013484383931",
@@ -2364,7 +2697,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013484383931/aae779d5de30.jpg"
+  ]
  },
  {
   "id": "1005010495070325",
@@ -2373,13 +2709,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010495070325/2dc7960c7a78.jpg"
+  ]
  },
  {
   "id": "1005009348602047",
   "category": "baby-tees",
   "name": "Blue Plaid Button Y2K Puff Sleeve Shirt",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009348602047/2f24a1e004e7.jpg"
+  ]
  },
  {
   "id": "1005012460346238",
@@ -2388,7 +2730,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Built for summer and sold-out shows."
+  "blurb": "Built for summer and sold-out shows.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012460346238/4808861f2ad1.jpg"
+  ]
  },
  {
   "id": "1005008012767582",
@@ -2397,7 +2742,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "For cold nights and loud music."
+  "blurb": "For cold nights and loud music.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008012767582/4007997337c9.jpg"
+  ]
  },
  {
   "id": "1005007927056120",
@@ -2406,7 +2754,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007927056120/79892d75c129.jpg"
+  ]
  },
  {
   "id": "1005013351866168",
@@ -2424,7 +2775,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006195386504/301775daece6.jpg"
+  ]
  },
  {
   "id": "1005012329331983",
@@ -2433,7 +2787,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Built for summer and sold-out shows."
+  "blurb": "Built for summer and sold-out shows.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012329331983/93f3042e1a43.jpg"
+  ]
  },
  {
   "id": "1005012016594831",
@@ -2442,19 +2799,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Layer it or wear it alone."
+  "blurb": "Layer it or wear it alone.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012016594831/f8dd0997b483.jpg"
+  ]
  },
  {
   "id": "1005007380036374",
   "category": "baby-tees",
   "name": "Yellow Rhinestone Letter Trashy Y2K Crop Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007380036374/b1ea3ab52614.jpg"
+  ]
  },
  {
   "id": "1005007606846909",
   "category": "baby-tees",
   "name": "Red Rhinestone Superstar Off Shoulder Y2K Crop Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007606846909/08d0c74a96b8.jpg"
+  ]
  },
  {
   "id": "1005008191675672",
@@ -2463,7 +2829,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008191675672/5dca6c5f215d.jpg"
+  ]
  },
  {
   "id": "1005013177532290",
@@ -2472,7 +2841,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013177532290/985c026a5028.jpg"
+  ]
  },
  {
   "id": "1005007279744053",
@@ -2481,7 +2853,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Show some skin, keep the mystery."
+  "blurb": "Show some skin, keep the mystery.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007279744053/14487a6b01ea.jpg"
+  ]
  },
  {
   "id": "1005013185287361",
@@ -2490,13 +2865,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fur trim, zero chill."
+  "blurb": "Fur trim, zero chill.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013185287361/198e959c3c9f.jpg"
+  ]
  },
  {
   "id": "1005007614263742",
   "category": "long-sleeves",
   "name": "White Pleated Lace Up Fairy Grunge Long Sleeve Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007614263742/564eed2319c2.jpg"
+  ]
  },
  {
   "id": "1005008218340745",
@@ -2505,7 +2886,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008218340745/b1fda363e0fc.jpg"
+  ]
  },
  {
   "id": "1005013355681421",
@@ -2514,25 +2898,37 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013355681421/c2b3565822df.jpg"
+  ]
  },
  {
   "id": "1005009459360283",
   "category": "baby-tees",
   "name": "Rock Star New York Y2K Ribbed Baby Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009459360283/89da135f58fc.jpg"
+  ]
  },
  {
   "id": "1005008579337276",
   "category": "baby-tees",
   "name": "Yellow Black Script Y2K Fitted Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008579337276/69268d6fecbf.jpg"
+  ]
  },
  {
   "id": "1005007278981758",
   "category": "long-sleeves",
   "name": "Plaid Lace Cross Patchwork Grunge Mesh Long Sleeve Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007278981758/465e8ad7cb74.jpg"
+  ]
  },
  {
   "id": "1005010103627658",
@@ -2541,19 +2937,29 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010103627658/09b3dfed676e.jpg"
+  ]
  },
  {
   "id": "1005012936091621",
   "category": "baby-tees",
   "name": "Zebra Stripe <333 Y2K Off Shoulder Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012936091621/297a58c8b151.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012936091621/5e082bd14a85.jpg"
+  ]
  },
  {
   "id": "1005013358678092",
   "category": "hoodies",
   "name": "Brown Argyle Fur Collar Y2K Knit Cardigan Set",
-  "blurb": "Dress up, act out."
+  "blurb": "Dress up, act out.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013358678092/88da9eb54a9e.jpg"
+  ]
  },
  {
   "id": "1005012794212619",
@@ -2562,7 +2968,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Show some skin, keep the mystery."
+  "blurb": "Show some skin, keep the mystery.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012794212619/9490e312e556.jpg"
+  ]
  },
  {
   "id": "1005006798585734",
@@ -2571,7 +2980,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fur trim, zero chill."
+  "blurb": "Fur trim, zero chill.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006798585734/ccd45b4da266.jpg"
+  ]
  },
  {
   "id": "1005009821279420",
@@ -2580,7 +2992,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009821279420/d59f3bba4166.jpg"
+  ]
  },
  {
   "id": "1005008592072110",
@@ -2598,7 +3013,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "For cold nights and loud music."
+  "blurb": "For cold nights and loud music.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007880156230/e82bf07a7326.jpg"
+  ]
  },
  {
   "id": "1005010035850979",
@@ -2607,31 +3025,46 @@
   "depts": [
    "women"
   ],
-  "blurb": "Zip it up, keep it dark."
+  "blurb": "Zip it up, keep it dark.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010035850979/7dba8dead6aa.jpg"
+  ]
  },
  {
   "id": "1005006976019114",
   "category": "baby-tees",
   "name": "Pink Beaded Cutout Y2K Knit Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006976019114/bb0861261a9f.jpg"
+  ]
  },
  {
   "id": "1005012708205003",
   "category": "baby-tees",
   "name": "Rhinestone Pink Graphic Y2K Baby Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012708205003/382325cc6a67.jpg"
+  ]
  },
  {
   "id": "1005009855173952",
   "category": "baby-tees",
   "name": "Leopard Patchwork Y2K Layered Tie Crop Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009855173952/9f3c83d8c158.jpg"
+  ]
  },
  {
   "id": "1005009253031979",
   "category": "baby-tees",
   "name": "Black Character Print 333 Grunge Baby Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009253031979/c899944d3c75.jpg"
+  ]
  },
  {
   "id": "1005010044664974",
@@ -2640,13 +3073,20 @@
   "depts": [
    "women"
   ],
-  "blurb": "The layer everyone asks about."
+  "blurb": "The layer everyone asks about.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010044664974/0d77006ac1d1.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010044664974/4a8b027a93dd.jpg"
+  ]
  },
  {
   "id": "1005007077858198",
   "category": "long-sleeves",
   "name": "Black Tattoo Print Goth Layered Long Sleeve Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007077858198/df70fd42725d.jpg"
+  ]
  },
  {
   "id": "1005012980381437",
@@ -2655,13 +3095,20 @@
   "depts": [
    "women"
   ],
-  "blurb": "Layer it or wear it alone."
+  "blurb": "Layer it or wear it alone.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012980381437/087b4945e597.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012980381437/3a11b8e4d55b.jpg"
+  ]
  },
  {
   "id": "1005005414465331",
   "category": "baby-tees",
   "name": "Bunny Pink Heart Y2K Crop Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005414465331/e1179a712140.jpg"
+  ]
  },
  {
   "id": "1005013224629130",
@@ -2670,7 +3117,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The detail that makes the fit."
+  "blurb": "The detail that makes the fit.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013224629130/fbfed5bf492a.jpg"
+  ]
  },
  {
   "id": "1005007601986496",
@@ -2682,22 +3132,16 @@
   "blurb": "Sleeves for when it's cold, attitude for always."
  },
  {
-  "id": "1005013375461772",
-  "category": "long-sleeves",
-  "name": "White Script Letter Y2K Fitted Long Sleeve Tee",
-  "depts": [
-   "women"
-  ],
-  "blurb": "Soft on the arms, hard on the vibe."
- },
- {
   "id": "1005008501417185",
   "category": "long-sleeves",
   "name": "Black Tattoo Print Goth Irregular Long Sleeve Tee",
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008501417185/636fcb1426fc.jpg"
+  ]
  },
  {
   "id": "1005006841913386",
@@ -2706,13 +3150,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Layer it or wear it alone."
+  "blurb": "Layer it or wear it alone.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006841913386/d93032858320.jpg"
+  ]
  },
  {
   "id": "1005011768018773",
   "category": "baby-tees",
   "name": "White Lace Puff Sleeve Coquette Square Neck Crop Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011768018773/38e27e14e6f7.jpg"
+  ]
  },
  {
   "id": "1005003874810526",
@@ -2730,13 +3180,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "The detail that makes the fit."
+  "blurb": "The detail that makes the fit.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006462597171/a8dc05b8d331.jpg"
+  ]
  },
  {
   "id": "1005008690745863",
   "category": "baby-tees",
   "name": "Black Graffiti Sketch Grunge Baby Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008690745863/0af2236b9e6c.jpg"
+  ]
  },
  {
   "id": "1005009903061552",
@@ -2754,7 +3210,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010006576986/df75689a4aa3.jpg"
+  ]
  },
  {
   "id": "1005013167842313",
@@ -2781,13 +3240,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "The detail that makes the fit."
+  "blurb": "The detail that makes the fit.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009889187751/39e5dcbf03d4.jpg"
+  ]
  },
  {
   "id": "1005012892309131",
   "category": "baby-tees",
   "name": "Leopard Striped Patchwork Y2K V Neck Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012892309131/a0c06567cb01.jpg"
+  ]
  },
  {
   "id": "1005007409931329",
@@ -2799,7 +3264,10 @@
   "id": "1005011967066048",
   "category": "baby-tees",
   "name": "White Chest Embroidery Y2K V Neck Baby Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011967066048/3477c1f71d01.jpg"
+  ]
  },
  {
   "id": "1005005062086248",
@@ -2808,7 +3276,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "For cold nights and loud music."
+  "blurb": "For cold nights and loud music.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005062086248/b152d57c0957.jpg"
+  ]
  },
  {
   "id": "1005008863764074",
@@ -2817,13 +3288,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Little top, big night."
+  "blurb": "Little top, big night.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008863764074/86a35e0e430f.jpg"
+  ]
  },
  {
   "id": "1005007047171346",
   "category": "baby-tees",
   "name": "Pink Cat Doodle Y2K Striped Raglan Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007047171346/beb465f949a3.jpg"
+  ]
  },
  {
   "id": "1005007852310271",
@@ -2832,13 +3309,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007852310271/09b85394708e.jpg"
+  ]
  },
  {
   "id": "1005007033177844",
   "category": "baby-tees",
   "name": "Call Delivery Bunny Y2K Pink Crop Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007033177844/1a31880064ad.jpg"
+  ]
  },
  {
   "id": "1005011868380164",
@@ -2847,7 +3330,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Layer it or wear it alone."
+  "blurb": "Layer it or wear it alone.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011868380164/e355ccf34657.jpg"
+  ]
  },
  {
   "id": "1005009280141915",
@@ -2856,7 +3342,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The top that does the talking."
+  "blurb": "The top that does the talking.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009280141915/f31447385629.jpg"
+  ]
  },
  {
   "id": "1005006982478341",
@@ -2865,7 +3354,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Layer it or wear it alone."
+  "blurb": "Layer it or wear it alone.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006982478341/b1bdeb3616e3.jpg"
+  ]
  },
  {
   "id": "1005008929301267",
@@ -2874,13 +3366,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "The top that does the talking."
+  "blurb": "The top that does the talking.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008929301267/98c707014f49.jpg"
+  ]
  },
  {
   "id": "1005009244004239",
   "category": "baby-tees",
   "name": "Polka Dot Palm Tree Y2K Crop Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009244004239/0d48ba285c49.jpg"
+  ]
  },
  {
   "id": "1005004866231125",
@@ -2889,13 +3387,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004866231125/04e9753404dc.jpg"
+  ]
  },
  {
   "id": "1005012412616814",
   "category": "baby-tees",
   "name": "Born In 90s Y2K Square Neck Baby Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012412616814/bcecbd1e8f66.jpg"
+  ]
  },
  {
   "id": "1005008982287003",
@@ -2904,19 +3408,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008982287003/36340d45c3bb.jpg"
+  ]
  },
  {
   "id": "1005008800213460",
   "category": "baby-tees",
   "name": "White Distressed Letter Print Y2K Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008800213460/1acf73fabbc2.jpg"
+  ]
  },
  {
   "id": "1005003334486936",
   "category": "hoodies",
   "name": "Sage Green Sheer Fairy Grunge Flare Sleeve Knit Sweater",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003334486936/7fcae923b610.jpg"
+  ]
  },
  {
   "id": "1005003347645947",
@@ -2925,19 +3438,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Little extra, big difference."
+  "blurb": "Little extra, big difference.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003347645947/009f901f51c2.jpg"
+  ]
  },
  {
   "id": "1005006703959821",
   "category": "long-sleeves",
   "name": "Green Ruffle Fairy Grunge Tie Front Long Sleeve Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006703959821/d3834e2425cc.jpg"
+  ]
  },
  {
   "id": "1005009850713869",
   "category": "baby-tees",
   "name": "White Polka Dot Y2K V Neck Button Baby Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009850713869/4f240fdc1262.jpg"
+  ]
  },
  {
   "id": "1005013339630357",
@@ -2946,13 +3468,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fur trim, zero chill."
+  "blurb": "Fur trim, zero chill.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013339630357/9f72906751bd.jpg"
+  ]
  },
  {
   "id": "1005009290388758",
   "category": "baby-tees",
   "name": "White Graffiti Star Y2K Loose Baby Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009290388758/40b23906cac4.jpg"
+  ]
  },
  {
   "id": "1005010314605423",
@@ -2961,7 +3489,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Layer it or wear it alone."
+  "blurb": "Layer it or wear it alone.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S93fecaddb7e54dc0bfebd584780eb68ae.jpg"
+  ]
  },
  {
   "id": "1005009207131248",
@@ -2970,7 +3501,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Little top, big night."
+  "blurb": "Little top, big night.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/Sfbe2b90ba51a4972b2799b29077de03fa.jpg"
+  ]
  },
  {
   "id": "1005010103852537",
@@ -2979,31 +3513,47 @@
   "depts": [
    "women"
   ],
-  "blurb": "Hood up, world off."
+  "blurb": "Hood up, world off.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S145ce72a4885484bb71eeecf1bf0f786c.jpg"
+  ]
  },
  {
   "id": "1005012720177240",
   "category": "tanks",
   "name": "Pink Grey Y2K Layered Cami Set",
-  "blurb": "Dress up, act out."
+  "blurb": "Dress up, act out.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/Sea69dbee3d714695bacbceae9ab3b15fK.jpg"
+  ]
  },
  {
   "id": "1005009449543172",
   "category": "baby-tees",
   "name": "Grey Star Print Grunge V Neck Baby Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S1fb9925f6fa44ae8b913803100599062c.jpg",
+   "https://ae01.alicdn.com/kf/S67952ea7d4ab4a39a0cb1e49e1e46fbbr.jpg"
+  ]
  },
  {
   "id": "1005012862872515",
   "category": "baby-tees",
   "name": "Grey Blue Letter Y2K Layered V Neck Baby Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S021efb681d8745d2ab1f2ebde979a7d1P.jpg"
+  ]
  },
  {
   "id": "1005012212569428",
   "category": "baby-tees",
   "name": "Black Dotted Letter Y2K Oversized Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S04131512684e4224863289667c343f91z.jpg"
+  ]
  },
  {
   "id": "1005013483247899",
@@ -3012,13 +3562,20 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013483247899/7220be94ad86.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013483247899/bdc5d61345b3.jpg"
+  ]
  },
  {
   "id": "1005013066708161",
   "category": "long-sleeves",
   "name": "Music Is The Answer Y2K Off Shoulder Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013066708161/8ce4658bc0ef.jpg"
+  ]
  },
  {
   "id": "1005004694549271",
@@ -3027,7 +3584,11 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/Sa7acf185b49c44329a8224a838625df8S.jpg",
+   "https://ae01.alicdn.com/kf/Sc63fa5b31c6b457a94e3bbbbc6fd84fch.jpg"
+  ]
  },
  {
   "id": "1005013375401257",
@@ -3036,7 +3597,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fur trim, zero chill."
+  "blurb": "Fur trim, zero chill.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S68b72acc1a14406696050bc8a84ecfa6k.jpg"
+  ]
  },
  {
   "id": "1005009204660905",
@@ -3045,13 +3609,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "The top that does the talking."
+  "blurb": "The top that does the talking.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S8093e7518ce34adea4e80b83933d62f0C.jpg"
+  ]
  },
  {
   "id": "1005007546355339",
   "category": "baby-tees",
   "name": "Black Red Eagle Tattoo Grunge V Neck Baby Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S218c2f6fe53d4c13ba3ac4b4ceba5227l.jpg"
+  ]
  },
  {
   "id": "1005009165374638",
@@ -3066,7 +3636,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/Sbc93b8c4ea2e4d3a9ff1f9f863025b61T.jpg"
+  ]
  },
  {
   "id": "1005008244188354",
@@ -3075,13 +3648,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Layer it or wear it alone."
+  "blurb": "Layer it or wear it alone.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S41fa76cea17e48e1906222be27dd36c0k.jpg"
+  ]
  },
  {
   "id": "1005012541512390",
   "category": "baby-tees",
   "name": "Grey Pink Star Y2K Fitted Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/Sd6dea9bbec2c4f26b42b2d781b5f123fc.jpg"
+  ]
  },
  {
   "id": "1005005320885934",
@@ -3090,7 +3669,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The bottoms every top on here was waiting for."
+  "blurb": "The bottoms every top on here was waiting for.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/Se7f65d236a2b4f1fa8d8bab180edb9aeh.jpg"
+  ]
  },
  {
   "id": "1005010422307972",
@@ -3099,7 +3681,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Layer it or wear it alone."
+  "blurb": "Layer it or wear it alone.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010422307972/43ce34007d54.jpg"
+  ]
  },
  {
   "id": "1005010306931572",
@@ -3114,7 +3699,10 @@
   "id": "1005012221389769",
   "category": "baby-tees",
   "name": "Puppy Embroidered Y2K Gingham Trim Baby Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S223ead09c8314c378be32d598d3f7d27W.jpg"
+  ]
  },
  {
   "id": "1005007254794991",
@@ -3123,7 +3711,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Built for summer and sold-out shows."
+  "blurb": "Built for summer and sold-out shows.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/Scedc41f17762450dad3b9fb7530a81eaL.jpg"
+  ]
  },
  {
   "id": "1005012891440046",
@@ -3132,7 +3723,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S7cd75c2584bd432f84d3f6ee1c568891P.jpg"
+  ]
  },
  {
   "id": "1005006355170082",
@@ -3141,7 +3735,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S0f7859a7766f4cd5908afce716a98523I.jpg"
+  ]
  },
  {
   "id": "1005007112972715",
@@ -3150,13 +3747,20 @@
   "depts": [
    "women"
   ],
-  "blurb": "Baggy, low and loud."
+  "blurb": "Baggy, low and loud.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S4235387220e047b59adcd566cdf7e027Y.jpg",
+   "https://ae01.alicdn.com/kf/S47e8c2ef931941ad9d58a60d12e7007dC.jpg"
+  ]
  },
  {
   "id": "1005011669752934",
   "category": "baby-tees",
   "name": "Black Paragraph Print Y2K Baby Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S37dfc2f9c1164fbba92c520136dbbf2dy.jpg"
+  ]
  },
  {
   "id": "1005007877399509",
@@ -3165,13 +3769,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/Se98a94b75acd42fcb80690ddefca94722.jpg"
+  ]
  },
  {
   "id": "1005006839163266",
   "category": "baby-tees",
   "name": "White Bunny Knit Y2K Cutout Crop Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/Sb4a8110c44884583ac8897d802bbd29cO.jpg"
+  ]
  },
  {
   "id": "1005013298060115",
@@ -3180,25 +3790,37 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S85b36144c1db42f89a5622c1d1426cc0o.jpg"
+  ]
  },
  {
   "id": "1005012163032581",
   "category": "baby-tees",
   "name": "Yellow Sunburst Grunge Graphic Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S31831b83ee2b41adaeb34c9e95de16fbo.jpg"
+  ]
  },
  {
   "id": "1005005393366179",
   "category": "baby-tees",
   "name": "Strawberry Cake Y2K Mesh Crop Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/Scdb655d4b3b94dfb9a85c3a9a301a9d4s.jpg"
+  ]
  },
  {
   "id": "1005012704367341",
   "category": "baby-tees",
   "name": "White Letter Embroidered Y2K Deep V Neck Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S68aa4efabc904d918b8bc86d618b97ad2.jpg"
+  ]
  },
  {
   "id": "1005005830088998",
@@ -3207,7 +3829,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Straps out, eyes up."
+  "blurb": "Straps out, eyes up.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S73a041113efd483d8b9ddb173adf909eG.jpg"
+  ]
  },
  {
   "id": "1005003351673741",
@@ -3216,13 +3841,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/H4c811ef9eb7646afab7abdaa8103b8f2g.jpg"
+  ]
  },
  {
   "id": "1005005117702398",
   "category": "long-sleeves",
   "name": "Angel Heart Fairy Grunge Cropped Long Sleeve Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S07a13a69b89c42cabb3c35257317546ft.jpg"
+  ]
  },
  {
   "id": "1005011528709468",
@@ -3231,13 +3862,20 @@
   "depts": [
    "women"
   ],
-  "blurb": "Hood up, world off."
+  "blurb": "Hood up, world off.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S6c188347b63c43fab57c0c47ef5a2a7fg.jpg",
+   "https://ae01.alicdn.com/kf/Sec48d77962eb440192682f75fa793442r.jpg"
+  ]
  },
  {
   "id": "1005008811897539",
   "category": "baby-tees",
   "name": "Chrysanthemum Red Flower Y2K Oversized Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/Sfe333eee970b4eafa8e7f5c3768c518cS.jpg"
+  ]
  },
  {
   "id": "1005006904976669",
@@ -3252,13 +3890,20 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/Sc304ce57ff1c40e2be75d069f4bf7951j.jpg"
+  ]
  },
  {
   "id": "1005003754948546",
   "category": "dresses",
   "name": "Blue Green Striped Y2K Scoop Neck Knit Mini Dress",
-  "blurb": "Throw it on, go out."
+  "blurb": "Throw it on, go out.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/Sbacec6268d424ed8a083200d049d78af4.jpg",
+   "https://ae01.alicdn.com/kf/Sfbe92b70054a421cad1fdb1905ab67ed9.png"
+  ]
  },
  {
   "id": "1005007569741093",
@@ -3267,7 +3912,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S3991e8a2644a4a019e0fd48a90b162853.jpg"
+  ]
  },
  {
   "id": "1005008243863846",
@@ -3276,13 +3924,20 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S0bc5626c8ea64819a38f833635a78cc1Q.jpg",
+   "https://ae01.alicdn.com/kf/Scc52d81191d44a80981c12e6296d4b5d6.jpg"
+  ]
  },
  {
   "id": "1005006734056735",
   "category": "baby-tees",
   "name": "Pink Bear Print Y2K Lace Patchwork Crop Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://ae01.alicdn.com/kf/S1ab8e34f08b14cbdb57f6430a1244599x.jpg"
+  ]
  },
  {
   "id": "1005006699473759",
@@ -3300,7 +3955,10 @@
   "id": "1005007420172057",
   "category": "baby-tees",
   "name": "Navy Number 01 Y2K Jersey Baby Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007420172057/4ab67ebc694d.jpg"
+  ]
  },
  {
   "id": "1005004879029155",
@@ -3309,7 +3967,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004879029155/47b2dbe104c7.jpg"
+  ]
  },
  {
   "id": "1005003718765806",
@@ -3318,7 +3979,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The top that does the talking."
+  "blurb": "The top that does the talking.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003718765806/c9e6a827c576.jpg"
+  ]
  },
  {
   "id": "1005006144533876",
@@ -3327,31 +3991,46 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006144533876/dcfe69d2e99d.jpg"
+  ]
  },
  {
   "id": "1005005514484181",
   "category": "baby-tees",
   "name": "Crayon Doodle Faces Y2K Graphic Baby Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005514484181/bc63304235fd.jpg"
+  ]
  },
  {
   "id": "1005009641180790",
   "category": "baby-tees",
   "name": "Pastel Letter Print Y2K Knit Crop Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009641180790/50fafdf5a5ce.jpg"
+  ]
  },
  {
   "id": "1005005368165978",
   "category": "baby-tees",
   "name": "Angel Kitty Print Y2K Crop Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005368165978/ea87ac19b053.jpg"
+  ]
  },
  {
   "id": "1005004064369099",
   "category": "baby-tees",
   "name": "Black Sheer Mesh Grunge Asymmetric Crop Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004064369099/22047f2c04f1.jpg"
+  ]
  },
  {
   "id": "1005003576272732",
@@ -3360,13 +4039,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003576272732/12c6cd44c6d6.jpg"
+  ]
  },
  {
   "id": "1005003187361872",
   "category": "baby-tees",
   "name": "Black Floral Lace Goth Sheer Oversized Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003187361872/3072819de0a4.jpg"
+  ]
  },
  {
   "id": "1005008493092109",
@@ -3375,13 +4060,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008493092109/79c75918db1e.jpg"
+  ]
  },
  {
   "id": "1005005164605288",
   "category": "long-sleeves",
   "name": "Dancing Cows Y2K Raglan Cropped Long Sleeve Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005164605288/3dfca18b2bfd.jpg"
+  ]
  },
  {
   "id": "1005012059289449",
@@ -3393,7 +4084,10 @@
   "id": "1005007154215513",
   "category": "baby-tees",
   "name": "Black Star Bunny Ear Y2K Hooded Baby Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007154215513/5683b6c83fe7.jpg"
+  ]
  },
  {
   "id": "1005004725386252",
@@ -3408,7 +4102,10 @@
   "id": "1005004375428902",
   "category": "baby-tees",
   "name": "Black Butterfly Grunge Fitted Baby Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004375428902/c0c1d7cbada4.jpg"
+  ]
  },
  {
   "id": "1005007068220628",
@@ -3417,25 +4114,37 @@
   "depts": [
    "women"
   ],
-  "blurb": "The top that does the talking."
+  "blurb": "The top that does the talking.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007068220628/aad1ac8e3dc3.jpg"
+  ]
  },
  {
   "id": "1005004459885676",
   "category": "baby-tees",
   "name": "Coffee Mug Manicure Y2K Fitted Crop Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004459885676/d29d56b8198e.jpg"
+  ]
  },
  {
   "id": "1005007287978527",
   "category": "baby-tees",
   "name": "Blue Spiral Text Y2K Loose Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007287978527/60689a0ce41c.jpg"
+  ]
  },
  {
   "id": "1005004238501649",
   "category": "baby-tees",
   "name": "I Want Young And Rich Y2K Fitted Crop Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004238501649/75f97923142d.jpg"
+  ]
  },
  {
   "id": "1005010019725377",
@@ -3453,7 +4162,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Straps out, eyes up."
+  "blurb": "Straps out, eyes up.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007495849672/bbfcc433a323.jpg"
+  ]
  },
  {
   "id": "1005006166076707",
@@ -3462,7 +4174,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The layer everyone asks about."
+  "blurb": "The layer everyone asks about.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006166076707/5a65e2f9458c.jpg"
+  ]
  },
  {
   "id": "1005008619808348",
@@ -3471,7 +4186,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008619808348/17db3989251a.jpg"
+  ]
  },
  {
   "id": "1005003648966360",
@@ -3480,7 +4198,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Layer it or wear it alone."
+  "blurb": "Layer it or wear it alone.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003648966360/d72c3874e1fb.jpg"
+  ]
  },
  {
   "id": "1005007283091943",
@@ -3489,7 +4210,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Show some skin, keep the mystery."
+  "blurb": "Show some skin, keep the mystery.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007283091943/7cdc25c70cc9.jpg"
+  ]
  },
  {
   "id": "1005003190784493",
@@ -3498,7 +4222,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003190784493/38c6a0314f22.jpg"
+  ]
  },
  {
   "id": "1005004570283704",
@@ -3513,7 +4240,10 @@
   "id": "1005005282572401",
   "category": "long-sleeves",
   "name": "Sketch Heart Fairy Grunge Mesh Long Sleeve Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005282572401/6142e2d00f33.jpg"
+  ]
  },
  {
   "id": "1005004149649461",
@@ -3522,13 +4252,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Straps out, eyes up."
+  "blurb": "Straps out, eyes up.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004149649461/aadf8091d1f1.jpg"
+  ]
  },
  {
   "id": "1005006578245562",
   "category": "baby-tees",
   "name": "Leopard Print Lace Y2K V Neck Crop Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006578245562/bd209b1f91fd.jpg"
+  ]
  },
  {
   "id": "1005007858701791",
@@ -3537,13 +4273,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007858701791/26b7966b117c.jpg"
+  ]
  },
  {
   "id": "1005004614386278",
   "category": "baby-tees",
   "name": "Pastel Star Y2K Baby Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004614386278/390d07652f19.jpg"
+  ]
  },
  {
   "id": "1005008017460230",
@@ -3552,13 +4294,20 @@
   "depts": [
    "women"
   ],
-  "blurb": "Zip it up, keep it dark."
+  "blurb": "Zip it up, keep it dark.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008017460230/1b365be78c4b.jpg"
+  ]
  },
  {
   "id": "1005006579630115",
   "category": "baby-tees",
   "name": "Halftone Girl Grunge Baby Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006579630115/17005fc1896b.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006579630115/e9ef5a19808d.jpg"
+  ]
  },
  {
   "id": "1005007192709553",
@@ -3576,7 +4325,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011731418021/23940da79f9d.jpg"
+  ]
  },
  {
   "id": "1005005805613669",
@@ -3585,7 +4337,11 @@
   "depts": [
    "women"
   ],
-  "blurb": "Show some skin, keep the mystery."
+  "blurb": "Show some skin, keep the mystery.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005805613669/530fb0d54b93.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005805613669/64d5e20e7ffe.jpg"
+  ]
  },
  {
   "id": "1005007662437929",
@@ -3594,7 +4350,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007662437929/037219166cc4.jpg"
+  ]
  },
  {
   "id": "1005007386704214",
@@ -3603,7 +4362,11 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007386704214/3ac6de61ff8f.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007386704214/80bfa95689c5.jpg"
+  ]
  },
  {
   "id": "1005006884545479",
@@ -3612,13 +4375,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Little top, big night."
+  "blurb": "Little top, big night.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006884545479/f9a070fbcbe4.jpg"
+  ]
  },
  {
   "id": "1005006600865221",
   "category": "hoodies",
   "name": "Pink Sequin Trim Coquette Ribbed Knit Cardigan",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006600865221/c952af1fa594.jpg"
+  ]
  },
  {
   "id": "1005004178121286",
@@ -3627,19 +4396,29 @@
   "depts": [
    "women"
   ],
-  "blurb": "The top that does the talking."
+  "blurb": "The top that does the talking.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004178121286/3fefbbbbd848.jpg"
+  ]
  },
  {
   "id": "1005008704086579",
   "category": "baby-tees",
   "name": "White Punk Graphic Grunge Baby Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008704086579/a1e275516b2f.jpg"
+  ]
  },
  {
   "id": "1005012039085652",
   "category": "baby-tees",
   "name": "Leopard Lips Kiss Me Y2K Baby Tee",
-  "blurb": "The baby tee your ex remembers."
+  "blurb": "The baby tee your ex remembers.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012039085652/c0fcf0ae3004.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012039085652/c18303311573.jpg"
+  ]
  },
  {
   "id": "1005005577208340",
@@ -3648,13 +4427,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Straps out, eyes up."
+  "blurb": "Straps out, eyes up.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005577208340/3627b7764163.jpg"
+  ]
  },
  {
   "id": "1005007067281353",
   "category": "baby-tees",
   "name": "Brown Bear Patch Y2K Raglan Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007067281353/286717f6b9fb.jpg"
+  ]
  },
  {
   "id": "1005010364176389",
@@ -3663,31 +4448,46 @@
   "depts": [
    "women"
   ],
-  "blurb": "Layer it or wear it alone."
+  "blurb": "Layer it or wear it alone.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010364176389/75fef7114609.jpg"
+  ]
  },
  {
   "id": "1005008955956057",
   "category": "baby-tees",
   "name": "Purple Winged Y2K Fitted Crop Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008955956057/e6763df08095.jpg"
+  ]
  },
  {
   "id": "1005005787394655",
   "category": "baby-tees",
   "name": "Red Graffiti Scribble Grunge Baby Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005787394655/ab4c16e3176f.jpg"
+  ]
  },
  {
   "id": "1005012251837230",
   "category": "baby-tees",
   "name": "Black Serif Slogan Y2K Oversized Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012251837230/eb5450feac83.jpg"
+  ]
  },
  {
   "id": "1005008334614316",
   "category": "hoodies",
   "name": "Khaki Distressed Grunge Hollow Out Knit Sweater",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008334614316/6f9e695bc3f1.jpg"
+  ]
  },
  {
   "id": "1005007401567590",
@@ -3702,13 +4502,20 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fur trim, zero chill."
+  "blurb": "Fur trim, zero chill.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003692811273/946836278016.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003692811273/e54ad9df4428.jpg"
+  ]
  },
  {
   "id": "1005007402711768",
   "category": "baby-tees",
   "name": "Red Apple Y2K Ringer Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007402711768/d1884eeadd24.jpg"
+  ]
  },
  {
   "id": "1005004709829197",
@@ -3717,25 +4524,37 @@
   "depts": [
    "women"
   ],
-  "blurb": "The layer everyone asks about."
+  "blurb": "The layer everyone asks about.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004709829197/c07c0e1080c7.jpg"
+  ]
  },
  {
   "id": "1005003645458415",
   "category": "hoodies",
   "name": "White Sheer Criss Cross Y2K Cropped Knit Sweater",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003645458415/36e7b80f8f4b.jpg"
+  ]
  },
  {
   "id": "1005008959847682",
   "category": "baby-tees",
   "name": "Bear Red Bow Coquette Ringer Baby Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008959847682/cc34c822e07e.jpg"
+  ]
  },
  {
   "id": "1005007371321246",
   "category": "baby-tees",
   "name": "Black Doodle Fairy Grunge Baby Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007371321246/51a8c7c4b755.jpg"
+  ]
  },
  {
   "id": "1005006358741710",
@@ -3744,7 +4563,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Zip it up, keep it dark."
+  "blurb": "Zip it up, keep it dark.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006358741710/ff3e4bb123e4.jpg"
+  ]
  },
  {
   "id": "1005008949417416",
@@ -3759,7 +4581,10 @@
   "id": "1005008354401788",
   "category": "baby-tees",
   "name": "Purple Floral French Script Y2K Layered Baby Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008354401788/654becbf4588.jpg"
+  ]
  },
  {
   "id": "1005012594562422",
@@ -3768,25 +4593,37 @@
   "depts": [
    "women"
   ],
-  "blurb": "Show some skin, keep the mystery."
+  "blurb": "Show some skin, keep the mystery.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012594562422/1c18c650fe91.jpg"
+  ]
  },
  {
   "id": "1005012371349209",
   "category": "baby-tees",
   "name": "Yellow Star Cloud Y2K Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012371349209/fe6a22182ad0.jpg"
+  ]
  },
  {
   "id": "1005012022159609",
   "category": "baby-tees",
   "name": "Cute Teeth Doodle Y2K Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012022159609/cb1c480c0454.jpg"
+  ]
  },
  {
   "id": "1005012171989862",
   "category": "long-sleeves",
   "name": "Blue Floral Fairy Grunge Sheer Knit Long Sleeve Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012171989862/6359bbe1e41d.jpg"
+  ]
  },
  {
   "id": "1005006454055756",
@@ -3795,19 +4632,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "For cold nights and loud music."
+  "blurb": "For cold nights and loud music.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006454055756/ae71c734c0fc.jpg"
+  ]
  },
  {
   "id": "1005008798891565",
   "category": "baby-tees",
   "name": "Green Apple Y2K Fitted Crop Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008798891565/f3bce1f093ca.jpg"
+  ]
  },
  {
   "id": "1005007054980585",
   "category": "dresses",
   "name": "Mint Striped Lace Hem Y2K Halter Mini Dress",
-  "blurb": "For the party and the after-party."
+  "blurb": "For the party and the after-party.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007054980585/c9c67e64fbf2.jpg"
+  ]
  },
  {
   "id": "1005003989598347",
@@ -3816,7 +4662,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Oversized and over it."
+  "blurb": "Oversized and over it.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003989598347/b0e3e04cc894.jpg"
+  ]
  },
  {
   "id": "1005010044373670",
@@ -3825,13 +4674,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010044373670/8d56f3190145.jpg"
+  ]
  },
  {
   "id": "1005007524327303",
   "category": "hoodies",
   "name": "Spider Web Crochet Grunge Hollow Out Knit Sweater",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007524327303/18602deecfb0.jpg"
+  ]
  },
  {
   "id": "1005011799696419",
@@ -3840,31 +4695,46 @@
   "depts": [
    "women"
   ],
-  "blurb": "Built for summer and sold-out shows."
+  "blurb": "Built for summer and sold-out shows.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011799696419/e67b5e4423bb.jpg"
+  ]
  },
  {
   "id": "1005009015758589",
   "category": "baby-tees",
   "name": "I Love Vintage Y2K Baby Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009015758589/6ec677382075.jpg"
+  ]
  },
  {
   "id": "1005005622866207",
   "category": "dresses",
   "name": "Navy Ribbed Contrast Trim Y2K Knit Mini Dress",
-  "blurb": "Throw it on, go out."
+  "blurb": "Throw it on, go out.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005622866207/6ee32df05bff.jpg"
+  ]
  },
  {
   "id": "1005003211838789",
   "category": "long-sleeves",
   "name": "Red Lettuce Hem Y2K Slim Long Sleeve Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003211838789/66e96f144489.jpg"
+  ]
  },
  {
   "id": "1005013231445261",
   "category": "long-sleeves",
   "name": "Flower Embroidered Striped Ruffle Coquette Long Sleeve Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013231445261/cd7431dace86.jpg"
+  ]
  },
  {
   "id": "1005013266446747",
@@ -3873,7 +4743,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The layer everyone asks about."
+  "blurb": "The layer everyone asks about.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013266446747/23194c34e0eb.jpg"
+  ]
  },
  {
   "id": "1005013101577553",
@@ -3882,7 +4755,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013101577553/84d04da1e0f8.jpg"
+  ]
  },
  {
   "id": "1005013093976467",
@@ -3891,7 +4767,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013093976467/940d9df5fc1b.jpg"
+  ]
  },
  {
   "id": "1005013140966804",
@@ -3900,19 +4779,31 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013140966804/29c5d64408fb.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013140966804/d631ea8a5b8e.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013140966804/e2892f87b3c7.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013140966804/f03fa55441cd.jpg"
+  ]
  },
  {
   "id": "1005013130443786",
   "category": "long-sleeves",
   "name": "Grey Cyber Y2K Half Zip Knit Long Sleeve Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013130443786/ea4077ef0ad3.jpg"
+  ]
  },
  {
   "id": "1005005609942823",
   "category": "dresses",
   "name": "Grey Blue Sheer Knit Grunge Sleeveless Dress",
-  "blurb": "One piece, whole look."
+  "blurb": "One piece, whole look.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005609942823/311d3f756f5a.jpg"
+  ]
  },
  {
   "id": "1005003215561357",
@@ -3921,7 +4812,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "For cold nights and loud music."
+  "blurb": "For cold nights and loud music.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003215561357/d42ee8811718.jpg"
+  ]
  },
  {
   "id": "1005008598460624",
@@ -3945,19 +4839,28 @@
   "id": "1005012498155817",
   "category": "baby-tees",
   "name": "Aqua Plaid Asymmetric Button Up Y2K Baby Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012498155817/2e2f04c3b361.jpg"
+  ]
  },
  {
   "id": "1005009066155503",
   "category": "baby-tees",
   "name": "Navy Plaid Grunge Asymmetric Button Up Baby Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009066155503/e2d1ea3d127b.jpg"
+  ]
  },
  {
   "id": "1005011968675069",
   "category": "baby-tees",
   "name": "Grey Washed Grunge Button Up Baby Tee",
-  "blurb": "The baby tee your ex remembers."
+  "blurb": "The baby tee your ex remembers.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011968675069/3f76fa39d8a1.jpg"
+  ]
  },
  {
   "id": "1005013477573220",
@@ -3969,7 +4872,10 @@
   "id": "1005012733265289",
   "category": "baby-tees",
   "name": "Pink Striped Tribal Print Y2K Fitted Baby Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012733265289/584ebf8ac60d.jpg"
+  ]
  },
  {
   "id": "1005010154206490",
@@ -3978,7 +4884,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010154206490/6f052f2f5e9f.jpg"
+  ]
  },
  {
   "id": "1005010504787358",
@@ -3987,7 +4896,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Built for summer and sold-out shows."
+  "blurb": "Built for summer and sold-out shows.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010504787358/f76b415dd380.jpg"
+  ]
  },
  {
   "id": "1005009893188850",
@@ -3996,19 +4908,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009893188850/b7d4164e86b1.jpg"
+  ]
  },
  {
   "id": "1005010600220171",
   "category": "long-sleeves",
   "name": "Black Lace Panel Goth Square Neck Long Sleeve Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010600220171/3256218e434b.jpg"
+  ]
  },
  {
   "id": "1005008209073074",
   "category": "baby-tees",
   "name": "Lilac Pinstripe Y2K Slim Button Up Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008209073074/7c3732f8898e.jpg"
+  ]
  },
  {
   "id": "1005013447735613",
@@ -4017,7 +4938,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013447735613/c6cdbbe05e42.jpg"
+  ]
  },
  {
   "id": "1005010409023328",
@@ -4026,7 +4950,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010409023328/e98c18d6545f.jpg"
+  ]
  },
  {
   "id": "1005013149818684",
@@ -4050,19 +4977,28 @@
   "id": "1005013089875020",
   "category": "long-sleeves",
   "name": "Navy Lace Bow Coquette Layered Long Sleeve Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013089875020/3333283d3a47.jpg"
+  ]
  },
  {
   "id": "1005008666860506",
   "category": "baby-tees",
   "name": "White Pinstripe Y2K Fitted Button Up Baby Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008666860506/1b2be754c48d.jpg"
+  ]
  },
  {
   "id": "1005009720178200",
   "category": "long-sleeves",
   "name": "Striped Skull Goth Lace Up Long Sleeve Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009720178200/30a41cbeff94.jpg"
+  ]
  },
  {
   "id": "1005012615381284",
@@ -4071,7 +5007,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Little extra, big difference."
+  "blurb": "Little extra, big difference.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012615381284/584a88ea9efd.jpg"
+  ]
  },
  {
   "id": "1005009740431678",
@@ -4083,13 +5022,19 @@
   "id": "1005013035748183",
   "category": "long-sleeves",
   "name": "Navy Draped Surplice Grunge Layered Long Sleeve Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013035748183/4c72ccda0963.jpg"
+  ]
  },
  {
   "id": "1005012793488016",
   "category": "long-sleeves",
   "name": "Khaki Fitted Y2K Button Up Long Sleeve Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012793488016/04caf64b454c.jpg"
+  ]
  },
  {
   "id": "1005010085405754",
@@ -4098,7 +5043,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Zip it up, keep it dark."
+  "blurb": "Zip it up, keep it dark.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010085405754/a1120b3602d1.jpg"
+  ]
  },
  {
   "id": "1005005806191169",
@@ -4107,7 +5055,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Straps out, eyes up."
+  "blurb": "Straps out, eyes up.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005806191169/d6728bc12cd9.jpg"
+  ]
  },
  {
   "id": "1005007895090234",
@@ -4116,13 +5067,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007895090234/219b3a6f37e4.jpg"
+  ]
  },
  {
   "id": "1005008188745442",
   "category": "long-sleeves",
   "name": "07 Star Number Grunge Layered Long Sleeve Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008188745442/9e5de3c08dfa.jpg"
+  ]
  },
  {
   "id": "1005012681725594",
@@ -4134,25 +5091,38 @@
   "id": "1005009536375657",
   "category": "long-sleeves",
   "name": "Grey Tribal Wing Grunge Sheer Long Sleeve Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009536375657/7f5a85e7e8bb.jpg"
+  ]
  },
  {
   "id": "1005009680894971",
   "category": "baby-tees",
   "name": "Black Gingham Trim Y2K Layered Baby Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009680894971/9b08914d2f3f.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009680894971/fae3caa21fa3.jpg"
+  ]
  },
  {
   "id": "1005011775600347",
   "category": "baby-tees",
   "name": "Blue Plaid Peplum Y2K Button Up Baby Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011775600347/71118fffe39f.jpg"
+  ]
  },
  {
   "id": "1005011590486011",
   "category": "long-sleeves",
   "name": "Black Fitted Goth Button Up Long Sleeve Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011590486011/bf3233f73056.jpg"
+  ]
  },
  {
   "id": "1005011749789383",
@@ -4167,7 +5137,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007895089625/17af7596fdfe.jpg"
+  ]
  },
  {
   "id": "1005013500318926",
@@ -4176,7 +5149,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013500318926/96ab4ed36db5.jpg"
+  ]
  },
  {
   "id": "1005013416219111",
@@ -4185,7 +5161,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013416219111/ca2dea61af6b.jpg"
+  ]
  },
  {
   "id": "1005013331540889",
@@ -4194,7 +5173,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The layer everyone asks about."
+  "blurb": "The layer everyone asks about.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013331540889/698daf8e2619.jpg"
+  ]
  },
  {
   "id": "1005013194931024",
@@ -4203,25 +5185,39 @@
   "depts": [
    "women"
   ],
-  "blurb": "For cold nights and loud music."
+  "blurb": "For cold nights and loud music.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013194931024/165b034fb671.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013194931024/c467705db8ea.jpg"
+  ]
  },
  {
   "id": "1005010472932761",
   "category": "baby-tees",
   "name": "Grey Faded Print Grunge Baby Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010472932761/46e60b680f1e.jpg"
+  ]
  },
  {
   "id": "1005009685737354",
   "category": "baby-tees",
   "name": "Black Pocket Grunge Fitted Button Up Baby Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009685737354/b371d26c16bf.jpg"
+  ]
  },
  {
   "id": "1005008263525842",
   "category": "long-sleeves",
   "name": "Black Rivet Punk Layered Long Sleeve Tee",
-  "blurb": "Made for mirror pics."
+  "blurb": "Made for mirror pics.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008263525842/e717c804fe4e.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008263525842/f36ff48b87c0.jpg"
+  ]
  },
  {
   "id": "1005008518018223",
@@ -4230,7 +5226,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Little top, big night."
+  "blurb": "Little top, big night.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008518018223/072bd9e720ed.jpg"
+  ]
  },
  {
   "id": "1005013230185313",
@@ -4239,7 +5238,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013230185313/545da696de04.jpg"
+  ]
  },
  {
   "id": "1005009641853210",
@@ -4248,7 +5250,11 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009641853210/1ebaae8223ea.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009641853210/cd2e3c507894.jpg"
+  ]
  },
  {
   "id": "1005013409289524",
@@ -4257,7 +5263,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Oversized and over it."
+  "blurb": "Oversized and over it.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013409289524/5670ff73b542.jpg"
+  ]
  },
  {
   "id": "1005011833386394",
@@ -4266,7 +5275,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Built for summer and sold-out shows."
+  "blurb": "Built for summer and sold-out shows.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011833386394/064a355de211.jpg"
+  ]
  },
  {
   "id": "1005011736866436",
@@ -4275,19 +5287,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Built for summer and sold-out shows."
+  "blurb": "Built for summer and sold-out shows.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011736866436/fa07e800e16d.jpg"
+  ]
  },
  {
   "id": "1005010780434165",
   "category": "long-sleeves",
   "name": "Pink Leopard Print Y2K Off Shoulder Long Sleeve Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010780434165/f15c706070ca.jpg"
+  ]
  },
  {
   "id": "1005012202942060",
   "category": "baby-tees",
   "name": "Navy Plaid Layered Y2K Tie Front Baby Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012202942060/1782373b959e.jpg"
+  ]
  },
  {
   "id": "1005010370235944",
@@ -4296,13 +5317,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010370235944/fb88f0285754.jpg"
+  ]
  },
  {
   "id": "1005008321880602",
   "category": "long-sleeves",
   "name": "Black Leopard Lace Panel Goth Sheer Long Sleeve Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008321880602/33c8a3829a09.jpg"
+  ]
  },
  {
   "id": "1005013307323576",
@@ -4311,7 +5338,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013307323576/2dcef3a4bf21.jpg"
+  ]
  },
  {
   "id": "1005012847592791",
@@ -4320,7 +5350,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Oversized and over it."
+  "blurb": "Oversized and over it.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012847592791/bbe28f0d47cf.jpg"
+  ]
  },
  {
   "id": "1005013345587204",
@@ -4329,7 +5362,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Oversized and over it."
+  "blurb": "Oversized and over it.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013345587204/ca2ea80fc830.jpg"
+  ]
  },
  {
   "id": "1005013037155384",
@@ -4338,13 +5374,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013037155384/551562e21734.jpg"
+  ]
  },
  {
   "id": "1005009563330069",
   "category": "long-sleeves",
   "name": "White Script Sleeve Print Grunge Long Sleeve Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009563330069/c0f71fb88970.jpg"
+  ]
  },
  {
   "id": "1005012188152018",
@@ -4353,13 +5395,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Show some skin, keep the mystery."
+  "blurb": "Show some skin, keep the mystery.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012188152018/f2e9dd23e223.jpg"
+  ]
  },
  {
   "id": "1005008228610016",
   "category": "long-sleeves",
   "name": "Grey Lace Trim Coquette V Neck Long Sleeve Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008228610016/6e9fe1aaa7f4.jpg"
+  ]
  },
  {
   "id": "1005009171113563",
@@ -4368,19 +5416,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Show some skin, keep the mystery."
+  "blurb": "Show some skin, keep the mystery.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009171113563/558000f7f9ba.jpg"
+  ]
  },
  {
   "id": "1005010565282534",
   "category": "skirts",
   "name": "Grey Star Print Y2K Tiered Ruffle Mini Skirt",
-  "blurb": "Twirl at your own risk."
+  "blurb": "Twirl at your own risk.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010565282534/95a7e90eab77.jpg"
+  ]
  },
  {
   "id": "1005009231229682",
   "category": "baby-tees",
   "name": "Pink Pinstripe Coquette Button Up Baby Tee",
-  "blurb": "Tight fit, loud mouth."
+  "blurb": "Tight fit, loud mouth.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009231229682/1d718160c82e.jpg"
+  ]
  },
  {
   "id": "1005010530181829",
@@ -4389,13 +5446,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010530181829/0f494406ea96.jpg"
+  ]
  },
  {
   "id": "1005010547043503",
   "category": "baby-tees",
   "name": "Charcoal Basic Y2K Fitted Crop Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010547043503/e4bd852000aa.jpg"
+  ]
  },
  {
   "id": "1005013365176893",
@@ -4404,25 +5467,37 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013365176893/da7b47cb4603.jpg"
+  ]
  },
  {
   "id": "1005013202863333",
   "category": "long-sleeves",
   "name": "Black White Collar Goth Layered Long Sleeve Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013202863333/777b2b0a28bb.jpg"
+  ]
  },
  {
   "id": "1005012010735083",
   "category": "baby-tees",
   "name": "Blue Check Grunge Fitted Button Up Baby Tee",
-  "blurb": "The baby tee your ex remembers."
+  "blurb": "The baby tee your ex remembers.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012010735083/a668d85693b1.jpg"
+  ]
  },
  {
   "id": "1005010510304021",
   "category": "baby-tees",
   "name": "Black Turtleneck Y2K Fitted Crop Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010510304021/f0b94623fa4e.jpg"
+  ]
  },
  {
   "id": "1005013282654347",
@@ -4431,7 +5506,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The detail that makes the fit."
+  "blurb": "The detail that makes the fit.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013282654347/f6e9f3128d44.jpg"
+  ]
  },
  {
   "id": "1005013010759747",
@@ -4440,7 +5518,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The layer everyone asks about."
+  "blurb": "The layer everyone asks about.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013010759747/b695babe5838.jpg"
+  ]
  },
  {
   "id": "1005013212602631",
@@ -4449,7 +5530,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013212602631/c06e2ac4bc1c.jpg"
+  ]
  },
  {
   "id": "1005013390903641",
@@ -4473,7 +5557,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "For cold nights and loud music."
+  "blurb": "For cold nights and loud music.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009967383123/ec40925094ad.jpg"
+  ]
  },
  {
   "id": "1005007696571067",
@@ -4482,19 +5569,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Layer it or wear it alone."
+  "blurb": "Layer it or wear it alone.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007696571067/f86a6d8ff16f.jpg"
+  ]
  },
  {
   "id": "1005008940580309",
   "category": "long-sleeves",
   "name": "Cream Lace Cowl Neck Fairy Grunge Long Sleeve Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008940580309/49ad7988a4dc.jpg"
+  ]
  },
  {
   "id": "1005013274652702",
   "category": "shorts",
   "name": "Polka Dot Ruffle Trim Coquette Shorts Set",
-  "blurb": "Throw it on, go out."
+  "blurb": "Throw it on, go out.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013274652702/be3e42128f3c.jpg"
+  ]
  },
  {
   "id": "1005008330941108",
@@ -4512,7 +5608,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "For cold nights and loud music."
+  "blurb": "For cold nights and loud music.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012824715379/dbab6cdde2bc.jpg"
+  ]
  },
  {
   "id": "1005013063770469",
@@ -4521,7 +5620,11 @@
   "depts": [
    "women"
   ],
-  "blurb": "Hood up, world off."
+  "blurb": "Hood up, world off.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013063770469/36b21da8e444.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013063770469/68cd5f452947.jpg"
+  ]
  },
  {
   "id": "1005013293847102",
@@ -4530,13 +5633,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Big legs, bigger energy."
+  "blurb": "Big legs, bigger energy.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013293847102/7fbe054ab3a0.jpg"
+  ]
  },
  {
   "id": "1005011621389628",
   "category": "baby-tees",
   "name": "Purple Striped Grunge Lace Up Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011621389628/38481d456bb8.jpg"
+  ]
  },
  {
   "id": "1005012953232055",
@@ -4545,19 +5654,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Oversized and over it."
+  "blurb": "Oversized and over it.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012953232055/5913f05d2e5b.jpg"
+  ]
  },
  {
   "id": "1005008120570046",
   "category": "long-sleeves",
   "name": "Grey Striped Hood Grunge Layered Long Sleeve Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008120570046/39c3e253f5a2.jpg"
+  ]
  },
  {
   "id": "1005012518647947",
   "category": "baby-tees",
   "name": "Black Lace V Neck Goth Lace Up Crop Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012518647947/74223a47ac67.jpg"
+  ]
  },
  {
   "id": "1005012850117329",
@@ -4566,13 +5684,20 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012850117329/1553f895fac8.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012850117329/5c3a143babfe.jpg"
+  ]
  },
  {
   "id": "1005007915801260",
   "category": "long-sleeves",
   "name": "Pink Bow Corset Coquette Off Shoulder Long Sleeve Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007915801260/618a4bc578ed.jpg"
+  ]
  },
  {
   "id": "1005012925560095",
@@ -4590,19 +5715,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Show some skin, keep the mystery."
+  "blurb": "Show some skin, keep the mystery.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012017294748/7a7ca46d5869.jpg"
+  ]
  },
  {
   "id": "1005012699181812",
   "category": "baby-tees",
   "name": "Red Embroidered White Y2K Fitted Polo Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012699181812/54aef05065ea.jpg"
+  ]
  },
  {
   "id": "1005012812057967",
   "category": "baby-tees",
   "name": "Lime Striped Grunge Fitted Baby Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012812057967/f27a1780c610.jpg"
+  ]
  },
  {
   "id": "1005009745284405",
@@ -4611,7 +5745,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009745284405/4b7a37b905e3.jpg"
+  ]
  },
  {
   "id": "1005008005632181",
@@ -4620,7 +5757,12 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008005632181/32e94570c7e7.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008005632181/5f371dbd01e7.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008005632181/78f914e4c67f.jpg"
+  ]
  },
  {
   "id": "1005012871594747",
@@ -4629,7 +5771,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012871594747/e987ace1e16e.jpg"
+  ]
  },
  {
   "id": "1005013082008007",
@@ -4638,7 +5783,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Fitted, dark and a little dramatic."
+  "blurb": "Fitted, dark and a little dramatic.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013082008007/2c4af3dad11d.jpg"
+  ]
  },
  {
   "id": "1005009975287188",
@@ -4653,7 +5801,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012775055315/0069f6118b32.jpg"
+  ]
  },
  {
   "id": "1005010514322085",
@@ -4662,7 +5813,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "For cold nights and loud music."
+  "blurb": "For cold nights and loud music.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010514322085/09907e83ed93.jpg"
+  ]
  },
  {
   "id": "1005008238932994",
@@ -4671,7 +5825,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008238932994/9377ed4c9d03.jpg"
+  ]
  },
  {
   "id": "1005012940543645",
@@ -4680,13 +5837,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012940543645/cc8ff482f16f.jpg"
+  ]
  },
  {
   "id": "1005008911751332",
   "category": "long-sleeves",
   "name": "Blue Plaid Grunge Button Up Long Sleeve Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008911751332/006e5abe9b10.jpg"
+  ]
  },
  {
   "id": "1005007234892231",
@@ -4695,19 +5858,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Built for summer and sold-out shows."
+  "blurb": "Built for summer and sold-out shows.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007234892231/96005e191f16.jpg"
+  ]
  },
  {
   "id": "1005009370646292",
   "category": "baby-tees",
   "name": "Red Heart Scribble Grunge Baby Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009370646292/5f72cb6f772e.jpg"
+  ]
  },
  {
   "id": "1005009823930801",
   "category": "long-sleeves",
   "name": "Dark Brown V Neck Grunge Long Sleeve Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009823930801/a7f05dcc347c.jpg"
+  ]
  },
  {
   "id": "1005010504232571",
@@ -4716,31 +5888,49 @@
   "depts": [
    "women"
   ],
-  "blurb": "Show some skin, keep the mystery."
+  "blurb": "Show some skin, keep the mystery.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010504232571/2feef9ac843b.jpg"
+  ]
  },
  {
   "id": "1005011850932620",
   "category": "baby-tees",
   "name": "Polka Dot White Coquette Baby Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011850932620/345c4de58a2e.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011850932620/4405c81e9530.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011850932620/70ba2648ca70.jpg"
+  ]
  },
  {
   "id": "1005009783637160",
   "category": "long-sleeves",
   "name": "Faded Graphic Grunge Off Shoulder Layered Long Sleeve Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009783637160/07e2f68b62a8.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009783637160/ecd3ba778f4f.jpg"
+  ]
  },
  {
   "id": "1005008264167233",
   "category": "long-sleeves",
   "name": "Cross Cutout Mesh Goth Long Sleeve Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008264167233/832d315af31a.jpg"
+  ]
  },
  {
   "id": "1005012598015620",
   "category": "baby-tees",
   "name": "Yellow Letter Print Grey Y2K Baby Tee",
-  "blurb": "Grunge-girl approved."
+  "blurb": "Grunge-girl approved.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012598015620/7a851b73cc82.jpg"
+  ]
  },
  {
   "id": "1005006897239060",
@@ -4749,7 +5939,11 @@
   "depts": [
    "women"
   ],
-  "blurb": "Straps out, eyes up."
+  "blurb": "Straps out, eyes up.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006897239060/1b92e40f7149.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006897239060/63a930aeecf6.jpg"
+  ]
  },
  {
   "id": "1005010059120693",
@@ -4758,7 +5952,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010059120693/ee2237b257de.jpg"
+  ]
  },
  {
   "id": "1005009719077933",
@@ -4767,13 +5964,23 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009719077933/27ad6ec3e2a2.jpg"
+  ]
  },
  {
   "id": "1005008835717007",
   "category": "baby-tees",
   "name": "Star Script Print Beige Grunge Baby Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008835717007/50e8010b579d.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008835717007/7fbf45e69251.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008835717007/af441204d0e1.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008835717007/b0e14d6987f0.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008835717007/c3329da4438b.jpg"
+  ]
  },
  {
   "id": "1005010461864686",
@@ -4782,19 +5989,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Big legs, bigger energy."
+  "blurb": "Big legs, bigger energy.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010461864686/d93a2da17f13.jpg"
+  ]
  },
  {
   "id": "1005012811876643",
   "category": "baby-tees",
   "name": "Born In The 90s Y2K Fitted Baby Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012811876643/d3ed2275fc96.jpg"
+  ]
  },
  {
   "id": "1005008306006527",
   "category": "long-sleeves",
   "name": "Faux Fur Collar Script Y2K Off Shoulder Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008306006527/5ddfdd54bf86.jpg"
+  ]
  },
  {
   "id": "1005009660298272",
@@ -4803,13 +6019,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009660298272/8ce0af99bedd.jpg"
+  ]
  },
  {
   "id": "1005008083155588",
   "category": "long-sleeves",
   "name": "Wide Striped Y2K Off Shoulder Long Sleeve Tee",
-  "blurb": "Wear it with chunky boots and zero apologies."
+  "blurb": "Wear it with chunky boots and zero apologies.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008083155588/bc0c264a4edf.jpg"
+  ]
  },
  {
   "id": "1005008544286257",
@@ -4818,7 +6040,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "The top that does the talking."
+  "blurb": "The top that does the talking.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008544286257/e1343ef7c256.jpg"
+  ]
  },
  {
   "id": "1005007989301209",
@@ -4827,13 +6052,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "The long sleeve that goes with every black skirt you own."
+  "blurb": "The long sleeve that goes with every black skirt you own.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007989301209/f712549f39d0.jpg"
+  ]
  },
  {
   "id": "1005007878180558",
   "category": "long-sleeves",
   "name": "Pastel Plaid Y2K Scoop Neck Long Sleeve Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007878180558/a346e0758951.jpg"
+  ]
  },
  {
   "id": "1005010298775103",
@@ -4842,13 +6073,20 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010298775103/0e04ddfa599a.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010298775103/2829f406fb3f.jpg"
+  ]
  },
  {
   "id": "1005012806610355",
   "category": "baby-tees",
   "name": "Black Button Henley Y2K Fitted Crop Tee",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012806610355/9d55058c8405.jpg"
+  ]
  },
  {
   "id": "1005009715134691",
@@ -4857,7 +6095,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009715134691/5837d65de50d.jpg"
+  ]
  },
  {
   "id": "1005010361592839",
@@ -4869,13 +6110,19 @@
   "id": "1005008690434908",
   "category": "baby-tees",
   "name": "Red Dragon Y2K Fitted Baby Tee",
-  "blurb": "Small tee, big attitude."
+  "blurb": "Small tee, big attitude.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008690434908/d940dc370cb7.jpg"
+  ]
  },
  {
   "id": "1005009668996030",
   "category": "baby-tees",
   "name": "Green V Neck Grunge Baby Tee",
-  "blurb": "Your new go-out top."
+  "blurb": "Your new go-out top.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009668996030/16c5af201ec8.jpg"
+  ]
  },
  {
   "id": "1005007871661760",
@@ -4884,7 +6131,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Made for late nights and later mornings."
+  "blurb": "Made for late nights and later mornings.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007871661760/ce11b2685308.jpg"
+  ]
  },
  {
   "id": "1005009893893176",
@@ -4905,13 +6155,19 @@
   "id": "1005011926700079",
   "category": "baby-tees",
   "name": "Navy Blue Y2K Layered Crop Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011926700079/eff83575f3a4.jpg"
+  ]
  },
  {
   "id": "1005012038841160",
   "category": "baby-tees",
   "name": "Studded Bow Cross Grey Y2K Baby Tee",
-  "blurb": "Pairs with low-rise and bad decisions."
+  "blurb": "Pairs with low-rise and bad decisions.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012038841160/b906115cf21c.jpg"
+  ]
  },
  {
   "id": "1005008153278912",
@@ -4920,19 +6176,28 @@
   "depts": [
    "women"
   ],
-  "blurb": "Thumbholes optional, mood mandatory."
+  "blurb": "Thumbholes optional, mood mandatory.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008153278912/82ac82b3f7b6.jpg"
+  ]
  },
  {
   "id": "1005012025892753",
   "category": "baby-tees",
   "name": "Polka Dot Peter Pan Collar Coquette Baby Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012025892753/2ac22f4349ed.jpg"
+  ]
  },
  {
   "id": "1005012624087059",
   "category": "baby-tees",
   "name": "White Hooded Half Zip Y2K Crop Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012624087059/eb09d35f402b.jpg"
+  ]
  },
  {
   "id": "1005008034440136",
@@ -4941,7 +6206,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Little top, big night."
+  "blurb": "Little top, big night.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008034440136/eaab813161a6.jpg"
+  ]
  },
  {
   "id": "1005009823653409",
@@ -4950,7 +6218,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009823653409/c9a115e39984.jpg"
+  ]
  },
  {
   "id": "1005009882101897",
@@ -4959,7 +6230,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Built for summer and sold-out shows."
+  "blurb": "Built for summer and sold-out shows.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009882101897/85028686215f.jpg"
+  ]
  },
  {
   "id": "1005010275696245",
@@ -4968,7 +6242,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Hood up, world off."
+  "blurb": "Hood up, world off.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010275696245/bbae5b64aaf3.jpg"
+  ]
  },
  {
   "id": "1005009615847394",
@@ -4977,7 +6254,12 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009615847394/23b42da6d7e2.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009615847394/490020e5abb7.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009615847394/61e449d0541a.jpg"
+  ]
  },
  {
   "id": "1005008071703050",
@@ -4986,31 +6268,46 @@
   "depts": [
    "women"
   ],
-  "blurb": "Zip it up, keep it dark."
+  "blurb": "Zip it up, keep it dark.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008071703050/4a416f8a5daa.jpg"
+  ]
  },
  {
   "id": "1005012569527202",
   "category": "baby-tees",
   "name": "Navy Floral Top White Tie Shrug Coquette Set",
-  "blurb": "For the front row of the show."
+  "blurb": "For the front row of the show.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012569527202/e284a6e661d8.jpg"
+  ]
  },
  {
   "id": "1005009226339087",
   "category": "baby-tees",
   "name": "Blue Plaid Grunge Button Up Baby Tee",
-  "blurb": "Cropped for a reason."
+  "blurb": "Cropped for a reason.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009226339087/5f5fc5655672.jpg"
+  ]
  },
  {
   "id": "1005009311246951",
   "category": "baby-tees",
   "name": "Pink Plaid Ruffle Y2K Button Up Baby Tee",
-  "blurb": "2003 called. It wants this back."
+  "blurb": "2003 called. It wants this back.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009311246951/446ddea585fd.jpg"
+  ]
  },
  {
   "id": "1005006728440219",
   "category": "dresses",
   "name": "Green Knit Fairy Grunge Sleeveless Maxi Dress",
-  "blurb": "Throw it on, go out."
+  "blurb": "Throw it on, go out.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006728440219/e9638a4a8bb4.jpg"
+  ]
  },
  {
   "id": "1005013110375539",
@@ -5019,7 +6316,10 @@
   "depts": [
    "women"
   ],
-  "blurb": "Soft on the arms, hard on the vibe."
+  "blurb": "Soft on the arms, hard on the vibe.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013110375539/8caad810ee03.jpg"
+  ]
  },
  {
   "id": "1005007627136871",
@@ -5082,13 +6382,19 @@
   "depts": [
    "women"
   ],
-  "blurb": "Zip it up, keep it dark."
+  "blurb": "Zip it up, keep it dark.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011628894742/9ed463add7d9.png"
+  ]
  },
  {
   "id": "1005009132055612",
   "category": "baby-tees",
   "name": "White Pinstripe Patch Y2K Baseball Jersey Crop Tee",
-  "blurb": "Cute enough for the party, dark enough for after."
+  "blurb": "Cute enough for the party, dark enough for after.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009132055612/c8ec38a21ede.jpg"
+  ]
  },
  {
   "id": "1005010099111343",
@@ -5097,6 +6403,9 @@
   "depts": [
    "women"
   ],
-  "blurb": "Sleeves for when it's cold, attitude for always."
+  "blurb": "Sleeves for when it's cold, attitude for always.",
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010099111343/ee52f7d07263.jpg"
+  ]
  }
 ]
