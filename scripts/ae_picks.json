@@ -98481,622 +98481,1834 @@
  {
   "id": "1005009341291297",
   "category": "jeans",
-  "name": "Sequin Vintage Jeans",
+  "name": "Blue Wing Embroidered Rhinestone Y2K Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "angels"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery",
+    "rhinestone"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009621163753",
   "category": "jeans",
-  "name": "Patchwork Vintage Jeans",
+  "name": "Black Patchwork Distressed Grunge Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005013637549199",
-  "category": "jeans",
-  "name": "Jeans",
-  "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012017184858",
-  "category": "pants",
-  "name": "Jeans 2",
+  "category": "jeans",
+  "name": "Black Pink Tribal Print Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "themes": [
+    "flames"
+   ],
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear",
+    "harajuku"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012084321041",
-  "category": "pants",
-  "name": "Jeans 3",
+  "category": "jeans",
+  "name": "Black Cross Print Goth Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009189531833",
   "category": "jeans",
-  "name": "Goth Jeans",
+  "name": "Blue Cross Embroidered Pocket Y2K Bootcut Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010654128486",
   "category": "jeans",
-  "name": "Vintage Jeans",
+  "name": "Blue Washed Low Rise Y2K Boyfriend Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008666626348",
-  "category": "pants",
-  "name": "Vintage Jeans 2",
+  "category": "jeans",
+  "name": "Light Wash Vintage Y2K High Waist Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009191441194",
-  "category": "pants",
-  "name": "Vintage Jeans 3",
+  "category": "jeans",
+  "name": "Dark Grey Washed Grunge Baggy Cargo Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012575443965",
-  "category": "pants",
-  "name": "Jeans 4",
+  "category": "jeans",
+  "name": "Black Shark Teeth Patch Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012232701922",
   "category": "jeans",
-  "name": "Slogan Goth Jeans",
+  "name": "Black Cross Embroidered Goth Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009358106179",
   "category": "jeans",
-  "name": "Goth Vintage Jeans",
+  "name": "Dark Blue Rhinestone Pocket Y2K Low Rise Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim",
+    "embroidery",
+    "rhinestone"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013632997413",
-  "category": "pants",
-  "name": "Jeans 5",
+  "category": "jeans",
+  "name": "Light Blue Multi Pocket Y2K Baggy Cargo Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012136531037",
-  "category": "pants",
-  "name": "Goth Jeans 2",
+  "category": "jeans",
+  "name": "Light Blue Tribal Graffiti Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear",
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009725556838",
   "category": "jeans",
-  "name": "Grunge Cow Jeans",
+  "name": "Black Washed Low Rise Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012464439881",
   "category": "jeans",
-  "name": "Slogan Jeans",
+  "name": "Dark Blue 23 Embroidered Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "logo",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013607023891",
-  "category": "pants",
-  "name": "Jeans 6",
+  "category": "jeans",
+  "name": "Blue Floral Drawstring Y2K Wide Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009148423592",
-  "category": "pants",
-  "name": "Vintage Jeans 4",
+  "category": "jeans",
+  "name": "Blue Statue of Liberty Rhinestone Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "embroidery",
+    "rhinestone"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010434970057",
   "category": "jeans",
-  "name": "Cross Grunge Jeans",
+  "name": "Black Washed Studded Strap Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "goth",
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008672689846",
-  "category": "pants",
-  "name": "Goth Vintage Jeans 2",
+  "category": "jeans",
+  "name": "Dark Wash Script Embroidered Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "logo",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012510123394",
   "category": "jeans",
-  "name": "Kitty Star Jeans",
+  "name": "Dark Blue Cat Star Embroidered Y2K Capri Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "cats",
+    "stars"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005006850841194",
-  "category": "pants",
-  "name": "Jeans 7",
+  "category": "jeans",
+  "name": "Vintage Wash Patch Stitched Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011541908087",
   "category": "jeans",
-  "name": "Cherry Vintage Jeans",
+  "name": "Light Wash Cherry Blossom Embroidered Y2K Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013413384060",
   "category": "jeans",
-  "name": "Goth Punk Jeans",
+  "name": "Black Zipper Strap Punk Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013048266131",
   "category": "jeans",
-  "name": "Polka Dot Jeans",
+  "name": "Two Tone Polka Dot Eyelet Y2K Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "multi",
+   "vibe": "y2k",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009567886683",
-  "category": "pants",
-  "name": "Grunge Cow Pants",
+  "category": "jeans",
+  "name": "Grey Graffiti Print Grunge Low Rise Baggy Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009567886683/9e472ed3276e.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008087712029",
   "category": "pants",
-  "name": "Lace Patchwork Pants",
+  "name": "Grey Lace Up Low Rise Y2K Cargo Flare Pants",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "lace-up"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009303672094",
   "category": "jeans",
-  "name": "Punk Grunge Jeans",
+  "name": "Black Tie Dye Ripped Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009303672094/deb804f2dac9.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009358800423",
-  "category": "pants",
-  "name": "Vintage Jeans 5",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005012182635999",
   "category": "jeans",
-  "name": "Plaid Vintage Jeans",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005008337273303",
-  "category": "hoodies",
-  "name": "Skull Vintage Hoodie",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005008301654973",
-  "category": "jeans",
-  "name": "Trashy Vintage Jeans",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005009717882345",
-  "category": "jeans",
-  "name": "Grunge Vintage Jeans",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005012506004392",
-  "category": "long-sleeves",
-  "name": "Goth Long Sleeve Tee",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005009194644824",
-  "category": "jeans",
-  "name": "Grunge Jeans",
+  "name": "Dark Wash Gold Script Liberty Y2K Wide Leg Jeans",
   "depts": [
    "women",
    "men"
   ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005012182635999",
+  "category": "jeans",
+  "name": "Light Wash Plaid Panel Y2K Baggy Jeans",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005008337273303",
+  "category": "hoodies",
+  "name": "Black Skull Wing Embroidered Y2K Zip Hoodie",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "zip-hoodie",
+   "print": "graphic",
+   "neck": "hooded",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "themes": [
+    "skulls",
+    "angels"
+   ],
+   "material": [
+    "cotton",
+    "embroidery"
+   ],
+   "vibes": [
+    "grunge",
+    "streetwear"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005008301654973",
+  "category": "jeans",
+  "name": "Grey Blue Vintage Wash Grunge Baggy Jeans",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005009717882345",
+  "category": "jeans",
+  "name": "Black Starburst Rhinestone Grunge Flare Jeans",
+  "depts": [
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "rhinestone"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005012506004392",
+  "category": "long-sleeves",
+  "name": "White Anime Girl Print Goth Ribbed Long Sleeve Tee",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "fitted-long-sleeve",
+   "print": "anime",
+   "neck": "crew",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "white",
+   "vibe": "anime",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "cotton",
+    "ribbed"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005009194644824",
+  "category": "jeans",
+  "name": "Black Pink Paw Print Grunge Low Rise Baggy Jeans",
+  "depts": [
+   "women"
+  ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009194644824/9ed323742d9e.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "themes": [
+    "cats"
+   ],
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007637069589",
-  "category": "pants",
-  "name": "Goth Jeans 3",
+  "category": "jeans",
+  "name": "Black Wing Print Goth High Waist Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "angels"
+   ],
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012110394567",
-  "category": "pants",
-  "name": "Vintage Jeans 6",
+  "category": "jeans",
+  "name": "Vintage Wash 23 Slogan Print Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
- },
- {
-  "id": "1005013610561297",
-  "category": "sets",
-  "name": "Floral Jumpsuit",
-  "depts": [
-   "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "slogan",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005007716965601",
-  "category": "pants",
-  "name": "Slogan Jeans 2",
+  "category": "jeans",
+  "name": "Blue FG Patch Embroidered Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "logo",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008369470168",
-  "category": "pants",
-  "name": "Goth Jeans 4",
+  "category": "jeans",
+  "name": "Dark Blue Fleur Cross Stitched Y2K Bootcut Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012308239098",
-  "category": "pants",
-  "name": "Goth Punk Jeans 2",
+  "category": "jeans",
+  "name": "Black Acid Wash Thorn Embroidered Punk Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery",
+    "acid-wash"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010710889802",
-  "category": "pants",
-  "name": "Jeans 8",
+  "category": "jeans",
+  "name": "Black Silver Print Spliced Grunge Low Rise Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "low-rise",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009894152908",
   "category": "jeans",
-  "name": "Cow Vintage Jeans",
+  "name": "Mid Blue Faded Y2K Low Rise Wide Fit Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009894152908/2b8c0adee6f9.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012002141379",
   "category": "jeans",
-  "name": "Cow Jeans",
+  "name": "Black Stacked Grunge Low Rise Skinny Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "skinny-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012980455461",
   "category": "jeans",
-  "name": "Punk Jeans",
+  "name": "Black Letter Star Print Punk Striped Cuff Baggy Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012980455461/2665085fd253.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "slogan",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "baggy",
+    "layered"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013611006594",
   "category": "baby-tees",
-  "name": "Fitted Baby Tee",
+  "name": "White V Neck Fitted Y2K Three Quarter Baby Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baby-tee",
+   "print": "plain",
+   "neck": "v-neck",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "white",
+   "vibe": "y2k",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009578368342",
-  "category": "pants",
-  "name": "Punk Grunge Jeans 2",
+  "category": "jeans",
+  "name": "Grey Acid Wash Multi Pocket Grunge Cargo Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009578368342/6ac835c63cf8.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013384511782",
-  "category": "pants",
-  "name": "Grunge Vintage Jeans 2",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005009352687725",
-  "category": "pants",
-  "name": "Goth Jeans 7",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005013592101719",
-  "category": "pants",
-  "name": "Backless Layered Pants",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005012247441706",
   "category": "jeans",
-  "name": "Punk Fitted Jeans",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012918156178",
-  "category": "jeans",
-  "name": "Kitty Goth Jeans",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012229128558",
-  "category": "pants",
-  "name": "Jeans 17",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005013088967843",
-  "category": "jeans",
-  "name": "Slogan Goth Vintage Jeans",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005011942128119",
-  "category": "long-sleeves",
-  "name": "Layered Long Sleeve Tee",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005009344078203",
-  "category": "pants",
-  "name": "Grunge Jeans 3",
+  "name": "Dark Blue Whisker Wash Grunge Baggy Cargo Jeans",
   "depts": [
    "women",
    "men"
   ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005009352687725",
+  "category": "jeans",
+  "name": "Dark Blue Rhinestone Cross Pocket Y2K Low Rise Jeans",
+  "depts": [
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim",
+    "embroidery",
+    "rhinestone"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005013592101719",
+  "category": "pants",
+  "name": "Cream Elegant Y2K High Waist Wide Leg Pants",
+  "depts": [
+   "women"
+  ],
+  "attrs": {
+   "sub": "wide-leg-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "white",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005012247441706",
+  "category": "jeans",
+  "name": "White Acid Wash Wing Patch Punk Flare Jeans",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "white",
+   "vibe": "punk",
+   "themes": [
+    "angels"
+   ],
+   "cut": [
+    "fitted",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "embroidery",
+    "acid-wash"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005012918156178",
+  "category": "jeans",
+  "name": "Black Giant Cat Print Harajuku Wide Leg Jeans",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005012229128558",
+  "category": "jeans",
+  "name": "Camo Print Knit Waistband Y2K Low Rise Baggy Jeans",
+  "depts": [
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "green",
+   "vibe": "y2k",
+   "themes": [
+    "camo"
+   ],
+   "cut": [
+    "baggy",
+    "low-rise",
+    "layered"
+   ],
+   "material": [
+    "denim",
+    "knit"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005013088967843",
+  "category": "jeans",
+  "name": "Blue Studded Letter Embroidered Y2K Low Rise Jeans",
+  "depts": [
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "slogan",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "embroidery",
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005011942128119",
+  "category": "long-sleeves",
+  "name": "Black Skull Print Grunge Layered Long Sleeve Tee",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "layered-long-sleeve",
+   "print": "graphic",
+   "neck": "crew",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "themes": [
+    "skulls",
+    "angels"
+   ],
+   "cut": [
+    "oversized",
+    "layered"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005009344078203",
+  "category": "shorts",
+  "name": "Black Cartoon Patch Harajuku Baggy Denim Shorts",
+  "depts": [
+   "women"
+  ],
   "tags": [
    "anime"
-  ]
+  ],
+  "attrs": {
+   "sub": "shorts",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "harajuku",
+   "themes": [
+    "cartoons"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012087244454",
-  "category": "pants",
-  "name": "Goth Jeans 8",
+  "category": "jeans",
+  "name": "Black Buckle Strap Goth Wide Leg Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012087244454/76984990a6bb.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010637456498",
   "category": "pants",
-  "name": "Pants",
+  "name": "Black Pinstripe Grunge Wide Leg Pants",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "wide-leg-pants",
+   "print": "pattern",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "themes": [
+    "stripes"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012033636376",
   "category": "jeans",
-  "name": "Fitted Jeans",
+  "name": "Smoke Grey Y2K Low Rise Cargo Flare Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008284336506",
   "category": "jeans",
-  "name": "Vintage Fitted Jeans",
+  "name": "Black Ribbon Lace Up Grunge Ripped Baggy Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "lace-up",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012114900873",
   "category": "jeans",
-  "name": "Leopard Jeans",
+  "name": "Grey Leopard Print Black Pocket Y2K Wide Leg Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "y2k",
+   "themes": [
+    "leopard"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012838062863",
   "category": "jeans",
-  "name": "Angel Fitted Jeans",
+  "name": "Blue Gold Angel Wing Y2K Low Rise Flare Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "angels"
+   ],
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013366088692",
-  "category": "pants",
-  "name": "Vintage Fitted Jeans 2",
+  "category": "jeans",
+  "name": "Dark Blue Faded Y2K Low Rise Bootcut Flare Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012904107201",
   "category": "jeans",
-  "name": "Cross Jeans",
+  "name": "Grey Black Cross Print Goth Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013424025923",
   "category": "jeans",
-  "name": "Punk Grunge Vintage Jeans",
+  "name": "Black Multi Pocket Punk Low Rise Cargo Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005006353843907",
-  "category": "pants",
-  "name": "Vintage Fitted Jeans 3",
+  "category": "jeans",
+  "name": "Blue Whisker Wash Y2K High Waist Baggy Jeans",
   "depts": [
-   "women"
+   "women",
+   "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006353843907/100218f16fe7.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006353843907/493920d00d04.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010605560666",
-  "category": "pants",
-  "name": "Fitted Jeans 2",
+  "category": "jeans",
+  "name": "White Spray Paint Grunge Baggy Cargo Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "white",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005006492644808",
   "category": "pants",
-  "name": "Vintage Pants",
+  "name": "Black Distressed Faux Leather Punk Wide Leg Pants",
   "depts": [
    "women",
    "men"
@@ -99104,550 +100316,1649 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006492644808/51d9446c4db0.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006492644808/5a1f3cdb120b.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "wide-leg-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "distressed"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012356791256",
   "category": "jeans",
-  "name": "Plaid Jeans",
+  "name": "Grey Paw Doodle Embroidered Harajuku Ripped Baggy Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "harajuku",
+   "themes": [
+    "cats",
+    "hearts",
+    "bows"
+   ],
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012421445560",
   "category": "jeans",
-  "name": "Star Jeans",
+  "name": "Green Camo Star Print Y2K Capri Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "green",
+   "vibe": "y2k",
+   "themes": [
+    "stars",
+    "camo"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011794222913",
-  "category": "pants",
-  "name": "Star Jeans 2",
+  "category": "jeans",
+  "name": "Black Star Script Print Y2K Barrel Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "streetwear",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012191543336",
-  "category": "pants",
-  "name": "Slogan Sweatpants",
+  "category": "shorts",
+  "name": "Purple Sun Faded Letter Print Grunge Baggy Shorts",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "shorts",
+   "print": "slogan",
+   "length": "regular",
+   "color": "purple",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011963912460",
-  "category": "pants",
-  "name": "Vintage Jeans 9",
+  "category": "jeans",
+  "name": "Grey Camo Print Y2K High Waist Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "streetwear",
+   "themes": [
+    "camo"
+   ],
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010475487650",
-  "category": "pants",
-  "name": "Vintage Fitted Jeans 4",
+  "category": "jeans",
+  "name": "Light Vintage Wash Paneled Y2K Low Rise Flare Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008907994466",
-  "category": "jeans",
-  "name": "Patchwork Punk Jeans",
+  "category": "skirts",
+  "name": "Blue Patchwork Pink Belt Y2K Low Rise Mini Skirt",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "mini-skirt",
+   "print": "plain",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008138514586",
-  "category": "long-sleeves",
-  "name": "Goth Long Sleeve Tee 2",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012546389188",
-  "category": "pants",
-  "name": "Jeans 18",
+  "category": "oversized-tees",
+  "name": "Black Affliction Skull Wing Grunge Oversized Tee",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "oversized-tee",
+   "print": "graphic",
+   "neck": "crew",
+   "sleeve": "short",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "themes": [
+    "skulls",
+    "angels"
+   ],
+   "cut": [
+    "oversized"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "y2k",
+    "goth"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005012546389188",
+  "category": "jeans",
+  "name": "Dark Indigo Pink Stitch Y2K Low Rise Wide Jeans",
+  "depts": [
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013155353566",
   "category": "jeans",
-  "name": "Patchwork Jeans",
+  "name": "Dark Blue Frayed Patchwork Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010183817736",
   "category": "jeans",
-  "name": "Cross Goth Jeans",
+  "name": "White Black Cross Graffiti Goth Wide Leg Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010183817736/e54f7f81877e.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "white",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005007496385315",
-  "category": "pants",
-  "name": "Vintage Jeans 10",
+  "category": "jeans",
+  "name": "Vintage Wash Chain Paint Print Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010098733473",
   "category": "jeans",
-  "name": "Star Plaid Jeans",
+  "name": "Black Red Plaid Star Patch Punk Baggy Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010098733473/1f557ce9aa04.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "themes": [
+    "stars",
+    "plaid"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013241570531",
-  "category": "pants",
-  "name": "Goth Punk Jeans 3",
+  "category": "jeans",
+  "name": "Black Frayed Panel Goth High Waist Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted",
+    "distressed",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009427515294",
-  "category": "baby-tees",
-  "name": "Graphic Goth Baby Tee",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005008666156826",
-  "category": "pants",
-  "name": "Jeans 19",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005012416289959",
-  "category": "jeans",
-  "name": "Stripe Jeans",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005013255595295",
-  "category": "pants",
-  "name": "Slogan Goth Jeans 2",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005013567722206",
-  "category": "jackets",
-  "name": "Jacket",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005012956098125",
-  "category": "pants",
-  "name": "Goth Punk Jeans 4",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005009037821458",
-  "category": "pants",
-  "name": "Jeans 20",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005010031744153",
-  "category": "pants",
-  "name": "Pants 2",
+  "category": "oversized-tees",
+  "name": "Black Haunted Mound Bloody Angel Grunge Oversized Tee",
   "depts": [
    "women",
    "men"
   ],
+  "attrs": {
+   "sub": "oversized-tee",
+   "print": "music",
+   "neck": "crew",
+   "sleeve": "short",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "themes": [
+    "angels",
+    "spiders"
+   ],
+   "cut": [
+    "oversized"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005008666156826",
+  "category": "jeans",
+  "name": "Vintage Wash Cutout Knee Grunge Baggy Jeans",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005012416289959",
+  "category": "jeans",
+  "name": "Pastel Rainbow Stripe Y2K Low Rise Wide Leg Jeans",
+  "depts": [
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "multi",
+   "vibe": "y2k",
+   "themes": [
+    "stripes"
+   ],
+   "cut": [
+    "low-rise",
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005013255595295",
+  "category": "jeans",
+  "name": "Blue Red Side Stripe Script Y2K Wide Leg Jeans",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "logo",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "stripes"
+   ],
+   "cut": [
+    "high-waist",
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005013567722206",
+  "category": "hoodies",
+  "name": "Tree Camo Fleece Y2K Zip Hoodie",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "zip-hoodie",
+   "print": "pattern",
+   "neck": "hooded",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "streetwear",
+   "themes": [
+    "camo"
+   ],
+   "material": [
+    "fleece"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005012956098125",
+  "category": "jeans",
+  "name": "Black Strap D Ring Punk Multi Pocket Cargo Jeans",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005009037821458",
+  "category": "jeans",
+  "name": "Light Wash Shredded Grunge Cropped Baggy Jeans",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005010031744153",
+  "category": "jeans",
+  "name": "Grey Cartoon Patch Print Harajuku Ripped Baggy Jeans",
+  "depts": [
+   "women"
+  ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010031744153/21f7737f3be8.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "harajuku",
+   "themes": [
+    "cartoons"
+   ],
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010106408400",
-  "category": "pants",
-  "name": "Grunge Jeans 4",
+  "category": "jeans",
+  "name": "Light Wash Tie Print Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010106408400/70decbeb0cd8.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012923615481",
   "category": "jeans",
-  "name": "Angel Rhinestone Jeans",
+  "name": "Black Angel Wing Rhinestone Y2K Baggy Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "themes": [
+    "angels"
+   ],
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "rhinestone",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010771405316",
-  "category": "pants",
-  "name": "Goth Punk Pants",
+  "category": "jeans",
+  "name": "Black Washed Paneled Goth Baggy Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010771405316/4bd11bdb93ca.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012751901165",
-  "category": "pants",
-  "name": "Goth Jeans 9",
+  "category": "jeans",
+  "name": "Black Winged Cross Goth Low Rise Bootcut Jeans",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012751901165/62687c9fa26a.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "angels",
+    "crosses"
+   ],
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim",
+    "embroidery",
+    "studs"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010463947218",
-  "category": "pants",
-  "name": "Jeans 21",
+  "category": "jeans",
+  "name": "Black Bell Bottom Grunge Low Rise Cargo Jeans",
+  "depts": [
+   "women"
+  ],
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010463947218/328c20476b52.jpg"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005009403115900",
+  "category": "jeans",
+  "name": "White Cyber Embroidered Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
   ],
-  "hide_photos": [
-   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010463947218/328c20476b52.jpg"
-  ]
- },
- {
-  "id": "1005009403115900",
-  "category": "pants",
-  "name": "Punk Cyber Pants",
-  "depts": [
-   "women",
-   "men"
-  ]
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "white",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012907699060",
-  "category": "pants",
-  "name": "Goth Jeans 10",
+  "category": "jeans",
+  "name": "Beige Studded Goth Low Rise Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "white",
+   "vibe": "goth",
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010434424711",
-  "category": "pants",
-  "name": "Fitted Jeans 3",
+  "category": "jeans",
+  "name": "Dark Grey Marble Wash Grunge Barrel Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013528705713",
-  "category": "hoodies",
-  "name": "Jacket 2",
+  "category": "jackets",
+  "name": "Black Hooded Y2K Cropped Puffer Jacket",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "puffer-jacket",
+   "print": "plain",
+   "neck": "hooded",
+   "sleeve": "long",
+   "length": "cropped",
+   "color": "black",
+   "vibe": "streetwear",
+   "cut": [
+    "cropped",
+    "oversized"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011960785359",
-  "category": "pants",
-  "name": "Fitted Jeans 4",
+  "category": "jeans",
+  "name": "Army Green Camo Grunge Straight Leg Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "green",
+   "vibe": "streetwear",
+   "themes": [
+    "camo"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009817427263",
-  "category": "pants",
-  "name": "Fitted Jeans 5",
+  "category": "jeans",
+  "name": "Black Low Rise Y2K Barrel Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012407716129",
-  "category": "pants",
-  "name": "Jeans 22",
+  "category": "jeans",
+  "name": "Blue Rosary Chain Print Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012112716440",
-  "category": "pants",
-  "name": "Jeans 23",
+  "category": "jeans",
+  "name": "Light Blue Red Script Embroidered Y2K Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "slogan",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005007463159660",
-  "category": "pants",
-  "name": "Jeans 24",
+  "category": "jeans",
+  "name": "Blue Low Rise Y2K Baggy Boyfriend Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010792187263",
   "category": "jeans",
-  "name": "Kitty Jeans",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005013299023738",
-  "category": "jeans",
-  "name": "Punk Vintage Jeans",
+  "name": "Dark Wash Whiskered Y2K Low Rise Straight Jeans",
   "depts": [
    "women",
    "men"
   ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005013299023738",
+  "category": "jeans",
+  "name": "Blue Angel Wing Embroidered Y2K Low Rise Flare Jeans",
+  "depts": [
+   "women"
+  ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013299023738/a281d5335bc7.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013299023738/ee728714a73a.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "angels"
+   ],
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010524556109",
   "category": "jeans",
-  "name": "Goth Fitted Jeans",
+  "name": "Black Cargo Goth Low Rise Flare Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011934284687",
-  "category": "pants",
-  "name": "Cow Vintage Jeans 2",
+  "category": "jeans",
+  "name": "Cow Print Y2K Baggy Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "white",
+   "vibe": "y2k",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "western",
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005007425973785",
   "category": "legwear",
-  "name": "Knit Leg Warmers",
+  "name": "Cream Ribbed Knit Y2K Leg Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "leg-warmers",
+   "print": "plain",
+   "color": "white",
+   "vibe": "y2k",
+   "material": [
+    "knit",
+    "ribbed"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010445794619",
-  "category": "pants",
-  "name": "Vintage Jeans 11",
+  "category": "jeans",
+  "name": "White Ink Graffiti Print Grunge Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "white",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009919972634",
-  "category": "pants",
-  "name": "Vintage Jeans 12",
+  "category": "jeans",
+  "name": "Blue Red Embroidered Vintage Wash Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012449836539",
-  "category": "pants",
-  "name": "Vintage Jeans 13",
+  "category": "jeans",
+  "name": "Black Flip Waist Ripped Grunge Barrel Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed",
+    "layered",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009599012680",
   "category": "pants",
-  "name": "Vintage Fitted Jeans 5",
+  "name": "Light Grey Slim Y2K High Waist Cargo Pants",
   "depts": [
    "women"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009599012680/5bb9458cad3d.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "cargo-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "y2k",
+   "cut": [
+    "fitted",
+    "high-waist"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013397106550",
-  "category": "jewelry",
-  "name": "Jewelry",
+  "category": "jeans",
+  "name": "Blue Grommet Cutout Y2K Wide Leg Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013254137997",
-  "category": "pants",
-  "name": "Goth Fitted Jeans 2",
+  "category": "jeans",
+  "name": "Dark Blue Cargo Pocket Grunge Wide Leg Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005006479096381",
   "category": "pants",
-  "name": "Emo Pants",
+  "name": "Black Faux Leather Studded Emo Cargo Flare Pants",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "emo",
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "faux-leather",
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012858185717",
-  "category": "bags",
-  "name": "Bag",
+  "category": "jeans",
+  "name": "Dark Wash Gradient Grunge Barrel Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010502979720",
   "category": "jeans",
-  "name": "Graphic Jeans",
+  "name": "Black Graphic Print Y2K Straight Leg Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010502979720/0ad777e18a34.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013305133343",
-  "category": "pants",
-  "name": "Fitted Jeans 6",
+  "category": "jeans",
+  "name": "Black Heavily Ripped Grunge Wide Leg Jeans",
   "depts": [
-   "women"
+   "women",
+   "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013305133343/538950b03811.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013305133343/79707a420d17.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "distressed",
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010167468554",
   "category": "long-sleeves",
-  "name": "Snakeskin Vintage Long Sleeve Tee",
+  "name": "Black Warrior Snake Graphic Grunge Long Sleeve Tee",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "oversized-long-sleeve",
+   "print": "graphic",
+   "neck": "crew",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "streetwear",
+   "cut": [
+    "oversized"
+   ],
+   "material": [
+    "cotton",
+    "acid-wash"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005007158880328",
   "category": "jeans",
-  "name": "Cross Lace Jeans",
+  "name": "Cream Lace Ruffle Fairy Grunge Lace-Up Flare Jeans",
   "depts": [
    "women"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007158880328/071237aa5517.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007158880328/63b25af672ab.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "white",
+   "vibe": "fairy-grunge",
+   "cut": [
+    "lace-up",
+    "fitted",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011828467010",
   "category": "jeans",
-  "name": "Star Vintage Jeans",
+  "name": "Light Blue Red Star Pocket Y2K Straight Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013559423721",
-  "category": "pants",
-  "name": "Jeans 25",
+  "category": "jeans",
+  "name": "Washed Black Billiard Embroidered Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013082228612",
-  "category": "pants",
-  "name": "Jeans 26",
+  "category": "jeans",
+  "name": "Light Blue Paneled Y2K Barrel Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013082228612/22472db9c5b2.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012986780523",
   "category": "jeans",
-  "name": "Slogan Graphic Jeans",
+  "name": "Blue Script Print Y2K Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "slogan",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009606951210",
-  "category": "pants",
-  "name": "Vintage Jeans 14",
+  "category": "jeans",
+  "name": "Black Fleece Lined Side Stripe Y2K Straight Jeans",
   "depts": [
    "women",
    "men"
@@ -99655,574 +101966,1690 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009606951210/452d3b3fe29c.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009606951210/66da7731fb14.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "streetwear",
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "fleece"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005006988864382",
-  "category": "belts",
-  "name": "Goth Punk Accessory",
+  "category": "legwear",
+  "name": "Grey Chunky Knit Grunge Leg Warmers",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "leg-warmers",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "grunge",
+   "material": [
+    "knit",
+    "ribbed"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011834596318",
   "category": "jeans",
-  "name": "Punk Cow Jeans",
+  "name": "Blue Skirt Overlay Punk Layered Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "punk",
+   "cut": [
+    "layered",
+    "lace-up",
+    "fitted",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013083686131",
   "category": "jeans",
-  "name": "Lace Vintage Jeans",
+  "name": "White Floral Lace Panel Coquette Wide Leg Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "lace"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012931664921",
-  "category": "pants",
-  "name": "Star Vintage Jeans 2",
+  "category": "jeans",
+  "name": "Dark Blue Red Star 10 Patch Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011872458094",
-  "category": "pants",
-  "name": "Star Jeans 3",
+  "category": "jeans",
+  "name": "Dark Wash Star Pocket Y2K Low Rise Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010027180907",
-  "category": "pants",
-  "name": "Fitted Jeans 7",
+  "category": "jeans",
+  "name": "Cement Grey Vintage Wash Grunge Wide Leg Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011704533148",
-  "category": "belts",
-  "name": "Punk Fitted Belt",
+  "category": "jeans",
+  "name": "Black Eyelet Belt Punk Low Rise Flare Jeans 2",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013234667000",
   "category": "jeans",
-  "name": "Punk Vintage Fitted Jeans",
+  "name": "Washed Black Distressed Punk Bootcut Flare Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "distressed",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011912594800",
-  "category": "pants",
-  "name": "Vintage Jeans 15",
+  "category": "jeans",
+  "name": "Khaki Text Print Y2K Barrel Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "slogan",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012954178069",
-  "category": "pants",
-  "name": "Slogan Jeans 4",
+  "category": "jeans",
+  "name": "Black Letter Print Y2K Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "slogan",
+   "length": "regular",
+   "color": "black",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013081863887",
-  "category": "pants",
-  "name": "Vintage Jeans 16",
+  "category": "jeans",
+  "name": "Dark Blue Stick Figure Embroidered Y2K Straight Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "cartoons"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012411126083",
-  "category": "pants",
-  "name": "Slogan Jeans 5",
+  "category": "jeans",
+  "name": "Blue Los Angeles Letter Ripped Grunge Barrel Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012411126083/7c6a0ad89fdf.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "slogan",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "distressed",
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010361750801",
-  "category": "jeans",
-  "name": "Sexy Jeans",
+  "category": "shorts",
+  "name": "Light Blue Low Rise Y2K Denim Micro Shorts",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "shorts",
+   "print": "plain",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013599803907",
-  "category": "pants",
-  "name": "Patchwork Goth Pants",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005004198692358",
-  "category": "pants",
-  "name": "Jeans 27",
+  "category": "jeans",
+  "name": "Dark Patchwork Print Goth Wide Leg Jeans",
   "depts": [
    "women",
    "men"
   ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005004198692358",
+  "category": "jeans",
+  "name": "Chocolate Brown High Waist Y2K Flare Jeans",
+  "depts": [
+   "women"
+  ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004198692358/8bcb61ac7609.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "y2k",
+   "cut": [
+    "fitted",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009783447330",
-  "category": "pants",
-  "name": "Jeans 28",
+  "category": "jeans",
+  "name": "Light Wash Spliced Panel Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010776644720",
-  "category": "pants",
-  "name": "Jeans 29",
+  "category": "jeans",
+  "name": "Light Blue Cartoon Bear Embroidered Y2K Wide Leg Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010776644720/e2ea8a35241a.jpg"
-  ]
- },
- {
-  "id": "1005008524415676",
-  "category": "pants",
-  "name": "Pants 3",
-  "depts": [
-   "women",
-   "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "cartoons",
+    "flowers",
+    "hearts"
+   ],
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010282397000",
-  "category": "pants",
-  "name": "Cow Jeans 2",
+  "category": "jeans",
+  "name": "Dark Wash Star Cargo Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010282397000/d97a92bc680f.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010422015951",
   "category": "jeans",
-  "name": "Punk Grunge Cyber Jeans",
+  "name": "Black Washed Star Cyber Punk Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013048811219",
-  "category": "pants",
-  "name": "Punk Grunge Jeans 3",
+  "category": "jeans",
+  "name": "Washed Black Low Rise Grunge Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012364326615",
-  "category": "pants",
-  "name": "Punk Pants",
+  "category": "jeans",
+  "name": "Light Wash Studded Punk Baggy Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012364326615/637c09ac268e.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "punk",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "studs",
+    "acid-wash"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012239359219",
   "category": "jeans",
-  "name": "Goth Punk Fitted Jeans",
+  "name": "Black Studded Strap Goth Flare Jeans",
   "depts": [
    "women"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012239359219/a5635be09c46.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted",
+    "high-waist",
+    "lace-up"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011669665904",
-  "category": "pants",
-  "name": "Stripe Jeans 2",
+  "category": "jeans",
+  "name": "Black Pinstripe Y2K Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "themes": [
+    "stripes"
+   ],
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005005682684254",
   "category": "belts",
-  "name": "Star Punk Sunglasses",
+  "name": "Pink Star Shield Y2K Sunglasses",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "sunglasses",
+   "print": "plain",
+   "color": "pink",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "vibes": [
+    "rave"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011924467150",
-  "category": "pants",
-  "name": "Vintage Jeans 17",
+  "category": "jeans",
+  "name": "Grey Camo Cargo Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "streetwear",
+   "themes": [
+    "camo"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009963996730",
-  "category": "pants",
-  "name": "Star Jeans 4",
+  "category": "jeans",
+  "name": "Olive Rhinestone Y2K Fold Over Waist Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "green",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "rhinestone"
+   ],
+   "vibes": [
+    "rave"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009860140650",
-  "category": "pants",
-  "name": "Leopard Jeans 2",
+  "category": "jeans",
+  "name": "Leopard Print Red Drawstring Y2K Barrel Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "y2k",
+   "themes": [
+    "leopard"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008108295936",
   "category": "skirts",
-  "name": "Punk Sexy Skirt",
+  "name": "Black Asymmetric Lace-Up Goth High Low Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "midi-skirt",
+   "print": "plain",
+   "length": "midi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "lace-up",
+    "high-waist"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009878913471",
-  "category": "pants",
-  "name": "Jeans 30",
+  "category": "jeans",
+  "name": "Light Grey Camo Y2K Curved Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "y2k",
+   "themes": [
+    "camo"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012110451500",
-  "category": "pants",
-  "name": "Fitted Jeans 8",
+  "category": "jeans",
+  "name": "White Pleated Y2K Barrel Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "white",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011988925140",
-  "category": "pants",
-  "name": "Jeans 31",
+  "category": "jeans",
+  "name": "Washed Black Layered Waist Grunge Barrel Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011988925140/71a7450e7390.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "layered",
+    "distressed",
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010525376218",
-  "category": "pants",
-  "name": "Jeans 32",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005011877963566",
-  "category": "pants",
-  "name": "Fitted Jeans 9",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005008893118956",
-  "category": "pants",
-  "name": "Jeans 33",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005013194415160",
-  "category": "pants",
-  "name": "Jeans 34",
+  "category": "jeans",
+  "name": "Blue Floral Jacquard Grunge Wide Leg Jeans",
   "depts": [
    "women",
    "men"
   ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005011877963566",
+  "category": "jeans",
+  "name": "Grey Blue Ripped Y2K High Waist Slim Jeans",
+  "depts": [
+   "women"
+  ],
+  "attrs": {
+   "sub": "skinny-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "y2k",
+   "cut": [
+    "distressed",
+    "high-waist",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005008893118956",
+  "category": "jeans",
+  "name": "Mid Blue Button Waist Y2K Baggy Jeans",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005013194415160",
+  "category": "jeans",
+  "name": "Washed Black Buckle Cargo Grunge Flare Jeans",
+  "depts": [
+   "women"
+  ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013194415160/0f45ca9f5117.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008672130585",
   "category": "jeans",
-  "name": "Butterfly Rhinestone Jeans",
+  "name": "Blue Butterfly Rhinestone Y2K Low Rise Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "butterflies"
+   ],
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "rhinestone"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012069329054",
-  "category": "pants",
-  "name": "Star Jeans 5",
+  "category": "jeans",
+  "name": "Dark Blue White Star Patch Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013579266487",
   "category": "hoodies",
-  "name": "Hoodie",
+  "name": "Navy Surf Club Doodle Grunge Sweatshirt",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "sweatshirt",
+   "print": "graphic",
+   "neck": "crew",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "themes": [
+    "cartoons"
+   ],
+   "cut": [
+    "oversized"
+   ],
+   "material": [
+    "cotton",
+    "acid-wash"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010587881508",
-  "category": "pants",
-  "name": "Jeans 35",
+  "category": "jeans",
+  "name": "Light Blue Overlay Panel Y2K Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "layered",
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013106436163",
-  "category": "pants",
-  "name": "Grunge Jeans 5",
+  "category": "jeans",
+  "name": "Blue Asymmetric Button Grunge Barrel Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013191737646",
   "category": "jeans",
-  "name": "Polka Dot Vintage Jeans",
+  "name": "Light Blue Studded Seam Y2K Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "fitted",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012100344515",
-  "category": "pants",
-  "name": "Vintage Fitted Jeans 6",
+  "category": "jeans",
+  "name": "Retro Grey Lace-Up Y2K Low Rise Flare Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "y2k",
+   "cut": [
+    "lace-up",
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012061632308",
-  "category": "pants",
-  "name": "Jeans 37",
+  "category": "jeans",
+  "name": "Two Tone Blue Panel Y2K Wide Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009717155194",
-  "category": "pants",
-  "name": "Jeans 38",
+  "category": "jeans",
+  "name": "Peach Fade Chain Print Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "multi",
+   "vibe": "y2k",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012112733784",
-  "category": "pants",
-  "name": "Vintage Jeans 18",
+  "category": "jeans",
+  "name": "Mid Blue Buckle Tab Y2K Barrel Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013039638852",
   "category": "jeans",
-  "name": "Goth Grunge Jeans",
+  "name": "Black Studded Hem Goth Low Rise Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010793750232",
   "category": "jeans",
-  "name": "Rhinestone Jeans",
+  "name": "Champagne Full Rhinestone Y2K Straight Leg Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "yellow",
+   "vibe": "y2k",
+   "material": [
+    "denim",
+    "rhinestone"
+   ],
+   "vibes": [
+    "rave"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013129987411",
   "category": "jeans",
-  "name": "Rhinestone Vintage Jeans",
+  "name": "Light Blue Rhinestone Trim Asymmetric Y2K Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "distressed",
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "rhinestone",
+    "acid-wash"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012752659294",
   "category": "jewelry",
-  "name": "Goth Jewelry",
+  "name": "10 Piece Black Tattoo Goth Choker Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011864594330",
-  "category": "pants",
-  "name": "Vintage Jeans 19",
+  "category": "jeans",
+  "name": "Dark Indigo Script Pocket Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013453181781",
-  "category": "pants",
-  "name": "Jeans 39",
+  "category": "jeans",
+  "name": "Vintage Blue Faux Fur Trim Y2K Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "fitted",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "faux-fur"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011741919635",
-  "category": "pants",
-  "name": "Vintage Jeans 20",
+  "category": "jeans",
+  "name": "Tan Vintage Wash Y2K Baggy Wide Leg Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011741919635/efbc77d3121d.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011670289145",
-  "category": "baby-tees",
-  "name": "Vintage Baby Tee",
+  "category": "oversized-tees",
+  "name": "Washed Black 123 Graphic Grunge Oversized Tee",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "acid-wash-tee",
+   "print": "graphic",
+   "neck": "crew",
+   "sleeve": "short",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "oversized"
+   ],
+   "material": [
+    "cotton",
+    "acid-wash"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009322810464",
   "category": "jeans",
-  "name": "Goth Punk Grunge Jeans",
+  "name": "Washed Black Pink Tribal Print Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "themes": [
+    "flames"
+   ],
+   "cut": [
+    "distressed",
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005007528072638",
-  "category": "pants",
-  "name": "Jeans 40",
+  "category": "jeans",
+  "name": "Black Knee Cutout Y2K Straight Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "distressed",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013422450738",
-  "category": "pants",
-  "name": "Jeans 41",
+  "category": "jeans",
+  "name": "Washed Black Elastic Waist Grunge Super Wide Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "oversized"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013594982544",
-  "category": "pants",
-  "name": "Jeans 42",
+  "category": "jeans",
+  "name": "Charcoal Camo Grunge Draped Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "themes": [
+    "camo"
+   ],
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009811224876",
-  "category": "pants",
-  "name": "Jeans 43",
+  "category": "jeans",
+  "name": "Blue Grey Sheer Cutout Grunge Straight Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "mesh"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011617856512",
   "category": "jeans",
-  "name": "Heart Bow Jeans",
+  "name": "Vintage Blue Heart Chain Bow Print Y2K Jeans",
   "depts": [
    "women"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011617856512/4809880afa81.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "hearts",
+    "bows"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012824230228",
-  "category": "jewelry",
-  "name": "Jewelry 2",
+  "category": "jeans",
+  "name": "Washed Black Grommet Cutout Y2K Wide Leg Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005006629128559",
   "category": "pants",
-  "name": "Patchwork Pants",
+  "name": "Black White Faux Leather Patchwork Punk Wide Leg Pants",
   "depts": [
    "women",
    "men"
@@ -100230,789 +103657,2270 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006629128559/6776db25d31c.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006629128559/fd13e0bdda66.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "wide-leg-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012962177217",
-  "category": "pants",
-  "name": "Jeans 44",
+  "category": "jeans",
+  "name": "Blue Side Button Y2K Barrel Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012017469750",
-  "category": "pants",
-  "name": "Vintage Jeans 21",
+  "category": "jeans",
+  "name": "Coffee Brown Asymmetric Wrap Y2K Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist",
+    "layered"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008130065663",
-  "category": "pants",
-  "name": "Jeans 45",
+  "category": "jeans",
+  "name": "Brown Leopard Low Rise Grunge Barrel Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "grunge",
+   "themes": [
+    "leopard"
+   ],
+   "cut": [
+    "low-rise",
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009047216594",
   "category": "shoes",
-  "name": "Goth Shoes",
+  "name": "Tan Faux Fur Lace-Up Y2K Platform Boots",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "shoes",
+   "print": "plain",
+   "color": "brown",
+   "vibe": "y2k",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008309742204",
   "category": "jeans",
-  "name": "Stripe Vintage Jeans",
+  "name": "Black Red Side Stripe Y2K Wide Leg Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "black",
+   "vibe": "streetwear",
+   "themes": [
+    "stripes"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010401514139",
-  "category": "pants",
-  "name": "Jeans 46",
+  "category": "jeans",
+  "name": "Black Fleece Lined Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "fleece"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005006794659240",
-  "category": "pants",
-  "name": "Jeans 47",
+  "category": "jeans",
+  "name": "Light Blue Rhinestone Cutout Y2K Straight Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "distressed",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "rhinestone"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011625328999",
-  "category": "pants",
-  "name": "Cow Jeans 3",
+  "category": "jeans",
+  "name": "Dark Wash Embroidered Y2K Western Flare Jeans",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011625328999/9020ca49ea7d.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "western"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009474969631",
-  "category": "pants",
-  "name": "Grunge Jeans 6",
+  "category": "jeans",
+  "name": "Grey Wash Grunge Low Rise Cargo Flare Jeans",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009474969631/a5d95d9a0631.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009971070936",
-  "category": "pants",
-  "name": "Vintage Jeans 22",
+  "category": "jeans",
+  "name": "Washed Black Y2K Low Rise Fitted Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008181524507",
   "category": "jackets",
-  "name": "Fur Punk Jacket",
+  "name": "White Faux Fur Bear Ear Harajuku Oversized Hooded Coat",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "coat",
+   "print": "plain",
+   "neck": "hooded",
+   "sleeve": "long",
+   "length": "longline",
+   "color": "white",
+   "vibe": "harajuku",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "oversized"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011864517732",
-  "category": "pants",
-  "name": "Punk Jeans 2",
+  "category": "shorts",
+  "name": "Blue Denim Punk Baggy Cargo Jorts Shorts",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "shorts",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "punk",
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012057285694",
   "category": "jeans",
-  "name": "Patchwork Slogan Jeans",
+  "name": "Patchwork Red Letter Slogan Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "slogan",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012994624469",
-  "category": "pants",
-  "name": "Jeans 48",
+  "category": "jeans",
+  "name": "Acid Wash Button Front Y2K Distressed Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012374884880",
   "category": "jeans",
-  "name": "Star Fitted Jeans",
+  "name": "Black Star Embroidered Y2K High Waist Wide Leg Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012915536618",
-  "category": "pants",
-  "name": "Jeans 49",
+  "category": "jeans",
+  "name": "Dark Blue Double Button Y2K Low Rise Baggy Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010773251196",
-  "category": "pants",
-  "name": "Slogan Jeans 6",
+  "category": "jeans",
+  "name": "Black Rhinestone Script Kitty Y2K Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "slogan",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "themes": [
+    "cats",
+    "bows"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "rhinestone"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013501633782",
   "category": "hats",
-  "name": "Skull Knit Cap",
+  "name": "Black Copy Jacquard Y2K Knit Beanie",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "beanie",
+   "print": "slogan",
+   "color": "black",
+   "vibe": "streetwear",
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011911812940",
-  "category": "pants",
-  "name": "Jeans 50",
+  "category": "jeans",
+  "name": "Army Green Washed Grunge Baggy Cargo Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "green",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009195134696",
-  "category": "pants",
-  "name": "Vintage Fitted Jeans 7",
+  "category": "jeans",
+  "name": "Dark Wash Embroidered Y2K Low Rise Slim Flare Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008621187128",
-  "category": "pants",
-  "name": "Fitted Jeans 10",
+  "category": "jeans",
+  "name": "Dark Blue Gingham Bow Coquette Wide Leg Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "coquette",
+   "themes": [
+    "plaid",
+    "bows"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011834343268",
   "category": "pants",
-  "name": "Sweatpants",
+  "name": "Khaki Parachute Y2K Baggy Cargo Pants",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "cargo-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009615789365",
-  "category": "pants",
-  "name": "Fitted Jeans 11",
+  "category": "jeans",
+  "name": "Cartoon Patch Embroidered Harajuku Wide Leg Cargo Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "cartoons"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011677622717",
-  "category": "pants",
-  "name": "Vintage Fitted Jeans 8",
+  "category": "jeans",
+  "name": "Vintage Wash Y2K Low Rise Stacked Skinny Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "skinny-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "fitted",
+    "ruched"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007512117886",
-  "category": "pants",
-  "name": "Jeans 51",
+  "category": "jeans",
+  "name": "Vintage Green Wash Y2K Boyfriend Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005007737190503",
-  "category": "pants",
-  "name": "Star Vintage Jeans 3",
+  "category": "jeans",
+  "name": "Blue Star Patch Y2K Low Rise Straight Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010525969849",
-  "category": "pants",
-  "name": "Jeans 52",
+  "category": "jeans",
+  "name": "Washed Black Fleece Lined Y2K Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist",
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "fleece"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009736205150",
   "category": "jeans",
-  "name": "Bow Vintage Jeans",
+  "name": "Medium Wash Y2K Low Rise Wide Leg Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012642463813",
-  "category": "pants",
-  "name": "Fitted Jeans 12",
+  "category": "jeans",
+  "name": "Grey Wash Y2K Low Rise Slim Flare Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011712073085",
   "category": "jeans",
-  "name": "Patchwork Fitted Jeans",
+  "name": "Light Wash Red Side Stripe Y2K Wide Leg Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "stripes"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008836543158",
-  "category": "pants",
-  "name": "Jeans 53",
+  "category": "jeans",
+  "name": "Black Ripped Grunge Stretch Skinny Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "skinny-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "fitted",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013156334531",
-  "category": "pants",
-  "name": "Vintage Jeans 23",
+  "category": "jeans",
+  "name": "Green Camo Y2K Low Rise Raw Hem Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "green",
+   "vibe": "streetwear",
+   "themes": [
+    "camo"
+   ],
+   "cut": [
+    "low-rise",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012824711786",
-  "category": "pants",
-  "name": "Layered Pants",
+  "category": "jeans",
+  "name": "Washed Fake Two Piece Y2K Layered Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "cut": [
+    "layered",
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008756236673",
-  "category": "pants",
-  "name": "Jeans 54",
+  "category": "jeans",
+  "name": "Light Blue Pull On Y2K High Waist Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009756749115",
   "category": "jackets",
-  "name": "Emo Jacket",
+  "name": "Black Gold Grommet Faux Leather Emo Cropped Hooded Jacket",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "leather-jacket",
+   "print": "plain",
+   "neck": "hooded",
+   "sleeve": "long",
+   "length": "cropped",
+   "color": "black",
+   "vibe": "emo",
+   "cut": [
+    "cropped",
+    "oversized"
+   ],
+   "material": [
+    "faux-leather",
+    "studs"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012361860480",
-  "category": "pants",
-  "name": "Jeans 55",
+  "category": "jeans",
+  "name": "Snow Wash Ripped Grunge High Waist Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "distressed",
+    "high-waist",
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012899410001",
-  "category": "pants",
-  "name": "Jeans 56",
+  "category": "jeans",
+  "name": "Dark Blue Seam Line Y2K High Waist Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011942102030",
-  "category": "pants",
-  "name": "Pants 4",
+  "category": "jeans",
+  "name": "Black Denim Pleated Y2K High Waist Harem Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist",
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013361743293",
-  "category": "pants",
-  "name": "Polka Dot Vintage Jeans 2",
+  "category": "jeans",
+  "name": "Pink Polka Dot Y2K Low Rise Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "pink",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011771992011",
-  "category": "pants",
-  "name": "Polka Dot Jeans 2",
+  "category": "jeans",
+  "name": "Black Polka Dot Y2K Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013426328032",
-  "category": "pants",
-  "name": "Vintage Jeans 24",
+  "category": "jeans",
+  "name": "Blue Pleated Lace Up Y2K Palazzo Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist",
+    "lace-up"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008519176095",
   "category": "jeans",
-  "name": "Bow Jeans",
+  "name": "Grey Wash Pink Bow Coquette Low Rise Baggy Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012776978214",
   "category": "jeans",
-  "name": "Floral Jeans",
+  "name": "Butterfly Floral Print Y2K Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "flowers",
+    "butterflies"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008635418386",
-  "category": "pants",
-  "name": "Vintage Jeans 25",
+  "category": "jeans",
+  "name": "Blue Pearl Beaded Y2K Straight Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012985511973",
   "category": "hoodies",
-  "name": "Jacket 3",
+  "name": "Black Oversized Harajuku Zip Hoodie",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "zip-hoodie",
+   "print": "plain",
+   "neck": "hooded",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "streetwear",
+   "cut": [
+    "oversized"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011547109579",
-  "category": "pants",
-  "name": "Jeans 57",
+  "category": "jeans",
+  "name": "White Polka Dot Y2K Barrel Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "white",
+   "vibe": "y2k",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012538661420",
   "category": "jeans",
-  "name": "Polka Dot Ruched Jeans",
+  "name": "Pale Yellow Polka Dot Y2K Ruched Barrel Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "yellow",
+   "vibe": "y2k",
+   "cut": [
+    "ruched",
+    "low-rise",
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012806438897",
-  "category": "pants",
-  "name": "Floral Jeans 2",
+  "category": "jeans",
+  "name": "Orange Flower Print Harajuku Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008679057487",
   "category": "hair",
-  "name": "Star Bow Hair Clips",
+  "name": "Silver Bow Coquette Metal Claw Hair Clip",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "hair-clips",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012894468549",
   "category": "jeans",
-  "name": "Fur Patchwork Jeans",
+  "name": "Vintage Wash Faux Fur Trim Y2K Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "denim",
+    "faux-fur"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012002538992",
-  "category": "pants",
-  "name": "Punk Vintage Jeans 2",
+  "category": "jeans",
+  "name": "Washed Black Rivet Punk Straight Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009109970182",
   "category": "jeans",
-  "name": "Lace Bow Jeans",
+  "name": "Light Blue Lace Panel Bow Coquette Wide Leg Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "denim",
+    "lace"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013537222666",
   "category": "camis-tanks",
-  "name": "Skeleton Vintage Tank",
+  "name": "Washed Black Misfits Skull Punk Oversized Tank Top",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "tank",
+   "print": "music",
+   "neck": "crew",
+   "sleeve": "sleeveless",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "themes": [
+    "skulls"
+   ],
+   "cut": [
+    "oversized",
+    "distressed"
+   ],
+   "material": [
+    "cotton",
+    "acid-wash"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012332677823",
-  "category": "pants",
-  "name": "Jeans 58",
+  "category": "jeans",
+  "name": "Light Wash Anime Patch Harajuku Argyle Panel Baggy Jeans",
   "depts": [
    "women",
    "men"
   ],
   "tags": [
    "anime"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "anime",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "anime",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013373338612",
-  "category": "pants",
-  "name": "Jeans 59",
+  "category": "jeans",
+  "name": "Brown Heaven Angel Print Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "grunge",
+   "themes": [
+    "angels"
+   ],
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009569999337",
   "category": "jeans",
-  "name": "Goth Trashy Jeans",
+  "name": "Dirty Wash Grunge Distressed Barrel Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008098068856",
   "category": "pants",
-  "name": "Pants 5",
+  "name": "Black Faux Leather Zipper Goth Wide Leg Pants",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "wide-leg-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013225722817",
-  "category": "pants",
-  "name": "Goth Fitted Jeans 3",
+  "category": "jeans",
+  "name": "Graphite Black Wash Goth Low Rise Micro Flare Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012383719647",
   "category": "jeans",
-  "name": "Star Rhinestone Jeans",
+  "name": "Rhinestone Star Cutout Y2K Low Rise Wide Leg Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "low-rise",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "rhinestone"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005006533663805",
-  "category": "pants",
-  "name": "Jeans 60",
+  "category": "jeans",
+  "name": "Black Cropped Y2K Barrel Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009466174307",
-  "category": "pants",
-  "name": "Punk Grunge Pants",
+  "category": "jeans",
+  "name": "Grey Wash Grunge Seamed Wide Flare Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009466174307/49ddfcfa8148.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013145423836",
-  "category": "pants",
-  "name": "Punk Jeans 3",
+  "category": "jeans",
+  "name": "Dark Wash Punk Low Rise Skinny Jeans",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013145423836/94ea70caaeb5.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "skinny-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011602853155",
-  "category": "pants",
-  "name": "Plaid Cow Pants",
+  "category": "jeans",
+  "name": "Blue Plaid Grunge Baggy Wide Leg Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011602853155/00144ec7d8ab.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013287325487",
   "category": "jackets",
-  "name": "Slogan Jacket",
+  "name": "Washed Black Satoshi Nakamoto Studded Grunge Zip Jacket",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "zip-jacket",
+   "print": "slogan",
+   "neck": "hooded",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "streetwear",
+   "cut": [
+    "distressed"
+   ],
+   "material": [
+    "cotton",
+    "acid-wash",
+    "studs"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010463964278",
   "category": "jeans",
-  "name": "Punk Grunge Cyber Cow Jeans",
+  "name": "Black Ignore Me Print Punk Baggy Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010463964278/8669bdba4c24.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "slogan",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010441686629",
-  "category": "pants",
-  "name": "Star Jeans 6",
+  "category": "jeans",
+  "name": "Brown Studded Star Pocket Y2K Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010500169007",
-  "category": "pants",
-  "name": "Fitted Jeans 13",
+  "category": "jeans",
+  "name": "Vintage Blue Wash Y2K Slim Micro Flare Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "fitted",
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010736945439",
-  "category": "pants",
-  "name": "Star Jeans 7",
+  "category": "jeans",
+  "name": "Khaki Starry Rhinestone Y2K Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "rhinestone"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011884255250",
-  "category": "pants",
-  "name": "Jeans 61",
+  "category": "jeans",
+  "name": "Black Y2K Low Waist Slight Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009938153849",
-  "category": "pants",
-  "name": "Jeans 62",
+  "category": "jeans",
+  "name": "Deep Blue Y2K Low Rise Horseshoe Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005013602771678",
-  "category": "pants",
-  "name": "Pants 6",
-  "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011682811997",
   "category": "jeans",
-  "name": "Leopard Fitted Jeans",
+  "name": "Leopard Print Y2K Wide Leg Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "y2k",
+   "themes": [
+    "leopard"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011686133803",
-  "category": "pants",
-  "name": "Jeans 63",
+  "category": "jeans",
+  "name": "White Spray Graffiti Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "white",
+   "vibe": "grunge",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011686060280",
-  "category": "pants",
-  "name": "Jeans 64",
+  "category": "jeans",
+  "name": "Light Grey Seamed Y2K Barrel Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013071637069",
   "category": "jeans",
-  "name": "Punk Cyber Jeans",
+  "name": "Black Script Print Punk Low Rise Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "slogan",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008326752493",
-  "category": "pants",
-  "name": "Vintage Jeans 26",
+  "category": "jeans",
+  "name": "Gradient Black Wash Y2K Low Rise Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012031786399",
-  "category": "pants",
-  "name": "Polka Dot Vintage Jeans 3",
+  "category": "jeans",
+  "name": "White Polka Dot Y2K High Waist Harem Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "white",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist",
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011735793812",
-  "category": "pants",
-  "name": "Polka Dot Jeans 3",
+  "category": "jeans",
+  "name": "Pink Polka Dot Y2K High Rise Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "pink",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013407768432",
   "category": "jeans",
-  "name": "Patchwork Punk Vintage Jeans",
+  "name": "Dark Wash Embroidered Punk Capri Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "punk",
+   "cut": [
+    "high-waist",
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012089973242",
-  "category": "pants",
-  "name": "Patchwork Vintage Jeans 2",
+  "category": "jeans",
+  "name": "Vintage Blue Patchwork Seam Y2K Wide Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010023666129",
   "category": "jewelry",
-  "name": "Heart Rose Jewelry",
+  "name": "Hot Pink Hollow Heart Y2K Drop Earrings",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "earrings",
+   "print": "plain",
+   "color": "pink",
+   "vibe": "y2k",
+   "themes": [
+    "hearts"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007242765032",
   "category": "jeans",
-  "name": "Patchwork Trashy Jeans",
+  "name": "Grey Patchwork Trashy Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008094374764",
-  "category": "pants",
-  "name": "Jeans 65",
+  "category": "jeans",
+  "name": "Blue Mid Rise Cropped Y2K Barrel Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013176217523",
-  "category": "pants",
-  "name": "Punk Jeans 4",
+  "category": "jeans",
+  "name": "Black Dragon Embroidered Punk Flare Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013266540765",
   "category": "hoodies",
-  "name": "Vintage Hoodie",
+  "name": "Washed Grey Satoshi Nakamoto Grunge Oversized Hoodie",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "pullover-hoodie",
+   "print": "slogan",
+   "neck": "hooded",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "oversized"
+   ],
+   "material": [
+    "cotton",
+    "acid-wash"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013090363872",
-  "category": "pants",
-  "name": "Jeans 66",
+  "category": "jeans",
+  "name": "Washed Black Red Panel Grunge Stacked Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012075682802",
-  "category": "pants",
-  "name": "Goth Punk Jeans 5",
+  "category": "jeans",
+  "name": "Washed Grey Strap Goth Punk Baggy Jeans",
   "depts": [
    "women",
    "men"
@@ -101020,402 +105928,1176 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012075682802/32e4b1f1e301.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012075682802/cb8759e87bf5.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "goth",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013153284785",
-  "category": "pants",
-  "name": "Jeans 67",
+  "category": "jeans",
+  "name": "Animal Graffiti Print Harajuku Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013153284785/01ba2558ac00.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "cartoons"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008727407352",
   "category": "jeans",
-  "name": "Slogan Emo Jeans",
+  "name": "Black Pink Hakuna Matata Emo Baggy Jeans",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008727407352/7734086afaa4.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008727407352/bced98b95483.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "slogan",
+   "length": "regular",
+   "color": "black",
+   "vibe": "emo",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008806879256",
-  "category": "pants",
-  "name": "Star Jeans 8",
+  "category": "jeans",
+  "name": "Light Blue Rhinestone Sparkle Y2K Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "material": [
+    "denim",
+    "rhinestone"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009771203042",
-  "category": "pants",
-  "name": "Grunge Jeans 7",
+  "category": "jeans",
+  "name": "Black Belted Grunge High Waist Bell Bottom Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "high-waist",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008835460212",
   "category": "jeans",
-  "name": "Lace Floral Jeans",
+  "name": "Light Blue Lace Floral Fairy Grunge Straight Jeans",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005010791765965",
-  "category": "pants",
-  "name": "Pants 7",
-  "depts": [
-   "women",
-   "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "fairy-grunge",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011787448450",
-  "category": "pants",
-  "name": "Vintage Jeans 27",
+  "category": "jeans",
+  "name": "Light Wash Tattoo Graffiti Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005007058984029",
-  "category": "pants",
-  "name": "Vintage Jeans 28",
+  "category": "jeans",
+  "name": "Charcoal Wash Y2K High Waist Straight Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012941401372",
-  "category": "pants",
-  "name": "Vintage Jeans 29",
+  "category": "jeans",
+  "name": "Dark Blue Metal Eyelet Punk Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "punk",
+   "cut": [
+    "high-waist",
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013513633072",
-  "category": "belts",
-  "name": "Knit Leg Warmers 2",
+  "category": "legwear",
+  "name": "White Ribbed Knit Y2K Leg Warmers",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "leg-warmers",
+   "print": "plain",
+   "color": "white",
+   "vibe": "y2k",
+   "material": [
+    "knit",
+    "ribbed"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009694245687",
   "category": "jeans",
-  "name": "Floral Vintage Jeans",
+  "name": "Black Floral Embroidered Grunge Low Rise Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010172171902",
-  "category": "pants",
-  "name": "Vintage Jeans 30",
+  "category": "jeans",
+  "name": "Brown Khaki Y2K High Waist Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist",
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012782220852",
-  "category": "pants",
-  "name": "Patchwork Vintage Jeans 3",
+  "category": "jeans",
+  "name": "Light Blue Ripped Patchwork Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013584145983",
   "category": "pants",
-  "name": "Pants 8",
+  "name": "Black Snake Waistband Y2K Low Rise Wide Leg Pants",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "wide-leg-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012834458272",
-  "category": "pants",
-  "name": "Graphic Jeans 2",
+  "category": "jeans",
+  "name": "Black Shark Mouth Flame Graphic Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "streetwear",
+   "themes": [
+    "flames"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k",
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010471856628",
-  "category": "pants",
-  "name": "Jeans 68",
+  "category": "jeans",
+  "name": "Light Blue Cherry Blossom Print Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012831341291",
-  "category": "long-sleeves",
-  "name": "Goth Punk Long Sleeve Tee",
+  "category": "blouses",
+  "name": "Teal Dead Tree Print Goth Button Up Shirt",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "button-up",
+   "print": "graphic",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "green",
+   "vibe": "goth",
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "punk",
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013177175297",
   "category": "jeans",
-  "name": "Plaid Patchwork Jeans",
+  "name": "Yellow Plaid Patchwork Ripped Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "yellow",
+   "vibe": "grunge",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k",
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011529412071",
-  "category": "pants",
-  "name": "Punk Jeans 5",
+  "category": "jeans",
+  "name": "Dark Blue Embroidered Punk High Waist Flare Jeans",
   "depts": [
-   "women",
-   "men"
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "punk",
+   "cut": [
+    "high-waist",
+    "fitted"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011529412071/14aacb9dc2e5.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011529412071/307af94547db.jpg"
   ]
  },
  {
   "id": "1005013345631421",
   "category": "jeans",
-  "name": "Leopard Patchwork Jeans",
+  "name": "White Leopard Patchwork Y2K Low Rise Baggy Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "white",
+   "vibe": "y2k",
+   "themes": [
+    "leopard"
+   ],
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013272600093",
   "category": "pants",
-  "name": "Pants 9",
+  "name": "Purple Lightweight Y2K Techwear Baggy Cargo Pants",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "cargo-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "purple",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012474467041",
   "category": "jeans",
-  "name": "Slogan Vintage Jeans",
+  "name": "Black Wash Number 23 Embroidered Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "jersey",
+   "length": "regular",
+   "color": "black",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013355713736",
-  "category": "pants",
-  "name": "Punk Jeans 6",
+  "category": "jeans",
+  "name": "Blue Studded Ripped Punk Low Rise Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "punk",
+   "cut": [
+    "low-rise",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012253402826",
-  "category": "pants",
-  "name": "Slogan Vintage Jeans 2",
+  "category": "jeans",
+  "name": "Light Blue Don't Envy Ripped Y2K Baggy Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "slogan",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "distressed",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013372422991",
   "category": "jeans",
-  "name": "Goth Punk Vintage Jeans",
+  "name": "Dark Indigo Music Note Punk Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "punk",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "goth",
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009565833108",
-  "category": "pants",
-  "name": "Grunge Vintage Jeans 3",
+  "category": "jeans",
+  "name": "Grey Wash Paisley Print Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008568528321",
   "category": "jeans",
-  "name": "Goth Punk Trashy Jeans",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005012002059433",
-  "category": "pants",
-  "name": "Rhinestone Punk Pants",
+  "name": "Light Blue Ripped Trashy Grunge Wide Leg Jeans",
   "depts": [
    "women"
   ],
-  "hide_photos": [
-   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012002059433/5ca9472fbff6.jpg"
-  ]
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "punk",
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
-  "id": "1005011711313484",
-  "category": "pants",
-  "name": "Punk Cow Jeans 2",
+  "id": "1005012002059433",
+  "category": "jeans",
+  "name": "Black Swirl Rhinestone Punk Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012002059433/5ca9472fbff6.jpg"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "rhinestone"
+   ],
+   "vibes": [
+    "grunge",
+    "y2k"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005011711313484",
+  "category": "jeans",
+  "name": "Dark Wash Y2K Low Rise Bootcut Jeans",
+  "depts": [
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010678405743",
   "category": "jeans",
-  "name": "Star Cow Jeans",
+  "name": "Grey Star Print Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
   ],
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010678405743/bb77a9ac323a.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009937311575",
-  "category": "pants",
-  "name": "Jeans 69",
+  "category": "jeans",
+  "name": "Black Cross Pocket Goth Low Rise Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011937097467",
-  "category": "pants",
-  "name": "Fitted Jeans 14",
+  "category": "jeans",
+  "name": "Charcoal Speckled Y2K Baggy Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010492695827",
   "category": "jeans",
-  "name": "Bow Fitted Jeans",
+  "name": "Black Lace Up Bow Goth High Waist Flare Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "fitted",
+    "high-waist",
+    "lace-up"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008501257418",
-  "category": "baby-tees",
-  "name": "Vintage Baby Tee 2",
+  "category": "oversized-tees",
+  "name": "Washed Grey Blow Me A Kiss Grunge Oversized Tee",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "acid-wash-tee",
+   "print": "slogan",
+   "neck": "crew",
+   "sleeve": "short",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "themes": [
+    "lips"
+   ],
+   "cut": [
+    "oversized"
+   ],
+   "material": [
+    "cotton",
+    "acid-wash"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012414080767",
   "category": "jeans",
-  "name": "Heart Polka Dot Jeans",
+  "name": "White Polka Dot Heart Pocket Y2K Baggy Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "white",
+   "vibe": "y2k",
+   "themes": [
+    "hearts"
+   ],
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012310307976",
-  "category": "pants",
-  "name": "Jeans 70",
+  "category": "jeans",
+  "name": "Cartoon Bear Graffiti Y2K Cropped Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "cartoons",
+    "flowers",
+    "hearts"
+   ],
+   "cut": [
+    "baggy",
+    "cropped"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012222049634",
-  "category": "pants",
-  "name": "Jeans 71",
+  "category": "jeans",
+  "name": "Light Blue Red Stitch Embroidered Y2K Wide Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013389019938",
   "category": "pants",
-  "name": "Pants 10",
+  "name": "Charcoal Y2K Techwear Baggy Cargo Pants",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "cargo-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011931921862",
-  "category": "pants",
-  "name": "Star Jeans 9",
+  "category": "jeans",
+  "name": "Beige Sparkle Rhinestone Y2K Straight Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "rhinestone"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011809789341",
-  "category": "pants",
-  "name": "Bow Jeans 2",
+  "category": "jeans",
+  "name": "Light Blue Pink Bow Coquette Wide Leg Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011575225774",
-  "category": "pants",
-  "name": "Jeans 72",
+  "category": "jeans",
+  "name": "Grey Wash Y2K High Waist Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008862499218",
   "category": "pants",
-  "name": "Sweatpants 2",
+  "name": "Black Japanese Harajuku Wide Leg Lantern Pants",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "wide-leg-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009682245776",
   "category": "jeans",
-  "name": "Lace Fitted Jeans",
+  "name": "Light Blue Floral Cutout Embroidered Y2K Cropped Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "high-waist",
+    "cropped"
+   ],
+   "material": [
+    "denim",
+    "embroidery",
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013201773545",
-  "category": "pants",
-  "name": "Jeans 73",
+  "category": "jeans",
+  "name": "Dark Blue Y2K High Waist Wide Leg Jeans",
   "depts": [
    "women",
    "men"
@@ -101423,153 +107105,484 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013201773545/1fc63abfa7c5.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013201773545/63ec695a4dca.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009755377331",
-  "category": "pants",
-  "name": "Goth Vintage Jeans 3",
+  "category": "jeans",
+  "name": "Black Goth Oversized Baggy Cargo Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge",
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013474943323",
   "category": "hoodies",
-  "name": "Vintage Zip Hoodie",
+  "name": "Washed Grey House Doodle Grunge Zip Hoodie",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "zip-hoodie",
+   "print": "graphic",
+   "neck": "hooded",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "themes": [
+    "butterflies"
+   ],
+   "cut": [
+    "oversized"
+   ],
+   "material": [
+    "cotton",
+    "acid-wash"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012966918281",
-  "category": "pants",
-  "name": "Vintage Jeans 31",
+  "category": "jeans",
+  "name": "Army Green Camo Y2K Baggy Cargo Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "green",
+   "vibe": "streetwear",
+   "themes": [
+    "camo"
+   ],
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge",
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013185542496",
-  "category": "pants",
-  "name": "Rhinestone Jeans 2",
+  "category": "jeans",
+  "name": "Blue Gradient Rhinestone Y2K Straight Leg Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "rhinestone"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010499981166",
   "category": "jeans",
-  "name": "Leopard Star Jeans",
+  "name": "Grey Leopard Star Pocket Y2K Straight Leg Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "y2k",
+   "themes": [
+    "stars",
+    "leopard"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011546850931",
   "category": "jeans",
-  "name": "Patchwork Cyber Jeans",
+  "name": "Washed Black Patchwork Y2K Barrel Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "streetwear",
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013345869436",
-  "category": "pants",
-  "name": "Jeans 74",
+  "category": "jeans",
+  "name": "Light Blue Heavily Ripped Y2K Baggy Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy",
+    "distressed",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012711321207",
-  "category": "pants",
-  "name": "Jeans 75",
+  "category": "jeans",
+  "name": "Blue Fringe Tassel Y2K Straight Leg Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "western",
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013358690116",
   "category": "hoodies",
-  "name": "Slogan Vintage Zip Hoodie",
+  "name": "Teal Varsity Letter E Y2K Zip Hoodie",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "zip-hoodie",
+   "print": "logo",
+   "neck": "hooded",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "green",
+   "vibe": "streetwear",
+   "cut": [
+    "oversized"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008230126651",
   "category": "jeans",
-  "name": "Goth Emo Jeans",
+  "name": "Black Chain Goth Emo Baggy Cargo Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010602781946",
-  "category": "pants",
-  "name": "Goth Jeans 11",
+  "category": "jeans",
+  "name": "Black Bleach Painted Goth Baggy Cargo Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "grunge",
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013330979011",
-  "category": "pants",
-  "name": "Jeans 76",
+  "category": "jeans",
+  "name": "Light Blue Doodle Print Y2K Jogger Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "cartoons"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "rhinestone"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013326718102",
   "category": "jeans",
-  "name": "Plaid Patchwork Goth Jeans",
+  "name": "Black Red Plaid Bondage Strap Punk Skinny Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "skinny-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013029007111",
-  "category": "pants",
-  "name": "Jeans 77",
+  "category": "jeans",
+  "name": "Washed Black Wing Print Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "themes": [
+    "angels",
+    "stars"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013092222266",
   "category": "jeans",
-  "name": "Kitty Star Kawaii Jeans",
+  "name": "Dark Blue Kitty Star Embroidered Y2K Cropped Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "cats",
+    "stars"
+   ],
+   "cut": [
+    "baggy",
+    "cropped",
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013281857736",
-  "category": "pants",
-  "name": "Punk Jeans 7",
+  "category": "jeans",
+  "name": "Dark Denim Music Note Embroidered Punk Straight Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "punk",
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005007570522562",
   "category": "pants",
-  "name": "Pants 11",
+  "name": "Black Shiny Patent Faux Leather Goth Wide Leg Pants",
   "depts": [
    "women",
    "men"
@@ -101577,47 +107590,142 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007570522562/7d56a2ef8e18.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007570522562/b079806197ba.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "wide-leg-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013155739181",
-  "category": "pants",
-  "name": "Vintage Jeans 32",
+  "category": "jeans",
+  "name": "Light Wash Star Embroidered Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012377558201",
   "category": "jeans",
-  "name": "Cyber Jeans",
+  "name": "Camo Ripped Y2K Baggy Cargo Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "green",
+   "vibe": "streetwear",
+   "themes": [
+    "camo"
+   ],
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k",
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012045621106",
   "category": "jeans",
-  "name": "Goth Punk Vintage Fitted Jeans",
+  "name": "Black White Contrast Bandage Goth Bell Bottom Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted",
+    "high-waist",
+    "lace-up"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010155036390",
   "category": "hats",
-  "name": "Skull Star Cap",
+  "name": "Grey Pixel Star Knit Y2K Beanie",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "beanie",
+   "print": "graphic",
+   "color": "grey",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009341496106",
-  "category": "pants",
-  "name": "Jeans 78",
+  "category": "jeans",
+  "name": "Light Wash Y2K Calf Length Baggy Jeans",
   "depts": [
    "women",
    "men"
@@ -101625,250 +107733,779 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009341496106/6459a26357eb.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009341496106/a10af0b48cc6.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "cropped",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012182167666",
-  "category": "pants",
-  "name": "Leopard Jeans 3",
+  "category": "jeans",
+  "name": "Snow Leopard Studded Waist Y2K Baggy Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "white",
+   "vibe": "y2k",
+   "themes": [
+    "leopard"
+   ],
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "studs"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011813014456",
-  "category": "pants",
-  "name": "Plaid Punk Pants",
+  "category": "jeans",
+  "name": "Brown Plaid Grunge Wide Leg Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "grunge",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013289621329",
   "category": "pants",
-  "name": "Vintage Fitted Pants",
+  "name": "Brown Faux Suede Retro Grunge Flare Pants",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "flare-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "western",
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005006453631181",
-  "category": "pants",
-  "name": "Jeans 79",
+  "category": "jeans",
+  "name": "Vintage Wash Ripped Y2K Fitted Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "fitted",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013250990517",
-  "category": "pants",
-  "name": "Grunge Vintage Jeans 4",
+  "category": "jeans",
+  "name": "Grey Pleated Grunge High Waist Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012639655651",
   "category": "jeans",
-  "name": "Cherry Patchwork Jeans",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005013072436153",
-  "category": "pants",
-  "name": "Star Jeans 10",
+  "name": "Dark Denim Cherry Blossom Embroidered Harajuku Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "harajuku",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
+ },
+ {
+  "id": "1005013072436153",
+  "category": "jeans",
+  "name": "Black Drawstring Y2K Wide Leg Jeans",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011561544847",
   "category": "jeans",
-  "name": "Trashy Jeans",
+  "name": "Vintage Blue Trashy Y2K Low Rise Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013240517601",
-  "category": "pants",
-  "name": "Leopard Patchwork Jeans 2",
+  "category": "jeans",
+  "name": "White Leopard Faux Fur Patchwork Y2K Baggy Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "white",
+   "vibe": "y2k",
+   "themes": [
+    "leopard"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "faux-fur"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012406874200",
-  "category": "pants",
-  "name": "Graphic Jeans 3",
+  "category": "jeans",
+  "name": "Black Back Graphic Y2K Fitted Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "fitted",
+    "low-rise"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012968295496",
   "category": "jeans",
-  "name": "Emo Jeans",
+  "name": "Black Seamed Emo High Waist Flare Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "emo",
+   "cut": [
+    "fitted",
+    "high-waist"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "goth",
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012740788000",
-  "category": "pants",
-  "name": "Star Rhinestone Jeans 2",
+  "category": "jeans",
+  "name": "Light Blue Rhinestone Star Cutout Y2K Low Rise Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "baggy",
+    "low-rise"
+   ],
+   "material": [
+    "denim",
+    "rhinestone"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013177229161",
   "category": "hats",
-  "name": "Kitty Fur Cap",
+  "name": "Brown Faux Fur Cat Ear Harajuku Hood Hat",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "hat",
+   "print": "plain",
+   "color": "brown",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "vibes": [
+    "goth",
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013088141844",
   "category": "jeans",
-  "name": "Goth Grunge Emo Jeans",
+  "name": "Dark Indigo Grunge Barrel Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013098120774",
   "category": "jeans",
-  "name": "Heart Patchwork Jeans",
+  "name": "Light Blue Black Heart Patchwork Y2K Baggy Jeans",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "hearts"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013166660818",
-  "category": "pants",
-  "name": "Grunge Jeans 8",
+  "category": "jeans",
+  "name": "Washed Black Low Rise Grunge Bootcut Jeans",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008227412613",
   "category": "jackets",
-  "name": "Vintage Jacket",
+  "name": "Charcoal Polar Fleece Grunge Zip Jacket",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "zip-jacket",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "streetwear",
+   "cut": [
+    "oversized"
+   ],
+   "material": [
+    "fleece"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013358780750",
   "category": "jeans",
-  "name": "Patchwork Goth Jeans",
+  "name": "Light Blue Side Stripe Patchwork Y2K Baggy Jeans",
   "depts": [
    "women",
    "men"
   ],
   "tags": [
    "anime"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013609806206",
-  "category": "pants",
-  "name": "Vintage Jeans 33",
+  "category": "shorts",
+  "name": "Light Wash Y2K Knee Length Denim Shorts",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "shorts",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012153742815",
-  "category": "pants",
-  "name": "Jeans 80",
+  "category": "jeans",
+  "name": "Dark Denim Union Jack Flag Punk Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "flag",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "punk",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "baggy",
+    "low-rise",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "grunge",
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009645223915",
   "category": "jeans",
-  "name": "Stripe Goth Jeans",
+  "name": "Washed Black Side Stripe Goth Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "stripes"
+   ],
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012197863137",
   "category": "jeans",
-  "name": "Floral Goth Jeans",
+  "name": "Light Blue Thorn Tribal Print Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "grunge",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "goth",
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013238725775",
   "category": "jeans",
-  "name": "Patchwork Goth Punk Jeans",
+  "name": "Dirty White Wing Stitch Goth Stacked Flare Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-jeans",
+   "print": "graphic",
+   "length": "regular",
+   "color": "white",
+   "vibe": "goth",
+   "themes": [
+    "angels"
+   ],
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "acid-wash",
+    "studs"
+   ],
+   "vibes": [
+    "punk",
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008810871568",
-  "category": "pants",
-  "name": "Vintage Jeans 34",
+  "category": "jeans",
+  "name": "Vintage Tint Wash Grunge Wide Leg Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008200382136",
   "category": "pants",
-  "name": "Pants 12",
+  "name": "Burgundy Faux Leather Goth Stacked Wide Leg Pants",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "wide-leg-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "red",
+   "vibe": "goth",
+   "cut": [
+    "baggy",
+    "ruched"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005006585668436",
-  "category": "pants",
-  "name": "Vintage Jeans 35",
+  "category": "jeans",
+  "name": "Light Blue Jacquard Plaid Y2K Straight Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "themes": [
+    "plaid"
+   ],
+   "material": [
+    "denim"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013617210860",
-  "category": "pants",
-  "name": "Vintage Fitted Jeans 9",
+  "category": "jeans",
+  "name": "Blue Marble Wash Punk Biker Skinny Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "skinny-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "punk",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "grunge",
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013310259223",
   "category": "pants",
-  "name": "Pants 13",
+  "name": "Black Matte Faux Leather Zip Goth Wide Leg Pants",
   "depts": [
    "women",
    "men"
@@ -101876,21 +108513,57 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013310259223/3b8c6d520bde.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013310259223/e49692fbdd0f.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "wide-leg-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "faux-leather",
+    "studs"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008109262882",
   "category": "pants",
-  "name": "Pants 14",
+  "name": "Coffee Faux Leather Grunge Baggy Wide Leg Pants",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "wide-leg-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005006988810557",
   "category": "pants",
-  "name": "Pants 15",
+  "name": "Black Buckle Strap Goth Pleated Wide Leg Pants",
   "depts": [
    "women",
    "men"
@@ -101898,30 +108571,81 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006988810557/07616fb9c6f8.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006988810557/d298cdbe234b.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "wide-leg-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "baggy",
+    "high-waist"
+   ],
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012916379753",
-  "category": "pants",
-  "name": "Jeans 81",
+  "category": "jeans",
+  "name": "Black Carpenter Single Knee Grunge Baggy Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "streetwear",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "denim",
+    "cotton"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009129256045",
   "category": "pants",
-  "name": "Pants 16",
+  "name": "Black Ruched Stacked Goth Wide Leg Pants",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "wide-leg-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "baggy",
+    "ruched"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005006980011831",
   "category": "pants",
-  "name": "Pants 17",
+  "name": "Black Shiny Faux Leather Goth Drawstring Cargo Pants",
   "depts": [
    "women",
    "men"
@@ -101929,12 +108653,29 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006980011831/021c68ba4ba4.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006980011831/ed32bea49ae1.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "cargo-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "baggy"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005006008190997",
   "category": "pants",
-  "name": "Pants 18",
+  "name": "Black Glossy Faux Leather Goth Stacked Flare Pants",
   "depts": [
    "women",
    "men"
@@ -101942,31 +108683,108 @@
   "hide_photos": [
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006008190997/83ac5a093ccb.jpg",
    "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006008190997/c854089f169f.jpg"
-  ]
+  ],
+  "attrs": {
+   "sub": "flare-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "ruched"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008639325962",
-  "category": "pants",
-  "name": "Goth Trashy Jeans 2",
+  "category": "jeans",
+  "name": "Dirty White Wash Ripped Grunge Stacked Jeans",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "baggy-jeans",
+   "print": "plain",
+   "length": "regular",
+   "color": "white",
+   "vibe": "grunge",
+   "cut": [
+    "baggy",
+    "distressed"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005007590165052",
-  "category": "pants",
-  "name": "Fitted Jeans 15",
+  "category": "jeans",
+  "name": "Retro Blue Star Logo Print Grunge Slim Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "skinny-jeans",
+   "print": "logo",
+   "length": "regular",
+   "color": "blue",
+   "vibe": "streetwear",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013603919205",
-  "category": "pants",
-  "name": "Fitted Jeans 16",
+  "category": "jeans",
+  "name": "Pink Tie Dye Y2K Skinny Jeans",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "skinny-jeans",
+   "print": "pattern",
+   "length": "regular",
+   "color": "pink",
+   "vibe": "y2k",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "denim",
+    "acid-wash"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  }
 ]
