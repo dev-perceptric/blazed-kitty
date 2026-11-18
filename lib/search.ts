@@ -9,7 +9,7 @@ const SYNONYMS: Record<string, string> = {
   skirts: 'skirt', dresses: 'dress', pant: 'pants', trousers: 'pants', jean: 'jeans',
   gothic: 'goth', emo: 'emo', y2k: 'y2k', brasil: 'brazil', brazilian: 'brazil',
   kitty: 'cat', kitten: 'cat', cats: 'cat', skull: 'skulls', skeleton: 'skulls', star: 'stars', heart: 'hearts',
-  grey: 'gray', jersey: 'jersey', band: 'music', merch: 'music', rapper: 'music', leather: 'leather',
+  grey: 'gray', jersey: 'jersey', jorts: 'shorts', jort: 'shorts', band: 'music', merch: 'music', rapper: 'music', leather: 'leather',
 };
 
 const norm = (s: string) =>
