@@ -16,7 +16,7 @@ jobs:
         run: |
           import json, os, urllib.request, urllib.error
           def api(path, body=None):
-              req=urllib.request.Request("https://api.printful.com"+path,data=json.dumps(body).encode() if body else None,headers={"Authorization":"Bearer "+os.environ["PF"],"Content-Type":"application/json"})
+              req=urllib.request.Request("https://api.printful.com"+path,data=json.dumps(body).encode() if body else None,headers={"User-Agent":"blazed-kitty-mockups/1.0","Authorization":"Bearer "+os.environ["PF"],"Content-Type":"application/json"})
               try:
                   with urllib.request.urlopen(req,timeout=45) as res:
                       return json.load(res)["result"]
