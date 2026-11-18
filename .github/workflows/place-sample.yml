@@ -1,0 +1,33 @@
+name: Place sample on Printful tee
+on:
+  push:
+    branches: [codex/check-printful-access]
+    paths: ['.github/workflows/place-sample.yml']
+permissions:
+  contents: read
+jobs:
+  place:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Configure the Printful tee
+        env:
+          PF: ${{ secrets.PRINTFUL_API_TOKEN }}
+        shell: python
+        run: |
+          import json, os, urllib.request, urllib.error
+          def api(path, body=None):
+              req=urllib.request.Request("https://api.printful.com"+path,data=json.dumps(body).encode() if body else None,headers={"Authorization":"Bearer "+os.environ["PF"],"Content-Type":"application/json"})
+              try:
+                  with urllib.request.urlopen(req,timeout=45) as res:
+                      return json.load(res)["result"]
+              except urllib.error.HTTPError as e:
+                  print("Printful",e.code,e.read().decode()[:500])
+                  raise
+          stores=api("/stores")
+          print("Stores",[(x["id"],x["name"]) for x in stores])
+          cat=api("/products/636")
+          vs=[v for v in cat["variants"] if v["color"]=="Black"]
+          print("Variants",[(v["id"],v["size"]) for v in vs])
+          area=api("/mockup-generator/printfiles/636")
+          print("Areas",area["printfiles"],area["variant_printfiles"][:1])
+          print("File types",cat["product"]["files"])
