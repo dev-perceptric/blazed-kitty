@@ -30,6 +30,7 @@ SKIP = re.compile(
 
 KIDS = re.compile(r"\b(kid|kids|child|children|toddler|infant|newborn|baby (girl|boy)|boys|girls'|maternity|pregnan|pet|dog clothes|doll)\b", re.I)
 KEEP_ALL = '--keep-all' in sys.argv
+ALLOW_MEN = '--allow-men' in sys.argv  # the store has a Men section now
 ANIME = re.compile(r'\b(anime|manga|otaku|waifu|chibi|shonen|shoujo|japanese cartoon)\b', re.I)
 
 # (category, product word) by title keywords, first match wins.
@@ -138,7 +139,7 @@ def main():
             skipped += 1
             continue
         # Women's store: skip anything sold only for men.
-        if re.search(r"\b(men'?s|for men|male|boyfriend)\b", title, re.I) and not re.search(r'\b(women|woman|female|ladies|girl)', title, re.I):
+        if not ALLOW_MEN and re.search(r"\b(men'?s|for men|male|boyfriend)\b", title, re.I) and not re.search(r'\b(women|woman|female|ladies|girl)', title, re.I):
             skipped += 1
             continue
         name = name_for(title, word, used)
