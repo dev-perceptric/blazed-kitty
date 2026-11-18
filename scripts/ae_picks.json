@@ -1873,7 +1873,10 @@
     "knit"
    ],
    "unisex": false
-  }
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-3256813209617342/c1fcdb6c1c0a.jpg"
+  ]
  },
  {
   "id": "3256809874670088",
@@ -83644,7 +83647,8 @@
    "women"
   ],
   "hide_photos": [
-   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012578235869/54262e89ebc4.jpg"
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012578235869/54262e89ebc4.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012578235869/c992dd35b4c7.jpg"
   ],
   "attrs": {
    "sub": "sweatpants",
@@ -83940,7 +83944,10 @@
     "grunge"
    ],
    "unisex": false
-  }
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012036765223/c992dd35b4c7.jpg"
+  ]
  },
  {
   "id": "1005012840868066",
@@ -86364,7 +86371,10 @@
     "ruched"
    ],
    "unisex": false
-  }
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010346783354/c992dd35b4c7.jpg"
+  ]
  },
  {
   "id": "1005013110360229",
@@ -87769,7 +87779,10 @@
     "low-rise"
    ],
    "unisex": false
-  }
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010429416779/c992dd35b4c7.jpg"
+  ]
  },
  {
   "id": "1005012840828743",
