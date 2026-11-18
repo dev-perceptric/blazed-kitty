@@ -26,6 +26,12 @@ export default function Footer() {
           <p>New pieces land every week.</p>
           <p>Pieces in one order can arrive in separate packages.</p>
           <p>Tag your fits @blazedkitty</p>
+          <nav className="footer-help" aria-label="Help">
+            <Link href="/shipping">Shipping</Link>
+            <Link href="/returns">Returns</Link>
+            <Link href="/contact">Contact</Link>
+            <Link href="/privacy">Privacy</Link>
+          </nav>
         </div>
       </div>
       <div className="wrap footer-mark">

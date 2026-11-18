@@ -6,6 +6,7 @@ import Header from '@/components/Header';
 import { buildMenu } from '@/lib/collections';
 import CartDrawer from '@/components/CartDrawer';
 import Footer from '@/components/Footer';
+import { GOOGLE_SITE_VERIFICATION } from '@/lib/site';
 
 const anton = Anton({ weight: '400', subsets: ['latin'], variable: '--font-display', display: 'swap' });
 const inter = Inter({ subsets: ['latin'], variable: '--font-body', display: 'swap' });
@@ -14,6 +15,7 @@ const serif = Instrument_Serif({ weight: '400', style: ['italic'], subsets: ['la
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
   title: { default: 'Blazed Kitty', template: '%s · Blazed Kitty' },
+  ...(GOOGLE_SITE_VERIFICATION ? { verification: { google: GOOGLE_SITE_VERIFICATION } } : {}),
   description: 'Alt clothing for girls who never grew out of their emo phase. Baby tees, goth tops, grunge layers, mini skirts and Y2K accessories, shipped worldwide.',
 };
 

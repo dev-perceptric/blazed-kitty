@@ -409,3 +409,10 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   .search-hits { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
   .search-form input { font-size: 17px; }
 }
+
+/* ---------- info pages ---------- */
+.info-body { max-width: 68ch; margin-top: 28px; display: flex; flex-direction: column; gap: 12px; line-height: 1.6; }
+.info-body h2 { font-size: 13px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; margin-top: 18px; }
+.info-body p { color: var(--muted); }
+.info-body .link { color: var(--text); }
+.footer-help { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 10px; }
