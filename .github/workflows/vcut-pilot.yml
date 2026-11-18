@@ -23,7 +23,11 @@ jobs:
               try:
                   with urllib.request.urlopen(req,timeout=90) as response: return json.load(response)["result"]
               except urllib.error.HTTPError as e:
-                  print("API ERROR",e.code,e.read().decode()[:300]);raise
+                  msg=e.read().decode()
+                  if e.code==429:
+                      import re
+                      wait=re.search(r"after (\d+) seconds",msg);time.sleep(5+int(wait[1]) if wait else 65);return api(path,body)
+                  print("API ERROR",e.code,msg[:300]);raise
           assert any(s["id"]==19064428 and s["name"]=="Blazed Kitty" for s in api("/stores"))
           name="Stoned & Horny V-Cut Bottom"
           found=api("/store/products?search="+urllib.parse.quote(name))
@@ -91,9 +95,10 @@ jobs:
               assert {x["variant_id"] for x in saved["sync_variants"]}=={x["variant_id"] for x in base["sync_variants"]}
               assert all({"bottom_front","bottom_back"}<={f["type"] for f in x["files"]} for x in saved["sync_variants"])
               print("DONE product",key,pid,flush=True)
+              if out("product.json").exists(): continue
               vid=next((x["variant_id"] for x in base["sync_variants"] if x.get("size")=="M"),v["variant_id"])
               files=[{"placement":"bottom_"+s,"image_url":urls[s],"position":{"area_width":3900,"area_height":3900,"width":3900,"height":3900,"top":0,"left":0}} for s in urls]
-              result=api("/mockup-generator/create-task/872",{"variant_ids":[vid],"format":"jpg","width":1400,"files":files})
+              result=api("/mockup-generator/create-task/872",{"variant_ids":[vid],"format":"jpg","width":1400,"files":files,"option_groups":["Flat","Product details"]})
               for _ in range(60):
                   time.sleep(3);res=api("/mockup-generator/task?task_key="+result["task_key"])
                   if res["status"] not in ("pending","running"): break
@@ -102,5 +107,8 @@ jobs:
               for m in mocks:
                   print("DONE mock",key,m.get("placement"),m["mockup_url"],flush=True)
                   out("mock-"+re.sub("[^a-zA-Z0-9_-]","",m["placement"])+".jpg").write_bytes(download(m["mockup_url"]))
+                  for i,e in enumerate(m.get("extra",[])):
+                      label=re.sub("[^A-Za-z0-9]+","-",e.get("option","view"))
+                      out("extra-"+label+"-"+str(i)+".jpg").write_bytes(download(e["url"]))
               out("product.json").write_text(json.dumps({"name":pname,"id":pid,"side":side,"sizes":[x.get("size") for x in saved["sync_variants"]]},indent=2))
               sync("Save verified "+title+" product and official mockups")
