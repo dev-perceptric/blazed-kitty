@@ -88455,15 +88455,6 @@
   ]
  },
  {
-  "id": "1005007736819451",
-  "category": "hoodies",
-  "name": "Vintage Hoodie",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
   "id": "1005011966184331",
   "category": "jeans",
   "name": "Vintage Jeans",
@@ -89091,15 +89082,6 @@
   "id": "1005013520236219",
   "category": "pants",
   "name": "Pants 4",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005009765278143",
-  "category": "pants",
-  "name": "Vintage Jeans 3",
   "depts": [
    "women",
    "men"
@@ -90266,15 +90248,6 @@
   "id": "1005009618688768",
   "category": "pants",
   "name": "Graphic Jeans 2",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005009651942174",
-  "category": "pants",
-  "name": "Vintage Jeans 22",
   "depts": [
    "women",
    "men"
@@ -91675,15 +91648,6 @@
   ]
  },
  {
-  "id": "1005008615343646",
-  "category": "shorts",
-  "name": "Shorts 3",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
   "id": "1005006783587341",
   "category": "shorts",
   "name": "Shorts 4",
@@ -91743,14 +91707,6 @@
   "depts": [
    "women",
    "men"
-  ]
- },
- {
-  "id": "1005002502577902",
-  "category": "pants",
-  "name": "Lace Sexy Jeans 2",
-  "depts": [
-   "women"
   ]
  },
  {
@@ -93019,14 +92975,6 @@
   "depts": [
    "women",
    "men"
-  ]
- },
- {
-  "id": "1005012489667851",
-  "category": "belts",
-  "name": "Lace Patchwork Belt",
-  "depts": [
-   "women"
   ]
  }
 ]
