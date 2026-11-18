@@ -9,7 +9,7 @@ const SYNONYMS: Record<string, string> = {
   skirts: 'skirt', dresses: 'dress', pant: 'pants', trousers: 'pants', jean: 'jeans',
   gothic: 'goth', emo: 'emo', y2k: 'y2k', brasil: 'brazil', brazilian: 'brazil',
   kitty: 'cat', kitten: 'cat', cats: 'cat', skull: 'skulls', skeleton: 'skulls', star: 'stars', heart: 'hearts',
-  grey: 'gray', jersey: 'jersey', jorts: 'shorts', jort: 'shorts', band: 'music', merch: 'music', rapper: 'music', leather: 'leather',
+  grey: 'gray', jersey: 'jersey', band: 'music', merch: 'music', rapper: 'music', leather: 'leather',
 };
 
 const norm = (s: string) =>
@@ -38,7 +38,14 @@ function docsFor(list: Product[]): Doc[] {
 
 /** Products matching every word of the query, best matches first (words in the name count most). */
 export function searchProducts(list: Product[], query: string): Product[] {
-  const words = norm(query).split(' ').filter(Boolean).map(stem);
+  let words = norm(query).split(' ').filter(Boolean);
+  // "jorts" means denim shorts: only the Shorts category counts.
+  if (words.some((w) => w === 'jorts' || w === 'jort')) {
+    list = list.filter((p) => p.category === 'shorts');
+    words = words.filter((w) => w !== 'jorts' && w !== 'jort');
+    if (!words.length) return list.filter((p) => p.attrs?.material?.includes('denim') || /denim|jean|jort/i.test(p.name)).concat(list.filter((p) => !(p.attrs?.material?.includes('denim') || /denim|jean|jort/i.test(p.name))));
+  }
+  words = words.map(stem);
   if (!words.length) return list;
   const hit = (text: string, w: string) => (` ${text} `).includes(` ${w}`);
   const scored: { p: Product; score: number }[] = [];
