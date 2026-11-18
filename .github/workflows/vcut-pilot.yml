@@ -29,5 +29,78 @@ jobs:
           found=api("/store/products?search="+urllib.parse.quote(name))
           base=api("/store/products/"+str(next(x["id"] for x in found if x["name"]==name)))
           v=base["sync_variants"][0]
-          print("SOURCE",base["sync_product"]["id"],v["retail_price"],v["product"]["product_id"],[(f["id"],f["type"],f.get("url"),f.get("width"),f.get("height")) for f in v["files"] if f["type"]!="preview"])
-          print("FIELDS",[(x["id"],x["type"]) for x in api("/products/872")["product"]["files"]])
+          from PIL import Image,ImageFont,ImageDraw,ImageChops
+          import pathlib, subprocess, io, re
+          root=pathlib.Path("designs/vcut-pilot")
+          root.mkdir(parents=True,exist_ok=True)
+          def download(url):
+              with urllib.request.urlopen(urllib.request.Request(url,headers={"User-Agent":"blazed-kitty-mockups/1.0"}),timeout=90) as r: return r.read()
+          def git(*args):
+              return subprocess.check_output(["git",*args],text=True).strip()
+          def sync(message):
+              git("add",str(root))
+              if git("diff","--cached","--name-only"):
+                  git("config","user.name","Blazed Kitty pilot")
+                  git("config","user.email","actions@users.noreply.github.com")
+                  git("commit","-m",message)
+                  git("push","origin","HEAD:codex/vcut-pilot")
+          def asset(path):
+              u="https://api.github.com/repos/"+os.environ["GITHUB_REPOSITORY"]+"/contents/"+str(path)+"?ref="+git("rev-parse","HEAD")
+              req=urllib.request.Request(u,headers={"Authorization":"Bearer "+os.environ["GH_TOKEN"]})
+              return json.load(urllib.request.urlopen(req))["download_url"]
+          data=[
+           ("brat","Brat","front","Shrikhand-Regular.ttf",["brat"],"#FF4F9A","#161616"),
+           ("sorry-daddy","Sorry Daddy","front","Yellowtail-Regular.ttf",["Sorry Daddy"],"#C81E32","#fff3f3"),
+           ("stoned-horny","Stoned & Horny","front","",[],"",""),
+           ("stoner-lover-sinner","Stoner, Lover, Sinner","back","PirataOne-Regular.ttf",["Stoner,","Lover,","Sinner"],"#FF4F9A","#161616"),
+           ("love-language","My Love Language Is Passing The Lighter","back","Anton-Regular.ttf",["MY LOVE LANGUAGE","IS PASSING","THE LIGHTER"],"#1A1A1A","#f7f2e9")]
+          old={f["type"]:f for f in v["files"] if f["type"] in ("bottom_front","bottom_back")}
+          for key,title,side,font,lines,ink,bg in data:
+              folder=root/key;folder.mkdir(exist_ok=True)
+              if not font:
+                  for s in ("front","back"):
+                      (folder/(s+".png")).write_bytes(download(old["bottom_"+s]["url"]))
+                  continue
+              fontdata=download("https://raw.githubusercontent.com/google/fonts/main/ofl/"+font.split("-")[0].lower()+"/"+font)
+              face=ImageFont.truetype(io.BytesIO(fontdata),400)
+              bounds=[face.getbbox(line) for line in lines]
+              w=max(b[2]-b[0] for b in bounds); h=sum(b[3]-b[1] for b in bounds)+32*(len(lines)-1)
+              art=Image.new("RGBA",(w+8,h+8));draw=ImageDraw.Draw(art);y=4
+              for line,(l,t,r,b) in zip(lines,bounds):
+                  draw.text(((art.width-r+l)//2-l,y-t),line,fill=ink,font=face);y+=b-t+32
+              art=art.crop(art.getbbox())
+              w=min(1050 if side=="back" else 850,round((760 if side=="back" else 460)*art.width/art.height))
+              art=art.resize((w,round(w*art.height/art.width)),Image.Resampling.LANCZOS)
+              for s in ("front","back"):
+                  im=Image.new("RGB",(3900,3900),bg)
+                  if s==side: im.paste(art,((3900-w)//2,round(1540-art.height/2)),art)
+                  im.save(folder/(s+".png"),dpi=(150,150))
+          sync("Add production-size V-cut print panels")
+          for key,title,side,font,lines,ink,bg in data:
+              folder=root/key
+              def out(f): return folder/f
+              pname=title+" V-Cut Bottom"
+              matches=[p for p in api("/store/products?search="+urllib.parse.quote(pname)) if p["name"]==pname]
+              urls={s:asset(out(s+".png")) for s in ("front","back")}
+              if matches: pid=matches[0]["id"]
+              else:
+                  files=[{"type":"bottom_"+s,"url":urls[s]} for s in urls]
+                  variants=[{"variant_id":x["variant_id"],"retail_price":x["retail_price"],"files":files} for x in base["sync_variants"]]
+                  pid=api("/store/products",{"sync_product":{"name":pname,"external_id":"bk-pilot-vcut-"+key},"sync_variants":variants})["id"]
+              saved=api("/store/products/"+str(pid))
+              assert {x["variant_id"] for x in saved["sync_variants"]}=={x["variant_id"] for x in base["sync_variants"]}
+              assert all({"bottom_front","bottom_back"}<={f["type"] for f in x["files"]} for x in saved["sync_variants"])
+              print("DONE product",key,pid,flush=True)
+              vid=next((x["variant_id"] for x in base["sync_variants"] if x.get("size")=="M"),v["variant_id"])
+              files=[{"placement":"bottom_"+s,"image_url":urls[s],"position":{"area_width":3900,"area_height":3900,"width":3900,"height":3900,"top":0,"left":0}} for s in urls]
+              result=api("/mockup-generator/create-task/872",{"variant_ids":[vid],"format":"jpg","width":1400,"files":files})
+              for _ in range(60):
+                  time.sleep(3);res=api("/mockup-generator/task?task_key="+result["task_key"])
+                  if res["status"] not in ("pending","running"): break
+              assert res["status"]=="completed",res.get("error")
+              mocks=res["mockups"]
+              for m in mocks:
+                  print("DONE mock",key,m.get("placement"),m["mockup_url"],flush=True)
+                  out("mock-"+re.sub("[^a-zA-Z0-9_-]","",m["placement"])+".jpg").write_bytes(download(m["mockup_url"]))
+              out("product.json").write_text(json.dumps({"name":pname,"id":pid,"side":side,"sizes":[x.get("size") for x in saved["sync_variants"]]},indent=2))
+              sync("Save verified "+title+" product and official mockups")
