@@ -1,6 +1,6 @@
 # Blazed Kitty storefront
 
-Nine lives, zero basics. A Next.js 14 store for Blazed Kitty, an alt clothing brand: baby tees, goth tops, grunge layers and y2k pieces. Pieces come from AliExpress and CJ Dropshipping; the original Printful catalog is still in the code but hidden (`SHOW_PRINTFUL` in `lib/products.ts`). Women-only. Lines and categories live in `lib/taxonomy.ts`: Tops, Knits & Layers, Bottoms, Dresses & Sets and Accessories, each with detailed categories, plus vibes (Y2K, Grunge, Goth...) read from product names and filters for details, color, size and price. `scripts/ae_cats.py` picks a category from a product's name.
+Nine lives, zero basics. A Next.js 14 store for Blazed Kitty, an alt clothing brand: baby tees, goth tops, grunge layers and y2k pieces. Pieces come from AliExpress and CJ Dropshipping; the old Printful catalog was removed in Nov 2026 (its phrases are kept in `docs/USED_PHRASES.md`; the Printful order code in `lib/printful.ts` stays for future printed designs). Women-only. Lines and categories live in `lib/taxonomy.ts`: Tops, Knits & Layers, Bottoms, Dresses & Sets and Accessories, each with detailed categories, plus vibes (Y2K, Grunge, Goth...) read from product names and filters for details, color, size and price. `scripts/ae_cats.py` picks a category from a product's name.
 
 ## Run it
 

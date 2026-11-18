@@ -1,0 +1,120 @@
+# Phrases already used (old Printful line, removed from the store Nov 2026)
+
+Don't reuse these. Format: phrase | blurb
+
+- Indica Queen | Ruling from the couch.
+- Pre-Rolled and Ready | Always prepared.
+- Too Pretty to Pay for Weed | Someone else is buying.
+- Hot Girls Smoke Weed | Facts.
+- Too Stoned to Be Shy | Confidence, rolled.
+- Puff Puff Pretty | Pass it, then pose.
+- Bong Appétit | Dinner is served.
+- Baked & Bratty | Feed me and nobody gets hurt.
+- Your Mom’s Favorite Stoner | She asks about you.
+- Rolling Papers & Red Lipstick | Every girl needs both.
+- Kush & Kisses | Sealed with a smoke.
+- Stoner, Lover, Sinner | All three, nightly.
+- Hotter Than My Lighter | Handle with care.
+- In My Weed Era | Not leaving it.
+- Sativa Diva | Up, up and away.
+- Cute but Crossfaded | Still cute though.
+- Weed Wife | Wifey with a stash.
+- Horny for the Munchies | Two kinds of hungry.
+- Certified Stoner Girlfriend | Officially licensed.
+- Stoner Princess | Crown sold separately.
+- Spoiled & Stoned | Living the dream.
+- I’m the Dessert | Save room.
+- Squirt | Brag a little.
+- This Pussy Loves Orgasms | She knows what she likes.
+- Knees for You | Hit the floor.
+- Eat Pussy, Smoke Weed | A balanced diet.
+- Your Girlfriend’s Favorite | Sorry, babe.
+- Cumslot | Say it with your chest.
+- Sit on My Face | An open invitation.
+- Mommy’s Favorite Slut | Her pick, every time.
+- Brat | Needs a firm hand.
+- Dirty Little Stoner | Grinder in one hand.
+- Breed Me | Very serious about it.
+- Make Me Cum, Then Roll Me One | Aftercare done right.
+- Wifey Material, Slut Energy | Best of both.
+- Sorry Daddy | Not that sorry.
+- Sapphic Slut | Proudly.
+- High & Horny | The best combo.
+- Legalize Me | Free the kitty.
+- Lick It Like a Blunt | Show some technique.
+- I Bite | Fair warning.
+- Use Me | Hands-on.
+- Property of Mommy | Claimed.
+- Pretty When I Cry | Mascara-proof energy.
+- Girls Taste Better | Science.
+- Pussy So Good It’s Illegal | Report it.
+- Spank Me | Ask nicely. Or don’t.
+- Fill Me With Cum | No notes.
+- Slutty but Stoned | Couch, then bed.
+- I Swallow | Good manners.
+- Deep Throat, Deep Inhale | Big lungs.
+- Daddy’s Little Fucktoy | Daddy’s favorite toy.
+- Slut for Weed | Always down for a session.
+- Tongue Tied, Fully Baked | Too high to talk.
+- Good Girl | Earned it.
+- Princess | Treat her like one.
+- Open 24/7 | Always ready.
+- Fuck Me Stupid | Brains optional.
+- After Dark Only | Lights off.
+- Grab It | Go ahead.
+- Cum Here | Follow the arrow.
+- Obey | Do as she says.
+- Tie Me Up, Light Me Up | Rope and a lighter.
+- Choke Me, Daddy | Gently. Then not.
+- Wet & Wasted | Both, usually.
+- Fuck the Police | A classic for a reason.
+- Bend Me Over, Pass the Bowl | Teamwork.
+- One Hit and I’m Yours | Easy to please.
+- Eat Me | Instructions included.
+- Do Me & Dab | In that order.
+- Ruin Me | Please.
+- Smoke Weed, Kiss Girls | A simple plan.
+- Bi and High | Both. Always both.
+- She’s My Lighter | Wear it to match her plug.
+- Gay and Baked | The two main food groups.
+- She’s My Plug | Wear it to match her lighter.
+- Too Gay to Function, Too High to Care | Doing my best, which is lying down.
+- They/Them/High | Pronouns updated.
+- Girls, Grass & Glitter | Everything a girl needs.
+- Stoned & Horny | Two moods, both at once.
+- 4:20 Is My Love Language | Fluent in one language only.
+- Hit It, Don’t Quit It | Words to live by.
+- Roll Me Up | Twist, lick, light.
+- Property Of The Sesh | Claimed by the circle.
+- Lighter Not Included | Bring your own.
+- Kush In My Cush | Exactly where it should be.
+- For Smoke Breaks Only | Reserved for the good part of the day.
+- High Maintenance, Low Tolerance | Expensive taste, no patience.
+- Munch On This | Snack time.
+- Pet Me Harder | For the girls who like it a little rougher.
+- Come Get This Kitty | An invitation, printed where it counts.
+- My Love Language Is Passing The Lighter | Words of affirmation? No. Passing the lighter.
+- Lick Me, I’m Sticky | Sticky situation, fully intended.
+- High Club | Members only. Dress code: elevated.
+- University of Bad Bitches | Varsity for the girls who skipped class.
+- Good Girls Smoke Too | Good girls smoke too. Ask around.
+- Too Hot to Be Sober | Sobriety was never her color.
+- Eat My Munchies | The munchies hit different.
+- My Pussy Taste Like Edibles | Exactly what it says.
+- Wet Like a Bong | Wet like a bong. You heard it here.
+- Bad Kitty Needs a Spanking | Bad kitty. You know what to do.
+- Ride The High | Saddle up.
+- In a Situationship With My Grinder | Committed to one thing only: the grinder.
+- Text Me When You’re High (i’m Usually Free) | Phone on loud after 4:20.
+- Roll It, Lick It, Light It | Three steps. She knows them by heart.
+- High N Cute | Two moods, both at once.
+- Kitty Is Hungry | Feed the kitty.
+- Pet Me, I’m High | Ask nicely. She’s in a good mood.
+- Mommy Needs a Joint | Mommy had a long day. Pass it over.
+- The Rumors Are True, I’m Baked | Everything you heard is true.
+- Slightly Stoned But Very Hot | Slightly stoned, still the hottest one in the room.
+- Who’s a Good Girl? Me. I’m High. | Who’s a good girl? Easy answer.
+- Born to Smoke Forced to Work | Born to smoke, clocked in anyway.
+- Do Not Pass Me The Lighter Under Any Circumstances | Your lighter is safe with her. Your lighter is gone forever.
+- Sorry For Being So Hot And Baked, It’s a Lot | An apology that isn’t one. Sorry, not sorry.
+- Best Ex-girlfriend, Better Smoke Buddy | Crossed off the list, promoted to the sesh.

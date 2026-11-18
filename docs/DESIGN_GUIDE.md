@@ -3,8 +3,8 @@
 You are designing **text-only print designs** for Blazed Kitty's own printed line. These are made to order by
 **Printful** and sold on blazedkitty.com next to the alt clothing we dropship. Read this whole file before you start.
 
-The 106 designs already in the store are your style reference. Their product names, blurbs and descriptions are in
-`lib/products.ts` (every product with `"printful": {...}`). Don't repeat a phrase that's already there.
+The 106 designs from the old printed line are your style reference. Their phrases and blurbs are listed in
+`docs/USED_PHRASES.md`. Don't repeat any of them.
 
 ---
 
@@ -160,7 +160,7 @@ designs/drop7/
 
 ## 9. Before you hand in a drop
 
-- [ ] Every phrase is new (search `lib/products.ts`).
+- [ ] Every phrase is new (check `docs/USED_PHRASES.md`).
 - [ ] Every phrase passes all the rules in section 3.
 - [ ] About 60% Main and 40% After Dark, and `afterDark` is set on each entry.
 - [ ] One font and one ink per file, from the lists above.
