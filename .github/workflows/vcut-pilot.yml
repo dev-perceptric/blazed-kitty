@@ -1,0 +1,33 @@
+name: V-cut design pilot
+on:
+  push:
+    branches: [codex/vcut-pilot]
+    paths: ['.github/workflows/vcut-pilot.yml']
+permissions:
+  contents: write
+jobs:
+  pilot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python -m pip install Pillow
+      - name: Prepare and verify pilot
+        env:
+          PF: ${{ secrets.PRINTFUL_API_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
+        shell: python
+        run: |
+          import os,json,time,urllib.request,urllib.parse,urllib.error
+          def api(path,body=None):
+              req=urllib.request.Request("https://api.printful.com"+path,data=json.dumps(body).encode() if body else None,headers={"User-Agent":"blazed-kitty-mockups/1.0","Authorization":"Bearer "+os.environ["PF"],"Content-Type":"application/json"})
+              try:
+                  with urllib.request.urlopen(req,timeout=90) as response: return json.load(response)["result"]
+              except urllib.error.HTTPError as e:
+                  print("API ERROR",e.code,e.read().decode()[:300]);raise
+          assert any(s["id"]==19064428 and s["name"]=="Blazed Kitty" for s in api("/stores"))
+          name="Stoned & Horny V-Cut Bottom"
+          found=api("/store/products?search="+urllib.parse.quote(name))
+          base=api("/store/products/"+str(next(x["id"] for x in found if x["name"]==name)))
+          v=base["sync_variants"][0]
+          print("SOURCE",base["sync_product"]["id"],v["retail_price"],v["product"]["product_id"],[(f["id"],f["type"],f.get("url"),f.get("width"),f.get("height")) for f in v["files"] if f["type"]!="preview"])
+          print("FIELDS",[(x["id"],x["type"]) for x in api("/products/872")["product"]["files"]])
