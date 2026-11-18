@@ -561306,5 +561306,164 @@
   "oldSlugs": [
    "fitted-jeans-16-919205"
   ]
+ },
+ {
+  "slug": "jeans-922468",
+  "code": "BK-AE3019",
+  "name": "Jeans",
+  "depts": [
+   "women",
+   "men"
+  ],
+  "line": "bottoms",
+  "category": "jeans",
+  "design": "ae",
+  "drop": "drop7",
+  "price": 39.99,
+  "colors": [
+   {
+    "name": "White",
+    "hex": "#ffffff"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "blurb": "",
+  "details": [
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005010120922468",
+   "delivery": "6-13 days",
+   "variants": [
+    {
+     "color": "White",
+     "size": "L",
+     "skuAttr": "5:361385;14:29",
+     "skuId": "12000051213890394",
+     "cost": 9.94
+    },
+    {
+     "color": "White",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:29",
+     "skuId": "12000051213890395",
+     "cost": 9.94
+    },
+    {
+     "color": "White",
+     "size": "S",
+     "skuAttr": "5:100014064;14:29",
+     "skuId": "12000051213890392",
+     "cost": 9.94
+    },
+    {
+     "color": "White",
+     "size": "M",
+     "skuAttr": "5:361386;14:29",
+     "skuId": "12000051213890393",
+     "cost": 9.94
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010120922468/90fbd3d90307.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010120922468/90ed6d1a8e58.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010120922468/88c09b9c1288.jpg",
+    "color": "*"
+   }
+  ]
+ },
+ {
+  "slug": "kitty-jeans-364794",
+  "code": "BK-AE3020",
+  "name": "Kitty Jeans",
+  "depts": [
+   "women"
+  ],
+  "line": "bottoms",
+  "category": "jeans",
+  "design": "ae",
+  "drop": "drop7",
+  "price": 41.99,
+  "colors": [
+   {
+    "name": "Deep Blue",
+    "hex": "#2f5fb3"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "blurb": "",
+  "details": [
+   "Ships from our overseas partner"
+  ],
+  "ae": {
+   "productId": "1005010064364794",
+   "delivery": "6-13 days",
+   "variants": [
+    {
+     "color": "Deep Blue",
+     "size": "S",
+     "skuAttr": "5:100014064;14:200004870",
+     "skuId": "12000051006874798",
+     "cost": 13.45
+    },
+    {
+     "color": "Deep Blue",
+     "size": "M",
+     "skuAttr": "5:361386;14:200004870",
+     "skuId": "12000051006874799",
+     "cost": 13.45
+    },
+    {
+     "color": "Deep Blue",
+     "size": "L",
+     "skuAttr": "5:361385;14:200004870",
+     "skuId": "12000051006874800",
+     "cost": 13.45
+    },
+    {
+     "color": "Deep Blue",
+     "size": "XL",
+     "skuAttr": "5:100014065;14:200004870",
+     "skuId": "12000051006874801",
+     "cost": 13.45
+    }
+   ]
+  },
+  "photos": [
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010064364794/d19009a64228.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010064364794/5a5c6c122615.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010064364794/a5d3163e3c00.jpg",
+    "color": "*"
+   },
+   {
+    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010064364794/8330ff7ab9ca.jpg",
+    "color": "*"
+   }
+  ]
  }
 ]
