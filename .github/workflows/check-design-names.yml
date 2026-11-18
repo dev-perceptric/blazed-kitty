@@ -1,0 +1,28 @@
+name: Check existing Blazed Kitty designs
+on:
+  push:
+    branches: [codex/check-printful-access]
+    paths: ['.github/workflows/check-design-names.yml']
+permissions: {}
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Read product names
+        env:
+          PF: ${{ secrets.PRINTFUL_API_TOKEN }}
+        shell: python
+        run: |
+          import json, os, urllib.request
+          offset=0
+          while True:
+              req=urllib.request.Request(f"https://api.printful.com/store/products?limit=100&offset={offset}",headers={"Authorization":"Bearer "+os.environ["PF"],"User-Agent":"blazed-kitty-mockups/1.0"})
+              with urllib.request.urlopen(req,timeout=45) as response:
+                  data=json.load(response)
+              rows=data["result"]
+              for p in rows:
+                  print("CATALOG_ITEM "+json.dumps(p["name"],ensure_ascii=False))
+              offset+=len(rows)
+              if offset>=data["paging"]["total"]: break
+              if not rows: raise RuntimeError("Incomplete page")
+          print("CATALOG_TOTAL",offset)
