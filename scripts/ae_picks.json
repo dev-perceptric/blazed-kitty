@@ -102264,921 +102264,3109 @@
  {
   "id": "1005013087830413",
   "category": "dresses",
-  "name": "Bow Goth Dress",
+  "name": "Green Bow Tiered Ruffle Goth Long Sleeve Midi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "midi-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "long",
+   "length": "midi",
+   "color": "green",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "fitted",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012958111201",
   "category": "dresses",
-  "name": "Skeleton Goth Dress",
+  "name": "Green Skeleton Print Goth Mermaid Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "graphic",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "green",
+   "vibe": "goth",
+   "themes": [
+    "skulls"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013555954797",
   "category": "dresses",
-  "name": "Lace Off-Shoulder Dress",
+  "name": "Burgundy Lace-Up Corset Goth Flare Sleeve Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "flare",
+   "length": "maxi",
+   "color": "red",
+   "vibe": "goth",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013014953152",
   "category": "dresses",
-  "name": "Cross Floral Dress",
+  "name": "White Cross Floral Print Goth Bodycon Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "white",
+   "vibe": "goth",
+   "themes": [
+    "crosses",
+    "flowers"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "grunge",
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012933841740",
   "category": "dresses",
-  "name": "Lace Goth Dress",
+  "name": "Black Plaid Lace V-Neck Grunge Puff Sleeve Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "v-neck",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "black",
+   "vibe": "grunge",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "fitted",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth",
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013480537528",
   "category": "dresses",
-  "name": "Graphic Goth Dress",
+  "name": "White Satin Goat Graphic Goth Lace Trim Slip Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "graphic",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "white",
+   "vibe": "goth",
+   "cut": [
+    "fitted",
+    "lace-up"
+   ],
+   "material": [
+    "satin",
+    "lace"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013602924378",
   "category": "sets",
-  "name": "Lace Plaid Set",
+  "name": "Grey Plaid Bow Goth Cami Dress Cropped Jacket Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "pattern",
+   "neck": "square",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "plaid",
+    "bows"
+   ],
+   "cut": [
+    "cropped",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013020192126",
   "category": "dresses",
-  "name": "Backless Goth Dress",
+  "name": "Black Snake Lotus Print Goth Backless Halter Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "graphic",
+   "neck": "scoop",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "halter",
+    "backless",
+    "fitted"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012968099291",
   "category": "dresses",
-  "name": "Kitty Goth Dress",
+  "name": "Black Cat Print Goth Mock Neck Mermaid Maxi Dress",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005009862435791",
-  "category": "belts",
-  "name": "Glasses",
-  "depts": [
-   "women",
-   "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "graphic",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "cats"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013480485535",
   "category": "dresses",
-  "name": "Graphic Dress",
+  "name": "Black Bunny Print Lace Trim Goth Cami Slip Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "graphic",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bunnies"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013563386765",
   "category": "dresses",
-  "name": "Bow Dress",
+  "name": "Black Piano Key Music Note Bow Goth Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "coquette",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013533145672",
   "category": "dresses",
-  "name": "Fairy Lace Dress",
+  "name": "White Satin Centipede Print Goth Lace Slip Dress",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005006519485669",
-  "category": "belts",
-  "name": "Glasses 2",
-  "depts": [
-   "women",
-   "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "graphic",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "white",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "satin",
+    "lace"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012568276674",
   "category": "dresses",
-  "name": "Goth Punk Dress",
+  "name": "Khaki Hooded Goth Nun High Slit Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "hooded",
+   "sleeve": "short",
+   "length": "maxi",
+   "color": "brown",
+   "vibe": "goth",
+   "cut": [
+    "fitted",
+    "slit",
+    "ruched"
+   ],
+   "material": [
+    "ribbed"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012535880525",
   "category": "sets",
-  "name": "Cross Lace Set",
+  "name": "Grey Bow Cardigan Plaid Lace Goth Cami Dress Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "pattern",
+   "neck": "square",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "plaid",
+    "bows"
+   ],
+   "cut": [
+    "cropped",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012295134901",
   "category": "dresses",
-  "name": "Plaid Goth Dress",
+  "name": "Black Plaid Collar Goth Puff Sleeve Mini Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "collared",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "fitted",
+    "layered"
+   ],
+   "vibes": [
+    "coquette",
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012295134901/41a92f3cbeaf.jpg"
   ]
  },
  {
   "id": "1005012482831056",
   "category": "dresses",
-  "name": "Floral Goth Dress",
+  "name": "Khaki Virgin Mary Print Goth Bodycon Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "scoop",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "brown",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "y2k",
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012477028287",
   "category": "sets",
-  "name": "Lace Stripe Set",
+  "name": "Black Ruffle Collar Lace-Up Goth Blouse and Dress Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "lace-up",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012411950647",
   "category": "dresses",
-  "name": "Goth Fitted Dress",
+  "name": "Red Ruched Lace-Up Goth Halter Mini Dress",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005008388362499",
-  "category": "belts",
-  "name": "Glasses 3",
-  "depts": [
-   "women",
-   "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "sweetheart",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "red",
+   "vibe": "goth",
+   "cut": [
+    "halter",
+    "ruched",
+    "fitted",
+    "lace-up"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012333317650",
-  "category": "sets",
-  "name": "Lace Ruched Set",
+  "category": "dresses",
+  "name": "Black Shiny Lace Trim Ruched Goth Mermaid Maxi Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "lace-up",
+    "ruched",
+    "fitted"
+   ],
+   "material": [
+    "lace",
+    "satin"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012333317650/5b8cd2fcf880.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012333317650/6b7be45a70d3.jpg"
   ]
  },
  {
   "id": "1005013031982855",
   "category": "dresses",
-  "name": "Skeleton Mesh Dress",
+  "name": "Black Skeleton Print Mesh Hem Goth Cami Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "scoop",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "skulls"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011881549086",
   "category": "dresses",
-  "name": "Goth Dress",
+  "name": "Red Black Lace-Up Side Slit Goth Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "scoop",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "red",
+   "vibe": "goth",
+   "cut": [
+    "lace-up",
+    "slit",
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010225798976",
   "category": "dresses",
-  "name": "Butterfly Fitted Dress",
+  "name": "Black Tie-Dye Butterfly Goth Cheongsam Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "high-neck",
+   "sleeve": "short",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "butterflies"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "satin"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011849904257",
   "category": "dresses",
-  "name": "Lace Bow Dress",
+  "name": "Black Pink Plaid Bow Emo Ruffle Cami Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "emo",
+   "themes": [
+    "plaid",
+    "bows"
+   ],
+   "cut": [
+    "fitted",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "y2k",
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009321548495",
   "category": "dresses",
-  "name": "Graphic Goth Sexy Dress",
+  "name": "White Distressed Stripe Graphic Grunge Tee Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "crew",
+   "sleeve": "short",
+   "length": "mini",
+   "color": "white",
+   "vibe": "grunge",
+   "themes": [
+    "stripes"
+   ],
+   "cut": [
+    "fitted",
+    "distressed",
+    "ruched"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "goth",
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011740809874",
-  "category": "corsets-bodysuits",
-  "name": "Bow Goth Lingerie",
+  "category": "dresses",
+  "name": "Red Crown Wings Graphic Studded Y2K Tube Mini Dress",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005009781236629",
-  "category": "belts",
-  "name": "Glasses 4",
-  "depts": [
-   "women",
-   "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "strapless",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "red",
+   "vibe": "y2k",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "grunge",
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013375433648",
   "category": "dresses",
-  "name": "Graphic Goth Punk Dress",
+  "name": "Black Satin Surgical Tools Print Goth Slip Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "graphic",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "satin",
+    "lace"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010407076044",
   "category": "sets",
-  "name": "Lace Bow Set",
+  "name": "Light Blue Lace Bow Ruffle Collar Coquette Dress Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "lace-up",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012794675822",
   "category": "dresses",
-  "name": "Plaid Dress",
+  "name": "Burgundy Plaid Goth Stand Collar Fitted Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "high-neck",
+   "sleeve": "short",
+   "length": "mini",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "grunge",
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010495715435",
   "category": "dresses",
-  "name": "Lace Dress",
+  "name": "Red Plaid Lace-Up Corset Goth Tiered Mini Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "pattern",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "lace-up",
+    "fitted",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "punk",
+    "emo"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010495715435/bb518e2da1ee.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010495715435/d1a0699b9948.jpg"
   ]
  },
  {
   "id": "1005012543231087",
   "category": "dresses",
-  "name": "Stripe Goth Dress",
+  "name": "Black Double Breasted Stand Collar Goth Ruffle Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "short",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted",
+    "layered"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010074738823",
   "category": "bags",
-  "name": "Cross Bag",
+  "name": "Silver Faux Leather Buckle Y2K Shoulder Bag",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "bag",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "y2k",
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012721903459",
-  "category": "dresses",
-  "name": "Lace Bow Goth Dress",
+  "category": "sets",
+  "name": "Black Lace Collar Bow Goth Flare Sleeve Shorts Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007111277696",
   "category": "dresses",
-  "name": "Lace Plaid Dress",
+  "name": "Red Plaid Asymmetric Lace-Up Goth Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "pattern",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "lace-up",
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "punk",
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009711814147",
   "category": "dresses",
-  "name": "Bunny Bow Dress",
+  "name": "Blue Bunny Print Checkered Bow Coquette Midi Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "midi-dress",
+   "print": "graphic",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "midi",
+   "color": "blue",
+   "vibe": "coquette",
+   "themes": [
+    "bunnies",
+    "bows"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "harajuku",
+    "goth"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009711814147/1033a08f9560.png"
   ]
  },
  {
   "id": "1005007608005296",
   "category": "dresses",
-  "name": "Plaid Bow Dress",
+  "name": "Brown Plaid Fake Two-Piece Coquette Long Sleeve Midi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "midi-dress",
+   "print": "pattern",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "midi",
+   "color": "brown",
+   "vibe": "coquette",
+   "themes": [
+    "plaid",
+    "bows"
+   ],
+   "cut": [
+    "layered",
+    "fitted"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010470057767",
   "category": "sets",
-  "name": "Lace Set",
+  "name": "Black Pink Rose Print Lace Bow Coquette Dress Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "graphic",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "coquette",
+   "themes": [
+    "bows",
+    "flowers",
+    "hearts"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010084649596",
   "category": "sets",
-  "name": "Lace Bow Off-Shoulder Set",
+  "name": "Black Off-Shoulder Heart Button Goth Shirt Dress Shorts Set",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows",
+    "hearts"
+   ],
+   "cut": [
+    "off-shoulder"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010084649596/1fc46405e2f0.jpg"
   ]
  },
  {
   "id": "1005012477292405",
   "category": "dresses",
-  "name": "Lace Stripe Dress",
+  "name": "White Stripe Lace Bow Goth Puff Sleeve Mini Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "collared",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "white",
+   "vibe": "goth",
+   "themes": [
+    "stripes",
+    "bows"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012477292405/dc666f7ee35a.jpg"
   ]
  },
  {
   "id": "1005008746895481",
   "category": "dresses",
-  "name": "Lace Bow Goth Vintage Dress",
+  "name": "Black Lace Trim Bow Goth High Neck Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "fitted",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008558216587",
   "category": "dresses",
-  "name": "Goth Snakeskin Dress",
+  "name": "Black Snakeskin Goth Fishtail Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "pattern",
+   "neck": "sweetheart",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "satin"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008239571753",
   "category": "dresses",
-  "name": "Goth Grunge Dress",
+  "name": "Black Halter Lace-Up High Slit Goth Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "halter",
+    "lace-up",
+    "slit",
+    "fitted"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013449228433",
   "category": "hair",
-  "name": "Wig",
+  "name": "Raspberry Red Layered Harajuku Long Straight Wig",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "wig",
+   "print": "plain",
+   "color": "red",
+   "vibe": "harajuku",
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011869084609",
   "category": "dresses",
-  "name": "Lace Bow Goth Punk Dress",
+  "name": "Black Velvet Grey Collar Bow Goth Puff Sleeve Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "velvet"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013367518060",
   "category": "dresses",
-  "name": "Graphic Goth Punk Emo Dress",
+  "name": "White Satin Cross Chain Print Goth Slip Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "graphic",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "white",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "satin",
+    "lace"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012526398457",
   "category": "sets",
-  "name": "Goth Set",
+  "name": "Mint Cami Dress Purple Rose Coquette Cardigan Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "midi",
+   "color": "purple",
+   "vibe": "coquette",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013619526263",
-  "category": "hoodies",
-  "name": "Knit Fitted Hoodie",
+  "category": "sweaters",
+  "name": "Burgundy Teddy Bear Embroidered Y2K Knit Sweater",
   "depts": [
-   "women"
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "knit-sweater",
+   "print": "graphic",
+   "neck": "crew",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "red",
+   "vibe": "y2k",
+   "material": [
+    "knit",
+    "embroidery"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013619526263/4ede0771a4a2.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013619526263/8c861a896a48.jpg"
   ]
  },
  {
   "id": "1005013635250390",
   "category": "dresses",
-  "name": "Lace Patchwork Dress",
+  "name": "Black Striped Corset Bow Goth Puff Sleeve Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "square",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "stripes",
+    "bows"
+   ],
+   "cut": [
+    "layered",
+    "lace-up"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011742090250",
-  "category": "corsets-bodysuits",
-  "name": "Bow Lingerie",
+  "category": "dresses",
+  "name": "Purple Crown Wings Graphic Y2K Tube Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "strapless",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "purple",
+   "vibe": "y2k",
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "grunge",
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010768212171",
-  "category": "sets",
-  "name": "Lace Mesh Set",
+  "category": "dresses",
+  "name": "Purple Lace-Up Corset Goth Flare Sleeve Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "flare",
+   "length": "maxi",
+   "color": "purple",
+   "vibe": "goth",
+   "cut": [
+    "lace-up",
+    "cold-shoulder"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008937235953",
   "category": "sets",
-  "name": "Lace Bow Goth Set",
+  "name": "Black Heart Button Lace-Up Goth Pinafore Blouse Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows",
+    "hearts"
+   ],
+   "cut": [
+    "lace-up",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005006170036156",
-  "category": "crop-tees",
-  "name": "Slogan Graphic Crop Tee",
+  "category": "camis-tanks",
+  "name": "Black I Look Even Better Bent Over Y2K Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "cami",
+   "print": "slogan",
+   "neck": "scoop",
+   "sleeve": "sleeveless",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013480405420",
   "category": "jewelry",
-  "name": "Cross Sexy Jewelry",
+  "name": "Silver Pearl Tassel Cross Goth Waist Chain",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "body-chain",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009605236739",
   "category": "dresses",
-  "name": "Cross Goth Dress",
+  "name": "Black Cross Strap Halter Goth Lace Mermaid Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "halter",
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013128949139",
   "category": "camis-tanks",
-  "name": "Skull Plaid Cami",
+  "name": "Purple Plaid Skull Lace Trim Emo Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "cami",
+   "print": "graphic",
+   "neck": "scoop",
+   "sleeve": "sleeveless",
+   "length": "regular",
+   "color": "purple",
+   "vibe": "emo",
+   "themes": [
+    "skulls",
+    "plaid"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "y2k",
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013102462222",
   "category": "dresses",
-  "name": "Lace Goth Vintage Dress",
+  "name": "Black Velvet Lace Goth V-Neck Mermaid Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "v-neck",
+   "sleeve": "short",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "velvet",
+    "lace"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012953500573",
   "category": "dresses",
-  "name": "Goth Fitted Dress 3",
+  "name": "Blue Abstract Face Print Goth Cheongsam Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "graphic",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "blue",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012615424617",
   "category": "dresses",
-  "name": "Lace Goth Vintage Fitted Dress",
+  "name": "Black High Neck Goth Tiered Ruffle Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "short",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009890143398",
   "category": "dresses",
-  "name": "Lace Bow Goth Vintage Fitted Dress",
+  "name": "Black Capelet Bow Goth Short Sleeve Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "short",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012383621249",
-  "category": "dresses",
-  "name": "Lace Polka Dot Dress",
+  "category": "cardigans",
+  "name": "Light Blue Lace Trim Bow Coquette Puff Sleeve Shrug",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "bolero",
+   "print": "plain",
+   "neck": "v-neck",
+   "sleeve": "puff",
+   "length": "cropped",
+   "color": "blue",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "cropped",
+    "tie-front"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "fairy-grunge",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013260472598",
   "category": "dresses",
-  "name": "Goth Fitted Dress 4",
+  "name": "White Stand Collar Capelet Coquette Puff Sleeve Maxi Dress",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005013577708338",
-  "category": "belts",
-  "name": "Wig 2",
-  "depts": [
-   "women",
-   "men"
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "puff",
+   "length": "maxi",
+   "color": "white",
+   "vibe": "coquette",
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013260472598/e533812c2c42.jpg"
   ]
  },
  {
   "id": "1005012371190864",
   "category": "dresses",
-  "name": "Lace Goth Punk Dress",
+  "name": "Black Lace Yoke Cold Shoulder Goth Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "cold-shoulder"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013137231153",
   "category": "dresses",
-  "name": "Stripe Dress",
+  "name": "Black Double Breasted Goth Layered Ruffle Skirt Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "short",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted",
+    "layered"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012908740663",
   "category": "dresses",
-  "name": "Lace Polka Dot Bow Dress",
+  "name": "White Polka Dot Lace Tiered Bow Coquette Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "lace-up",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013054896664",
   "category": "dresses",
-  "name": "Lace Vintage Dress",
+  "name": "Dark Grey Knit Lace Trim Grunge Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "knit",
+    "lace"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008228163546",
-  "category": "dresses",
-  "name": "Lace Vintage Sexy Dress",
+  "category": "sets",
+  "name": "Grey Knit Off-Shoulder Cat Patch Grunge Dress Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "grey",
+   "vibe": "grunge",
+   "themes": [
+    "cats"
+   ],
+   "cut": [
+    "off-shoulder",
+    "layered"
+   ],
+   "material": [
+    "knit",
+    "lace"
+   ],
+   "vibes": [
+    "coquette",
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012811082453",
   "category": "dresses",
-  "name": "Stripe Patchwork Dress",
+  "name": "Black White Stripe Bow Goth Halter Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "sweetheart",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "stripes",
+    "bows"
+   ],
+   "cut": [
+    "halter"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008762922968",
   "category": "jewelry",
-  "name": "Goth Punk Jewelry",
+  "name": "Gold Centipede Titanium Goth Cartilage Earring",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "earrings",
+   "print": "plain",
+   "color": "yellow",
+   "vibe": "goth",
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005007519091968",
-  "category": "crop-tees",
-  "name": "Lace Slogan Crop Tee",
+  "category": "camis-tanks",
+  "name": "White Lace Bow Ribbon Coquette Babydoll Cami",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "lace-cami",
+   "print": "plain",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "regular",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012167270653",
   "category": "dresses",
-  "name": "Lace Goth Punk Vintage Dress",
+  "name": "Burgundy Velvet Lace Goth Flare Sleeve Mermaid Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "v-neck",
+   "sleeve": "flare",
+   "length": "maxi",
+   "color": "red",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "velvet",
+    "lace"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012423147932",
   "category": "dresses",
-  "name": "Mesh Bow Dress",
+  "name": "Black Mesh Cold Shoulder Goth Ruffle Mini Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "short",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "cold-shoulder",
+    "layered"
+   ],
+   "material": [
+    "mesh",
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012423147932/9e4413cd06cb.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012423147932/b9cfcfcc4b2f.jpg"
   ]
  },
  {
   "id": "1005012141368905",
   "category": "skirts",
-  "name": "Floral Patchwork Skirt",
+  "name": "Brown Tiered Ruffle Fairy Grunge Maxi Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-skirt",
+   "print": "plain",
+   "length": "maxi",
+   "color": "brown",
+   "vibe": "fairy-grunge",
+   "cut": [
+    "high-waist",
+    "layered"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005005441661052",
   "category": "dresses",
-  "name": "Goth Punk Grunge Dress",
+  "name": "Black Vinyl Bat Wing Lace-Up Goth Corset Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "plain",
+   "neck": "sweetheart",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bats"
+   ],
+   "cut": [
+    "lace-up",
+    "fitted",
+    "layered"
+   ],
+   "material": [
+    "faux-leather",
+    "mesh"
+   ],
+   "vibes": [
+    "punk",
+    "rave"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013324938247",
   "category": "sets",
-  "name": "Lace Rhinestone Set",
+  "name": "Pink Heart Print Rhinestone Bow Coquette Dress Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "graphic",
+   "neck": "collared",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "pink",
+   "vibe": "coquette",
+   "themes": [
+    "hearts",
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace",
+    "rhinestone"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012857887582",
   "category": "sets",
-  "name": "Goth Vintage Set",
+  "name": "Navy Satin Bubble Hem Goth Cami Dress Shrug Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "satin",
+    "mesh"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008586703712",
-  "category": "long-sleeves",
-  "name": "Lace Goth Long Sleeve Tee",
+  "category": "blouses",
+  "name": "Black Victorian Lace Ruffle Goth High Neck Blouse",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "lace-blouse",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010595153106",
   "category": "dresses",
-  "name": "Goth Vintage Dress",
+  "name": "Black Velvet Lace-Up Slit Goth Cheongsam Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "short",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "slit",
+    "lace-up",
+    "fitted"
+   ],
+   "material": [
+    "velvet"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013328426182",
   "category": "dresses",
-  "name": "Bow Goth Dress 2",
+  "name": "White Piano Key Music Note Bow Goth Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "white",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "coquette",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012774070627",
   "category": "dresses",
-  "name": "Goth Punk Vintage Dress",
+  "name": "Goldfish Print Harajuku Mandarin Collar Bodycon Maxi Dress",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "32853097226",
-  "category": "dresses",
-  "name": "Dress",
-  "depts": [
-   "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "graphic",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "multi",
+   "vibe": "harajuku",
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "goth",
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013603842048",
   "category": "dresses",
-  "name": "Lace Goth Vintage Fitted Dress 2",
+  "name": "Cream Velvet Lace Ruffle Coquette Puff Sleeve Mini Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "white",
+   "vibe": "coquette",
+   "cut": [
+    "fitted",
+    "high-waist"
+   ],
+   "material": [
+    "velvet",
+    "lace"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013603842048/f45fee1a46cb.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013603842048/fcfe3ce2dbe9.jpg"
   ]
  },
  {
   "id": "32824622905",
   "category": "dresses",
-  "name": "Lace Goth Punk Sexy Dress",
+  "name": "Black Lace Steampunk Goth Slit Long Sleeve Maxi Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "slit",
+    "lace-up",
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32824622905/626c8084821d.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32824622905/e536b67955ee.jpg"
   ]
  },
  {
   "id": "1005013262829988",
   "category": "legwear",
-  "name": "Goth Knit Socks",
+  "name": "Black Knit Slouch Grunge Over Knee Socks",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "socks",
+   "print": "plain",
+   "color": "black",
+   "vibe": "grunge",
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013086669669",
   "category": "jackets",
-  "name": "Lace Vintage Jacket",
+  "name": "Black Faux Leather Lace-Up Back Goth Moto Jacket",
   "depts": [
-   "women"
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "leather-jacket",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "punk",
+    "grunge"
+   ],
+   "unisex": true
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013086669669/215c3948d3cf.png",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013086669669/aa5f70953533.png"
   ]
  },
  {
   "id": "1005008489624308",
-  "category": "dresses",
-  "name": "Goth Dress 2",
+  "category": "jackets",
+  "name": "Black Victorian Steampunk Goth Tailcoat Jacket",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "coat",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "longline",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011890373564",
   "category": "sets",
-  "name": "Lace Bow Goth Ruffle Set",
+  "name": "White Ruffle Collar Lace Bow Coquette Shirt Dress Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "lace-up",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012930313175",
   "category": "dresses",
-  "name": "Goth Vintage Dress 2",
+  "name": "Black Ruffle Collar Button Goth A-Line Maxi Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012930313175/0bc936d8e21d.jpg"
   ]
  },
  {
   "id": "1005013598943165",
-  "category": "hoodies",
-  "name": "One-Shoulder Goth Zip Hoodie",
+  "category": "cardigans",
+  "name": "Black Ribbed Knit Double Zip Goth One Shoulder Cardigan",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "cardigan",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "one-shoulder",
+    "fitted"
+   ],
+   "material": [
+    "knit",
+    "ribbed"
+   ],
+   "vibes": [
+    "punk",
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013587053897",
   "category": "dresses",
-  "name": "Skull Fairy Dress",
+  "name": "Leopard Print Skull Grunge Halter Ruffle Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "brown",
+   "vibe": "grunge",
+   "themes": [
+    "leopard",
+    "skulls"
+   ],
+   "cut": [
+    "halter",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "fairy-grunge",
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009694696532",
   "category": "dresses",
-  "name": "Floral Bow Dress",
+  "name": "Black Navy Organza Pearl Chain Goth Tiered Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012243236422",
   "category": "dresses",
-  "name": "Lace Patchwork Off-Shoulder Dress",
+  "name": "Black Lace Patchwork Off-Shoulder Goth Slit Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "strapless",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "off-shoulder",
+    "slit",
+    "fitted"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013402030172",
-  "category": "cardigans",
-  "name": "Goth Punk Cardigan",
+  "category": "hoodies",
+  "name": "Black Buckle Strap Punk Zip Hoodie",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "zip-hoodie",
+   "print": "plain",
+   "neck": "hooded",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013587725429",
-  "category": "dresses",
-  "name": "Lace Bow Goth Set 2",
+  "category": "sets",
+  "name": "Black White Cuff Rosary Goth Bow Dress Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses",
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013358950857",
   "category": "sets",
-  "name": "Bow Ruffle Set",
+  "name": "Silver Grey Ruffle Bow Coquette Button Shirt Dress Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "grey",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011662361726",
   "category": "dresses",
-  "name": "Lace Bow Patchwork Dress",
+  "name": "Black Lace V-Neck Pink Bow Goth Tiered Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "v-neck",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "lace-up",
+    "fitted",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013390147293",
   "category": "dresses",
-  "name": "Graphic Goth Punk Emo Dress 2",
+  "name": "Black Skull Graphic Goth Bodycon Cami Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "scoop",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "skulls"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "emo",
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009890227445",
   "category": "sets",
-  "name": "Lace Bow Goth Punk Set",
+  "name": "Black Cross Embroidered Goth Shirt Dress Shorts Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "v-neck",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses",
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace",
+    "embroidery"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008311332335",
   "category": "dresses",
-  "name": "Lace Bow Goth Ruffle Dress",
+  "name": "Wine Bow Collar Goth Ruffle Long Sleeve Mini Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008311332335/566efbe1dea1.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008311332335/5d586bfe4985.jpg"
   ]
  },
  {
   "id": "1005013315147147",
   "category": "sets",
-  "name": "Lace Rhinestone Bow Set",
+  "name": "Black Pink Print Rhinestone Bow Coquette Pinafore Set",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "graphic",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "coquette",
+   "themes": [
+    "bows",
+    "hearts"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace",
+    "rhinestone"
+   ],
+   "vibes": [
+    "goth",
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013315147147/061d899f062b.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013315147147/28ed9295647b.jpg"
   ]
  },
  {
   "id": "1005012546721638",
   "category": "dresses",
-  "name": "Bow Goth Kawaii Dress",
+  "name": "Black Capelet High Collar Goth A-Line Midi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "midi-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "short",
+   "length": "midi",
+   "color": "black",
+   "vibe": "goth",
+   "unisex": false
+  }
  },
  {
   "id": "1005013300231211",
   "category": "dresses",
-  "name": "Lace Bow Goth Vintage Fitted Dress 2",
+  "name": "Black Lace-Up Corset Bow Goth Tiered Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "short",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "lace-up",
+    "fitted",
+    "layered"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008859710836",
   "category": "dresses",
-  "name": "Lace Rhinestone Dress",
+  "name": "White Cold Shoulder Ruffle Collar Coquette Flare Sleeve Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "cold-shoulder",
+    "lace-up"
+   ],
+   "material": [
+    "lace",
+    "rhinestone"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012071101381",
   "category": "dresses",
-  "name": "Lace Patchwork Goth Dress",
+  "name": "Navy Buckle Strap Lace Tiered Goth Mini Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "goth",
+   "cut": [
+    "layered",
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012071101381/944efe8cde76.jpg"
   ]
  },
  {
   "id": "1005012490726731",
   "category": "dresses",
-  "name": "Goth Ruffle Dress",
+  "name": "Black Bunny Print Criss Cross Goth Off-Shoulder Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bunnies"
+   ],
+   "cut": [
+    "off-shoulder",
+    "lace-up"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008608548910",
   "category": "sets",
-  "name": "Lace Bow Off-Shoulder Goth Set",
+  "name": "Black Off-Shoulder Ruffle Bow Goth Shirt Dress Set",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows",
+    "hearts"
+   ],
+   "cut": [
+    "off-shoulder"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008608548910/489c42bb48da.jpg"
   ]
  },
  {
   "id": "1005013015369536",
   "category": "dresses",
-  "name": "Goth Vintage Fitted Dress",
+  "name": "Black Velvet Evil Eye Print Goth Cheongsam Maxi Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "graphic",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "velvet"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013015369536/10910bd9702e.jpg"
   ]
  },
  {
   "id": "1005012925476077",
   "category": "dresses",
-  "name": "Punk Dress",
+  "name": "White Black Bow Lace Trim Coquette Cami Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008997567839",
   "category": "dresses",
-  "name": "Bow Kawaii Dress",
+  "name": "Light Blue Mesh Lace Trim Y2K Cami Mini Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "y2k",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "mesh",
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008997567839/52a7e7e28950.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008997567839/8edc3017aee4.jpg"
   ]
  },
  {
   "id": "1005013402868294",
   "category": "jackets",
-  "name": "Goth Punk Jacket",
+  "name": "Grey Napoleon Double Breasted Goth Military Jacket",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "coat",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "goth",
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005007880444634",
   "category": "sets",
-  "name": "Bow Goth Set",
+  "name": "Black Sailor Collar Bow Goth Long Sleeve Dress Set",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows",
+    "stripes"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007880444634/27d4e6d63148.jpg"
   ]
  },
  {
@@ -103187,1924 +105375,6001 @@
   "name": "Goth Jewelry",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "body-chain",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "hearts"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013339362789",
   "category": "jackets",
-  "name": "Goth Jacket",
+  "name": "Pink Plaid High Neck Coquette Fitted Coat",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "coat",
+   "print": "pattern",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "pink",
+   "vibe": "coquette",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013157182910",
   "category": "jackets",
-  "name": "Goth Punk Fitted Jacket",
+  "name": "Black Military High Collar Punk Fitted Jacket",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "coat",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012576129303",
   "category": "dresses",
-  "name": "Mesh Patchwork Dress",
+  "name": "Red Strapless Black Mesh Goth Mermaid Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "strapless",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "red",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010266000824",
   "category": "legwear",
-  "name": "Lace Stripe Socks",
+  "name": "White Black Ribbon Cross Goth Over Knee Socks",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "socks",
+   "print": "pattern",
+   "color": "white",
+   "vibe": "goth",
+   "themes": [
+    "stripes"
+   ],
+   "material": [
+    "cotton",
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012499755811",
   "category": "pants",
-  "name": "Goth Punk Pants",
+  "name": "Black Pinstripe Buckle Punk Low Rise Flare Pants",
   "depts": [
-   "women",
-   "men"
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-pants",
+   "print": "pattern",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "themes": [
+    "stripes"
+   ],
+   "cut": [
+    "low-rise"
+   ],
+   "vibes": [
+    "grunge",
+    "y2k"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012499755811/545f477e5908.jpg"
   ]
  },
  {
   "id": "1005012583596220",
-  "category": "dresses",
-  "name": "Stripe Goth Kawaii Dress",
+  "category": "skirts",
+  "name": "Grey Plaid Goth Pleated Suspender Mini Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "pleated-skirt",
+   "print": "pattern",
+   "length": "mini",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007444446235",
-  "category": "jewelry",
-  "name": "Goth Punk Jewelry 2",
+  "category": "belts",
+  "name": "Silver Cross Dagger Punk Layered Pants Chain Belt",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "belt",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "punk",
+   "themes": [
+    "crosses"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012540992676",
   "category": "dresses",
-  "name": "Goth Turtleneck Dress",
+  "name": "Burgundy Faux Leather Goth Turtleneck Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "red",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012526752255",
-  "category": "dresses",
-  "name": "Goth Vintage Set 2",
+  "category": "sets",
+  "name": "Black Victorian Gothic Lolita Flare Sleeve Skirt Set",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "three-piece",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "flare",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "layered",
+    "lace-up"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012526752255/36b87d04a5af.jpg"
   ]
  },
  {
   "id": "1005012459392284",
   "category": "dresses",
-  "name": "Lace Graphic Dress",
+  "name": "Black Sabbath Lace Trim Satin Goth Slip Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "music",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "satin",
+    "lace"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012454619483",
   "category": "dresses",
-  "name": "Lace Graphic Goth Dress",
+  "name": "Black Satin Gothic Portrait Print Goth Slit Slip Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "graphic",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "slit"
+   ],
+   "material": [
+    "satin",
+    "lace"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012501367925",
   "category": "dresses",
-  "name": "Goth Punk Cyber Dress",
+  "name": "Purple Beaded Chain Cyber Goth Corset Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "plain",
+   "neck": "sweetheart",
+   "sleeve": "sleeveless",
+   "length": "midi",
+   "color": "purple",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "halter",
+    "fitted"
+   ],
+   "material": [
+    "velvet",
+    "rhinestone"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012459306564",
   "category": "dresses",
-  "name": "Lace Graphic Goth Punk Dress",
+  "name": "Black Crucifix Print Lace Trim Goth Slip Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "graphic",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "satin",
+    "lace"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012445810389",
   "category": "baby-tees",
-  "name": "Goth Baby Tee",
+  "name": "Hot Pink Kanji Print Y2K Baby Tee",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "baby-tee",
+   "print": "slogan",
+   "neck": "crew",
+   "sleeve": "short",
+   "length": "regular",
+   "color": "pink",
+   "vibe": "y2k",
+   "themes": [
+    "japan"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012445810389/8187b8d7f404.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012445810389/b389b0dda281.jpg"
   ]
  },
  {
   "id": "1005012441459369",
-  "category": "baby-tees",
-  "name": "Goth Emo Baby Tee",
+  "category": "blouses",
+  "name": "White Skull Patch Emo Polo Shirt",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "polo",
+   "print": "graphic",
+   "neck": "collared",
+   "sleeve": "short",
+   "length": "regular",
+   "color": "white",
+   "vibe": "emo",
+   "themes": [
+    "skulls",
+    "stars"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012415884867",
   "category": "dresses",
-  "name": "Graphic Goth Punk Vintage Dress",
+  "name": "Black Scorpion Graphic Grommet Goth Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005006414696438",
   "category": "jackets",
-  "name": "Jacket",
+  "name": "Black Faux Leather Goth Long Trench Coat",
   "depts": [
    "women",
    "men"
+  ],
+  "attrs": {
+   "sub": "coat",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "longline",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "oversized"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006414696438/312b995de69e.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006414696438/e417e5818361.jpg"
   ]
  },
  {
   "id": "1005013551178686",
   "category": "dresses",
-  "name": "Lace Floral Dress",
+  "name": "Black Ruffle Bow Goth Lolita Sleeveless Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013539078152",
   "category": "dresses",
-  "name": "Lace Bow Patchwork Goth Dress",
+  "name": "Black Lace Panel Bow Goth Lolita Tiered Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012303277250",
   "category": "dresses",
-  "name": "Lace Mesh Dress",
+  "name": "Black Lace Up Flare Sleeve Victorian Goth Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "lace-up",
+    "layered"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013194202928",
   "category": "jewelry",
-  "name": "Punk Jewelry",
+  "name": "Silver Steel Ball Open Collar Punk Choker",
   "depts": [
-   "women"
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "punk",
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013194202928/49a99a9c1837.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013194202928/fecf34eb5748.jpg"
   ]
  },
  {
   "id": "1005013200816265",
   "category": "dresses",
-  "name": "Lace Plaid Bow Dress",
+  "name": "Black Gingham Lace Bow Goth Lolita Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "plaid",
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012949772410",
   "category": "sets",
-  "name": "Lace Goth Set",
+  "name": "Black Zip Front Goth Dress and Lace Waistcoat Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "sleeveless",
+   "length": "midi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013290187845",
-  "category": "dresses",
-  "name": "Cross Lace Dress",
+  "category": "sets",
+  "name": "Purple Ruffle Cross Goth Cami Dress and Shrug Set",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "purple",
+   "vibe": "goth",
+   "themes": [
+    "crosses",
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku",
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013290187845/08673bd31c9f.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013290187845/9e66c5f322ca.jpg"
   ]
  },
  {
   "id": "1005008437383750",
   "category": "dresses",
-  "name": "Lace Rhinestone Plaid Dress",
+  "name": "Navy Plaid Lace Collar Bow Goth Lolita Mini Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "plaid",
+    "bows",
+    "hearts"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "lace",
+    "rhinestone"
+   ],
+   "vibes": [
+    "coquette",
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008437383750/86c5b4c99c1c.jpg"
   ]
  },
  {
   "id": "1005012087551023",
   "category": "dresses",
-  "name": "Skull Goth Dress",
+  "name": "Black Corset Cage Feather Goth Midi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "puff",
+   "length": "midi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted",
+    "layered"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013539341270",
   "category": "dresses",
-  "name": "Bow Goth Vintage Dress",
+  "name": "Black White Collar Bow Goth Puff Sleeve Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012732886875",
   "category": "dresses",
-  "name": "Stripe Goth Punk Dress",
+  "name": "Black Pinstripe Corset Goth Lolita Ruffle Mini Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "square",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "stripes"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012732886875/fbb4715d1efd.jpg"
   ]
  },
  {
   "id": "1005011966182261",
   "category": "dresses",
-  "name": "Floral Patchwork Dress",
+  "name": "Cream Lace Up Corset Halter Coquette Ruffle Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "plain",
+   "neck": "sweetheart",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows",
+    "flowers"
+   ],
+   "cut": [
+    "halter",
+    "lace-up",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013506309877",
   "category": "dresses",
-  "name": "Plaid Bow Patchwork Dress",
+  "name": "Black Houndstooth Bow Patchwork Goth Midi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "midi-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "midi",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "plaid",
+    "bows"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011952193679",
   "category": "dresses",
-  "name": "Bunny Dress",
+  "name": "White Cartoon Bunny Print Harajuku Lolita Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "white",
+   "vibe": "harajuku",
+   "themes": [
+    "bunnies",
+    "bows",
+    "cartoons"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011848931572",
   "category": "dresses",
-  "name": "Fairy Goth Dress",
+  "name": "Red Rose Tulle Corset Fairy Grunge Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "plain",
+   "neck": "sweetheart",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "red",
+   "vibe": "fairy-grunge",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "mesh",
+    "lace"
+   ],
+   "vibes": [
+    "goth",
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013102538316",
   "category": "dresses",
-  "name": "Goth Vintage Fitted Sexy Dress",
+  "name": "Black Strapless White Collar Goth Corset Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "plain",
+   "neck": "strapless",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011815381309",
-  "category": "dresses",
-  "name": "Lace Bow Goth Kawaii Dress",
+  "category": "sets",
+  "name": "White Lace Bow Coquette Lolita Dress and Shorts Set",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "lace",
+    "rhinestone"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011815381309/07efb55e7d59.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011815381309/275a1f109a75.jpg"
   ]
  },
  {
   "id": "1005006340712356",
   "category": "dresses",
-  "name": "Lace Bow Goth Vintage Dress 2",
+  "name": "Burgundy Bow Collar Goth Victorian Ruffle Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered",
+    "lace-up"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012726084974",
   "category": "skirts",
-  "name": "Ruched Goth Skirt",
+  "name": "Black Ruched Tiered Victorian Goth Maxi Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-skirt",
+   "print": "plain",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "ruched",
+    "high-waist",
+    "layered"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010217903958",
-  "category": "hoodies",
-  "name": "Goth Punk Jacket 2",
+  "category": "jackets",
+  "name": "Charcoal Grey Double Breasted Grunge Peplum Coat",
   "depts": [
-   "women",
-   "men"
+   "women"
+  ],
+  "attrs": {
+   "sub": "coat",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010217903958/b263d306f90e.jpg"
   ]
  },
  {
   "id": "1005013549812081",
   "category": "sets",
-  "name": "Bow Set",
+  "name": "Black Sailor Collar Bow Goth Dress and Shorts Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows",
+    "stripes"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku",
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011909492152",
   "category": "dresses",
-  "name": "Goth Sexy Dress",
+  "name": "Love Kills Slowly Tattoo Print Y2K Halter Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "multi",
+   "vibe": "y2k",
+   "themes": [
+    "skulls",
+    "hearts"
+   ],
+   "cut": [
+    "halter",
+    "lace-up",
+    "backless"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009796475000",
   "category": "dresses",
-  "name": "Lace Bow Goth Kawaii Ruffle Dress",
+  "name": "Sky Blue Satin Lace Bow Coquette Lolita Ruffle Dress",
   "depts": [
    "women"
   ],
   "tags": [
    "anime"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "satin",
+    "lace"
+   ],
+   "vibes": [
+    "harajuku",
+    "anime"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011880211155",
   "category": "dresses",
-  "name": "Lace Bow Goth Vintage Dress 3",
+  "name": "Black Pink Plaid Bow Y2K Ruffle Cami Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "scoop",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "y2k",
+   "themes": [
+    "bows",
+    "plaid"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "emo",
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011890114873",
   "category": "dresses",
-  "name": "Lace Patchwork Goth Coquette Dress",
+  "name": "Red Lace Overlay Lace Up Goth Slit Midi Dress",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005013605224599",
-  "category": "dresses",
-  "name": "Ruffle Dress",
-  "depts": [
-   "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "midi-dress",
+   "print": "plain",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "midi",
+   "color": "red",
+   "vibe": "goth",
+   "cut": [
+    "fitted",
+    "lace-up",
+    "slit"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011766076734",
   "category": "dresses",
-  "name": "Goth Punk Vintage Sexy Dress",
+  "name": "Royal Blue Velvet Black Rose Lace Goth Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "sweetheart",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "blue",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "fitted",
+    "halter"
+   ],
+   "material": [
+    "velvet",
+    "lace"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013339124845",
   "category": "long-sleeves",
-  "name": "Goth Punk Long Sleeve Tee",
+  "name": "Black Double Button Keyhole Goth Punk Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "fitted-long-sleeve",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011812157308",
   "category": "dresses",
-  "name": "Goth Punk Kawaii Dress",
+  "name": "Navy Rose Lace Beaded Chain Goth Midi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "midi-dress",
+   "print": "plain",
+   "neck": "sweetheart",
+   "sleeve": "flare",
+   "length": "midi",
+   "color": "blue",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009391281992",
   "category": "skirts",
-  "name": "Corset Goth Skirt",
+  "name": "Emerald Green Lace Up Corset Goth High Low Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "midi-skirt",
+   "print": "plain",
+   "length": "midi",
+   "color": "green",
+   "vibe": "goth",
+   "cut": [
+    "lace-up",
+    "high-waist"
+   ],
+   "material": [
+    "satin"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011815568759",
   "category": "dresses",
-  "name": "Plaid Goth Ruffle Dress",
+  "name": "Grey Plaid Halter Ruffle Goth Tiered Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "halter",
+    "layered",
+    "fitted"
+   ],
+   "vibes": [
+    "harajuku",
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010667023140",
   "category": "dresses",
-  "name": "Fairy Dress",
+  "name": "Black Floral Print Fairy Grunge Cami Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "pattern",
+   "neck": "scoop",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "fairy-grunge",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "grunge",
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013503666745",
-  "category": "dresses",
-  "name": "Plaid Goth Punk Dress",
+  "category": "sets",
+  "name": "Black Collared Shrug and Plaid Cami Dress Goth Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "cropped",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005003266305308",
   "category": "skirts",
-  "name": "Skirt",
+  "name": "Black Pleated High Waist Y2K Skater Mini Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "pleated-skirt",
+   "print": "plain",
+   "length": "mini",
+   "color": "black",
+   "vibe": "y2k",
+   "cut": [
+    "high-waist"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013526957282",
   "category": "dresses",
-  "name": "Lace Off-Shoulder Goth Dress",
+  "name": "Black Off Shoulder Lace Up Goth Lolita Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows",
+    "hearts"
+   ],
+   "cut": [
+    "off-shoulder",
+    "lace-up"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011687888559",
   "category": "baby-tees",
-  "name": "Goth Punk Baby Tee",
+  "name": "Brown Lace Trim Wrap V Neck Goth Baby Tee",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "baby-tee",
+   "print": "plain",
+   "neck": "v-neck",
+   "sleeve": "puff",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "cotton",
+    "lace"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011687888559/0eba5f0e9dfc.jpg"
   ]
  },
  {
   "id": "1005011557299922",
   "category": "dresses",
-  "name": "Lace Patchwork Off-Shoulder Dress 2",
+  "name": "Navy Sailor Collar Off Shoulder Y2K Halter Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "stripes"
+   ],
+   "cut": [
+    "off-shoulder",
+    "halter",
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012994848339",
   "category": "long-sleeves",
-  "name": "Graphic Vintage Long Sleeve Tee",
+  "name": "Brown Collage Graphic Raglan Grunge Long Sleeve Tee",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "fitted-long-sleeve",
+   "print": "graphic",
+   "neck": "crew",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "brown",
+   "vibe": "grunge",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012977234120",
   "category": "dresses",
-  "name": "Lace Bow Off-Shoulder Dress",
+  "name": "Black Off Shoulder Halter Bow Goth Lace Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "off-shoulder",
+    "lace-up",
+    "halter"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010651491207",
   "category": "dresses",
-  "name": "Goth Grunge Ruffle Dress",
+  "name": "Purple Sparkle Tulle Fairy Grunge Ruffle Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "purple",
+   "vibe": "fairy-grunge",
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010660861066",
   "category": "dresses",
-  "name": "Fairy Plaid Dress",
+  "name": "Navy Plaid Peter Pan Collar Fairy Grunge Midi Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "midi-dress",
+   "print": "pattern",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "midi",
+   "color": "blue",
+   "vibe": "fairy-grunge",
+   "themes": [
+    "plaid"
+   ],
+   "vibes": [
+    "goth",
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010660861066/bca3ce608959.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010660861066/eced225b9325.jpg"
   ]
  },
  {
   "id": "1005012224898860",
   "category": "dresses",
-  "name": "Goth Vintage Dress 3",
+  "name": "Black Lace Up Front Goth Cami Ruffle Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "lace-up",
+    "fitted",
+    "layered"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012773970950",
   "category": "dresses",
-  "name": "Goth Punk Grunge Snakeskin Dress",
+  "name": "Red Snake Print Mock Neck Goth Bodycon Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "graphic",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "red",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "punk",
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011665951553",
   "category": "dresses",
-  "name": "Goth Fitted Dress 5",
+  "name": "Dark Red Pinstripe Goth Lolita Ruffle Midi Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "midi-dress",
+   "print": "pattern",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "midi",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "stripes",
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011665951553/d3303e871be5.jpg"
   ]
  },
  {
   "id": "1005013480423709",
   "category": "dresses",
-  "name": "Graphic Goth Punk Emo Dress 3",
+  "name": "Black Satin Cafe Rose Menu Goth Slip Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "graphic",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "satin",
+    "lace"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013586150495",
   "category": "dresses",
-  "name": "Goth Ruffle Vintage Dress",
+  "name": "Cartoon Print Peter Pan Collar Harajuku Lolita Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "multi",
+   "vibe": "harajuku",
+   "themes": [
+    "cartoons",
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008704644968",
   "category": "skirts",
-  "name": "Cross Lace Skirt",
+  "name": "Black Cross Lace Up Corset Goth Tiered Mini Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-skirt",
+   "print": "plain",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "lace-up",
+    "high-waist",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013617071572",
   "category": "dresses",
-  "name": "Lace Bow Goth Vintage Dress 4",
+  "name": "Black Velvet Lace Collar Bow Goth Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "velvet",
+    "lace"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013234896605",
   "category": "dresses",
-  "name": "Goth Set 2",
+  "name": "Pale Blue Alice Print Bow Goth Lolita Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "vibes": [
+    "harajuku",
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007157160151",
   "category": "dresses",
-  "name": "Lace Sexy Dress",
+  "name": "Black Collared Puff Sleeve Goth Pleated Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005002562667312",
   "category": "skirts",
-  "name": "Goth Punk Skirt",
+  "name": "Black Asymmetric Studded Goth Punk Midi Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "midi-skirt",
+   "print": "plain",
+   "length": "midi",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013485956405",
-  "category": "hoodies",
-  "name": "Goth Punk Jacket 3",
+  "category": "jackets",
+  "name": "Black Gold Button Military Goth Punk Jacket",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "coat",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005004287273482",
-  "category": "dresses",
-  "name": "Plaid Goth Punk Layered Dress",
+  "category": "sets",
+  "name": "Grey Plaid Cami Dress and Black Shrug Punk Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "pattern",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "layered",
+    "fitted"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013512110762",
-  "category": "hoodies",
-  "name": "Goth Punk Jacket 4",
+  "category": "jackets",
+  "name": "Black Double Breasted Goth Skirted Peplum Coat",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "coat",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "flare",
+   "length": "longline",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013093169853",
   "category": "jewelry",
-  "name": "Lace Floral Jewelry",
+  "name": "Red Velvet Ribbon Black Lace Goth Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers",
+    "bows"
+   ],
+   "material": [
+    "lace",
+    "velvet"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013128857910",
   "category": "dresses",
-  "name": "Stripe Goth Punk Layered Dress",
+  "name": "Grey Pinstripe Velvet Layered Goth Shirt Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "collared",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "stripes"
+   ],
+   "cut": [
+    "layered",
+    "fitted"
+   ],
+   "material": [
+    "velvet"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013587168043",
-  "category": "dresses",
-  "name": "Lace Stripe Bow Dress",
+  "category": "sets",
+  "name": "Pink Pinstripe Lace Collar Coquette Dress and Shorts Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "pattern",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "pink",
+   "vibe": "coquette",
+   "themes": [
+    "stripes",
+    "bows"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013620505773",
   "category": "pants",
-  "name": "Goth Pants",
+  "name": "Black Button Detail Low Rise Goth Flare Pants",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-pants",
+   "print": "plain",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "low-rise",
+    "fitted"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013098513166",
   "category": "crop-tees",
-  "name": "Bunny Graphic Crop Tee",
+  "name": "White Bunny Sketch Y2K Long Sleeve Henley Crop Top",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "crop-tee",
+   "print": "graphic",
+   "neck": "crew",
+   "sleeve": "long",
+   "length": "cropped",
+   "color": "white",
+   "vibe": "y2k",
+   "themes": [
+    "bunnies"
+   ],
+   "cut": [
+    "cropped",
+    "fitted"
+   ],
+   "material": [
+    "cotton"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010659720365",
-  "category": "dresses",
-  "name": "Lace Bow Goth Punk Dress 2",
+  "category": "skirts",
+  "name": "Pink Plaid Lace Bow Y2K Low Rise Mini Skirt",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-skirt",
+   "print": "pattern",
+   "length": "mini",
+   "color": "pink",
+   "vibe": "y2k",
+   "themes": [
+    "plaid",
+    "bows"
+   ],
+   "cut": [
+    "low-rise",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "emo",
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010659720365/b2434838e429.jpg"
   ]
  },
  {
   "id": "1005013480469640",
   "category": "dresses",
-  "name": "Graphic Goth Punk Emo Dress 4",
+  "name": "White Satin Stained Glass Print Goth Slip Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "graphic",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "white",
+   "vibe": "goth",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "satin",
+    "lace"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012978381535",
-  "category": "hoodies",
-  "name": "Goth Jacket 2",
+  "category": "jackets",
+  "name": "Black Wool Asymmetric Button Stand Collar Goth Jacket",
   "depts": [
    "women",
    "men"
-  ]
- },
- {
-  "id": "1005012879672096",
-  "category": "belts",
-  "name": "Wig 3",
-  "depts": [
-   "women",
-   "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "coat",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "oversized"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013454891433",
   "category": "dresses",
-  "name": "Lace Goth Ruffle Dress",
+  "name": "Black Stand Collar Tiered Ruffle Goth Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "layered",
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013108385098",
-  "category": "hoodies",
-  "name": "Star Off-Shoulder Hoodie",
+  "category": "sweaters",
+  "name": "Black Silver Star Off Shoulder Goth Knit Sweater",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "knit-sweater",
+   "print": "pattern",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "off-shoulder",
+    "fitted"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "goth",
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013387774618",
   "category": "dresses",
-  "name": "Goth Punk Emo Dress",
+  "name": "White Satin Rat Print Goth Slip Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "graphic",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "white",
+   "vibe": "goth",
+   "material": [
+    "satin",
+    "lace"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007960981004",
   "category": "dresses",
-  "name": "Goth Punk Emo Vintage Dress",
+  "name": "Black Velvet Spire Print Goth Cami Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "material": [
+    "velvet"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013480327952",
   "category": "dresses",
-  "name": "Graphic Goth Punk Emo Dress 5",
+  "name": "White Satin Dagger Heart Goth Slip Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "graphic",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "white",
+   "vibe": "goth",
+   "themes": [
+    "hearts",
+    "crosses"
+   ],
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "satin",
+    "lace"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009417101295",
-  "category": "camis-tanks",
-  "name": "Vintage Tank",
+  "category": "jackets",
+  "name": "Brown Double Breasted Victorian Goth Tailed Waistcoat",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "coat",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "sleeveless",
+   "length": "longline",
+   "color": "brown",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009201863298",
   "category": "dresses",
-  "name": "Goth Fitted Dress 6",
+  "name": "Royal Blue Ruffle Ball Gown Goth Lolita Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "puff",
+   "length": "maxi",
+   "color": "blue",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "off-shoulder",
+    "layered",
+    "fitted"
+   ],
+   "material": [
+    "lace",
+    "satin"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005005347215840",
   "category": "dresses",
-  "name": "Goth Ruffle Vintage Dress 2",
+  "name": "Black Jacquard Puff Sleeve Asymmetric Goth Midi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "midi-dress",
+   "print": "plain",
+   "neck": "sweetheart",
+   "sleeve": "puff",
+   "length": "midi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "layered"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013356431562",
   "category": "dresses",
-  "name": "Lace Patchwork Goth Vintage Dress",
+  "name": "Black Cape Collar White Jabot Goth Lolita Mini Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013356431562/4e08b7392b37.jpg"
   ]
  },
  {
   "id": "1005002608988438",
   "category": "skirts",
-  "name": "Plaid Goth Skirt",
+  "name": "Magenta Plaid Tiered Ruffle Y2K Mini Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-skirt",
+   "print": "pattern",
+   "length": "mini",
+   "color": "pink",
+   "vibe": "y2k",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "layered",
+    "high-waist"
+   ],
+   "vibes": [
+    "emo",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012505196271",
-  "category": "dresses",
-  "name": "Lace Goth Kawaii Dress",
+  "category": "skirts",
+  "name": "Black Buckle Heart Charm Goth Jirai Kei Mini Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-skirt",
+   "print": "plain",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "hearts"
+   ],
+   "cut": [
+    "high-waist",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku",
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013063867047",
   "category": "dresses",
-  "name": "Bow Goth Kawaii Dress 2",
+  "name": "Black Pink Bear Print Bow Harajuku Lolita Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "harajuku",
+   "themes": [
+    "cartoons",
+    "bows"
+   ],
+   "vibes": [
+    "coquette",
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013468477925",
   "category": "dresses",
-  "name": "Lace Rose Dress",
+  "name": "Midnight Navy Lace Rose Flare Sleeve Goth Midi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "midi-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "flare",
+   "length": "midi",
+   "color": "blue",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005002972120105",
   "category": "skirts",
-  "name": "Lace Plaid Skirt",
+  "name": "Red Plaid Lace Hem Goth Pleated Mini Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "pleated-skirt",
+   "print": "pattern",
+   "length": "mini",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "punk",
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013573011751",
   "category": "cardigans",
-  "name": "Goth Cardigan",
+  "name": "Black Double Breasted Off Shoulder Hooded Goth Cardigan",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "cardigan",
+   "print": "plain",
+   "neck": "hooded",
+   "sleeve": "long",
+   "length": "regular",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "off-shoulder",
+    "fitted"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013573011751/a4e8a5fb4976.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013573011751/c55abce39d18.jpg"
   ]
  },
  {
   "id": "1005013585328058",
   "category": "pants",
-  "name": "Stripe Goth Pants",
+  "name": "Pink Stripe Low Rise Y2K Lounge Flare Pants",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "flare-pants",
+   "print": "pattern",
+   "length": "regular",
+   "color": "pink",
+   "vibe": "y2k",
+   "themes": [
+    "stripes"
+   ],
+   "cut": [
+    "low-rise"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010570517026",
   "category": "sets",
-  "name": "Lace Rhinestone Bow Goth Set",
+  "name": "White Pink Bow Rhinestone Coquette Lolita Dress Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "graphic",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace",
+    "rhinestone"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010292414598",
   "category": "dresses",
-  "name": "Lace Goth Punk Vintage Dress 2",
+  "name": "Navy Rose Applique Lace Goth Lolita Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010541143350",
   "category": "dresses",
-  "name": "Bow Goth Square Neck Dress",
+  "name": "Black Victorian Square Neck Goth Court Gown Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "flare",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered",
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010378295915",
-  "category": "sets",
-  "name": "Fairy Lace Set",
+  "category": "dresses",
+  "name": "Black Puff Sleeve Lace Up Fairy Grunge Corset Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "black",
+   "vibe": "fairy-grunge",
+   "cut": [
+    "lace-up",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005001630873054",
   "category": "skirts",
-  "name": "Plaid Kawaii Skirt",
+  "name": "Black Plaid Pleated Harajuku School Mini Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "pleated-skirt",
+   "print": "pattern",
+   "length": "mini",
+   "color": "black",
+   "vibe": "harajuku",
+   "themes": [
+    "plaid"
+   ],
+   "cut": [
+    "high-waist"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010569557920",
   "category": "dresses",
-  "name": "Stripe Goth Punk Grunge Dress",
+  "name": "Black Grey Stripe Cartoon Patch Grunge Tiered Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "grunge",
+   "themes": [
+    "stripes",
+    "cartoons"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "goth",
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013617402518",
   "category": "dresses",
-  "name": "Bow Goth Square Neck Fitted Dress",
+  "name": "Black White Cross Corset Bow Print Goth Lolita Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses",
+    "bows"
+   ],
+   "cut": [
+    "halter",
+    "lace-up",
+    "layered"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013607371319",
   "category": "dresses",
-  "name": "Lace Patchwork Goth Vintage Dress 2",
+  "name": "Black Red Lace Corset Layered Goth Midi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "plain",
+   "neck": "sweetheart",
+   "sleeve": "sleeveless",
+   "length": "midi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "layered",
+    "fitted"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005004849628103",
   "category": "arm-warmers",
-  "name": "Goth Punk Gloves",
+  "name": "Orange Ribbed Knit Grunge Fingerless Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "yellow",
+   "vibe": "grunge",
+   "material": [
+    "knit",
+    "ribbed"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013021705378",
   "category": "dresses",
-  "name": "Goth Vintage Dress 4",
+  "name": "Teal Velvet Face Print Mock Neck Goth Bodycon Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "velvet"
+   ],
+   "vibes": [
+    "grunge",
+    "y2k"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013021705378/437334c7f135.jpg"
   ]
  },
  {
   "id": "1005008274373668",
-  "category": "sets",
-  "name": "Cross Set",
+  "category": "dresses",
+  "name": "Purple Lace Halter Cross Back Goth Corset Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "midi",
+   "color": "purple",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "halter",
+    "lace-up",
+    "layered"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005002462739723",
   "category": "dresses",
-  "name": "Lace Mesh Patchwork Dress",
+  "name": "Charcoal Grey Tulle Mesh Fairy Grunge Cami Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "scoop",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "grey",
+   "vibe": "fairy-grunge",
+   "cut": [
+    "layered",
+    "lace-up"
+   ],
+   "material": [
+    "mesh",
+    "lace"
+   ],
+   "vibes": [
+    "goth",
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005001630914086",
   "category": "skirts",
-  "name": "Plaid Sexy Skirt",
+  "name": "Black Zip Side Pleated Harajuku Preppy Mini Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "pleated-skirt",
+   "print": "plain",
+   "length": "mini",
+   "color": "black",
+   "vibe": "harajuku",
+   "cut": [
+    "high-waist"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012893780724",
   "category": "dresses",
-  "name": "Bow Goth Fitted Dress",
+  "name": "Black Piano Key Music Note Harajuku Lolita Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "harajuku",
+   "themes": [
+    "bows"
+   ],
+   "vibes": [
+    "goth",
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012893780724/61b99ac04402.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012893780724/ef05c15c5bd3.jpg"
   ]
  },
  {
   "id": "1005009466171442",
   "category": "dresses",
-  "name": "Patchwork Goth Dress",
+  "name": "Navy Collared Cross Charm Goth Jirai Kei Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "goth",
+   "themes": [
+    "crosses",
+    "bows"
+   ],
+   "cut": [
+    "fitted",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013073453508",
   "category": "dresses",
-  "name": "Goth Punk Emo Fitted Dress",
+  "name": "Black Stripe Bow Bust Emo Cami Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "sweetheart",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "emo",
+   "themes": [
+    "stripes",
+    "bows"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005001629684114",
   "category": "skirts",
-  "name": "Cross Goth Skirt",
+  "name": "Navy Pleated Lace Up Side Goth Mini Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "pleated-skirt",
+   "print": "plain",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "goth",
+   "cut": [
+    "lace-up",
+    "high-waist"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010230841304",
   "category": "dresses",
-  "name": "Lace Bow Goth Punk Dress 3",
+  "name": "Black Victorian Lace Bow Corset Goth Lolita Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered",
+    "lace-up"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008683842863",
   "category": "dresses",
-  "name": "Lace Goth Punk Ruffle Dress",
+  "name": "White Cape Collar Victorian Goth Mermaid Maxi Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "maxi",
+   "color": "white",
+   "vibe": "goth",
+   "cut": [
+    "fitted",
+    "layered"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008683842863/6a3ad217e79d.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008683842863/f847f3e7b8d3.jpg"
   ]
  },
  {
   "id": "1005012125923280",
   "category": "dresses",
-  "name": "Lace Goth Punk Fitted Dress",
+  "name": "Black Skull Rose Tattoo Print Y2K Tube Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "strapless",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "y2k",
+   "themes": [
+    "skulls",
+    "flowers",
+    "hearts"
+   ],
+   "cut": [
+    "fitted",
+    "lace-up"
+   ],
+   "vibes": [
+    "punk",
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008662231194",
   "category": "skirts",
-  "name": "Lace Mesh Skirt",
+  "name": "Black Lace Up Lace Hem Grunge Pleated Mini Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "pleated-skirt",
+   "print": "plain",
+   "length": "mini",
+   "color": "black",
+   "vibe": "grunge",
+   "cut": [
+    "lace-up",
+    "low-rise"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "goth",
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009824328621",
   "category": "dresses",
-  "name": "Goth Dress 3",
+  "name": "Black Red Bell Sleeve Goth Lolita Camisole Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "mesh",
+    "lace"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009820454637",
   "category": "dresses",
-  "name": "Lace Goth Ruffle Vintage Dress",
+  "name": "White Lace Bell Sleeve Victorian Goth Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "flare",
+   "length": "maxi",
+   "color": "white",
+   "vibe": "goth",
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009841078802",
   "category": "dresses",
-  "name": "Lace Patchwork Goth Grunge Dress",
+  "name": "Black Velvet Lace Panel Flare Sleeve Goth Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "v-neck",
+   "sleeve": "flare",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "velvet",
+    "lace"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005003067106426",
   "category": "skirts",
-  "name": "Goth Skirt",
+  "name": "Black Lace Up Front Goth Skater Mini Skirt",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-skirt",
+   "print": "plain",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "lace-up",
+    "high-waist"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011855168240",
   "category": "dresses",
-  "name": "Lace Bow Goth Punk Ruffle Dress",
+  "name": "Black Red Plaid Heart Buckle Goth Lolita Mini Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "sweetheart",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "plaid",
+    "hearts",
+    "bows"
+   ],
+   "cut": [
+    "layered",
+    "lace-up"
+   ],
+   "vibes": [
+    "punk",
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011855168240/d342f80117ef.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011855168240/fcd64e61416e.jpg"
   ]
  },
  {
   "id": "1005004821515352",
   "category": "dresses",
-  "name": "Goth Kawaii Dress",
+  "name": "Black Tweed Double Breasted Lace Trim Goth Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009236537315",
   "category": "dresses",
-  "name": "Lace Goth Grunge Dress",
+  "name": "Black Velvet Cross Lace Up Split Goth Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "cut": [
+    "lace-up",
+    "slit",
+    "fitted"
+   ],
+   "material": [
+    "velvet"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012741971214",
   "category": "belts",
-  "name": "Punk Sunglasses",
+  "name": "Black Mirror Shield Visor Y2K Sunglasses",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "sunglasses",
+   "print": "plain",
+   "color": "black",
+   "vibe": "y2k",
+   "vibes": [
+    "rave",
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012271360978",
   "category": "dresses",
-  "name": "Lace Stripe Goth Dress",
+  "name": "Black Pinstripe Lace-Up Goth Corset Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "pattern",
+   "neck": "square",
+   "sleeve": "cap",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "stripes"
+   ],
+   "cut": [
+    "lace-up",
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007519529538",
   "category": "dresses",
-  "name": "Bow Graphic Dress",
+  "name": "White Lace Trim Black Bow Coquette Slip Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "plain",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008616526026",
   "category": "dresses",
-  "name": "Lace Bow Patchwork Goth Grunge Dress",
+  "name": "Black Capelet Goth Long Sleeve Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted",
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009351545039",
-  "category": "camis-tanks",
-  "name": "Patchwork Punk Tank",
+  "category": "jackets",
+  "name": "Black Faux Leather Hooded Punk Vest Jacket",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "leather-jacket",
+   "print": "plain",
+   "neck": "hooded",
+   "sleeve": "sleeveless",
+   "length": "regular",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010096241351",
   "category": "dresses",
-  "name": "Lace Bow Goth Vintage Dress 5",
+  "name": "Black Collared Button Front Goth Pleated Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012849169425",
   "category": "dresses",
-  "name": "Lace Bow Goth Kawaii Ruffle Dress 2",
+  "name": "Pink Bear Print Bow Harajuku Lolita Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "graphic",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "pink",
+   "vibe": "coquette",
+   "themes": [
+    "bows",
+    "cartoons"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku",
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009748504307",
   "category": "dresses",
-  "name": "Goth Punk Grunge Vintage Dress",
+  "name": "Olive Hooded Grunge Desert Walker Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "hooded",
+   "sleeve": "sleeveless",
+   "length": "maxi",
+   "color": "green",
+   "vibe": "grunge",
+   "cut": [
+    "slit",
+    "fitted"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009507924571",
   "category": "dresses",
-  "name": "Lace Floral Bow Dress",
+  "name": "Baby Blue Lace Ruffle Bow Coquette Lolita Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "flare",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012847287017",
-  "category": "dresses",
-  "name": "Cross Dress",
+  "category": "sets",
+  "name": "Black Sailor Collar Cross Jirai Kei Goth Dress Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008036852702",
   "category": "dresses",
-  "name": "Cross Lace Bow Dress",
+  "name": "Red Black Tiered Mesh Cross Goth Lolita Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "flare",
+   "length": "maxi",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "crosses",
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011814517959",
   "category": "dresses",
-  "name": "Polka Dot Bow Dress",
+  "name": "Pink Polka Dot Black Bow Coquette Cami Mini Dress",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "square",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "pink",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011814517959/3ef6d00c5093.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011814517959/62896da4be8f.jpg"
   ]
  },
  {
   "id": "1005009171905435",
   "category": "sets",
-  "name": "Rhinestone Plaid Set",
+  "name": "Grey Plaid Rhinestone Bow Goth Shirt Dress Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "pattern",
+   "neck": "collared",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "plaid",
+    "bows"
+   ],
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "harajuku",
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012612938897",
-  "category": "dresses",
-  "name": "Lace Bow Goth Kawaii Vintage Dress",
+  "category": "sets",
+  "name": "Baby Blue Bow Cami Dress Coquette Shrug Set",
   "depts": [
    "women"
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "square",
+   "sleeve": "short",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth",
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012612938897/4b8dc1241b37.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012612938897/98650f2e9d12.jpg"
   ]
  },
  {
   "id": "1005013610488258",
   "category": "sets",
-  "name": "Lace Stripe Goth Set",
+  "name": "Black Pinstripe Lace Trim Goth Shirt Dress Set",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "pattern",
+   "neck": "collared",
+   "sleeve": "long",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "stripes"
+   ],
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005005013620793",
   "category": "dresses",
-  "name": "Plaid Goth Punk Vintage Dress",
+  "name": "Black Celestial Print Lace-Up Goth Cami Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "mini-dress",
+   "print": "pattern",
+   "neck": "sweetheart",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "stars"
+   ],
+   "cut": [
+    "lace-up",
+    "fitted"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010209135452",
   "category": "dresses",
-  "name": "Lace Patchwork Off-Shoulder Goth Dress",
+  "name": "Grey Lace Patchwork Grunge Layered Slip Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "slip-dress",
+   "print": "plain",
+   "neck": "v-neck",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "grey",
+   "vibe": "grunge",
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth",
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007164017329",
   "category": "sets",
-  "name": "Rhinestone Set",
+  "name": "Sky Blue Ruffle Bow Coquette Puff Sleeve Dress Set",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005013447887647",
-  "category": "belts",
-  "name": "Wig 5",
-  "depts": [
-   "women",
-   "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "two-piece",
+   "print": "plain",
+   "neck": "collared",
+   "sleeve": "puff",
+   "length": "mini",
+   "color": "blue",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009298670626",
   "category": "jewelry",
-  "name": "Cross Goth Jewelry",
+  "name": "Red Wood Cross Goth Pendant Necklace",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012593101494",
   "category": "jewelry",
-  "name": "Star Jewelry",
+  "name": "Pearl Double Layer Safety Pin Star Y2K Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "white",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005006157426979",
   "category": "jewelry",
-  "name": "Cross Jewelry",
+  "name": "Pink Crystal Cross Y2K Pendant Necklace",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "pink",
+   "vibe": "y2k",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010635167216",
   "category": "jewelry",
-  "name": "Heart Cross Jewelry",
+  "name": "Red Sacred Heart Black Bead Goth Choker",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "hearts"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012764722264",
   "category": "jewelry",
-  "name": "Bow Punk Jewelry",
+  "name": "Silver Bow Sword Punk Pendant Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "punk",
+   "themes": [
+    "bows"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010436111488",
   "category": "jewelry",
-  "name": "Cow Vintage Jewelry",
+  "name": "Turquoise Cowboy Boot Western Layered Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "western",
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012896308167",
   "category": "jewelry",
-  "name": "Bow Jewelry",
+  "name": "Silver Bow Knot Knife Grunge Pendant Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "grunge",
+   "themes": [
+    "bows"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013283880637",
   "category": "jewelry",
-  "name": "Heart Jewelry",
+  "name": "Silver Black Bead Tassel Y2K Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "y2k",
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010718305510",
   "category": "jewelry",
-  "name": "Heart Jewelry 2",
+  "name": "Rainbow Seed Bead Heart Toggle Y2K Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "multi",
+   "vibe": "y2k",
+   "themes": [
+    "hearts"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013099858246",
   "category": "jewelry",
-  "name": "Heart Coquette Jewelry",
+  "name": "Pearl Heart Saturn Safety Pin Coquette Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "hearts"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012280154781",
   "category": "jewelry",
-  "name": "Cross Rose Jewelry",
+  "name": "Silver Thorn Rose Cross Goth Pendant Necklace",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "crosses",
+    "flowers"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005006117709441",
   "category": "jewelry",
-  "name": "Star Heart Jewelry",
+  "name": "Black HIM Heartagram Goth Pendant Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "music",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "hearts",
+    "stars"
+   ],
+   "vibes": [
+    "emo",
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010748462621",
   "category": "jewelry",
-  "name": "Kitty Rhinestone Jewelry",
+  "name": "Black Rhinestone Puppy Paw Y2K Collar Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "slogan",
+   "color": "black",
+   "vibe": "y2k",
+   "material": [
+    "faux-leather",
+    "rhinestone"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013191122157",
   "category": "jewelry",
-  "name": "Cherry Goth Jewelry",
+  "name": "Black Velvet Cherry Goth Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "cherries"
+   ],
+   "material": [
+    "velvet"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010165361995",
   "category": "jewelry",
-  "name": "Jewelry",
+  "name": "Silver Spiral Pendant Y2K Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "y2k",
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008876945088",
   "category": "jewelry",
-  "name": "Star Jewelry 2",
+  "name": "White Bead Starfish Y2K Beach Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "white",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011556313468",
   "category": "jewelry",
-  "name": "Skull Goth Jewelry",
+  "name": "Crystal Skull Crossbones Goth Pendant Necklace",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "skulls"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "punk",
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012403904809",
   "category": "jewelry",
-  "name": "Goth Jewelry 2",
+  "name": "Silver Square Link Chain Goth Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "goth",
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012535703314",
   "category": "jewelry",
-  "name": "Heart Cross Lace Jewelry",
+  "name": "Black Lace Bow Cross Heart Goth Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "hearts",
+    "crosses",
+    "bows"
+   ],
+   "material": [
+    "lace",
+    "studs"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012461811206",
   "category": "jewelry",
-  "name": "Goth Punk Grunge Jewelry",
+  "name": "Silver Link Chain Heart Grunge Choker",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "grunge",
+   "themes": [
+    "hearts"
+   ],
+   "vibes": [
+    "goth",
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012288244497",
   "category": "jewelry",
-  "name": "Cross Goth Punk Jewelry",
+  "name": "Silver Spiked Chain Cross Punk Necklace",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "punk",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012419121469",
   "category": "jewelry",
-  "name": "Heart Cross Lace Goth Jewelry",
+  "name": "Black Ruffle Lace Cross Goth Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012337168458",
   "category": "jewelry",
-  "name": "Goth Punk Grunge Jewelry 2",
+  "name": "Silver Spiked Heart Grunge Pendant Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "grunge",
+   "themes": [
+    "hearts"
+   ],
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "punk",
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012332271821",
   "category": "jewelry",
-  "name": "Goth Punk Grunge Jewelry 3",
+  "name": "Silver Evil Eye Cross Charm Grunge Choker",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "grunge",
+   "themes": [
+    "crosses"
+   ],
+   "vibes": [
+    "goth",
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012301383016",
   "category": "jewelry",
-  "name": "Heart Cross Lace Bow Jewelry",
+  "name": "White Lace Bow Cross Heart Coquette Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "hearts",
+    "crosses",
+    "bows"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012299540595",
   "category": "jewelry",
-  "name": "Cross Jewelry 2",
+  "name": "Pearl Rosary Cross Layered Y2K Necklace",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "white",
+   "vibe": "y2k",
+   "themes": [
+    "crosses"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012284001640",
   "category": "jewelry",
-  "name": "Heart Jewelry 3",
+  "name": "Silver Heart Locket Y2K Pendant Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "y2k",
+   "themes": [
+    "hearts"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012241105809",
   "category": "jewelry",
-  "name": "Cross Jewelry 3",
+  "name": "Rainbow Crystal Cross Y2K Pendant Necklace",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "multi",
+   "vibe": "y2k",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012077997636",
   "category": "jewelry",
-  "name": "Goth Vintage Jewelry",
+  "name": "Red Brown Leather Barbed Goth Choker",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "brown",
+   "vibe": "goth",
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005007452401150",
   "category": "legwear",
-  "name": "Cross Goth Socks",
+  "name": "Black Bow Fishnet Goth Tights",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "tights",
+   "print": "pattern",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012058557505",
   "category": "jewelry",
-  "name": "Heart Goth Jewelry",
+  "name": "Black Leather Studded Heart Ring Goth Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "hearts"
+   ],
+   "material": [
+    "faux-leather",
+    "studs"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012075239340",
   "category": "jewelry",
-  "name": "Angel Jewelry",
+  "name": "Silver Angel Wings Y2K Waist Body Chain",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "body-chain",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "y2k",
+   "themes": [
+    "angels"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010263121060",
   "category": "jewelry",
-  "name": "Punk Jewelry 2",
+  "name": "Black Leather Buckle Punk Choker",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005003025957760",
   "category": "belts",
-  "name": "Skull Star Belt",
+  "name": "Silver Double Layer Punk Pants Chain Belt",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "belt",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "punk",
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011894934771",
   "category": "jewelry",
-  "name": "Rhinestone Vintage Jewelry",
+  "name": "Gold Rainbow Rhinestone Drop Y2K Lariat Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "multi",
+   "vibe": "y2k",
+   "material": [
+    "rhinestone"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011935532245",
   "category": "jewelry",
-  "name": "Goth Punk Jewelry 3",
+  "name": "Silver Chunky Spike Chain Punk Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "punk",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011891862890",
   "category": "jewelry",
-  "name": "Goth Punk Grunge Sexy Jewelry",
+  "name": "Pink Pyramid Stud Punk Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "pink",
+   "vibe": "punk",
+   "material": [
+    "faux-leather",
+    "studs"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011859538718",
   "category": "jewelry",
-  "name": "Goth Punk Jewelry 4",
+  "name": "Black Leather Long Spike O-Ring Punk Choker",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "faux-leather",
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011836386863",
   "category": "jewelry",
-  "name": "Vintage Jewelry",
+  "name": "Pink Silk Scarf Cherry Strawberry Coquette Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "pink",
+   "vibe": "coquette",
+   "themes": [
+    "cherries"
+   ],
+   "material": [
+    "satin"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011648303868",
   "category": "jewelry",
-  "name": "Sexy Jewelry",
+  "name": "Purple Seed Bead Y2K Waist Body Chain",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "body-chain",
+   "print": "plain",
+   "color": "purple",
+   "vibe": "y2k",
+   "unisex": false
+  }
  },
  {
   "id": "1005011572957511",
   "category": "jewelry",
-  "name": "Fairy Star Jewelry",
+  "name": "Blue Bead Seashell Starfish Fairy Grunge Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "blue",
+   "vibe": "fairy-grunge",
+   "themes": [
+    "stars"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010659264931",
   "category": "jewelry",
-  "name": "Lace Bow Jewelry",
+  "name": "White Lace Ribbon Tie Coquette Choker",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005009235911549",
-  "category": "belts",
-  "name": "Glasses 5",
-  "depts": [
-   "women",
-   "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010635977175",
   "category": "jewelry",
-  "name": "Cross Jewelry 4",
+  "name": "Gold Layered Rainbow Bead Cross Y2K Necklace",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "multi",
+   "vibe": "y2k",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012358753533",
   "category": "jewelry",
-  "name": "Cross Goth Punk Jewelry 2",
+  "name": "White Wooden Cross Long Cord Goth Necklace",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "white",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "vibes": [
+    "punk",
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012284273213",
   "category": "jewelry",
-  "name": "Patchwork Goth Jewelry",
+  "name": "Silver Spiked Ball Chain Punk Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "punk",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012200742427",
   "category": "jewelry",
-  "name": "Goth Punk Grunge Jewelry 4",
+  "name": "Silver Chainmail O-Ring Grunge Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "grunge",
+   "vibes": [
+    "punk",
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012057728843",
   "category": "jewelry",
-  "name": "Cross Goth Punk Emo Jewelry",
+  "name": "Black Bead Layered Cross Emo Necklace",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "black",
+   "vibe": "emo",
+   "themes": [
+    "crosses"
+   ],
+   "vibes": [
+    "goth",
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011923810571",
   "category": "jewelry",
-  "name": "Goth Punk Grunge Jewelry 5",
+  "name": "Silver Crescent Star Drop Grunge Long Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "grunge",
+   "themes": [
+    "stars"
+   ],
+   "vibes": [
+    "goth",
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011895768783",
   "category": "jewelry",
-  "name": "Goth Punk Grunge Jewelry 6",
+  "name": "Silver Crescent Chain Sword Grunge Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "grunge",
+   "vibes": [
+    "goth",
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011577182379",
   "category": "jewelry",
-  "name": "Punk Jewelry 3",
+  "name": "Silver Barbed Wire Razor Blade Punk Choker",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "punk",
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010193561520",
   "category": "jewelry",
-  "name": "Cherry Heart Jewelry",
+  "name": "Leopard Silk Scarf Flower Charm Y2K Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "pattern",
+   "color": "brown",
+   "vibe": "y2k",
+   "themes": [
+    "leopard",
+    "flowers"
+   ],
+   "material": [
+    "satin"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010093497792",
   "category": "jewelry",
-  "name": "Cross Goth Punk Jewelry 3",
+  "name": "Black Bead Big Cross Goth Rosary Necklace",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008766203799",
   "category": "jewelry",
-  "name": "Jewelry 3",
+  "name": "Silver Tiny Ball Y2K Nose Stud Piercings",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "earrings",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "y2k",
+   "unisex": true
+  }
  },
  {
   "id": "1005012956732148",
   "category": "jewelry",
-  "name": "Star Heart Goth Jewelry",
+  "name": "Silver Heartagram Goth Pendant Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "music",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "hearts",
+    "stars"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013200803976",
   "category": "jewelry",
-  "name": "Goth Punk Vintage Jewelry",
+  "name": "Black Leather O-Ring Cross Goth Choker",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010526550618",
   "category": "jewelry",
-  "name": "Cherry Floral Jewelry",
+  "name": "Gold Bow Cherry Charm Coquette Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "yellow",
+   "vibe": "coquette",
+   "themes": [
+    "bows",
+    "cherries",
+    "flowers"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005004912966238",
   "category": "jewelry",
-  "name": "Jewelry 4",
+  "name": "Black Biker Rider Bell Punk Pendant Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010531554483",
   "category": "jewelry",
-  "name": "Heart Polka Dot Jewelry",
+  "name": "Pink Yellow Polka Dot Bow Coquette Ribbon Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "pattern",
+   "color": "pink",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "satin"
+   ],
+   "vibes": [
+    "harajuku",
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010480373966",
   "category": "jewelry",
-  "name": "Jewelry 5",
+  "name": "Black Faux Pearl Multi Layer Y2K Long Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "black",
+   "vibe": "y2k",
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010398145699",
   "category": "jewelry",
-  "name": "Butterfly Punk Jewelry",
+  "name": "Crystal Butterfly Tassel Fairy Grunge Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "blue",
+   "vibe": "fairy-grunge",
+   "themes": [
+    "butterflies"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007128196140",
   "category": "jewelry",
-  "name": "Kitty Jewelry",
+  "name": "Gold Cat Outline Y2K Pendant Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "yellow",
+   "vibe": "y2k",
+   "themes": [
+    "cats"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010277573630",
   "category": "jewelry",
-  "name": "Heart Jewelry 4",
+  "name": "Gold Layered Crystal Heart Bow Y2K Lariat Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "yellow",
+   "vibe": "y2k",
+   "themes": [
+    "hearts",
+    "bows"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007435538708",
   "category": "jewelry",
-  "name": "Floral Rose Jewelry",
+  "name": "Red Rose Wrap Cord Goth Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012768197189",
   "category": "jewelry",
-  "name": "Punk Jewelry 4",
+  "name": "Black Leather Buckle Bone Charm Punk Collar Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007187151371",
   "category": "jewelry",
-  "name": "Spider Web Jewelry",
+  "name": "Silver Green Crystal Spider Goth Pendant Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "spiders"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012588486997",
   "category": "jewelry",
-  "name": "Star Goth Jewelry",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "33039546258",
-  "category": "belts",
-  "name": "Vintage Glasses",
+  "name": "Black Leather Star Pendant Goth Choker",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "stars"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005012747260156",
   "category": "jewelry",
-  "name": "Jewelry 6",
+  "name": "Black Cord Mini Headphones Y2K Pendant Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "black",
+   "vibe": "y2k",
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010266438246",
   "category": "jewelry",
-  "name": "Heart Sexy Jewelry",
+  "name": "Gold Heart Bead Y2K Waist Body Chain",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "body-chain",
+   "print": "plain",
+   "color": "yellow",
+   "vibe": "y2k",
+   "themes": [
+    "hearts"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012273336274",
   "category": "jewelry",
-  "name": "Lace Jewelry",
+  "name": "Black Lace Organza Ribbon Coquette Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "black",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009921971371",
   "category": "jewelry",
-  "name": "Goth Punk Vintage Jewelry 2",
+  "name": "Brown Leather Ring Chain Grunge Choker",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "brown",
+   "vibe": "grunge",
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "goth",
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013237915428",
   "category": "jewelry",
-  "name": "Lace Bow Jewelry 2",
+  "name": "Black Lace Pink Bow Pearl Coquette Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "black",
+   "vibe": "coquette",
+   "themes": [
+    "bows",
+    "hearts"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth",
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009938619140",
   "category": "jewelry",
-  "name": "Cross Rhinestone Jewelry",
+  "name": "Silver Snake Chain Rhinestone Cross Goth Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008525507415",
   "category": "jewelry",
-  "name": "Kawaii Jewelry",
+  "name": "Red Strawberry Bead Bow Harajuku Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "red",
+   "vibe": "harajuku",
+   "themes": [
+    "bows"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010121050995",
   "category": "jewelry",
-  "name": "Sexy Jewelry 2",
+  "name": "Rainbow Crystal Bead Layered Y2K Lariat Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "multi",
+   "vibe": "y2k",
+   "material": [
+    "rhinestone"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009872378196",
   "category": "hair",
-  "name": "Hair Clips",
+  "name": "Black Silver Hollow Oval Y2K Snap Hair Clips",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "hair-clips",
+   "print": "plain",
+   "color": "black",
+   "vibe": "y2k",
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009824349115",
   "category": "jewelry",
-  "name": "Cross Jewelry 5",
+  "name": "Red Bead Cross Tassel Layered Goth Choker",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "plain",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007598828303",
   "category": "jewelry",
-  "name": "Goth Punk Grunge Jewelry 7",
+  "name": "Gold Razor Blade Grunge Pendant Necklace",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "yellow",
+   "vibe": "grunge",
+   "vibes": [
+    "punk",
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009990709000",
   "category": "jewelry",
-  "name": "Cross Floral Jewelry",
+  "name": "Silver Rose Cross Y2K Pendant Necklace",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "y2k",
+   "themes": [
+    "crosses",
+    "flowers"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009682109542",
   "category": "jewelry",
-  "name": "Leopard Goth Jewelry",
+  "name": "Grey Leopard Print Buckle Punk Collar Choker",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "choker",
+   "print": "pattern",
+   "color": "grey",
+   "vibe": "punk",
+   "themes": [
+    "leopard"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "y2k",
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009225433044",
   "category": "jewelry",
-  "name": "Cross Goth Punk Jewelry 4",
+  "name": "Silver Ornate Red Gem Cross Goth Necklace",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009623453704",
   "category": "jewelry",
-  "name": "Cross Goth Punk Jewelry 5",
+  "name": "White Wood Cross Black Bead Chain Goth Necklace",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "white",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010093449435",
   "category": "jewelry",
-  "name": "Cross Rhinestone Punk Jewelry",
+  "name": "Pearl Chain Rhinestone Cross Y2K Long Necklace",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "white",
+   "vibe": "y2k",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011830037674",
   "category": "jewelry",
-  "name": "Star Floral Jewelry",
+  "name": "Silver Big Starfish Grunge Long Necklace",
   "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005010135684198",
-  "category": "bags",
-  "name": "Bag",
-  "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "grunge",
+   "themes": [
+    "stars"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010027938914",
   "category": "jewelry",
-  "name": "Cross Goth Vintage Jewelry",
+  "name": "Pearl Bead Silver Cross Goth Rosary Necklace",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "white",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009786545777",
   "category": "jewelry",
-  "name": "Cross Jewelry 6",
+  "name": "Blue Crystal Bead Layered Cross Y2K Necklace",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009926417406",
   "category": "jewelry",
-  "name": "Cross Goth Punk Jewelry 6",
+  "name": "Antique Silver Red Crystal Cross Goth Necklace",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "necklace",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "anime",
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005009903855927",
   "category": "dresses",
-  "name": "Lace Goth Grunge Fitted Dress",
+  "name": "Black Lace High Neck Goth Long Sleeve Maxi Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "maxi-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "long",
+   "length": "maxi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "fitted"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012366664735",
   "category": "dresses",
-  "name": "Backless Dress",
+  "name": "Black Red Halter Backless Goth High Low Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "midi-dress",
+   "print": "plain",
+   "neck": "high-neck",
+   "sleeve": "sleeveless",
+   "length": "midi",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "halter",
+    "backless"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010649313786",
   "category": "dresses",
-  "name": "Star Lace Dress",
+  "name": "Red Lace Rose Corset Goth Lace-Up Mini Dress",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "corset-dress",
+   "print": "plain",
+   "neck": "sweetheart",
+   "sleeve": "sleeveless",
+   "length": "mini",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "flowers",
+    "bows"
+   ],
+   "cut": [
+    "lace-up",
+    "fitted"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "emo",
+    "rave"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011766412100",
@@ -105437,14 +111702,6 @@
   ]
  },
  {
-  "id": "1005006274049227",
-  "category": "jewelry",
-  "name": "Heart Punk Jewelry",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "1005008740991625",
   "category": "jewelry",
   "name": "Cross Snakeskin Jewelry",
@@ -105550,14 +111807,6 @@
   "depts": [
    "women",
    "men"
-  ]
- },
- {
-  "id": "1005003220846794",
-  "category": "jewelry",
-  "name": "Punk Sexy Jewelry",
-  "depts": [
-   "women"
   ]
  },
  {
@@ -105721,14 +111970,6 @@
   ]
  },
  {
-  "id": "1005013380592051",
-  "category": "jewelry",
-  "name": "Goth Punk Sexy Jewelry",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "1005013336635844",
   "category": "jewelry",
   "name": "Lace Bow Jewelry 3",
@@ -105765,14 +112006,6 @@
   "id": "1005010184818263",
   "category": "jewelry",
   "name": "Star Punk Jewelry 3",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005006148788332",
-  "category": "jewelry",
-  "name": "Jewelry 12",
   "depts": [
    "women"
   ]
@@ -106817,14 +113050,6 @@
   "id": "1005008128821244",
   "category": "shoes",
   "name": "Lace Shoes 8",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005001313656102",
-  "category": "shoes",
-  "name": "Mesh Shoes",
   "depts": [
    "women"
   ]
@@ -108888,14 +115113,6 @@
   ]
  },
  {
-  "id": "1005013429103855",
-  "category": "jewelry",
-  "name": "Floral Jewelry 2",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "1005012191045743",
   "category": "jewelry",
   "name": "Angel Star Jewelry 2",
@@ -109061,14 +115278,6 @@
   "id": "1005008678898860",
   "category": "jewelry",
   "name": "Star Heart Goth Punk Jewelry",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005005476992535",
-  "category": "jewelry",
-  "name": "Jewelry 27",
   "depts": [
    "women"
   ]
@@ -109407,14 +115616,6 @@
   ]
  },
  {
-  "id": "1005012061056462",
-  "category": "jewelry",
-  "name": "Jewelry 32",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "1005006048731413",
   "category": "jewelry",
   "name": "Heart Cross Goth Punk Vintage Jewelry",
@@ -109692,14 +115893,6 @@
   "id": "1005007480664899",
   "category": "jewelry",
   "name": "Jewelry 41",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005007557251610",
-  "category": "jewelry",
-  "name": "Jewelry 42",
   "depts": [
    "women"
   ]
@@ -110003,14 +116196,6 @@
   ]
  },
  {
-  "id": "1005006111470582",
-  "category": "jewelry",
-  "name": "Jewelry 47",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "1005008188592680",
   "category": "jewelry",
   "name": "Punk Jewelry 21",
@@ -110127,15 +116312,6 @@
   "id": "1005012369507531",
   "category": "jewelry",
   "name": "Cross Punk Jewelry 3",
-  "depts": [
-   "women",
-   "men"
-  ]
- },
- {
-  "id": "1005013597438107",
-  "category": "jewelry",
-  "name": "Skull Goth Punk Jewelry",
   "depts": [
    "women",
    "men"
@@ -110671,14 +116847,6 @@
   ]
  },
  {
-  "id": "1005008464101159",
-  "category": "jewelry",
-  "name": "Jewelry 62",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "1005012502456616",
   "category": "jewelry",
   "name": "Butterfly Jewelry 3",
@@ -110815,14 +116983,6 @@
   ]
  },
  {
-  "id": "1005013305316154",
-  "category": "shoes",
-  "name": "Polka Dot Shoes 2",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "1005008565030697",
   "category": "shoes",
   "name": "Shoes 76",
@@ -110890,14 +117050,6 @@
   "id": "1005012606030201",
   "category": "shoes",
   "name": "Fur Goth Punk Shoes",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005013380097864",
-  "category": "shoes",
-  "name": "Shoes 79",
   "depts": [
    "women"
   ]
