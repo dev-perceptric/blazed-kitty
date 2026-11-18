@@ -2,7 +2,8 @@
 
 import { useEffect, useRef, useState } from 'react';
 import type { Product } from '@/lib/products';
-import { formatPrice, inStock } from '@/lib/products';
+import { formatPrice } from '@/lib/money';
+import { inStock } from '@/lib/stock';
 import { shotsFor, printSrc } from '@/lib/images';
 import { AdultBlur, AdultConfirm } from './Adult';
 import { RETURN_DAYS } from '@/lib/site';
@@ -65,7 +66,7 @@ export default function ProductView({ product }: { product: Product }) {
 
   function addToBag() {
     if (!size) return;
-    add({ slug: product.slug, color: color.name, size }, qty);
+    add({ slug: product.slug, color: color.name, size, name: product.name, price: product.price, image: gallery[0] }, qty);
     setAdded(true);
     setOpen(true);
     setTimeout(() => setAdded(false), 2000);

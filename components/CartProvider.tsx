@@ -1,13 +1,16 @@
 'use client';
 
 import { createContext, useCallback, useContext, useEffect, useMemo, useState } from 'react';
-import { getProduct } from '@/lib/products';
 
 export interface CartItem {
   slug: string;
   color: string;
   size: string;
   qty: number;
+  /** Shown in the bag. Checkout always re-reads the real price on the server. */
+  name: string;
+  price: number;
+  image?: string;
 }
 
 interface CartCtx {
@@ -22,7 +25,7 @@ interface CartCtx {
   subtotal: number;
 }
 
-const KEY = 'bk-bag-v1';
+const KEY = 'bk-bag-v2';
 const Ctx = createContext<CartCtx | null>(null);
 
 export default function CartProvider({ children }: { children: React.ReactNode }) {
@@ -35,7 +38,7 @@ export default function CartProvider({ children }: { children: React.ReactNode }
       const raw = localStorage.getItem(KEY);
       if (raw) {
         const parsed = JSON.parse(raw) as CartItem[];
-        setItems(parsed.filter((i) => getProduct(i.slug)));
+        setItems(parsed.filter((i) => i.slug && typeof i.price === 'number' && i.name));
       }
     } catch {
       /* storage can be blocked; the bag still works for this visit */
@@ -73,7 +76,7 @@ export default function CartProvider({ children }: { children: React.ReactNode }
 
   const value = useMemo<CartCtx>(() => {
     const count = items.reduce((n, i) => n + i.qty, 0);
-    const subtotal = items.reduce((n, i) => n + (getProduct(i.slug)?.price ?? 0) * i.qty, 0);
+    const subtotal = items.reduce((n, i) => n + i.price * i.qty, 0);
     return { items, add, setQty, remove, clear, open, setOpen, count, subtotal };
   }, [items, add, setQty, remove, clear, open]);
 

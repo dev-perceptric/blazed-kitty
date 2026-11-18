@@ -3,8 +3,7 @@
 import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
 import { useCart } from './CartProvider';
-import { getProduct, formatPrice } from '@/lib/products';
-import { ProductPhoto } from './Media';
+import { formatPrice } from '@/lib/money';
 
 export default function CartDrawer() {
   const { items, open, setOpen, setQty, remove, subtotal, count } = useCart();
@@ -57,37 +56,35 @@ export default function CartDrawer() {
         {items.length === 0 ? (
           <div className="drawer-empty">
             <p>Your bag is empty.</p>
-            <Link href="/shop" className="btn" onClick={() => setOpen(false)}>Shop the drop</Link>
+            <Link href="/collections/y2k-new-in" className="btn" onClick={() => setOpen(false)}>Shop new in</Link>
           </div>
         ) : (
           <>
             <ul className="drawer-list">
               {items.map((item, i) => {
-                const p = getProduct(item.slug);
-                if (!p) return null;
                 return (
                   <li key={`${item.slug}-${item.color}-${item.size}`} className="line">
-                    <Link href={`/product/${p.slug}`} className="line-media" onClick={() => setOpen(false)}>
-                      <ProductPhoto product={p} color={item.color} />
+                    <Link href={`/product/${item.slug}`} className="line-media" onClick={() => setOpen(false)}>
+                      <div className="photo">{item.image && <img src={item.image} alt="" loading="lazy" />}</div>
                     </Link>
                     <div className="line-info">
-                      <strong>{p.name}</strong>
-                      <span className="line-opts">{[p.allOver || item.color === 'Default' ? '' : item.color, item.size === 'One Size' ? '' : item.size].filter(Boolean).join(' · ')}</span>
+                      <strong>{item.name}</strong>
+                      <span className="line-opts">{[/^(default|as photo)$/i.test(item.color) ? '' : item.color, item.size === 'One Size' ? '' : item.size].filter(Boolean).join(' · ')}</span>
                       <div className="qty">
-                        <button type="button" onClick={() => setQty(i, item.qty - 1)} aria-label={`One less ${p.name}`}>−</button>
+                        <button type="button" onClick={() => setQty(i, item.qty - 1)} aria-label={`One less ${item.name}`}>−</button>
                         <span aria-live="polite">{item.qty}</span>
-                        <button type="button" onClick={() => setQty(i, item.qty + 1)} aria-label={`One more ${p.name}`}>+</button>
+                        <button type="button" onClick={() => setQty(i, item.qty + 1)} aria-label={`One more ${item.name}`}>+</button>
                       </div>
                       <button type="button" className="text-btn line-remove" onClick={() => remove(i)}>Remove</button>
                     </div>
-                    <span className="line-price">{formatPrice(p.price * item.qty)}</span>
+                    <span className="line-price">{formatPrice(item.price * item.qty)}</span>
                   </li>
                 );
               })}
             </ul>
             <div className="drawer-foot">
               <div className="subtotal"><span>Subtotal</span><strong>{formatPrice(subtotal)}</strong></div>
-              <p className="fine">Shipping and tax are added at checkout.</p>
+              <p className="fine">Free shipping. Discount codes and tax are added at checkout.</p>
               <button type="button" className="btn btn-block" onClick={checkout} disabled={busy}>
                 {busy ? 'Opening checkout…' : 'Check out'}
               </button>

@@ -95,23 +95,5 @@ export function findAnyProduct(slug: string) {
   return ALL_PRODUCTS.find((p) => p.slug === slug || p.oldSlugs?.includes(slug));
 }
 
-/** The CJ variant for a color and size, if CJ stocks that combo. */
-export function cjVariant(p: Product, color: string, size: string) {
-  return p.cj?.variants.find((v) => v.color === color && v.size === size);
-}
-
-/** The AliExpress variant for a color and size, if that combo exists. */
-export function aeVariant(p: Product, color: string, size: string) {
-  return p.ae?.variants.find((v) => v.color === color && v.size === size);
-}
-
-/** Dropship items only come in the combos the supplier stocks. Printful pieces come in all of them. */
-export function inStock(p: Product, color: string, size: string) {
-  if (p.cj) return !!cjVariant(p, color, size);
-  if (p.ae) return !!aeVariant(p, color, size);
-  return true;
-}
-
-export function formatPrice(n: number) {
-  return '$' + n.toFixed(2);
-}
+export { cjVariant, aeVariant, inStock } from './stock';
+export { formatPrice } from './money';
