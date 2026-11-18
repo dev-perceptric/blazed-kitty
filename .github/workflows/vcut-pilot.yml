@@ -61,7 +61,7 @@ jobs:
                   for s in ("front","back"):
                       (folder/(s+".png")).write_bytes(download(old["bottom_"+s]["url"]))
                   continue
-              fontdata=download("https://raw.githubusercontent.com/google/fonts/main/ofl/"+font.split("-")[0].lower()+"/"+font)
+              fontdata=download("https://raw.githubusercontent.com/google/fonts/main/"+("apache" if font.startswith("Yellowtail") else "ofl")+"/"+font.split("-")[0].lower()+"/"+font)
               face=ImageFont.truetype(io.BytesIO(fontdata),400)
               bounds=[face.getbbox(line) for line in lines]
               w=max(b[2]-b[0] for b in bounds); h=sum(b[3]-b[1] for b in bounds)+32*(len(lines)-1)
