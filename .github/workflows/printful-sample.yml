@@ -1,0 +1,44 @@
+name: Upload Blazed Kitty sample
+on:
+  push:
+    branches: [codex/check-printful-access]
+    paths: ['designs/kiss-me-between-hits/kiss-me-between-hits_hot-pink.png']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Import print artwork and check processing
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PRINTFUL_API_TOKEN: ${{ secrets.PRINTFUL_API_TOKEN }}
+        shell: python
+        run: |
+          import json, os, time, urllib.request
+          def call(url, token, data=None):
+              body = None if data is None else json.dumps(data).encode()
+              req = urllib.request.Request(url, data=body, headers={"Authorization": "Bearer " + token, "Content-Type": "application/json"})
+              with urllib.request.urlopen(req, timeout=45) as response:
+                  return json.load(response)
+          name = "kiss-me-between-hits_hot-pink.png"
+          repo = os.environ["GITHUB_REPOSITORY"]
+          sha = os.environ["GITHUB_SHA"]
+          token = os.environ["PRINTFUL_API_TOKEN"]
+          if not token:
+              raise SystemExit("PRINTFUL_API_TOKEN is missing")
+          file = call(f"https://api.github.com/repos/{repo}/contents/designs/kiss-me-between-hits/{name}?ref={sha}", os.environ["GH_TOKEN"])
+          api = "https://api.printful.com/files"
+          result = call(api, token, {"url": file["download_url"], "filename": name})["result"]
+          file_id = result["id"]
+          for _ in range(30):
+              status = call(f"{api}/{file_id}", token)["result"]["status"]
+              if status == "ok":
+                  print(f"Verified Printful artwork ID {file_id}")
+                  break
+              if status == "failed":
+                  raise SystemExit(f"Printful processing failed for file {file_id}")
+              time.sleep(5)
+          else:
+              raise SystemExit(f"Processing pending for file {file_id}")
