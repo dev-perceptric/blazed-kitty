@@ -42,20 +42,19 @@ export default function SearchBox() {
     e.preventDefault();
     if (!q.trim()) return;
     setOpen(false);
-    router.push(`/shop?q=${encodeURIComponent(q.trim())}`);
+    router.push(`/search?q=${encodeURIComponent(q.trim())}`);
   };
 
   return (
     <>
-      <button type="button" className="search-btn" onClick={() => setOpen((o) => !o)} aria-expanded={open} aria-controls="search-panel">
-        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" strokeWidth="2" /><path d="M15.5 15.5 21 21" stroke="currentColor" strokeWidth="2" strokeLinecap="round" /></svg>
-        <span className="search-label">Search</span>
+      <button type="button" className="icon-btn" onClick={() => setOpen((o) => !o)} aria-expanded={open} aria-controls="search-panel" aria-label="Search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" strokeWidth="1.8" /><path d="M15.5 15.5 21 21" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" /></svg>
       </button>
       {open && (
         <div id="search-panel" className="search-panel">
           <div className="wrap">
             <form className="search-form" onSubmit={submit} role="search">
-              <input ref={input} type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search baby tees, Brazil, band merch, skulls..." aria-label="Search products" autoComplete="off" />
+              <input ref={input} type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder="Search Y2K baby tees, baggy jeans, jorts, rings..." aria-label="Search products" autoComplete="off" />
               <button type="button" className="text-btn" onClick={() => setOpen(false)}>Close</button>
             </form>
             {hits.length > 0 && (
@@ -67,7 +66,7 @@ export default function SearchBox() {
                     <span className="search-hit-price">{h.price}</span>
                   </Link>
                 ))}
-                <Link href={`/shop?q=${encodeURIComponent(q.trim())}`} className="link search-all" onClick={() => setOpen(false)}>
+                <Link href={`/search?q=${encodeURIComponent(q.trim())}`} className="link search-all" onClick={() => setOpen(false)}>
                   See all {total} results
                 </Link>
               </div>

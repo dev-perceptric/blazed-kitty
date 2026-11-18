@@ -14,3 +14,6 @@ export const DELIVERY_MIN = 6;
 export const DELIVERY_MAX = 17;
 /** Google Search Console / Merchant Center site verification code (the content="..." part of the meta tag). */
 export const GOOGLE_SITE_VERIFICATION = '';
+/** First-order discount offered in the email pop-up. The code must exist as a Stripe promotion code. */
+export const WELCOME_PERCENT = 10;
+export const WELCOME_CODE = 'KITTY10';

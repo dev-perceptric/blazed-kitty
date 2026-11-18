@@ -5,6 +5,7 @@ import type { Product } from '@/lib/products';
 import { formatPrice, inStock } from '@/lib/products';
 import { shotsFor, printSrc } from '@/lib/images';
 import { AdultBlur, AdultConfirm } from './Adult';
+import { RETURN_DAYS } from '@/lib/site';
 import { useCart } from './CartProvider';
 
 export default function ProductView({ product }: { product: Product }) {
@@ -114,6 +115,10 @@ export default function ProductView({ product }: { product: Product }) {
         <h1>{product.name}</h1>
         <p className="pdp-price">{formatPrice(product.price)}</p>
         <p className="pdp-blurb">{product.blurb}</p>
+        <div className="pdp-ship">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 7h11v9H3zM14 10h4l3 3v3h-7M7 19a2 2 0 1 0 0-4 2 2 0 0 0 0 4ZM17 19a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinejoin="round" /></svg>
+          <span><strong>Free shipping.</strong> Arrives in about {product.ae?.delivery ?? product.cj?.delivery ?? '6-17 days'}.</span>
+        </div>
 
         {!isBikini && !((product.cj || product.ae) && product.colors.length === 1) && (
           <fieldset className="opt">
@@ -162,14 +167,19 @@ export default function ProductView({ product }: { product: Product }) {
           </ul>
         </details>
         <details className="acc">
-          <summary>Shipping</summary>
+          <summary>Size guide</summary>
+          <p>Most pieces use Asian sizing, which runs about one size small. Fitted tops and baby tees are made to be snug: size up once if you are between sizes. Oversized tees, hoodies and baggy jeans are cut big on purpose, so take your usual size.</p>
+        </details>
+        <details className="acc">
+          <summary>Shipping & returns</summary>
           <p>
             {product.cj
               ? `Ships from our ${product.cj.from === 'US' ? 'US' : 'overseas'} warehouse${product.cj.delivery ? ` in about ${product.cj.delivery}` : ''}, straight to your door. Pieces in one order can arrive in separate packages.`
               : product.ae
-                ? `Ships from our partner warehouse${product.ae.delivery ? ` in about ${product.ae.delivery}` : ''}, straight to your door. Pieces in one order can arrive in separate packages.`
+                ? `Free shipping from our partner warehouse${product.ae.delivery ? `, arriving in about ${product.ae.delivery}` : ''}. Pieces in one order can arrive in separate packages.`
                 : 'Each piece is printed after you order. Shipping cost and timing show at checkout.'}
           </p>
+          <p>Changed your mind? Return unworn pieces within {RETURN_DAYS} days of delivery. <a className="link" href="/returns">Returns policy</a></p>
         </details>
       </div>
     </div>

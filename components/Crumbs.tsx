@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { Fragment } from 'react';
-import type { Crumb } from '@/lib/collections';
+import type { Crumb } from '@/lib/catalog';
 
 export default function Crumbs({ items }: { items: Crumb[] }) {
   return (

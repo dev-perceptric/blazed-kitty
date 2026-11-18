@@ -28,7 +28,8 @@ export async function POST(req: Request) {
   const origin = process.env.NEXT_PUBLIC_SITE_URL || new URL(req.url).origin;
   const body = new URLSearchParams();
   body.append('mode', 'payment');
-  body.append('success_url', `${origin}/?order=success`);
+  body.append('success_url', `${origin}/order/{CHECKOUT_SESSION_ID}`);
+  body.append('allow_promotion_codes', 'true');
   body.append('cancel_url', `${origin}/?order=cancelled`);
   body.append('billing_address_collection', 'auto');
   ['US', 'CA', 'GB', 'AU', 'NZ', 'IE', 'DE', 'FR', 'NL', 'ES', 'IT', 'SE', 'DK'].forEach((c) =>

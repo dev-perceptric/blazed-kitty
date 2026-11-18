@@ -99,6 +99,12 @@ def ship_estimate(pid, sku_id):
     return fee(best), (f'{lo}-{hi} days' if lo and hi else None)
 
 
+def y2k_name(name):
+    """Every product name starts with "Y2K" (for search), with no second "Y2K" later in the name."""
+    rest = re.sub(r'\s+', ' ', re.sub(r'\bY2K\b', '', name or '', flags=re.I)).strip()
+    return f'Y2K {rest}' if rest else 'Y2K'
+
+
 def build(pick, n, cats):
     pid, cat = str(pick['id']), pick['category']
     if cat not in cats:
@@ -164,7 +170,7 @@ def build(pick, n, cats):
             v['color'] = ren[v['color']]
         color_img = {ren.get(k, k): u for k, u in color_img.items()}
         colors.sort(key=lambda c: c['name'])
-    name = pick.get('name') or clean_name(base.get('subject'))
+    name = y2k_name(pick.get('name') or clean_name(base.get('subject')))
     ship, delivery = ship_estimate(pid, variants[0]['skuId'])
     max_cost = max(v['cost'] for v in variants)
     # Cheap items take the full markup; pricier ones less, so a $40 top doesn't list at $100+.
@@ -237,7 +243,7 @@ def main():
             # Keep built products, but pick up edited names, prices and text.
             for k in ('name', 'blurb', 'description', 'depts', 'afterDark', 'category', 'tags', 'attrs'):
                 if k in pick:
-                    prev[k] = pick[k]
+                    prev[k] = y2k_name(pick[k]) if k == 'name' else pick[k]
             if pick.get('price'):
                 prev['price'] = pick['price']
             prev['details'] = (pick.get('details') or []) + ['Ships from our overseas partner']
