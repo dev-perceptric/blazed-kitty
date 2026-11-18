@@ -11,6 +11,7 @@ jobs:
     steps:
       - name: Configure the Printful tee
         env:
+          GH_TOKEN: ${{ github.token }}
           PF: ${{ secrets.PRINTFUL_API_TOKEN }}
         shell: python
         run: |
@@ -28,6 +29,33 @@ jobs:
           cat=api("/products/636")
           vs=[v for v in cat["variants"] if v["color"]=="Black"]
           print("Variants",[(v["id"],v["size"]) for v in vs])
-          area=api("/mockup-generator/printfiles/636")
-          print("Areas",area["printfiles"],area["variant_printfiles"][:1])
-          print("File types",cat["product"]["files"])
+          
+          assert [(x["id"],x["name"]) for x in stores]==[(19064428,"Blazed Kitty")]
+          import time
+          slug="bk-kiss-me-between-hits-black-636"
+          name="Kiss Me Between Hits Fitted Baby Tee"
+          existing=api("/store/products?search=Kiss%20Me%20Between%20Hits")
+          match=[v for v in existing if v["name"]==name or v["external_id"]==slug]
+          if match:
+              product_id=match[0]["id"]
+          else:
+              gh="https://api.github.com/repos/"+os.environ["GITHUB_REPOSITORY"]+"/contents/designs/kiss-me-between-hits/front-636.png?ref="+os.environ["GITHUB_SHA"]
+              req=urllib.request.Request(gh,headers={"Authorization":"Bearer "+os.environ["GH_TOKEN"]})
+              with urllib.request.urlopen(req) as response:
+                  url=json.load(response)["download_url"]
+              f=api("/files",{"url":url,"filename":"kiss-me-between-hits_black-636_front.png"})
+              for _ in range(30):
+                  f=api("/files/"+str(f["id"]))
+                  if f["status"]=="ok": break
+                  if f["status"]=="failed": raise RuntimeError("Placement file failed")
+                  time.sleep(3)
+              assert f["status"]=="ok"
+              front_id=f["id"]
+              variants=[{"variant_id":v["id"],"retail_price":"34.00","files":[{"id":front_id,"type":"default"}]} for v in vs]
+              result=api("/store/products",{"sync_product":{"name":name,"external_id":slug},"sync_variants":variants})
+              product_id=result["id"]
+          p=api("/store/products/"+str(product_id))
+          assert {v["variant_id"] for v in p["sync_variants"]}=={v["id"] for v in vs}
+          assert all(any(f["type"]=="default" and f["filename"]=="kiss-me-between-hits_black-636_front.png" for f in v["files"]) for v in p["sync_variants"])
+          print("VERIFIED",product_id,len(p["sync_variants"]),"black sizes")
+          
