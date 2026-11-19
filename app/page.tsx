@@ -3,7 +3,6 @@ import { collectionHref, coverOf, getCollection, mixed, productsIn } from '@/lib
 import { RETURN_DAYS, WELCOME_PERCENT } from '@/lib/site';
 import ProductCard from '@/components/ProductCard';
 import Slideshow, { type Slide } from '@/components/Slideshow';
-import Tabs from '@/components/Tabs';
 import Faq from '@/components/Faq';
 import Newsletter from '@/components/Newsletter';
 
@@ -36,18 +35,33 @@ export default function Home() {
     ['y2k-jackets', 'Jackets', 7], ['y2k-platform-shoes', 'Platforms', 0], ['y2k-rings', 'Rings', 9], ['y2k-necklaces', 'Chokers', 7],
   ] as [string, string, number][]).filter(([s]) => productsIn(col(s)).length);
 
-  const trending = ['y2k-trending', 'y2k-jorts', 'y2k-baby-tees', 'y2k-graphic-tees', 'y2k-rings', 'y2k-platform-shoes']
-    .filter((s) => productsIn(col(s)).length >= 4)
-    .map((s) => ({
-      label: col(s).title.replace(/^Y2K /, ''),
-      href: collectionHref(s),
-      panel: <div className="grid">{productsIn(col(s)).slice(0, 8).map((p, i) => <ProductCard key={p.slug} product={p} eager={i < 4} />)}</div>,
-    }));
+  // One row of 4 per category, no product shown twice on the page.
+  const used = new Set<string>();
+  const row = (slug: string, title?: string) => {
+    const list = productsIn(col(slug)).filter((p) => p.photos?.length && !used.has(p.slug)).slice(0, 4);
+    list.forEach((p) => used.add(p.slug));
+    return { slug, title: title ?? col(slug).title, list };
+  };
+  const rowsA = [row('y2k-baby-tees'), row('y2k-graphic-tees'), row('y2k-zip-up-hoodies')].filter((r) => r.list.length === 4);
+  const rowsB = [row('y2k-baggy-jeans'), row('y2k-jorts'), row('y2k-mini-skirts')].filter((r) => r.list.length === 4);
+  const rowsC = [row('y2k-platform-shoes'), row('y2k-rings'), row('y2k-beanies')].filter((r) => r.list.length === 4);
+  const Rows = ({ rows }: { rows: typeof rowsA }) => (
+    <>
+      {rows.map((r, n) => (
+        <section key={r.slug} className="sec cat-row" style={n ? { paddingTop: 0 } : undefined}>
+          <div className="wrap">
+            <div className="sec-head"><h2>{r.title}</h2><Link href={collectionHref(r.slug)} className="link">Shop all</Link></div>
+            <div className="grid">{r.list.map((p) => <ProductCard key={p.slug} product={p} />)}</div>
+          </div>
+        </section>
+      ))}
+    </>
+  );
 
   const themes = ['y2k-anime', 'y2k-goth', 'y2k-grunge', 'y2k-coquette', 'y2k-band-merch', 'y2k-emo', 'y2k-fairy-grunge', 'y2k-harajuku', 'y2k-streetwear', 'y2k-brazil', 'y2k-rhinestone', 'y2k-acid-wash']
     .filter((s) => productsIn(col(s)).length >= 6);
 
-  const newIn = mixed(productsIn(col('y2k-new-in')).slice(0, 1200)).slice(0, 8);
+  const newIn = mixed(productsIn(col('y2k-new-in')).slice(0, 1200)).filter((p) => !used.has(p.slug)).slice(0, 8);
 
   return (
     <>
@@ -78,12 +92,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="sec">
-        <div className="wrap">
-          <div className="sec-head" style={{ justifyContent: 'center', textAlign: 'center' }}><h2>Trending now</h2></div>
-          <Tabs tabs={trending} />
-        </div>
-      </section>
+      <Rows rows={rowsA} />
 
       <section className="impact">
         <div className="wrap">
@@ -91,6 +100,8 @@ export default function Home() {
           <p>Y2K baby tees, baggy jeans, rhinestone zip hoodies, goth dresses and chunky rings for women and men. Thousands of pieces, new drops every week, free shipping on every order.</p>
         </div>
       </section>
+
+      <Rows rows={rowsB} />
 
       <section className="sec">
         <div className="wrap">
@@ -105,6 +116,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <Rows rows={rowsC} />
 
       <section className="sec" style={{ paddingTop: 0 }}>
         <div className="wrap">

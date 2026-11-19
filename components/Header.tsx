@@ -6,9 +6,9 @@ import { useEffect, useRef, useState } from 'react';
 import { useCart } from './CartProvider';
 import { Wordmark } from './Media';
 import SearchBox from './SearchBox';
-import type { DeptId, Menu } from '@/lib/catalog';
+import type { DeptId, Menu, MenuGroup } from '@/lib/catalog';
 
-type Tab = DeptId | 'themes' | 'new';
+type Tab = 'all' | DeptId | 'themes' | 'new';
 
 const Caret = () => (
   <svg className="caret" viewBox="0 0 10 10" aria-hidden="true"><path d="M1.5 3.5 5 7l3.5-3.5" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" /></svg>
@@ -17,38 +17,35 @@ const BagIcon = () => (
   <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 8h14l-1.2 12.1a1 1 0 0 1-1 .9H7.2a1 1 0 0 1-1-.9L5 8Z" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinejoin="round" /><path d="M9 10V7a3 3 0 0 1 6 0v3" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" /></svg>
 );
 
-function MegaPanel({ tab, menu, onPick }: { tab: Tab; menu: Menu; onPick: () => void }) {
-  const dept = menu.depts.find((d) => d.id === tab);
-  if (dept) {
-    return (
-      <div className="mega-inner wrap">
-        <div className="mega-cols">
-          {dept.groups.map((g) => (
-            <div key={g.id} className="mega-col">
-              <Link href={g.href} className="mega-head" onClick={onPick}>{g.label}</Link>
-              <Link href={g.href} onClick={onPick}>All {g.label}</Link>
-              {g.links.map((l) => <Link key={l.href} href={l.href} onClick={onPick}>{l.label}</Link>)}
-            </div>
-          ))}
-        </div>
-        <Link href={dept.href} className="mega-feature" onClick={onPick}>
-          {dept.cover && <div className="photo"><img src={dept.cover} alt="" loading="lazy" /></div>}
-          <span>Shop all {dept.label} →</span>
-        </Link>
-      </div>
-    );
-  }
-  const links = tab === 'themes' ? menu.themes : menu.fresh;
+const Chevron = () => (
+  <svg className="chev" viewBox="0 0 10 10" aria-hidden="true"><path d="M3.5 1.5 7 5l-3.5 3.5" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" /></svg>
+);
+
+type Panel = { allLabel?: string; allHref?: string; groups?: MenuGroup[]; links?: { label: string; href: string }[] };
+
+/** Y2KDream-style cascading dropdown: groups on the left, the hovered group's sub-collections fly out to the right. */
+function Dropdown({ panel, onPick }: { panel: Panel; onPick: () => void }) {
+  const [sub, setSub] = useState<string | null>(null);
+  const idx = panel.groups?.findIndex((g) => g.id === sub) ?? -1;
+  const cur = idx >= 0 ? panel.groups![idx] : undefined;
+  const offset = Math.min(idx + (panel.allLabel ? 1 : 0), 4) * 38;
   return (
-    <div className="mega-inner wrap">
-      <div className="mega-cols">
-        <div className="mega-col" style={{ gridColumn: '1 / -1' }}>
-          <span className="mega-head">{tab === 'themes' ? 'Shop by theme' : 'New collections'}</span>
-          <div className="mega-cols">
-            {links.map((l) => <Link key={l.href} href={l.href} onClick={onPick}>{l.label}</Link>)}
-          </div>
-        </div>
+    <div className="dd" onMouseLeave={() => setSub(null)}>
+      <div className="dd-list">
+        {panel.allLabel && panel.allHref && <Link href={panel.allHref} className="dd-row dd-all" onClick={onPick} onMouseEnter={() => setSub(null)}>{panel.allLabel}</Link>}
+        {panel.groups?.map((g) => (
+          <Link key={g.id} href={g.href} className={`dd-row${sub === g.id ? ' is-on' : ''}`} onClick={onPick} onMouseEnter={() => setSub(g.id)} onFocus={() => setSub(g.id)}>
+            {g.label} {g.links.length > 0 && <Chevron />}
+          </Link>
+        ))}
+        {panel.links?.map((l) => <Link key={l.href} href={l.href} className="dd-row" onClick={onPick}>{l.label}</Link>)}
       </div>
+      {cur && cur.links.length > 0 && (
+        <div className="dd-list dd-fly" style={{ marginTop: offset }}>
+          <Link href={cur.href} className="dd-row" onClick={onPick}>All Y2K {cur.label}</Link>
+          {cur.links.map((l) => <Link key={l.href} href={l.href} className="dd-row" onClick={onPick}>{l.label}</Link>)}
+        </div>
+      )}
     </div>
   );
 }
@@ -82,10 +79,11 @@ export default function Header({ menu }: { menu: Menu }) {
 
   const openMega = (t: Tab) => { clearTimeout(closeTimer.current); setMega(t); };
   const closeMega = () => { closeTimer.current = setTimeout(() => setMega(null), 140); };
-  const tabs: { id: Tab; label: string; href: string }[] = [
-    ...menu.depts.map((d) => ({ id: d.id as Tab, label: d.label, href: d.href })),
-    { id: 'themes', label: 'Themed Collections', href: menu.themes[0]?.href ?? '/collections/all' },
-    { id: 'new', label: 'New In', href: '/collections/y2k-new-in' },
+  const tabs: { id: Tab; label: string; href: string; panel: Panel }[] = [
+    { id: 'all', label: 'All', href: '/collections/all', panel: { allLabel: 'All Y2K Clothing', allHref: '/collections/all', groups: menu.all } },
+    ...menu.depts.map((d) => ({ id: d.id as Tab, label: d.label, href: d.href, panel: { allLabel: `All ${d.label === 'Women' ? "Women's" : "Men's"}`, allHref: d.href, groups: d.groups } })),
+    { id: 'themes', label: 'Themed Collections', href: menu.themes[0]?.href ?? '/collections/all', panel: { links: menu.themes } },
+    { id: 'new', label: 'New In', href: '/collections/y2k-new-in', panel: { allLabel: 'All New In', allHref: '/collections/y2k-new-in', links: menu.fresh.filter((l) => !l.href.endsWith('/y2k-new-in')) } },
   ];
   const mobileDept = menu.depts.find((d) => d.id === mDept) ?? menu.depts[0];
 
@@ -100,10 +98,10 @@ export default function Header({ menu }: { menu: Menu }) {
         <Link href="/" className="brand" aria-label="Blazed Kitty home"><Wordmark /></Link>
 
         <nav className="nav" aria-label="Shop">
-          <Link href="/collections/all" className={pathname === '/collections/all' ? 'is-on' : ''} onMouseEnter={() => setMega(null)}>All</Link>
           {tabs.map((t) => (
             <div key={t.id} className="nav-item" data-open={mega === t.id} onMouseEnter={() => openMega(t.id)} onMouseLeave={closeMega}>
               <Link href={t.href} aria-haspopup="true" aria-expanded={mega === t.id} onFocus={() => openMega(t.id)}>{t.label} <Caret /></Link>
+              {mega === t.id && <Dropdown panel={t.panel} onPick={() => setMega(null)} />}
             </div>
           ))}
           <Link href="/about" className={pathname === '/about' ? 'is-on' : ''} onMouseEnter={() => setMega(null)}>About</Link>
@@ -117,10 +115,6 @@ export default function Header({ menu }: { menu: Menu }) {
             {count > 0 && <span className="bag-count">{count}</span>}
           </button>
         </div>
-      </div>
-
-      <div className={`mega${mega === 'themes' || mega === 'new' ? ' mega-wide' : ''}`} onMouseEnter={() => mega && openMega(mega)} onMouseLeave={closeMega} hidden={!mega}>
-        {mega && <MegaPanel tab={mega} menu={menu} onPick={() => setMega(null)} />}
       </div>
 
       <div id="mobile-menu" className={`mobile-root${mobile ? ' is-open' : ''}`} aria-hidden={!mobile}>

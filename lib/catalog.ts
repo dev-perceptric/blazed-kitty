@@ -325,29 +325,33 @@ export function productTrail(p: Product): Crumb[] {
 export interface MenuLink { label: string; href: string; count: number }
 export interface MenuGroup { id: GroupId; label: string; href: string; links: MenuLink[] }
 export interface MenuDept { id: DeptId; label: string; href: string; groups: MenuGroup[]; cover?: string }
-export interface Menu { depts: MenuDept[]; themes: MenuLink[]; fresh: MenuLink[] }
+export interface Menu { all: MenuGroup[]; depts: MenuDept[]; themes: MenuLink[]; fresh: MenuLink[] }
 
 /** First photo of a list, for tiles and menu covers. */
 export function coverOf(list: Product[], skip = 0) {
   return list.filter((p) => p.photos?.length).slice(skip)[0]?.photos?.[0]?.src;
 }
 
+function menuGroups(d?: DeptId): MenuGroup[] {
+  return GROUPS.map((g) => {
+    const cols = COLLECTIONS.filter((c) => c.group === g.id && (d !== 'mens' || !c.womenOnly));
+    const parent = cols.find((c) => c.parent);
+    const links = cols.filter((c) => !c.parent).map((c) => ({ label: c.title.replace(/^Y2K /, ''), href: collectionHref(c.slug, d), count: productsIn(c, d).length }))
+      .filter((l) => l.count >= 3);
+    return { id: g.id, label: g.label, href: parent ? collectionHref(parent.slug, d) : '#', links, count: parent ? productsIn(parent, d).length : 0 };
+  }).filter((g) => g.count > 0).map(({ count: _c, ...g }) => g);
+}
+
 export function buildMenu(): Menu {
   const depts = DEPTS.map((d) => {
-    const groups = GROUPS.map((g) => {
-      const cols = COLLECTIONS.filter((c) => c.group === g.id && (d.id === 'womens' || !c.womenOnly));
-      const parent = cols.find((c) => c.parent);
-      const links = cols.filter((c) => !c.parent).map((c) => ({ label: c.title.replace(/^Y2K /, ''), href: collectionHref(c.slug, d.id), count: productsIn(c, d.id).length }))
-        .filter((l) => l.count >= 3);
-      return { id: g.id, label: g.label, href: parent ? collectionHref(parent.slug, d.id) : '#', links, count: parent ? productsIn(parent, d.id).length : 0 };
-    }).filter((g) => g.count > 0).map(({ count: _c, ...g }) => g);
+    const groups = menuGroups(d.id);
     const coverPool = productsIn(getCollection(d.id === 'womens' ? 'y2k-baby-tees' : 'y2k-hoodies')!, d.id);
     return { id: d.id, label: d.label, href: collectionHref('all', d.id), groups, cover: coverOf(coverPool, 5) };
   });
   const links = (group: GroupId, min = 6) => COLLECTIONS.filter((c) => c.group === group)
     .map((c) => ({ label: c.title.replace(/^Y2K /, ''), href: collectionHref(c.slug), count: productsIn(c).length }))
     .filter((l) => l.count >= min);
-  return { depts, themes: links('themes'), fresh: links('new', 1) };
+  return { all: menuGroups(), depts, themes: links('themes'), fresh: links('new', 1) };
 }
 
 // ---------- old /shop links ----------

@@ -92,19 +92,15 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .wm-smoke path { fill: none; stroke: var(--pink); stroke-width: 1.8; stroke-linecap: round; }
 
 /* Mega menu */
-.mega { position: absolute; left: 0; right: 0; top: 100%; background: #fff; border-bottom: 1px solid var(--line); box-shadow: 0 24px 40px rgba(0, 0, 0, 0.08); }
-.mega[hidden] { display: none; }
-.mega-inner { display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 40px; padding-block: 28px 32px; }
-.mega-cols { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 24px 28px; }
-.mega-col { display: flex; flex-direction: column; gap: 7px; font-size: 14px; }
-.mega-col a { color: var(--muted); }
-.mega-col a:hover { color: var(--pink); }
-.mega-head { color: var(--text) !important; margin-bottom: 4px; }
-.mega-feature { display: flex; flex-direction: column; gap: 10px; }
-.mega-feature .photo { aspect-ratio: 4 / 5; border-radius: var(--radius); }
-.mega-feature span { font-weight: 700; }
-.mega-feature:hover span { color: var(--pink); }
-.mega-wide .mega-inner { grid-template-columns: 1fr; }
+.nav-item { position: relative; }
+.dd { position: absolute; left: -8px; top: calc(100% - 10px); display: flex; align-items: flex-start; z-index: 60; }
+.dd-list { min-width: 230px; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: 0 18px 40px rgba(0, 0, 0, 0.1); padding: 10px 0; display: flex; flex-direction: column; max-height: 72vh; overflow-y: auto; }
+.dd-fly { margin-left: -1px; }
+.dd-row { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 9px 22px; font-size: 14.5px; color: var(--text); white-space: nowrap; }
+.dd-row:hover, .dd-row.is-on { color: var(--pink); background: #fafaf8; }
+.dd-row.is-on { text-decoration: underline; text-underline-offset: 4px; }
+.dd-all { font-weight: 700; }
+.dd .chev { width: 10px; height: 10px; flex: none; }
 
 /* Mobile menu */
 .mobile-root { position: fixed; inset: 0; z-index: 60; pointer-events: none; }
@@ -422,7 +418,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 }
 @media (max-width: 1024px) {
   .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-  .nav, .mega { display: none; }
+  .nav { display: none; }
   .menu-btn { display: block; }
   .header-row { justify-content: space-between; }
   .brand { position: absolute; left: 50%; transform: translateX(-50%); }
