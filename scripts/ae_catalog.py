@@ -21,6 +21,10 @@ from concurrent.futures import ThreadPoolExecutor
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from cj_catalog import categories, clean_name, hex_for, known_hex, slug, upload  # noqa: E402
+from size_charts import from_info, from_table, norm_size  # noqa: E402
+
+CHARTS_FILE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'lib', 'size-charts.json')
+NEW_CHARTS = {}
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PICKS = os.path.join(REPO, 'scripts', 'ae_picks.json')
@@ -229,7 +233,26 @@ def build(pick, n, cats):
         product['description'] = pick['description']
     if pick.get('afterDark'):
         product['afterDark'] = True
+    # Size chart: the seller's table from the description, else AliExpress's per-size measurement.
+    detail = base.get('detail', '') or ''
+    i = detail.find('[xlmodel]-[size]')
+    props = arr((res.get('ae_item_properties') or {}).get('ae_item_property'))
+    si = next((x.get('attr_value') for x in props if x.get('attr_name') == 'size_info'), None)
+    chart = (from_table(detail[i:i + 20000]) if i >= 0 else None) or (from_info(si, product['category']) if si else None)
+    if chart:
+        have = {norm_size(x) for x in product['sizes']}
+        chart['rows'] = [r for r in chart['rows'] if r[0] in have] or chart['rows']
+        NEW_CHARTS[str(pid)] = chart
     return product
+
+
+def save_charts():
+    if not NEW_CHARTS:
+        return
+    charts = json.load(open(CHARTS_FILE)) if os.path.exists(CHARTS_FILE) else {}
+    charts.update(NEW_CHARTS)
+    json.dump(charts, open(CHARTS_FILE, 'w'), separators=(',', ':'), ensure_ascii=False)
+    print(f'Saved {len(NEW_CHARTS)} new size charts')
 
 
 def main():
@@ -277,6 +300,7 @@ def main():
     if failed:
         # Drop picks that can't be built so the picks file matches the store.
         json.dump([p for p in picks if str(p['id']) not in failed], open(PICKS, 'w'), indent=1, ensure_ascii=False)
+    save_charts()
     print(f'Wrote {len(products)} products to lib/ae-products.json ({len(failed)} skipped)')
 
 

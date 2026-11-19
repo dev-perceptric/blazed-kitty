@@ -73,7 +73,7 @@ def from_info(si, category):
     if category == 'shoes':
         label = 'Foot length'
     elif category in BOTTOMS:
-        label = 'Waist' if med < 84 else 'Hip'
+        label = 'Waist' if min(first) < 82 else 'Hip'
     elif category in TOPS:
         label = 'Bust'
     elif category == 'hats':
