@@ -134601,22 +134601,6 @@
   }
  },
  {
-  "id": "1005009825954147",
-  "category": "arm-warmers",
-  "name": "Gloves",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005007935154387",
-  "category": "arm-warmers",
-  "name": "Goth Punk Gloves",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "1005012690289747",
   "category": "arm-warmers",
   "name": "Goth Gloves",
@@ -134715,14 +134699,6 @@
   ]
  },
  {
-  "id": "1005012953727703",
-  "category": "arm-warmers",
-  "name": "Stripe Knit Gloves",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "1005007708749304",
   "category": "arm-warmers",
   "name": "Goth Punk Ruffle Gloves",
@@ -134778,23 +134754,6 @@
   "name": "Lace Mesh Socks",
   "depts": [
    "women"
-  ]
- },
- {
-  "id": "1005008658006735",
-  "category": "arm-warmers",
-  "name": "Mesh Rhinestone Gloves",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005012137765011",
-  "category": "arm-warmers",
-  "name": "Goth Punk Gloves 3",
-  "depts": [
-   "women",
-   "men"
   ]
  },
  {
@@ -134912,14 +134871,6 @@
   ]
  },
  {
-  "id": "1005012958395273",
-  "category": "arm-warmers",
-  "name": "Sexy Gloves",
-  "depts": [
-   "women"
-  ]
- },
- {
   "id": "1005008864590673",
   "category": "arm-warmers",
   "name": "Kitty Fur Gloves",
@@ -134972,14 +134923,6 @@
   "id": "1005006476842663",
   "category": "arm-warmers",
   "name": "Lace Mesh Goth Gloves",
-  "depts": [
-   "women"
-  ]
- },
- {
-  "id": "1005010391425301",
-  "category": "arm-warmers",
-  "name": "Leopard Gloves 2",
   "depts": [
    "women"
   ]
