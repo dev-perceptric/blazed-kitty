@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import { thumbImg } from '@/lib/img';
 import { useEffect, useRef, useState } from 'react';
 import { useCart } from './CartProvider';
 import { formatPrice } from '@/lib/money';
@@ -84,7 +85,7 @@ export default function CartDrawer() {
                 return (
                   <li key={`${item.slug}-${item.color}-${item.size}`} className="line">
                     <Link href={`/product/${item.slug}`} className="line-media" onClick={() => setOpen(false)}>
-                      <div className="photo">{item.image && <img src={item.image} alt="" loading="lazy" />}</div>
+                      <div className="photo">{item.image && <img {...thumbImg(item.image)} alt="" loading="lazy" />}</div>
                     </Link>
                     <div className="line-info">
                       <strong>{item.name}</strong>

@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import { heroImg } from '@/lib/img';
 import { useEffect, useState } from 'react';
 
 export interface Slide { eyebrow: string; title: string; cta: string; href: string; images: string[]; alt?: { cta: string; href: string } }
@@ -21,7 +22,7 @@ export default function Slideshow({ slides }: { slides: Slide[] }) {
         {slides.map((s, n) => (
           <div key={s.href} className={`slide${n === i ? ' is-on' : ''}`} aria-hidden={n !== i} aria-roledescription="slide">
             <div className="slide-media">
-              {s.images.map((src, k) => <img key={src} src={src} alt="" loading={n === 0 && k === 0 ? 'eager' : 'lazy'} />)}
+              {s.images.map((src, k) => <img key={src} {...heroImg(src)} fetchPriority={n === 0 && k === 0 ? 'high' : undefined} alt="" loading={n === 0 && k === 0 ? 'eager' : 'lazy'} />)}
             </div>
             <div className="slide-copy">
               <p className="eyebrow">{s.eyebrow}</p>

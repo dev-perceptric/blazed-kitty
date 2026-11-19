@@ -2,6 +2,7 @@
 import type { Product } from './products';
 import { formatPrice } from './money';
 import { shotsFor } from './images';
+import { img } from './img';
 import { COLLECTIONS, GROUPS, SHOP, getCollection, getDept, isNew, productsIn, type GroupId } from './catalog';
 import { FILTER_KEYS, applyFilters, type Filters } from './filters';
 import { searchProducts } from './search';
@@ -23,7 +24,7 @@ export function cardOf(p: Product): Card {
     slug: p.slug, name: p.name, price: formatPrice(p.price), isNew: isNew(p),
     img: shots[0]?.src ?? p.photos?.[0]?.src, imgClass: shots[0]?.style === 'Model' ? undefined : 'is-product',
     img2: shots[1]?.src, img2Class: shots[1] ? `photo-alt${shots[1].style === 'Model' ? '' : ' is-product'}` : undefined,
-    dots: colors.length > 1 ? colors.slice(0, 5).map((c) => (c.image ? `center / cover url(${c.image}), ${c.hex}` : c.hex)) : [],
+    dots: colors.length > 1 ? colors.slice(0, 5).map((c) => (c.image ? `center / cover url(${img(c.image, 96)}), ${c.hex}` : c.hex)) : [],
     more: colors.length > 5 ? colors.length - 5 : 0,
   };
 }

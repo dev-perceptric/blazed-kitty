@@ -5,6 +5,7 @@ import ProductCard from '@/components/ProductCard';
 import Slideshow, { type Slide } from '@/components/Slideshow';
 import Faq from '@/components/Faq';
 import Newsletter from '@/components/Newsletter';
+import { cardImg, tileImg } from '@/lib/img';
 import { findAnyProduct, type Product } from '@/lib/products';
 import featured from '@/lib/featured.json';
 
@@ -96,7 +97,7 @@ export default function Home() {
         <div className="wrap big-tiles">
           {big.map((b) => (
             <Link key={b.slug} href={collectionHref(b.slug)} className="big-tile">
-              <div className="photo"><img src={b.img} alt="" loading="lazy" /></div>
+              <div className="photo"><img {...tileImg(b.img)} alt="" loading="lazy" /></div>
               <div className="big-tile-copy"><h3>{b.label}</h3><span className="btn btn-white">Shop now</span></div>
             </Link>
           ))}
@@ -109,7 +110,7 @@ export default function Home() {
           <div className="cat-list">
             {cats.map(([s, label, skip]) => (
               <Link key={s} href={collectionHref(s)} className="cat-item">
-                <div className="photo"><img src={picked(F.circles?.[s], 1, used)[0]?.photos![0].src ?? coverOf(productsIn(col(s)), skip)} alt="" loading="lazy" /></div>
+                <div className="photo"><img {...cardImg(picked(F.circles?.[s], 1, used)[0]?.photos![0].src ?? coverOf(productsIn(col(s)), skip))} alt="" loading="lazy" /></div>
                 <span>{label}</span>
               </Link>
             ))}
@@ -134,7 +135,7 @@ export default function Home() {
           <div className="theme-row">
             {themes.map((s, n) => (
               <Link key={s} href={collectionHref(s)} className="theme-tile">
-                <div className="photo"><img src={picked(F.themes?.[s], 1, used)[0]?.photos![0].src ?? coverOf(productsIn(col(s)), 3 + n)} alt="" loading="lazy" /></div>
+                <div className="photo"><img {...cardImg(picked(F.themes?.[s], 1, used)[0]?.photos![0].src ?? coverOf(productsIn(col(s)), 3 + n))} alt="" loading="lazy" /></div>
                 <span>{col(s).title.replace(/^Y2K /, '').replace(/ Clothing| Tops/, '')}</span>
               </Link>
             ))}

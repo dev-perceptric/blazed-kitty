@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import { thumbImg } from '@/lib/img';
 import { usePathname, useRouter } from 'next/navigation';
 import { useEffect, useRef, useState } from 'react';
 
@@ -61,7 +62,7 @@ export default function SearchBox() {
               <div className="search-hits">
                 {hits.map((h) => (
                   <Link key={h.href} href={h.href} className="search-hit" onClick={() => setOpen(false)}>
-                    {h.img && <img src={h.img} alt="" loading="lazy" />}
+                    {h.img && <img {...thumbImg(h.img)} alt="" loading="lazy" />}
                     <span className="search-hit-name">{h.name}</span>
                     <span className="search-hit-price">{h.price}</span>
                   </Link>

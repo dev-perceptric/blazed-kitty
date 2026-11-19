@@ -3,14 +3,15 @@
 import Link from 'next/link';
 import { useCallback, useEffect, useRef, useState } from 'react';
 import type { Card } from '@/lib/feed';
+import { cardImg, img } from '@/lib/img';
 
 function CardTile({ c }: { c: Card }) {
   return (
     <Link href={`/product/${c.slug}`} className="tile">
       <div className="tile-media">
         <div className={`photo${c.img2 ? ' has-hover' : ''}`}>
-          {c.img && <img src={c.img} alt={c.name} loading="lazy" className={c.imgClass} />}
-          {c.img2 && <img className={c.img2Class} src={c.img2} alt="" aria-hidden="true" loading="lazy" />}
+          {c.img && <img {...cardImg(c.img)} alt={c.name} loading="lazy" className={c.imgClass} />}
+          {c.img2 && <img className={c.img2Class} {...cardImg(c.img2)} alt="" aria-hidden="true" loading="lazy" />}
         </div>
         {c.isNew && <span className="badge">New</span>}
       </div>

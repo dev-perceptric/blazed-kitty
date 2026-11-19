@@ -9,6 +9,7 @@ import { AdultBlur, AdultConfirm } from './Adult';
 import { RETURN_DAYS } from '@/lib/site';
 import { useCart } from './CartProvider';
 import SizeGuide from './SizeGuide';
+import { galleryImg, img, thumbImg } from '@/lib/img';
 import { isOversized, sizeLabel, type SizeChart } from '@/lib/sizing';
 
 export default function ProductView({ product, chart }: { product: Product; chart?: SizeChart }) {
@@ -89,7 +90,7 @@ export default function ProductView({ product, chart }: { product: Product; char
         if (Math.abs(dx) > 40) go(dx < 0 ? 1 : -1);
       }}
     >
-      <img src={current} alt={product.name} className={currentIsProduct ? 'is-product' : undefined} draggable={false} />
+      <img {...galleryImg(current)} fetchPriority="high" alt={product.name} className={currentIsProduct ? 'is-product' : undefined} draggable={false} />
       {count > 1 && (
         <>
           <button type="button" className="pdp-arrow pdp-prev" onClick={() => go(-1)} aria-label="Previous photo">‹</button>
@@ -108,7 +109,7 @@ export default function ProductView({ product, chart }: { product: Product; char
           <div className="thumbs" role="group" aria-label="More photos">
             {gallery.map((src, i) => (
               <button key={src} type="button" id={`thumb-${i}`} className={`thumb${i === active ? ' is-on' : ''}`} onClick={() => setActive(i)} aria-label={`Photo ${i + 1}`} aria-pressed={i === active}>
-                <img src={src} alt="" loading="lazy" />
+                <img {...thumbImg(src)} alt="" loading="lazy" />
               </button>
             ))}
           </div>
@@ -130,7 +131,7 @@ export default function ProductView({ product, chart }: { product: Product; char
             <legend>{product.colors.some((c) => c.image) ? 'Style' : 'Color'} <span>{color.name}</span></legend>
             <div className="swatch-row">
               {product.colors.map((c) => (
-                <button key={c.name} type="button" id={`color-${c.name.toLowerCase().replace(/\s+/g, '-')}`} className={`swatch${c.name === color.name ? ' is-on' : ''}`} style={{ background: c.image ? `center / cover no-repeat url(${c.image}), ${c.hex}` : c.hex }} onClick={() => pickColor(c)} aria-label={c.name} aria-pressed={c.name === color.name} />
+                <button key={c.name} type="button" id={`color-${c.name.toLowerCase().replace(/\s+/g, '-')}`} className={`swatch${c.name === color.name ? ' is-on' : ''}`} style={{ background: c.image ? `center / cover no-repeat url(${img(c.image, 160)}), ${c.hex}` : c.hex }} onClick={() => pickColor(c)} aria-label={c.name} aria-pressed={c.name === color.name} />
               ))}
             </div>
           </fieldset>
