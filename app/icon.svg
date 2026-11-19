@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="12" fill="#0c0b0c"/>
-  <path d="M30 20 L33 13 L36 20 Z M42 20 L45 13 L48 20 Z" fill="#f3eee9"/>
-  <text x="32" y="50" text-anchor="middle" font-family="Impact, 'Arial Narrow Bold', sans-serif" font-size="30" fill="#f3eee9" letter-spacing="1">BK</text>
-  <circle cx="51" cy="44" r="2.6" fill="#ff2e93"/>
-</svg>

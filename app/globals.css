@@ -67,7 +67,7 @@ p { margin: 0; }
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 30; background: #fff; }
 .site-header { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; background: #fff; border-bottom: 1px solid var(--line); }
 .header-row { display: flex; align-items: center; min-height: 72px; gap: 24px; }
-.brand { font-size: 28px; flex: none; }
+.brand { font-size: 30px; flex: none; }
 .nav { display: flex; align-items: center; gap: 4px; margin: 0 auto; }
 .nav > a, .nav-item > a { display: inline-flex; align-items: center; gap: 6px; padding: 26px 12px; font-size: 14px; font-weight: 700; }
 .nav .caret { width: 9px; height: 9px; transition: transform 0.15s ease; }
@@ -83,13 +83,10 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .bag-count { position: absolute; top: 3px; right: 1px; min-width: 18px; height: 18px; padding: 0 5px; border-radius: 999px; background: var(--pink); color: #fff; font-size: 11px; font-weight: 700; line-height: 18px; text-align: center; }
 
 /* Wordmark */
-.wordmark { font-family: var(--display); text-transform: uppercase; letter-spacing: 0.03em; line-height: 1; white-space: nowrap; display: inline-block; }
-.wm-k, .wm-d { position: relative; display: inline-block; }
-.wm-ear { position: absolute; top: -0.17em; width: 0.17em; height: 0.17em; background: currentColor; clip-path: polygon(50% 0, 100% 100%, 0 100%); }
-.wm-ear-l { left: 0.02em; }
-.wm-ear-r { right: 0.06em; }
-.wm-smoke { position: absolute; right: 0.02em; top: -0.66em; width: 0.26em; height: 0.66em; overflow: visible; }
-.wm-smoke path { fill: none; stroke: var(--pink); stroke-width: 1.8; stroke-linecap: round; }
+.wordmark { font-family: var(--font-logo), 'Arial Black', sans-serif; text-transform: none; letter-spacing: -0.038em; line-height: 1.05; white-space: nowrap; display: inline-block; }
+.wm-i { position: relative; }
+.wm-i svg { position: absolute; left: 50%; transform: translateX(-50%); top: -0.015em; width: 0.333em; height: 0.273em; }
+.wm-i path { fill: var(--pink); }
 
 /* Mega menu */
 .nav-item { position: relative; }
@@ -373,7 +370,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .footer-news .news-form input { border-color: transparent; }
 .footer-news .news-msg { color: rgba(255, 255, 255, 0.8); }
 .footer-mark { margin-top: 48px; overflow: hidden; }
-.wordmark-xl { font-size: clamp(3rem, 15.5vw, 15rem); display: block; text-align: center; line-height: 0.9; padding-top: 0.2em; }
+.wordmark-xl { font-size: clamp(3rem, 14vw, 13rem); display: block; text-align: center; line-height: 1; padding-top: 0.15em; }
 .footer-bottom { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-top: 24px; padding-top: 18px; border-top: 1px solid rgba(255, 255, 255, 0.15); font-size: 12px; color: rgba(255, 255, 255, 0.55); }
 
 /* Info pages, not found, coming soon */

@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from 'next';
-import { Anton, Inter, Instrument_Serif } from 'next/font/google';
+import { Anton, Archivo_Black, Inter, Instrument_Serif } from 'next/font/google';
 import './globals.css';
 import CartProvider from '@/components/CartProvider';
 import Header from '@/components/Header';
@@ -11,6 +11,7 @@ import Footer from '@/components/Footer';
 import { GOOGLE_SITE_VERIFICATION, PINTEREST_VERIFICATION } from '@/lib/site';
 
 const anton = Anton({ weight: '400', subsets: ['latin'], variable: '--font-display', display: 'swap' });
+const logo = Archivo_Black({ weight: '400', subsets: ['latin'], variable: '--font-logo', display: 'swap' });
 const inter = Inter({ subsets: ['latin'], variable: '--font-body', display: 'swap' });
 const serif = Instrument_Serif({ weight: '400', style: ['italic'], subsets: ['latin'], variable: '--font-serif', display: 'swap' });
 
@@ -26,7 +27,7 @@ export const viewport: Viewport = { themeColor: '#ffffff', viewportFit: 'cover' 
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${anton.variable} ${inter.variable} ${serif.variable}`}>
+    <html lang="en" className={`${anton.variable} ${logo.variable} ${inter.variable} ${serif.variable}`}>
       <body>
         <CartProvider>
           <Announcement />

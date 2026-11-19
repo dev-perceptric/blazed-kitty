@@ -20,13 +20,12 @@ export function ProductPhoto({ product, color, hover = false, eager = false, cla
   );
 }
 
-/** Text logo with two small hallmarks: cat ears on the K and a wisp of smoke off the D. */
+/** The BlazedKitty logo: "blazed kitty" in a heavy lowercase type, the dot of the i is a pink cat head. */
 export function Wordmark({ className = '' }: { className?: string }) {
   return (
     <span className={`wordmark ${className}`} role="img" aria-label="Blazed Kitty">
       <span aria-hidden="true">
-        BLAZE<span className="wm-d">D<svg className="wm-smoke" viewBox="0 0 10 26"><path d="M5 25 C1 20 9 16 5 11 C2 7 8 5 6 1" /></svg></span>{' '}
-        <span className="wm-k">K<i className="wm-ear wm-ear-l" /><i className="wm-ear wm-ear-r" /></span>ITTY
+        blazed k<span className="wm-i">ı<svg viewBox="0 0 30 25"><path d="M2 24 L4 2 L11 9 Q15 7.5 19 9 L26 2 L28 24 Z" /></svg></span>tty
       </span>
     </span>
   );
