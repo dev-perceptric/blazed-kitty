@@ -1,23 +1,30 @@
 'use client';
 
 import { useState } from 'react';
-import { cmText, normSize, shoeUS, toInch, usHint, type SizeChart } from '@/lib/sizing';
+import { BODY, BOTTOM_CATS, FOOT_CM, cmText, normSize, shoeUS, toInch, usHint, type SizeChart } from '@/lib/sizing';
 
 /** The product's own size chart (cm / in), the US equivalent for each size, and how to use it. */
 export default function SizeGuide({ chart, sizes, category, oversized }: { chart?: SizeChart; sizes: string[]; category: string; oversized: boolean }) {
   const [unit, setUnit] = useState<'cm' | 'in'>('in');
   const shoes = category === 'shoes';
   const showUS = sizes.some((s) => usHint(s, category, oversized));
+  const v = (x: string) => (unit === 'cm' ? cmText(x) : toInch(x));
+  const bodyRows = shoes ? [] : sizes.map(normSize).filter((s, i, a) => BODY[s] && a.indexOf(s) === i);
+  const bottoms = BOTTOM_CATS.has(category);
+  const shoeRows = shoes ? sizes.map(normSize).filter((s, i, a) => FOOT_CM[s] && a.indexOf(s) === i) : [];
+  const unitToggle = (
+    <div className="sg-unit" role="group" aria-label="Units">
+      <button type="button" className={unit === 'cm' ? 'is-on' : ''} onClick={() => setUnit('cm')}>CM</button>
+      <button type="button" className={unit === 'in' ? 'is-on' : ''} onClick={() => setUnit('in')}>IN</button>
+    </div>
+  );
   return (
     <div className="size-guide">
       {chart && (
         <>
           <div className="sg-top">
             <span className="sg-title">Measurements of this piece</span>
-            <div className="sg-unit" role="group" aria-label="Units">
-              <button type="button" className={unit === 'cm' ? 'is-on' : ''} onClick={() => setUnit('cm')}>CM</button>
-              <button type="button" className={unit === 'in' ? 'is-on' : ''} onClick={() => setUnit('in')}>IN</button>
-            </div>
+            {unitToggle}
           </div>
           <div className="sg-scroll">
             <table className="sg-table">
@@ -35,7 +42,7 @@ export default function SizeGuide({ chart, sizes, category, oversized }: { chart
                     <tr key={size}>
                       <td>{size}</td>
                       {showUS && <td>{shoes ? (us?.w ? `${us.w} / ${us.m ?? '–'}` : '–') : usHint(size, category, oversized)?.replace('US ', '') ?? '–'}</td>}
-                      {vals.map((v, i) => <td key={i}>{unit === 'cm' ? cmText(v) : toInch(v)}</td>)}
+                      {vals.map((x, i) => <td key={i}>{v(x)}</td>)}
                     </tr>
                   );
                 })}
@@ -49,13 +56,52 @@ export default function SizeGuide({ chart, sizes, category, oversized }: { chart
           </p>
         </>
       )}
-      {!chart && shoes && sizes.some((s) => shoeUS(s).w) && (
-        <div className="sg-scroll">
-          <table className="sg-table">
-            <thead><tr><th>EU</th><th>US women</th><th>US men</th></tr></thead>
-            <tbody>{sizes.map((s) => { const u = shoeUS(s); return <tr key={s}><td>{normSize(s)}</td><td>{u.w ?? '–'}</td><td>{u.m ?? '–'}</td></tr>; })}</tbody>
-          </table>
-        </div>
+      {shoeRows.length > 0 && (
+        <>
+          <div className="sg-top">
+            <span className="sg-title">Size conversion</span>
+            {!chart && unitToggle}
+          </div>
+          <div className="sg-scroll">
+            <table className="sg-table">
+              <thead><tr><th>EU</th><th>US women</th><th>US men</th><th>Foot length</th></tr></thead>
+              <tbody>{shoeRows.map((s) => { const u = shoeUS(s); return <tr key={s}><td>{s}</td><td>{u.w ?? '–'}</td><td>{u.m ?? '–'}</td><td>{v(FOOT_CM[s])}</td></tr>; })}</tbody>
+            </table>
+          </div>
+        </>
+      )}
+      {bodyRows.length > 0 && (
+        <>
+          <div className="sg-top">
+            <span className="sg-title">{chart ? 'Body measurements each size fits' : 'What each size fits (your body)'}</span>
+            {!chart && unitToggle}
+          </div>
+          <div className="sg-scroll">
+            <table className="sg-table">
+              <thead>
+                <tr>
+                  <th>Size</th>
+                  {!oversized && <th>US</th>}
+                  {!bottoms && <th>Bust</th>}
+                  <th>Waist</th>
+                  <th>Hip</th>
+                </tr>
+              </thead>
+              <tbody>
+                {bodyRows.map((s) => (
+                  <tr key={s}>
+                    <td>{s}</td>
+                    {!oversized && <td>{usHint(s, category, false)?.replace('US ', '') ?? '–'}</td>}
+                    {!bottoms && <td>{v(BODY[s].bust)}</td>}
+                    <td>{v(BODY[s].waist)}</td>
+                    <td>{v(BODY[s].hip)}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          {!chart && <p className="sg-note">The seller didn&apos;t give exact measurements for this piece, so these are the standard Asian body sizes it is made for. Measure yourself around the fullest part of your bust and hips and the narrowest part of your waist.</p>}
+        </>
       )}
       <p className="sg-note">
         {shoes

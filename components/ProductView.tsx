@@ -172,7 +172,7 @@ export default function ProductView({ product, chart }: { product: Product; char
             {product.printful && <li>{product.printful.blank}</li>}
           </ul>
         </details>
-        <details className="acc" open={!!chart || undefined}>
+        <details className="acc" open={product.sizes.some((s) => !/one size/i.test(s)) || undefined}>
           <summary>Size guide</summary>
           <SizeGuide chart={chart} sizes={product.sizes} category={product.category} oversized={oversized} />
         </details>

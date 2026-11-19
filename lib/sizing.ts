@@ -28,3 +28,20 @@ export function shoeUS(eu: string) {
 
 export const toInch = (v: string) => v.split('-').map((x) => (Number(x) / 2.54).toFixed(1)).join('–');
 export const cmText = (v: string) => v.replace('-', '–');
+
+/** Body measurements each standard Asian size fits (cm). Used on every size guide so S/M/L always mean something. */
+export const BODY: Record<string, { bust: string; waist: string; hip: string }> = {
+  XXS: { bust: '72-76', waist: '54-58', hip: '78-82' },
+  XS: { bust: '76-80', waist: '58-62', hip: '82-86' },
+  S: { bust: '80-84', waist: '62-66', hip: '86-90' },
+  M: { bust: '84-88', waist: '66-70', hip: '90-94' },
+  L: { bust: '88-92', waist: '70-74', hip: '94-98' },
+  XL: { bust: '92-96', waist: '74-78', hip: '98-102' },
+  '2XL': { bust: '96-100', waist: '78-82', hip: '102-106' },
+  '3XL': { bust: '100-104', waist: '82-86', hip: '106-110' },
+  '4XL': { bust: '104-110', waist: '86-92', hip: '110-116' },
+  '5XL': { bust: '110-116', waist: '92-98', hip: '116-122' },
+};
+/** Foot length (cm) for EU shoe sizes. */
+export const FOOT_CM: Record<string, string> = { '34': '21.5', '35': '22.5', '36': '23', '37': '23.5', '38': '24', '39': '24.5', '40': '25', '41': '25.5', '42': '26', '43': '26.5', '44': '27', '45': '27.5', '46': '28' };
+export const BOTTOM_CATS = new Set(['jeans', 'pants', 'shorts', 'skirts']);
