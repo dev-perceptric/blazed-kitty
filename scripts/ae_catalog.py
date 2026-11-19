@@ -31,7 +31,9 @@ MARKUP = float(os.environ.get('MARKUP', '2.5'))
 MAX_PHOTOS = int(os.environ.get('MAX_PHOTOS', '8'))
 # Skip items rated below this once they have a few reviews.
 MIN_RATING = float(os.environ.get('MIN_RATING', '0'))
-SIZE_NAMES = re.compile(r'^(size|sizes|us size|clothing size)$', re.I)
+SIZE_NAMES = re.compile(r'^(size|sizes|us size|eu size|uk size|cn size|shoe size|shoes size|clothing size)$', re.I)
+# AliExpress property ids that are always a size (5 = clothing size, 200000124 / 200001027 = shoe size).
+SIZE_IDS = {'5', '200000124', '200001027'}
 SKIP_PROPS = re.compile(r'^(ships from|ship from|shipping from)$', re.I)
 SIZE_ORDER = ['XXS', 'XS', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL', '5XL', '6XL', 'ONE SIZE']
 # Pinyin and odd supplier color names.
@@ -141,7 +143,7 @@ def build(pick, n, cats):
             val = str(pr.get('property_value_definition_name') or pr.get('sku_property_value') or '').strip()
             if SKIP_PROPS.match(name) or not val:
                 continue
-            if SIZE_NAMES.match(name):
+            if SIZE_NAMES.match(name) or str(pr.get('sku_property_id', '')) in SIZE_IDS:
                 size = clean_size(val)
             else:
                 val = clean_color(val)
