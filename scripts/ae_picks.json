@@ -134623,7 +134623,10 @@
     "goth"
    ],
    "unisex": true
-  }
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012690289747/cf896c3a64db.jpg"
+  ]
  },
  {
   "id": "1005010121109808",
@@ -135305,32 +135308,6 @@
   }
  },
  {
-  "id": "1005012572500137",
-  "category": "arm-warmers",
-  "name": "Black Lace Pink Bow Pearl Coquette Gloves",
-  "depts": [
-   "women"
-  ],
-  "attrs": {
-   "sub": "gloves",
-   "print": "plain",
-   "color": "black",
-   "vibe": "coquette",
-   "themes": [
-    "bows",
-    "flowers"
-   ],
-   "material": [
-    "lace",
-    "satin"
-   ],
-   "vibes": [
-    "harajuku"
-   ],
-   "unisex": false
-  }
- },
- {
   "id": "1005010245759045",
   "category": "arm-warmers",
   "name": "Khaki Fuzzy Knit Y2K Fingerless Gloves",
@@ -135347,7 +135324,16 @@
     "fleece"
    ],
    "unisex": false
-  }
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/0069d0511383.jpeg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/86f37fc937d3.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/92c0e9f9db7c.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/a3855558bd71.jpeg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/ca5f7ea3aeaa.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/d85483e66f34.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/dd5ea80d54eb.jpeg"
+  ]
  },
  {
   "id": "1005012779319933",
@@ -135369,7 +135355,16 @@
     "mesh"
    ],
    "unisex": false
-  }
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/39178b460a95.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/39852d6abb0e.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/41c736bfe996.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/46f8681bd2aa.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/612c84262fb3.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/9705653fa61b.jpg",
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/bcad5c3ec754.jpg"
+  ]
  },
  {
   "id": "1005008864590673",
@@ -135454,7 +135449,10 @@
     "faux-fur"
    ],
    "unisex": false
-  }
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007560489256/5b2de7c45c5e.jpg"
+  ]
  },
  {
   "id": "1005009570255023",
@@ -135584,28 +135582,6 @@
    ],
    "vibes": [
     "goth"
-   ],
-   "unisex": false
-  }
- },
- {
-  "id": "1005012722028808",
-  "category": "arm-warmers",
-  "name": "White Lace Big Bow Pearl Coquette Gloves",
-  "depts": [
-   "women"
-  ],
-  "attrs": {
-   "sub": "gloves",
-   "print": "plain",
-   "color": "white",
-   "vibe": "coquette",
-   "themes": [
-    "bows",
-    "flowers"
-   ],
-   "material": [
-    "lace"
    ],
    "unisex": false
   }
@@ -135848,24 +135824,6 @@
   }
  },
  {
-  "id": "1005001972728089",
-  "category": "arm-warmers",
-  "name": "Burgundy Velvet Goth Opera Gloves",
-  "depts": [
-   "women"
-  ],
-  "attrs": {
-   "sub": "gloves",
-   "print": "plain",
-   "color": "red",
-   "vibe": "goth",
-   "material": [
-    "velvet"
-   ],
-   "unisex": false
-  }
- },
- {
   "id": "1005008015629813",
   "category": "arm-warmers",
   "name": "Black Witch Claw Goth Gloves",
@@ -135879,7 +135837,10 @@
    "color": "black",
    "vibe": "goth",
    "unisex": true
-  }
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008015629813/0daab26ddaf6.jpg"
+  ]
  },
  {
   "id": "1005007431715032",
@@ -135900,30 +135861,6 @@
     "faux-fur"
    ],
    "unisex": false
-  }
- },
- {
-  "id": "32807880919",
-  "category": "arm-warmers",
-  "name": "Blue Mesh Studded Punk Fingerless Gloves",
-  "depts": [
-   "women",
-   "men"
-  ],
-  "attrs": {
-   "sub": "gloves",
-   "print": "plain",
-   "color": "blue",
-   "vibe": "punk",
-   "material": [
-    "mesh",
-    "faux-leather",
-    "studs"
-   ],
-   "vibes": [
-    "streetwear"
-   ],
-   "unisex": true
   }
  },
  {
@@ -135991,7 +135928,10 @@
     "coquette"
    ],
    "unisex": false
-  }
+  },
+  "hide_photos": [
+   "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013584677006/b0da0e0e71f5.jpg"
+  ]
  },
  {
   "id": "1005013053522354",

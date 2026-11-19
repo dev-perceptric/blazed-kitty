@@ -956809,11 +956809,12 @@
   ]
  },
  {
-  "slug": "y2k-goth-gloves-289747",
-  "code": "BK-AE4801",
-  "name": "Y2K Goth Gloves",
+  "slug": "y2k-black-studded-skull-cuff-punk-fingerless-gloves-289747",
+  "code": "BK-AE4799",
+  "name": "Y2K Black Studded Skull Cuff Punk Fingerless Gloves",
   "depts": [
-   "women"
+   "women",
+   "men"
   ],
   "line": "accessories",
   "category": "arm-warmers",
@@ -956864,19 +956865,34 @@
     "color": "*"
    },
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012690289747/cf896c3a64db.jpg",
-    "color": "*"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012690289747/36e1a1564731.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "themes": [
+    "skulls"
+   ],
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  },
+  "oldSlugs": [
+   "y2k-goth-gloves-289747"
   ]
  },
  {
-  "slug": "y2k-leopard-bunny-gloves-109808",
-  "code": "BK-AE4802",
-  "name": "Y2K Leopard Bunny Gloves",
+  "slug": "y2k-blue-faux-fur-trim-fingerless-gloves-109808",
+  "code": "BK-AE4800",
+  "name": "Y2K Blue Faux Fur Trim Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -957105,12 +957121,25 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010121109808/95d9fa86cbdf.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "blue",
+   "vibe": "y2k",
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-leopard-bunny-gloves-109808"
   ]
  },
  {
-  "slug": "y2k-leopard-gloves-662817",
-  "code": "BK-AE4803",
-  "name": "Y2K Leopard Gloves",
+  "slug": "y2k-white-faux-fur-star-charm-fingerless-gloves-662817",
+  "code": "BK-AE4801",
+  "name": "Y2K White Faux Fur Star Charm Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -957215,12 +957244,33 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009524662817/8b3dcbe3f8a0.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "white",
+   "vibe": "y2k",
+   "themes": [
+    "stars",
+    "crosses"
+   ],
+   "material": [
+    "faux-fur",
+    "knit"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-leopard-gloves-662817"
   ]
  },
  {
-  "slug": "y2k-goth-punk-gloves-2-973942",
-  "code": "BK-AE4804",
-  "name": "Y2K Goth Punk Gloves 2",
+  "slug": "y2k-black-faux-leather-cutout-punk-fingerless-gloves-973942",
+  "code": "BK-AE4802",
+  "name": "Y2K Black Faux Leather Cutout Punk Fingerless Gloves",
   "depts": [
    "women",
    "men"
@@ -957314,12 +957364,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004610973942/144884bcbf6a.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  },
+  "oldSlugs": [
+   "y2k-goth-punk-gloves-2-973942"
   ]
  },
  {
-  "slug": "y2k-punk-gloves-399035",
-  "code": "BK-AE4805",
-  "name": "Y2K Punk Gloves",
+  "slug": "y2k-white-buckle-graphic-punk-arm-warmers-399035",
+  "code": "BK-AE4803",
+  "name": "Y2K White Buckle Graphic Punk Arm Warmers",
   "depts": [
    "women"
   ],
@@ -957398,12 +957464,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011905399035/48a4b698e168.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "graphic",
+   "color": "white",
+   "vibe": "punk",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-punk-gloves-399035"
   ]
  },
  {
-  "slug": "y2k-goth-knit-gloves-916191",
-  "code": "BK-AE4806",
-  "name": "Y2K Goth Knit Gloves",
+  "slug": "y2k-black-star-knit-fingerless-gloves-916191",
+  "code": "BK-AE4804",
+  "name": "Y2K Black Star Knit Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -957648,12 +957730,31 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006273916191/7ebe1ca8cdcb.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "graphic",
+   "color": "black",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-goth-knit-gloves-916191"
   ]
  },
  {
-  "slug": "y2k-graphic-punk-gloves-684993",
-  "code": "BK-AE4807",
-  "name": "Y2K Graphic Punk Gloves",
+  "slug": "y2k-blue-error-pop-up-print-fingerless-gloves-684993",
+  "code": "BK-AE4805",
+  "name": "Y2K Blue Error Pop Up Print Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -957693,12 +957794,32 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012706684993/0039ae8d7af9.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "graphic",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "memes",
+    "pop-culture"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-graphic-punk-gloves-684993"
   ]
  },
  {
-  "slug": "y2k-punk-gloves-2-432918",
-  "code": "BK-AE4808",
-  "name": "Y2K Punk Gloves 2",
+  "slug": "y2k-black-buckle-graphic-punk-arm-warmers-432918",
+  "code": "BK-AE4806",
+  "name": "Y2K Black Buckle Graphic Punk Arm Warmers",
   "depts": [
    "women",
    "men"
@@ -957778,12 +957899,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012577432918/524e56d66477.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "graphic",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": true
+  },
+  "oldSlugs": [
+   "y2k-punk-gloves-2-432918"
   ]
  },
  {
-  "slug": "y2k-lace-gloves-437083",
-  "code": "BK-AE4809",
-  "name": "Y2K Lace Gloves",
+  "slug": "y2k-black-lace-up-ribbon-goth-fingerless-gloves-437083",
+  "code": "BK-AE4807",
+  "name": "Y2K Black Lace Up Ribbon Goth Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -957876,12 +958013,32 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006155437083/0ab65a029d32.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "knit",
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-gloves-437083"
   ]
  },
  {
-  "slug": "y2k-stripe-goth-gloves-487821",
-  "code": "BK-AE4810",
-  "name": "Y2K Stripe Goth Gloves",
+  "slug": "y2k-grey-ribbed-knit-grunge-arm-warmers-487821",
+  "code": "BK-AE4808",
+  "name": "Y2K Grey Ribbed Knit Grunge Arm Warmers",
   "depts": [
    "women"
   ],
@@ -957998,12 +958155,29 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009584487821/3a52204d62c1.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "grunge",
+   "material": [
+    "knit",
+    "ribbed"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-stripe-goth-gloves-487821"
   ]
  },
  {
-  "slug": "y2k-bow-goth-gloves-829862",
-  "code": "BK-AE4811",
-  "name": "Y2K Bow Goth Gloves",
+  "slug": "y2k-pink-satin-bow-ribbed-knit-coquette-arm-warmers-829862",
+  "code": "BK-AE4809",
+  "name": "Y2K Pink Satin Bow Ribbed Knit Coquette Arm Warmers",
   "depts": [
    "women"
   ],
@@ -958093,12 +958267,30 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005005986829862/2b29749cf177.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "pink",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "knit",
+    "ribbed",
+    "satin"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-bow-goth-gloves-829862"
   ]
  },
  {
-  "slug": "y2k-lace-bow-gloves-999165",
-  "code": "BK-AE4812",
-  "name": "Y2K Lace Bow Gloves",
+  "slug": "y2k-black-lace-mesh-ruffle-goth-arm-warmers-999165",
+  "code": "BK-AE4810",
+  "name": "Y2K Black Lace Mesh Ruffle Goth Arm Warmers",
   "depts": [
    "women"
   ],
@@ -958177,12 +958369,32 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009734999165/2bc050dc524f.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-bow-gloves-999165"
   ]
  },
  {
-  "slug": "y2k-goth-punk-ruffle-gloves-749304",
-  "code": "BK-AE4814",
-  "name": "Y2K Goth Punk Ruffle Gloves",
+  "slug": "y2k-white-bandage-ruffle-harajuku-arm-warmers-749304",
+  "code": "BK-AE4811",
+  "name": "Y2K White Bandage Ruffle Harajuku Arm Warmers",
   "depts": [
    "women"
   ],
@@ -958261,12 +958473,31 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007708749304/b52ee0a9cc18.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "white",
+   "vibe": "harajuku",
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-goth-punk-ruffle-gloves-749304"
   ]
  },
  {
-  "slug": "y2k-stripe-gloves-913832",
-  "code": "BK-AE4815",
-  "name": "Y2K Stripe Gloves",
+  "slug": "y2k-black-grey-stripe-knit-emo-arm-warmers-913832",
+  "code": "BK-AE4812",
+  "name": "Y2K Black Grey Stripe Knit Emo Arm Warmers",
   "depts": [
    "women"
   ],
@@ -958511,15 +958742,33 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003368913832/1d836abe6caf.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "pattern",
+   "color": "black",
+   "vibe": "emo",
+   "themes": [
+    "stripes"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-stripe-gloves-913832"
   ]
  },
  {
-  "slug": "y2k-gloves-2-079453",
-  "code": "BK-AE4816",
-  "name": "Y2K Gloves 2",
+  "slug": "y2k-white-fishnet-lace-up-arm-warmers-079453",
+  "code": "BK-AE4813",
+  "name": "Y2K White Fishnet Lace Up Arm Warmers",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "accessories",
   "category": "arm-warmers",
@@ -958596,17 +958845,36 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007273079453/1fda2307824d.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "white",
+   "vibe": "y2k",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-gloves-2-079453"
   ]
  },
  {
-  "slug": "y2k-lace-bow-goth-gloves-664202",
-  "code": "BK-AE4817",
-  "name": "Y2K Lace Bow Goth Gloves",
+  "slug": "y2k-white-mesh-pink-bow-coquette-shrug-664202",
+  "code": "BK-AE4814",
+  "name": "Y2K White Mesh Pink Bow Coquette Shrug",
   "depts": [
    "women"
   ],
-  "line": "accessories",
-  "category": "arm-warmers",
+  "line": "knits",
+  "category": "cardigans",
   "design": "ae",
   "drop": "drop7",
   "price": 27.99,
@@ -958706,12 +958974,36 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007590664202/12848d31eb58.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "shrug",
+   "print": "plain",
+   "sleeve": "long",
+   "length": "cropped",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "cropped"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-bow-goth-gloves-664202"
   ]
  },
  {
-  "slug": "y2k-cross-lace-gloves-280099",
-  "code": "BK-AE4818",
-  "name": "Y2K Cross Lace Gloves",
+  "slug": "y2k-black-fishnet-criss-cross-goth-fingerless-gloves-280099",
+  "code": "BK-AE4815",
+  "name": "Y2K Black Fishnet Criss Cross Goth Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -958782,12 +959074,31 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008348280099/d119ada872c1.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-cross-lace-gloves-280099"
   ]
  },
  {
-  "slug": "y2k-goth-gloves-2-671462",
-  "code": "BK-AE4819",
-  "name": "Y2K Goth Gloves 2",
+  "slug": "y2k-black-triple-buckle-punk-arm-warmers-671462",
+  "code": "BK-AE4816",
+  "name": "Y2K Black Triple Buckle Punk Arm Warmers",
   "depts": [
    "women",
    "men"
@@ -958867,12 +959178,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012846671462/3f80fdfa6249.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  },
+  "oldSlugs": [
+   "y2k-goth-gloves-2-671462"
   ]
  },
  {
-  "slug": "y2k-lace-mesh-socks-864033",
-  "code": "BK-AE4820",
-  "name": "Y2K Lace Mesh Socks",
+  "slug": "y2k-red-floral-lace-goth-opera-gloves-864033",
+  "code": "BK-AE4817",
+  "name": "Y2K Red Floral Lace Goth Opera Gloves",
   "depts": [
    "women"
   ],
@@ -959085,12 +959412,32 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-4000532864033/5579167e1821.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "rave"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-mesh-socks-864033"
   ]
  },
  {
-  "slug": "y2k-stripe-knit-emo-gloves-982108",
-  "code": "BK-AE4823",
-  "name": "Y2K Stripe Knit Emo Gloves",
+  "slug": "y2k-black-white-stripe-thumbhole-emo-arm-warmers-982108",
+  "code": "BK-AE4818",
+  "name": "Y2K Black White Stripe Thumbhole Emo Arm Warmers",
   "depts": [
    "women"
   ],
@@ -959415,12 +959762,31 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007448982108/382989c9896b.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "pattern",
+   "color": "black",
+   "vibe": "emo",
+   "themes": [
+    "stripes"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-stripe-knit-emo-gloves-982108"
   ]
  },
  {
-  "slug": "y2k-star-knit-gloves-815343",
-  "code": "BK-AE4824",
-  "name": "Y2K Star Knit Gloves",
+  "slug": "y2k-pink-star-studded-knit-arm-warmers-815343",
+  "code": "BK-AE4819",
+  "name": "Y2K Pink Star Studded Knit Arm Warmers",
   "depts": [
    "women"
   ],
@@ -959510,12 +959876,33 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012932815343/ee32de15a3ed.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "pink",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "material": [
+    "knit",
+    "ribbed",
+    "studs"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-star-knit-gloves-815343"
   ]
  },
  {
-  "slug": "y2k-lace-gloves-2-263858",
-  "code": "BK-AE4825",
-  "name": "Y2K Lace Gloves 2",
+  "slug": "y2k-white-fishnet-lace-ruffle-coquette-gloves-263858",
+  "code": "BK-AE4820",
+  "name": "Y2K White Fishnet Lace Ruffle Coquette Gloves",
   "depts": [
    "women"
   ],
@@ -959644,12 +960031,26 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005003984263858/944ea52c1c14.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "material": [
+    "mesh",
+    "lace"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-gloves-2-263858"
   ]
  },
  {
-  "slug": "y2k-lace-goth-gloves-220161",
-  "code": "BK-AE4826",
-  "name": "Y2K Lace Goth Gloves",
+  "slug": "y2k-pink-lace-ruffle-ribbon-coquette-wrist-cuffs-220161",
+  "code": "BK-AE4821",
+  "name": "Y2K Pink Lace Ruffle Ribbon Coquette Wrist Cuffs",
   "depts": [
    "women"
   ],
@@ -959766,12 +960167,32 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013056220161/519d092559f0.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "pink",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-goth-gloves-220161"
   ]
  },
  {
-  "slug": "y2k-lace-gloves-3-412543",
-  "code": "BK-AE4827",
-  "name": "Y2K Lace Gloves 3",
+  "slug": "y2k-white-lace-up-ribbon-coquette-fingerless-gloves-412543",
+  "code": "BK-AE4822",
+  "name": "Y2K White Lace Up Ribbon Coquette Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -959876,12 +960297,32 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006155412543/c43e7808ead3.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "knit",
+    "lace"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-gloves-3-412543"
   ]
  },
  {
-  "slug": "y2k-knit-gloves-731374",
-  "code": "BK-AE4828",
-  "name": "Y2K Knit Gloves",
+  "slug": "y2k-blue-fuzzy-angel-wing-harajuku-knit-gloves-731374",
+  "code": "BK-AE4823",
+  "name": "Y2K Blue Fuzzy Angel Wing Harajuku Knit Gloves",
   "depts": [
    "women"
   ],
@@ -960078,12 +960519,32 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013325731374/e5ae0668dffb.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "graphic",
+   "color": "blue",
+   "vibe": "harajuku",
+   "themes": [
+    "angels",
+    "bows"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-knit-gloves-731374"
   ]
  },
  {
-  "slug": "y2k-lace-fur-gloves-212866",
-  "code": "BK-AE4829",
-  "name": "Y2K Lace Fur Gloves",
+  "slug": "y2k-rainbow-feather-black-lace-goth-wrist-cuffs-212866",
+  "code": "BK-AE4824",
+  "name": "Y2K Rainbow Feather Black Lace Goth Wrist Cuffs",
   "depts": [
    "women"
   ],
@@ -960280,12 +960741,31 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006382212866/faf7943fefed.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "rave"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-fur-gloves-212866"
   ]
  },
  {
-  "slug": "y2k-lace-mesh-gloves-735096",
-  "code": "BK-AE4830",
-  "name": "Y2K Lace Mesh Gloves",
+  "slug": "y2k-black-sheer-feather-trim-goth-opera-gloves-735096",
+  "code": "BK-AE4825",
+  "name": "Y2K Black Sheer Feather Trim Goth Opera Gloves",
   "depts": [
    "women"
   ],
@@ -960366,12 +960846,29 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006416735096/f1598dd2716a.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "material": [
+    "mesh",
+    "faux-fur"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-mesh-gloves-735096"
   ]
  },
  {
-  "slug": "y2k-sequin-gloves-111409",
-  "code": "BK-AE4831",
-  "name": "Y2K Sequin Gloves",
+  "slug": "y2k-red-sequin-party-gloves-111409",
+  "code": "BK-AE4826",
+  "name": "Y2K Red Sequin Party Gloves",
   "depts": [
    "women"
   ],
@@ -960494,15 +960991,30 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012378111409/889c4fc7770c.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "red",
+   "vibe": "y2k",
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "rave"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-sequin-gloves-111409"
   ]
  },
  {
-  "slug": "y2k-goth-punk-gloves-4-740235",
-  "code": "BK-AE4832",
-  "name": "Y2K Goth Punk Gloves 4",
+  "slug": "y2k-white-triple-buckle-punk-arm-warmers-740235",
+  "code": "BK-AE4827",
+  "name": "Y2K White Triple Buckle Punk Arm Warmers",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "accessories",
   "category": "arm-warmers",
@@ -960579,12 +961091,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013049740235/dc6c0318befb.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "white",
+   "vibe": "punk",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-goth-punk-gloves-4-740235"
   ]
  },
  {
-  "slug": "y2k-lace-goth-gloves-2-600157",
-  "code": "BK-AE4833",
-  "name": "Y2K Lace Goth Gloves 2",
+  "slug": "y2k-black-lace-scalloped-trim-goth-arm-warmers-600157",
+  "code": "BK-AE4828",
+  "name": "Y2K Black Lace Scalloped Trim Goth Arm Warmers",
   "depts": [
    "women"
   ],
@@ -960663,137 +961191,31 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012332600157/37bb1763d18f.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-goth-gloves-2-600157"
   ]
  },
  {
-  "slug": "y2k-lace-rose-gloves-500137",
-  "code": "BK-AE4834",
-  "name": "Y2K Lace Rose Gloves",
+  "slug": "y2k-khaki-fuzzy-knit-fingerless-gloves-759045",
+  "code": "BK-AE4829",
+  "name": "Y2K Khaki Fuzzy Knit Fingerless Gloves",
   "depts": [
    "women"
-  ],
-  "line": "accessories",
-  "category": "arm-warmers",
-  "design": "ae",
-  "drop": "drop7",
-  "price": 51.99,
-  "colors": [
-   {
-    "name": "Style 2 / One Size",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012572500137/de4d22c0d404.jpg"
-   },
-   {
-    "name": "Ring / One Size",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012572500137/58bca492ad32.jpg"
-   },
-   {
-    "name": "Lace Ring / One Size",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012572500137/f9acc190929a.jpg"
-   },
-   {
-    "name": "Style 1 / One Size",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012572500137/21da5d3918aa.jpg"
-   },
-   {
-    "name": "A Pair Of Gloves / One Size",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012572500137/7b653ce2e2f7.jpg"
-   }
-  ],
-  "sizes": [
-   "One Size"
-  ],
-  "blurb": "",
-  "details": [
-   "Ships from our overseas partner"
-  ],
-  "ae": {
-   "productId": "1005012572500137",
-   "delivery": "10-15 days",
-   "variants": [
-    {
-     "color": "Style 2 / One Size",
-     "size": "One Size",
-     "skuAttr": "14:1254#Style 2;200000287:200003528",
-     "skuId": "12000058749304888",
-     "cost": 27.29
-    },
-    {
-     "color": "Ring / One Size",
-     "size": "One Size",
-     "skuAttr": "14:200004889#Ring;200000287:200003528",
-     "skuId": "12000058749304886",
-     "cost": 4.29
-    },
-    {
-     "color": "Lace Ring / One Size",
-     "size": "One Size",
-     "skuAttr": "14:691#Lace Ring;200000287:200003528",
-     "skuId": "12000058749304887",
-     "cost": 5.25
-    },
-    {
-     "color": "Style 1 / One Size",
-     "size": "One Size",
-     "skuAttr": "14:29#Style 1;200000287:200003528",
-     "skuId": "12000058749304884",
-     "cost": 27.29
-    },
-    {
-     "color": "A Pair Of Gloves / One Size",
-     "size": "One Size",
-     "skuAttr": "14:193#A pair of gloves;200000287:200003528",
-     "skuId": "12000058749304885",
-     "cost": 21.22
-    }
-   ]
-  },
-  "photos": [
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012572500137/de4d22c0d404.jpg",
-    "color": "Style 2 / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012572500137/58bca492ad32.jpg",
-    "color": "Ring / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012572500137/f9acc190929a.jpg",
-    "color": "Lace Ring / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012572500137/21da5d3918aa.jpg",
-    "color": "Style 1 / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012572500137/7b653ce2e2f7.jpg",
-    "color": "A Pair Of Gloves / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012572500137/21da5d3918aa.jpg",
-    "color": "*"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012572500137/9f474babc7f8.jpg",
-    "color": "*"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012572500137/de4d22c0d404.jpg",
-    "color": "*"
-   }
-  ]
- },
- {
-  "slug": "y2k-knit-gloves-2-759045",
-  "code": "BK-AE4835",
-  "name": "Y2K Knit Gloves 2",
-  "depts": [
-   "women",
-   "men"
   ],
   "line": "accessories",
   "category": "arm-warmers",
@@ -960901,43 +961323,29 @@
   },
   "photos": [
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/d85483e66f34.jpg",
-    "color": "Pcs-white Khaki"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/92c0e9f9db7c.jpg",
-    "color": "White-black-khaki"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/ecbeb871f7f9.jpg",
     "color": "Pink"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/86f37fc937d3.jpg",
-    "color": "Pcs-white Black"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/0069d0511383.jpeg",
-    "color": "Khaki"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/dd5ea80d54eb.jpeg",
-    "color": "Black"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/a3855558bd71.jpeg",
-    "color": "White"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010245759045/ca5f7ea3aeaa.jpg",
-    "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "brown",
+   "vibe": "y2k",
+   "material": [
+    "knit",
+    "fleece"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-knit-gloves-2-759045"
   ]
  },
  {
-  "slug": "y2k-lace-mesh-floral-gloves-319933",
-  "code": "BK-AE4836",
-  "name": "Y2K Lace Mesh Floral Gloves",
+  "slug": "y2k-black-floral-lace-goth-opera-gloves-319933",
+  "code": "BK-AE4830",
+  "name": "Y2K Black Floral Lace Goth Opera Gloves",
   "depts": [
    "women"
   ],
@@ -960998,41 +961406,30 @@
    {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/f06167ba11cd.jpg",
     "color": "Black"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/39178b460a95.jpg",
-    "color": "Red"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/bcad5c3ec754.jpg",
-    "color": "White"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/41c736bfe996.jpg",
-    "color": "*"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/46f8681bd2aa.jpg",
-    "color": "*"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/39852d6abb0e.jpg",
-    "color": "*"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/9705653fa61b.jpg",
-    "color": "*"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012779319933/612c84262fb3.jpg",
-    "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-mesh-floral-gloves-319933"
   ]
  },
  {
-  "slug": "y2k-kitty-fur-gloves-590673",
-  "code": "BK-AE4838",
-  "name": "Y2K Kitty Fur Gloves",
+  "slug": "y2k-white-fluffy-pink-pad-harajuku-cat-paw-gloves-590673",
+  "code": "BK-AE4831",
+  "name": "Y2K White Fluffy Pink Pad Harajuku Cat Paw Gloves",
   "depts": [
    "women"
   ],
@@ -961161,12 +961558,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008864590673/b32369f35c12.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "white",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-kitty-fur-gloves-590673"
   ]
  },
  {
-  "slug": "y2k-knit-emo-gloves-261218",
-  "code": "BK-AE4839",
-  "name": "Y2K Knit Emo Gloves",
+  "slug": "y2k-green-manga-girls-print-harajuku-fingerless-gloves-261218",
+  "code": "BK-AE4832",
+  "name": "Y2K Green Manga Girls Print Harajuku Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -961206,12 +961619,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008499261218/6addaebcf799.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "anime",
+   "color": "green",
+   "vibe": "anime",
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-knit-emo-gloves-261218"
   ]
  },
  {
-  "slug": "y2k-knit-gloves-3-710281",
-  "code": "BK-AE4840",
-  "name": "Y2K Knit Gloves 3",
+  "slug": "y2k-green-ombre-knit-gloves-710281",
+  "code": "BK-AE4833",
+  "name": "Y2K Green Ombre Knit Gloves",
   "depts": [
    "women",
    "men"
@@ -961353,12 +961782,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013297710281/a7b5dc3730d4.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "green",
+   "vibe": "y2k",
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  },
+  "oldSlugs": [
+   "y2k-knit-gloves-3-710281"
   ]
  },
  {
-  "slug": "y2k-kitty-gloves-489256",
-  "code": "BK-AE4841",
-  "name": "Y2K Kitty Gloves",
+  "slug": "y2k-brown-plush-harajuku-cat-paw-gloves-489256",
+  "code": "BK-AE4834",
+  "name": "Y2K Brown Plush Harajuku Cat Paw Gloves",
   "depts": [
    "women"
   ],
@@ -961488,10 +961933,6 @@
     "color": "Beige"
    },
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007560489256/5b2de7c45c5e.jpg",
-    "color": "Purple"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007560489256/46c897e64426.jpg",
     "color": "Pink"
    },
@@ -961523,12 +961964,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007560489256/dba73c03062e.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "brown",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-kitty-gloves-489256"
   ]
  },
  {
-  "slug": "y2k-kitty-gloves-2-255023",
-  "code": "BK-AE4842",
-  "name": "Y2K Kitty Gloves 2",
+  "slug": "y2k-grey-sheer-long-harajuku-cat-paw-gloves-255023",
+  "code": "BK-AE4835",
+  "name": "Y2K Grey Sheer Long Harajuku Cat Paw Gloves",
   "depts": [
    "women"
   ],
@@ -961693,12 +962150,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005009570255023/8f4cafef6d0c.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-kitty-gloves-2-255023"
   ]
  },
  {
-  "slug": "y2k-kitty-fur-gloves-2-951482",
-  "code": "BK-AE4843",
-  "name": "Y2K Kitty Fur Gloves 2",
+  "slug": "y2k-white-fur-yellow-pad-harajuku-cat-paw-gloves-951482",
+  "code": "BK-AE4836",
+  "name": "Y2K White Fur Yellow Pad Harajuku Cat Paw Gloves",
   "depts": [
    "women"
   ],
@@ -961827,12 +962300,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011907951482/be480b370e79.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "white",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-kitty-fur-gloves-2-951482"
   ]
  },
  {
-  "slug": "y2k-lace-mesh-goth-gloves-842663",
-  "code": "BK-AE4844",
-  "name": "Y2K Lace Mesh Goth Gloves",
+  "slug": "y2k-neon-green-fishnet-arm-warmers-842663",
+  "code": "BK-AE4837",
+  "name": "Y2K Neon Green Fishnet Arm Warmers",
   "depts": [
    "women"
   ],
@@ -961997,15 +962486,30 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006476842663/ce476ca1d459.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "green",
+   "vibe": "rave",
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-mesh-goth-gloves-842663"
   ]
  },
  {
-  "slug": "y2k-gloves-3-462244",
-  "code": "BK-AE4846",
-  "name": "Y2K Gloves 3",
+  "slug": "y2k-grey-faux-fur-arm-warmers-462244",
+  "code": "BK-AE4838",
+  "name": "Y2K Grey Faux Fur Arm Warmers",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "accessories",
   "category": "arm-warmers",
@@ -962168,12 +962672,25 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012927462244/78c2a2dbddf8.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "y2k",
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-gloves-3-462244"
   ]
  },
  {
-  "slug": "y2k-heart-goth-gloves-667634",
-  "code": "BK-AE4847",
-  "name": "Y2K Heart Goth Gloves",
+  "slug": "y2k-silver-metallic-heart-cutout-fingerless-gloves-667634",
+  "code": "BK-AE4839",
+  "name": "Y2K Silver Metallic Heart Cutout Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -962357,12 +962874,31 @@
   ],
   "tags": [
    "anime"
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "y2k",
+   "themes": [
+    "hearts"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-heart-goth-gloves-667634"
   ]
  },
  {
-  "slug": "y2k-goth-punk-sexy-gloves-807672",
-  "code": "BK-AE4848",
-  "name": "Y2K Goth Punk Sexy Gloves",
+  "slug": "y2k-black-faux-leather-ruched-punk-elbow-gloves-807672",
+  "code": "BK-AE4840",
+  "name": "Y2K Black Faux Leather Ruched Punk Elbow Gloves",
   "depts": [
    "women"
   ],
@@ -962422,326 +962958,31 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004904807672/ca8e8d6dec4d.jpg",
     "color": "*"
    }
-  ]
- },
- {
-  "slug": "y2k-lace-floral-gloves-028808",
-  "code": "BK-AE4849",
-  "name": "Y2K Lace Floral Gloves",
-  "depts": [
-   "women"
   ],
-  "line": "accessories",
-  "category": "arm-warmers",
-  "design": "ae",
-  "drop": "drop7",
-  "price": 31.99,
-  "colors": [
-   {
-    "name": "Style 1",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/360cdc7c5af4.jpg"
-   },
-   {
-    "name": "Style 5",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/6430734c872c.jpg"
-   },
-   {
-    "name": "Style 4",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/6130abbd1b60.jpg"
-   },
-   {
-    "name": "Style 3",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/e64c49ecaa2f.jpg"
-   },
-   {
-    "name": "Style 2",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/dcc0592b6f60.jpg"
-   },
-   {
-    "name": "Style 9",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/6e4afbfe7a95.jpg"
-   },
-   {
-    "name": "Style 8",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/7299d8c3c372.jpg"
-   },
-   {
-    "name": "Style 7",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/7934be6002b5.jpg"
-   },
-   {
-    "name": "Style 6",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/77df1d93d1a6.jpg"
-   },
-   {
-    "name": "Style 13",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/b86cef93c778.jpg"
-   },
-   {
-    "name": "Style 12",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/b71ef091f363.jpg"
-   },
-   {
-    "name": "Style 11",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/7bd2f2485d7a.jpg"
-   },
-   {
-    "name": "Style 10",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/87ff99822fe4.jpg"
-   },
-   {
-    "name": "Style 17",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/8ace2f5e9bde.jpg"
-   },
-   {
-    "name": "Style 16",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/da25040bdaee.jpg"
-   },
-   {
-    "name": "Style 15",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/8b385f730abc.jpg"
-   },
-   {
-    "name": "Style 14",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/8f6ef27eedb1.jpg"
-   }
-  ],
-  "sizes": [
-   "One Size"
-  ],
-  "blurb": "",
-  "details": [
-   "Ships from our overseas partner"
-  ],
-  "ae": {
-   "productId": "1005012722028808",
-   "delivery": null,
-   "variants": [
-    {
-     "color": "Style 1",
-     "size": "One Size",
-     "skuAttr": "14:29#Style 1",
-     "skuId": "12000059166302679",
-     "cost": 10.45
-    },
-    {
-     "color": "Style 5",
-     "size": "One Size",
-     "skuAttr": "14:10#Style 5",
-     "skuId": "12000059166302683",
-     "cost": 10.45
-    },
-    {
-     "color": "Style 4",
-     "size": "One Size",
-     "skuAttr": "14:200004889#Style 4",
-     "skuId": "12000059166302682",
-     "cost": 10.52
-    },
-    {
-     "color": "Style 3",
-     "size": "One Size",
-     "skuAttr": "14:175#Style 3",
-     "skuId": "12000059166302681",
-     "cost": 10.15
-    },
-    {
-     "color": "Style 2",
-     "size": "One Size",
-     "skuAttr": "14:193#Style 2",
-     "skuId": "12000059166302680",
-     "cost": 10.05
-    },
-    {
-     "color": "Style 9",
-     "size": "One Size",
-     "skuAttr": "14:1254#Style 9",
-     "skuId": "12000059166302687",
-     "cost": 10.05
-    },
-    {
-     "color": "Style 8",
-     "size": "One Size",
-     "skuAttr": "14:173#Style 8",
-     "skuId": "12000059166302686",
-     "cost": 10.05
-    },
-    {
-     "color": "Style 7",
-     "size": "One Size",
-     "skuAttr": "14:200004890#Style 7",
-     "skuId": "12000059166302685",
-     "cost": 10.05
-    },
-    {
-     "color": "Style 6",
-     "size": "One Size",
-     "skuAttr": "14:691#Style 6",
-     "skuId": "12000059166302684",
-     "cost": 10.12
-    },
-    {
-     "color": "Style 13",
-     "size": "One Size",
-     "skuAttr": "14:200003699#Style 13",
-     "skuId": "12000059166302691",
-     "cost": 10.69
-    },
-    {
-     "color": "Style 12",
-     "size": "One Size",
-     "skuAttr": "14:200002130#Style 12",
-     "skuId": "12000059166302690",
-     "cost": 10.05
-    },
-    {
-     "color": "Style 11",
-     "size": "One Size",
-     "skuAttr": "14:771#Style 11",
-     "skuId": "12000059166302689",
-     "cost": 10.45
-    },
-    {
-     "color": "Style 10",
-     "size": "One Size",
-     "skuAttr": "14:366#Style 10",
-     "skuId": "12000059166302688",
-     "cost": 10.05
-    },
-    {
-     "color": "Style 17",
-     "size": "One Size",
-     "skuAttr": "14:203192889#Style 17",
-     "skuId": "12000059166302695",
-     "cost": 10.33
-    },
-    {
-     "color": "Style 16",
-     "size": "One Size",
-     "skuAttr": "14:350852#Style 16",
-     "skuId": "12000059166302694",
-     "cost": 10.05
-    },
-    {
-     "color": "Style 15",
-     "size": "One Size",
-     "skuAttr": "14:203322814#Style 15",
-     "skuId": "12000059166302693",
-     "cost": 10.05
-    },
-    {
-     "color": "Style 14",
-     "size": "One Size",
-     "skuAttr": "14:203322812#Style 14",
-     "skuId": "12000059166302692",
-     "cost": 10.12
-    }
-   ]
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "ruched"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
   },
-  "photos": [
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/360cdc7c5af4.jpg",
-    "color": "Style 1"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/6430734c872c.jpg",
-    "color": "Style 5"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/6130abbd1b60.jpg",
-    "color": "Style 4"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/e64c49ecaa2f.jpg",
-    "color": "Style 3"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/dcc0592b6f60.jpg",
-    "color": "Style 2"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/6e4afbfe7a95.jpg",
-    "color": "Style 9"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/7299d8c3c372.jpg",
-    "color": "Style 8"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/7934be6002b5.jpg",
-    "color": "Style 7"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/77df1d93d1a6.jpg",
-    "color": "Style 6"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/b86cef93c778.jpg",
-    "color": "Style 13"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/b71ef091f363.jpg",
-    "color": "Style 12"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/7bd2f2485d7a.jpg",
-    "color": "Style 11"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/87ff99822fe4.jpg",
-    "color": "Style 10"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/8ace2f5e9bde.jpg",
-    "color": "Style 17"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/da25040bdaee.jpg",
-    "color": "Style 16"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/8b385f730abc.jpg",
-    "color": "Style 15"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/8f6ef27eedb1.jpg",
-    "color": "Style 14"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/8ace2f5e9bde.jpg",
-    "color": "*"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/dcc0592b6f60.jpg",
-    "color": "*"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012722028808/e64c49ecaa2f.jpg",
-    "color": "*"
-   }
+  "oldSlugs": [
+   "y2k-goth-punk-sexy-gloves-807672"
   ]
  },
  {
-  "slug": "y2k-lace-bow-gloves-2-237851",
-  "code": "BK-AE4850",
-  "name": "Y2K Lace Bow Gloves 2",
+  "slug": "y2k-white-sheer-floral-bow-coquette-gloves-237851",
+  "code": "BK-AE4841",
+  "name": "Y2K White Sheer Floral Bow Coquette Gloves",
   "depts": [
    "women"
   ],
@@ -962846,12 +963087,33 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012587237851/73168b2add87.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "flowers",
+    "bows"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-bow-gloves-2-237851"
   ]
  },
  {
-  "slug": "y2k-lace-floral-bow-gloves-129491",
-  "code": "BK-AE4851",
-  "name": "Y2K Lace Floral Bow Gloves",
+  "slug": "y2k-white-lilac-lace-ruffle-coquette-wrist-cuffs-129491",
+  "code": "BK-AE4842",
+  "name": "Y2K White Lilac Lace Ruffle Coquette Wrist Cuffs",
   "depts": [
    "women"
   ],
@@ -962968,12 +963230,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013046129491/9816547dc4a1.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-floral-bow-gloves-129491"
   ]
  },
  {
-  "slug": "y2k-rhinestone-knit-gloves-361121",
-  "code": "BK-AE4852",
-  "name": "Y2K Rhinestone Knit Gloves",
+  "slug": "y2k-black-gem-nail-rhinestone-knit-gloves-361121",
+  "code": "BK-AE4843",
+  "name": "Y2K Black Gem Nail Rhinestone Knit Gloves",
   "depts": [
    "women"
   ],
@@ -963170,12 +963448,29 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013167361121/2af5676dfc62.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "y2k",
+   "material": [
+    "knit",
+    "rhinestone"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-rhinestone-knit-gloves-361121"
   ]
  },
  {
-  "slug": "y2k-fur-fawn-gloves-834342",
-  "code": "BK-AE4853",
-  "name": "Y2K Fur Fawn Gloves",
+  "slug": "y2k-brown-fawn-spot-faux-fur-fingerless-gloves-834342",
+  "code": "BK-AE4844",
+  "name": "Y2K Brown Fawn Spot Faux Fur Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -963235,12 +963530,31 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010579834342/debc3ab7fd0a.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "pattern",
+   "color": "brown",
+   "vibe": "y2k",
+   "themes": [
+    "leopard"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-fur-fawn-gloves-834342"
   ]
  },
  {
-  "slug": "y2k-lace-mesh-goth-punk-gloves-201889",
-  "code": "BK-AE4854",
-  "name": "Y2K Lace Mesh Goth Punk Gloves",
+  "slug": "y2k-black-ruffle-cuff-lace-up-goth-fingerless-gloves-201889",
+  "code": "BK-AE4845",
+  "name": "Y2K Black Ruffle Cuff Lace Up Goth Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -963372,12 +963686,32 @@
   ],
   "tags": [
    "anime"
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "knit",
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-mesh-goth-punk-gloves-201889"
   ]
  },
  {
-  "slug": "y2k-gloves-4-029107",
-  "code": "BK-AE4855",
-  "name": "Y2K Gloves 4",
+  "slug": "y2k-black-studded-strap-punk-fingerless-gloves-029107",
+  "code": "BK-AE4846",
+  "name": "Y2K Black Studded Strap Punk Fingerless Gloves",
   "depts": [
    "women",
    "men"
@@ -963438,12 +963772,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012847029107/030654da125c.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  },
+  "oldSlugs": [
+   "y2k-gloves-4-029107"
   ]
  },
  {
-  "slug": "y2k-lace-mesh-sexy-gloves-736845",
-  "code": "BK-AE4856",
-  "name": "Y2K Lace Mesh Sexy Gloves",
+  "slug": "y2k-black-lace-tiered-ruffle-coquette-arm-warmers-736845",
+  "code": "BK-AE4847",
+  "name": "Y2K Black Lace Tiered Ruffle Coquette Arm Warmers",
   "depts": [
    "women"
   ],
@@ -963522,12 +963872,32 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013553736845/91e0e33927df.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "coquette",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-mesh-sexy-gloves-736845"
   ]
  },
  {
-  "slug": "y2k-lace-floral-jewelry-841139",
-  "code": "BK-AE4857",
-  "name": "Y2K Lace Floral Jewelry",
+  "slug": "y2k-white-eyelet-pink-bow-heart-coquette-wrist-cuffs-841139",
+  "code": "BK-AE4848",
+  "name": "Y2K White Eyelet Pink Bow Heart Coquette Wrist Cuffs",
   "depts": [
    "women"
   ],
@@ -963608,15 +963978,32 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013300841139/8c2c62bed9e9.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows",
+    "hearts"
+   ],
+   "material": [
+    "lace",
+    "satin"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-floral-jewelry-841139"
   ]
  },
  {
-  "slug": "y2k-stripe-knit-gloves-2-813638",
-  "code": "BK-AE4858",
-  "name": "Y2K Stripe Knit Gloves 2",
+  "slug": "y2k-chunky-black-white-stripe-knit-grunge-arm-warmers-813638",
+  "code": "BK-AE4849",
+  "name": "Y2K Chunky Black White Stripe Knit Grunge Arm Warmers",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "accessories",
   "category": "arm-warmers",
@@ -963674,12 +964061,31 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012525813638/775aa228c965.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "pattern",
+   "color": "black",
+   "vibe": "grunge",
+   "themes": [
+    "stripes"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-stripe-knit-gloves-2-813638"
   ]
  },
  {
-  "slug": "y2k-goth-punk-gloves-5-590052",
-  "code": "BK-AE4859",
-  "name": "Y2K Goth Punk Gloves 5",
+  "slug": "y2k-black-buckle-grommet-goth-arm-warmers-590052",
+  "code": "BK-AE4850",
+  "name": "Y2K Black Buckle Grommet Goth Arm Warmers",
   "depts": [
    "women",
    "men"
@@ -963740,359 +964146,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010001590052/9ab610493af7.jpg",
     "color": "*"
    }
-  ]
- },
- {
-  "slug": "y2k-gloves-5-728089",
-  "code": "BK-AE4860",
-  "name": "Y2K Gloves 5",
-  "depts": [
-   "women",
-   "men"
   ],
-  "line": "accessories",
-  "category": "arm-warmers",
-  "design": "ae",
-  "drop": "drop7",
-  "price": 17.99,
-  "colors": [
-   {
-    "name": "Burgundy 44cm / One Size",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/bbc40594b36e.jpg"
-   },
-   {
-    "name": "Rose Red 52cm / One Size",
-    "hex": "#c8102e",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/ec566e633d33.jpg"
-   },
-   {
-    "name": "Burgundy 53cm / One Size",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/c3308a31bee3.jpg"
-   },
-   {
-    "name": "Champagne 52cm / One Size",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/362bd8dbcf06.jpg"
-   },
-   {
-    "name": "Black 44cm / One Size",
-    "hex": "#151515",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/aba90127d0df.jpg"
-   },
-   {
-    "name": "Green 44cm / One Size",
-    "hex": "#3d8b4a",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/b9395c62134c.jpg"
-   },
-   {
-    "name": "Green 53cm / One Size",
-    "hex": "#3d8b4a",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/e1f917ed9f44.jpg"
-   },
-   {
-    "name": "Blue 52cm / One Size",
-    "hex": "#2f5fb3",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/4dc63b382866.jpg"
-   },
-   {
-    "name": "Black 53cm / One Size",
-    "hex": "#151515",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/eaa87def01aa.jpg"
-   },
-   {
-    "name": "Green 65cm / One Size",
-    "hex": "#3d8b4a",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/9ba4f2796bba.jpg"
-   },
-   {
-    "name": "White 52cm / One Size",
-    "hex": "#ffffff",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/09285a074b9b.jpg"
-   },
-   {
-    "name": "Pink 52cm / One Size",
-    "hex": "#f4b6c8",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/251016b223ec.jpg"
-   },
-   {
-    "name": "Purple 52cm / One Size",
-    "hex": "#7d4bb3",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/a5cfc9b80976.jpg"
-   },
-   {
-    "name": "Coffee 52cm / One Size",
-    "hex": "#6f4e37",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/72bfc9c8b568.jpg"
-   },
-   {
-    "name": "Black 65cm / One Size",
-    "hex": "#151515",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/7b32ebb95beb.jpg"
-   },
-   {
-    "name": "Red 44cm / One Size",
-    "hex": "#c8102e",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/ba4dbe57a9b2.jpg"
-   },
-   {
-    "name": "Red 65cm / One Size",
-    "hex": "#c8102e",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/00be1e55e6da.jpg"
-   },
-   {
-    "name": "Red 53cm / One Size",
-    "hex": "#c8102e",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/4d411bc5ce6f.jpg"
-   },
-   {
-    "name": "Burgundy 65cm / One Size",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/0c9fdc18bfa8.jpg"
-   }
-  ],
-  "sizes": [
-   "One Size"
-  ],
-  "blurb": "",
-  "details": [
-   "Ships from our overseas partner"
-  ],
-  "ae": {
-   "productId": "1005001972728089",
-   "delivery": "10-15 days",
-   "variants": [
-    {
-     "color": "Burgundy 44cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:200004889#burgundy 44cm;200000287:200003528",
-     "skuId": "12000025391527358",
-     "cost": 5.46
-    },
-    {
-     "color": "Rose Red 52cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:350850#rose red 52cm;200000287:200003528",
-     "skuId": "12000061343297778",
-     "cost": 5.44
-    },
-    {
-     "color": "Burgundy 53cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:10#burgundy 53cm;200000287:200003528",
-     "skuId": "12000025391527359",
-     "cost": 5.76
-    },
-    {
-     "color": "Champagne 52cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:365458#champagne 52cm;200000287:200003528",
-     "skuId": "12000061343297779",
-     "cost": 5.23
-    },
-    {
-     "color": "Black 44cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:193#black 44cm;200000287:200003528",
-     "skuId": "12000025391527356",
-     "cost": 5.24
-    },
-    {
-     "color": "Green 44cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:200004890#green 44cm;200000287:200003528",
-     "skuId": "12000029336424411",
-     "cost": 5.2
-    },
-    {
-     "color": "Green 53cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:173#green 53cm;200000287:200003528",
-     "skuId": "12000029336424412",
-     "cost": 5.78
-    },
-    {
-     "color": "Blue 52cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:200002130#blue 52cm;200000287:200003528",
-     "skuId": "12000061343297782",
-     "cost": 5.02
-    },
-    {
-     "color": "Black 53cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:29#black 53CM;200000287:200003528",
-     "skuId": "12000025391527355",
-     "cost": 5.67
-    },
-    {
-     "color": "Green 65cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:1254#green 65cm;200000287:200003528",
-     "skuId": "12000029336424413",
-     "cost": 6.17
-    },
-    {
-     "color": "White 52cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:200003699#white 52cm;200000287:200003528",
-     "skuId": "12000061343297783",
-     "cost": 5.39
-    },
-    {
-     "color": "Pink 52cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:350852#pink 52cm;200000287:200003528",
-     "skuId": "12000061343297780",
-     "cost": 5.39
-    },
-    {
-     "color": "Purple 52cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:771#purple 52cm;200000287:200003528",
-     "skuId": "12000061343297781",
-     "cost": 5.39
-    },
-    {
-     "color": "Coffee 52cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:203322812#coffee 52cm;200000287:200003528",
-     "skuId": "12000061343297784",
-     "cost": 4.94
-    },
-    {
-     "color": "Black 65cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:175#black 65cm;200000287:200003528",
-     "skuId": "12000025419209671",
-     "cost": 5.95
-    },
-    {
-     "color": "Red 44cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:366#red 44cm;200000287:200003528",
-     "skuId": "12000030402633173",
-     "cost": 5.4
-    },
-    {
-     "color": "Red 65cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:350853#red 65cm;200000287:200003528",
-     "skuId": "12000030402633175",
-     "cost": 6.23
-    },
-    {
-     "color": "Red 53cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:200004891#red 53cm;200000287:200003528",
-     "skuId": "12000030402633174",
-     "cost": 5.93
-    },
-    {
-     "color": "Burgundy 65cm / One Size",
-     "size": "One Size",
-     "skuAttr": "14:691#burgundy 65cm;200000287:200003528",
-     "skuId": "12000025391527360",
-     "cost": 6.05
-    }
-   ]
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
   },
-  "photos": [
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/bbc40594b36e.jpg",
-    "color": "Burgundy 44cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/ec566e633d33.jpg",
-    "color": "Rose Red 52cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/c3308a31bee3.jpg",
-    "color": "Burgundy 53cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/362bd8dbcf06.jpg",
-    "color": "Champagne 52cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/aba90127d0df.jpg",
-    "color": "Black 44cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/b9395c62134c.jpg",
-    "color": "Green 44cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/e1f917ed9f44.jpg",
-    "color": "Green 53cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/4dc63b382866.jpg",
-    "color": "Blue 52cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/eaa87def01aa.jpg",
-    "color": "Black 53cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/9ba4f2796bba.jpg",
-    "color": "Green 65cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/09285a074b9b.jpg",
-    "color": "White 52cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/251016b223ec.jpg",
-    "color": "Pink 52cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/a5cfc9b80976.jpg",
-    "color": "Purple 52cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/72bfc9c8b568.jpg",
-    "color": "Coffee 52cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/7b32ebb95beb.jpg",
-    "color": "Black 65cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/ba4dbe57a9b2.jpg",
-    "color": "Red 44cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/00be1e55e6da.jpg",
-    "color": "Red 65cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/4d411bc5ce6f.jpg",
-    "color": "Red 53cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/0c9fdc18bfa8.jpg",
-    "color": "Burgundy 65cm / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/ec566e633d33.jpg",
-    "color": "*"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/785854c6e082.jpg",
-    "color": "*"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005001972728089/27dd54c55ae5.jpg",
-    "color": "*"
-   }
+  "oldSlugs": [
+   "y2k-goth-punk-gloves-5-590052"
   ]
  },
  {
-  "slug": "y2k-gloves-6-629813",
-  "code": "BK-AE4861",
-  "name": "Y2K Gloves 6",
+  "slug": "y2k-black-witch-claw-goth-gloves-629813",
+  "code": "BK-AE4851",
+  "name": "Y2K Black Witch Claw Goth Gloves",
   "depts": [
    "women",
    "men"
@@ -964138,10 +964213,6 @@
     "color": "*"
    },
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008015629813/0daab26ddaf6.jpg",
-    "color": "*"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008015629813/6c3dc1395d63.jpg",
     "color": "*"
    },
@@ -964153,12 +964224,22 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008015629813/12b24de73872.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "unisex": true
+  },
+  "oldSlugs": [
+   "y2k-gloves-6-629813"
   ]
  },
  {
-  "slug": "y2k-kitty-kawaii-gloves-715032",
-  "code": "BK-AE4862",
-  "name": "Y2K Kitty Kawaii Gloves",
+  "slug": "y2k-beige-plush-brown-pad-harajuku-cat-paw-gloves-715032",
+  "code": "BK-AE4852",
+  "name": "Y2K Beige Plush Brown Pad Harajuku Cat Paw Gloves",
   "depts": [
    "women"
   ],
@@ -964259,359 +964340,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005007431715032/61b75592e8ef.jpg",
     "color": "*"
    }
-  ]
- },
- {
-  "slug": "y2k-punk-gloves-3-880919",
-  "code": "BK-AE4863",
-  "name": "Y2K Punk Gloves 3",
-  "depts": [
-   "women",
-   "men"
   ],
-  "line": "accessories",
-  "category": "arm-warmers",
-  "design": "ae",
-  "drop": "drop7",
-  "price": 14.99,
-  "colors": [
-   {
-    "name": "G48 Blue / One Size",
-    "hex": "#2f5fb3",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/446e5571457a.jpg"
-   },
-   {
-    "name": "G48 Red / One Size",
-    "hex": "#c8102e",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/69ddeb505d84.jpg"
-   },
-   {
-    "name": "B50 Cloth Black / One Size",
-    "hex": "#151515",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/36046fc202b5.jpg"
-   },
-   {
-    "name": "G141 Black / One Size",
-    "hex": "#151515",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/8002b98eed2b.jpg"
-   },
-   {
-    "name": "G131 Black / One Size",
-    "hex": "#151515",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/58919ee5f5cb.jpg"
-   },
-   {
-    "name": "G41 Blue / One Size",
-    "hex": "#2f5fb3",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/49d1961db008.jpg"
-   },
-   {
-    "name": "Suede Leather Brown / One Size",
-    "hex": "#7a4e2d",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/0a43569bfff8.jpg"
-   },
-   {
-    "name": "G48 Black / One Size",
-    "hex": "#151515",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/c95d17ca8e6f.jpg"
-   },
-   {
-    "name": "G131 White / One Size",
-    "hex": "#ffffff",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/86b55b6df943.jpg"
-   },
-   {
-    "name": "Red R 2 / One Size",
-    "hex": "#c8102e",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/176ee09aec4d.jpg"
-   },
-   {
-    "name": "G41 Red / One Size",
-    "hex": "#c8102e",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/7ee348c0909b.jpg"
-   },
-   {
-    "name": "G41 Black / One Size",
-    "hex": "#151515",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/d16ea2f1779d.jpg"
-   },
-   {
-    "name": "Black / One Size",
-    "hex": "#151515",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/cb57fe24cb2c.jpg"
-   },
-   {
-    "name": "Suede Leather Cyan / One Size",
-    "hex": "#d9d2cc",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/e23b4b8295a7.jpg"
-   },
-   {
-    "name": "C5 Black / One Size",
-    "hex": "#151515",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/e072e4032ef0.jpg"
-   },
-   {
-    "name": "B50 Cloth Brown / One Size",
-    "hex": "#7a4e2d",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/b23c867363a0.jpg"
-   },
-   {
-    "name": "B50 Cloth Gray / One Size",
-    "hex": "#9a9a9a",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/2e6aeabaad67.jpg"
-   },
-   {
-    "name": "Suede Leather Gray / One Size",
-    "hex": "#9a9a9a",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/07200619095d.jpg"
-   },
-   {
-    "name": "Suede Leather Black / One Size",
-    "hex": "#151515",
-    "image": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/e3462e764bc1.jpg"
-   }
-  ],
-  "sizes": [
-   "One Size"
-  ],
-  "blurb": "",
-  "details": [
-   "Ships from our overseas partner"
-  ],
-  "ae": {
-   "productId": "32807880919",
-   "delivery": "10-15 days",
-   "variants": [
-    {
-     "color": "G48 Blue / One Size",
-     "size": "One Size",
-     "skuAttr": "14:200004891#G48 Blue;200000287:200003528",
-     "skuId": "12000026742105725",
-     "cost": 5.02
-    },
-    {
-     "color": "G48 Red / One Size",
-     "size": "One Size",
-     "skuAttr": "14:366#G48 Red;200000287:200003528",
-     "skuId": "12000026742105724",
-     "cost": 4.69
-    },
-    {
-     "color": "B50 Cloth Black / One Size",
-     "size": "One Size",
-     "skuAttr": "14:350850#B50 Cloth Black;200000287:200003528",
-     "skuId": "12000026742105727",
-     "cost": 4.52
-    },
-    {
-     "color": "G141 Black / One Size",
-     "size": "One Size",
-     "skuAttr": "14:350853#G141 Black;200000287:200003528",
-     "skuId": "12000026742105726",
-     "cost": 4.79
-    },
-    {
-     "color": "G131 Black / One Size",
-     "size": "One Size",
-     "skuAttr": "14:200004890#G131 Black;200000287:200003528",
-     "skuId": "12000026742105721",
-     "cost": 4.85
-    },
-    {
-     "color": "G41 Blue / One Size",
-     "size": "One Size",
-     "skuAttr": "14:691#G41 Blue;200000287:200003528",
-     "skuId": "12000026742105720",
-     "cost": 4.69
-    },
-    {
-     "color": "Suede Leather Brown / One Size",
-     "size": "One Size",
-     "skuAttr": "14:200003699#Suede leather Brown;200000287:200003528",
-     "skuId": "12000037089374999",
-     "cost": 4.69
-    },
-    {
-     "color": "G48 Black / One Size",
-     "size": "One Size",
-     "skuAttr": "14:1254#G48 Black;200000287:200003528",
-     "skuId": "12000026742105723",
-     "cost": 4.69
-    },
-    {
-     "color": "G131 White / One Size",
-     "size": "One Size",
-     "skuAttr": "14:173#G131 White;200000287:200003528",
-     "skuId": "12000026742105722",
-     "cost": 5.02
-    },
-    {
-     "color": "Red R 2 / One Size",
-     "size": "One Size",
-     "skuAttr": "14:175#Red R 2;200000287:200003528",
-     "skuId": "12000026742105717",
-     "cost": 4.69
-    },
-    {
-     "color": "G41 Red / One Size",
-     "size": "One Size",
-     "skuAttr": "14:10#G41 Red;200000287:200003528",
-     "skuId": "12000026742105719",
-     "cost": 4.69
-    },
-    {
-     "color": "G41 Black / One Size",
-     "size": "One Size",
-     "skuAttr": "14:200004889#G41 Black;200000287:200003528",
-     "skuId": "12000026742105718",
-     "cost": 4.69
-    },
-    {
-     "color": "Black / One Size",
-     "size": "One Size",
-     "skuAttr": "14:203221806#Black;200000287:200003528",
-     "skuId": "12000048871357279",
-     "cost": 4.89
-    },
-    {
-     "color": "Suede Leather Cyan / One Size",
-     "size": "One Size",
-     "skuAttr": "14:203322812#Suede leather Cyan;200000287:200003528",
-     "skuId": "12000026742105733",
-     "cost": 4.75
-    },
-    {
-     "color": "C5 Black / One Size",
-     "size": "One Size",
-     "skuAttr": "14:203322814#C5 Black;200000287:200003528",
-     "skuId": "12000026742105734",
-     "cost": 4.52
-    },
-    {
-     "color": "B50 Cloth Brown / One Size",
-     "size": "One Size",
-     "skuAttr": "14:350852#B50 Cloth Brown;200000287:200003528",
-     "skuId": "12000026742105729",
-     "cost": 4.69
-    },
-    {
-     "color": "B50 Cloth Gray / One Size",
-     "size": "One Size",
-     "skuAttr": "14:365458#B50 Cloth Gray;200000287:200003528",
-     "skuId": "12000026742105728",
-     "cost": 4.69
-    },
-    {
-     "color": "Suede Leather Gray / One Size",
-     "size": "One Size",
-     "skuAttr": "14:200002130#Suede leather Gray;200000287:200003528",
-     "skuId": "12000026742105731",
-     "cost": 4.69
-    },
-    {
-     "color": "Suede Leather Black / One Size",
-     "size": "One Size",
-     "skuAttr": "14:771#Suede leather Black;200000287:200003528",
-     "skuId": "12000026742105730",
-     "cost": 4.65
-    }
-   ]
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "brown",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
   },
-  "photos": [
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/446e5571457a.jpg",
-    "color": "G48 Blue / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/69ddeb505d84.jpg",
-    "color": "G48 Red / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/36046fc202b5.jpg",
-    "color": "B50 Cloth Black / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/8002b98eed2b.jpg",
-    "color": "G141 Black / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/58919ee5f5cb.jpg",
-    "color": "G131 Black / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/49d1961db008.jpg",
-    "color": "G41 Blue / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/0a43569bfff8.jpg",
-    "color": "Suede Leather Brown / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/c95d17ca8e6f.jpg",
-    "color": "G48 Black / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/86b55b6df943.jpg",
-    "color": "G131 White / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/176ee09aec4d.jpg",
-    "color": "Red R 2 / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/7ee348c0909b.jpg",
-    "color": "G41 Red / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/d16ea2f1779d.jpg",
-    "color": "G41 Black / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/cb57fe24cb2c.jpg",
-    "color": "Black / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/e23b4b8295a7.jpg",
-    "color": "Suede Leather Cyan / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/e072e4032ef0.jpg",
-    "color": "C5 Black / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/b23c867363a0.jpg",
-    "color": "B50 Cloth Brown / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/2e6aeabaad67.jpg",
-    "color": "B50 Cloth Gray / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/07200619095d.jpg",
-    "color": "Suede Leather Gray / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/e3462e764bc1.jpg",
-    "color": "Suede Leather Black / One Size"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/f891656e1909.jpg",
-    "color": "*"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/368b73c6f71e.jpg",
-    "color": "*"
-   },
-   {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-32807880919/6e9452ab967e.jpg",
-    "color": "*"
-   }
+  "oldSlugs": [
+   "y2k-kitty-kawaii-gloves-715032"
   ]
  },
  {
-  "slug": "y2k-leopard-bunny-gloves-2-441923",
-  "code": "BK-AE4864",
-  "name": "Y2K Leopard Bunny Gloves 2",
+  "slug": "y2k-leopard-faux-fur-cuff-fingerless-gloves-441923",
+  "code": "BK-AE4853",
+  "name": "Y2K Leopard Faux Fur Cuff Fingerless Gloves",
   "depts": [
    "women"
   ],
@@ -964740,12 +964490,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005008350441923/18047989f177.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "pattern",
+   "color": "brown",
+   "vibe": "y2k",
+   "themes": [
+    "leopard"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-leopard-bunny-gloves-2-441923"
   ]
  },
  {
-  "slug": "y2k-lace-goth-punk-gloves-652713",
-  "code": "BK-AE4865",
-  "name": "Y2K Lace Goth Punk Gloves",
+  "slug": "y2k-black-lace-finger-loop-goth-arm-warmers-652713",
+  "code": "BK-AE4854",
+  "name": "Y2K Black Lace Finger Loop Goth Arm Warmers",
   "depts": [
    "women"
   ],
@@ -964826,12 +964592,29 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005012838652713/6fc7d1fffaf6.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-goth-punk-gloves-652713"
   ]
  },
  {
-  "slug": "y2k-kitty-fur-emo-gloves-677006",
-  "code": "BK-AE4866",
-  "name": "Y2K Kitty Fur Emo Gloves",
+  "slug": "y2k-pink-fluffy-kitten-harajuku-fur-gloves-677006",
+  "code": "BK-AE4855",
+  "name": "Y2K Pink Fluffy Kitten Harajuku Fur Gloves",
   "depts": [
    "women"
   ],
@@ -964897,10 +964680,6 @@
     "color": "*"
    },
    {
-    "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013584677006/b0da0e0e71f5.jpg",
-    "color": "*"
-   },
-   {
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013584677006/cbec3a0674ce.jpg",
     "color": "*"
    },
@@ -964908,12 +964687,31 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013584677006/b17935e25468.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "pink",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-kitty-fur-emo-gloves-677006"
   ]
  },
  {
-  "slug": "y2k-lace-goth-sexy-gloves-522354",
-  "code": "BK-AE4867",
-  "name": "Y2K Lace Goth Sexy Gloves",
+  "slug": "y2k-black-corset-lace-up-goth-arm-warmers-522354",
+  "code": "BK-AE4856",
+  "name": "Y2K Black Corset Lace Up Goth Arm Warmers",
   "depts": [
    "women"
   ],
@@ -965030,12 +964828,32 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005013053522354/54495149e840.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-lace-goth-sexy-gloves-522354"
   ]
  },
  {
-  "slug": "y2k-heart-gloves-680394",
-  "code": "BK-AE4868",
-  "name": "Y2K Heart Gloves",
+  "slug": "y2k-pink-heart-knit-arm-warmers-680394",
+  "code": "BK-AE4857",
+  "name": "Y2K Pink Heart Knit Arm Warmers",
   "depts": [
    "women"
   ],
@@ -965114,12 +964932,31 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005004750680394/2ac318b95c93.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "pattern",
+   "color": "pink",
+   "vibe": "y2k",
+   "themes": [
+    "hearts"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-heart-gloves-680394"
   ]
  },
  {
-  "slug": "y2k-kitty-fur-kawaii-gloves-186196",
-  "code": "BK-AE4869",
-  "name": "Y2K Kitty Fur Kawaii Gloves",
+  "slug": "y2k-brown-white-fluffy-harajuku-cat-paw-gloves-186196",
+  "code": "BK-AE4858",
+  "name": "Y2K Brown White Fluffy Harajuku Cat Paw Gloves",
   "depts": [
    "women"
   ],
@@ -965248,12 +965085,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005010421186196/4555206c94e6.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "brown",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-kitty-fur-kawaii-gloves-186196"
   ]
  },
  {
-  "slug": "y2k-punk-gloves-4-880707",
-  "code": "BK-AE4870",
-  "name": "Y2K Punk Gloves 4",
+  "slug": "y2k-black-faux-leather-buckle-wrap-punk-fingerless-gloves-880707",
+  "code": "BK-AE4859",
+  "name": "Y2K Black Faux Leather Buckle Wrap Punk Fingerless Gloves",
   "depts": [
    "women",
    "men"
@@ -965314,15 +965167,28 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005006864880707/241455635273.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "faux-leather",
+    "studs"
+   ],
+   "unisex": true
+  },
+  "oldSlugs": [
+   "y2k-punk-gloves-4-880707"
   ]
  },
  {
-  "slug": "y2k-stripe-gloves-2-388335",
-  "code": "BK-AE4871",
-  "name": "Y2K Stripe Gloves 2",
+  "slug": "y2k-red-black-stripe-emo-arm-warmers-388335",
+  "code": "BK-AE4860",
+  "name": "Y2K Red Black Stripe Emo Arm Warmers",
   "depts": [
-   "women",
-   "men"
+   "women"
   ],
   "line": "accessories",
   "category": "arm-warmers",
@@ -965461,6 +965327,25 @@
     "src": "https://pub-d9dce74a87164578ab89f22d84cb54f5.r2.dev/cj/ae-1005011701388335/e71c2cc0d020.jpg",
     "color": "*"
    }
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "pattern",
+   "color": "red",
+   "vibe": "emo",
+   "themes": [
+    "stripes"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  },
+  "oldSlugs": [
+   "y2k-stripe-gloves-2-388335"
   ]
  }
 ]

@@ -202,7 +202,7 @@ export const COLLECTIONS: CollectionDef[] = [
   { slug: 'y2k-bags', title: 'Y2K Bags', group: 'accessories', test: cat('bags'), blurb: 'Shoulder bags, mini bags and bag charms.' },
   { slug: 'y2k-belts', title: 'Y2K Belts & Sunglasses', group: 'accessories', test: cat('belts'), blurb: 'Studded belts, chains, scarves and shades.' },
   { slug: 'y2k-legwear', title: 'Y2K Socks & Leg Warmers', group: 'accessories', womenOnly: true, test: cat('legwear'), blurb: 'Leg warmers, tights, fishnets and thigh highs.' },
-  { slug: 'y2k-arm-warmers', title: 'Y2K Arm Warmers & Gloves', group: 'accessories', womenOnly: true, test: cat('arm-warmers'), blurb: 'Striped arm warmers and fingerless gloves.' },
+  { slug: 'y2k-arm-warmers', title: 'Y2K Arm Warmers & Gloves', group: 'accessories', test: cat('arm-warmers'), blurb: 'Striped arm warmers and fingerless gloves.' },
   { slug: 'y2k-hair-accessories', title: 'Y2K Hair Accessories', group: 'accessories', womenOnly: true, test: cat('hair'), blurb: 'Clips, claws and headbands.' },
 
   // Lines no menu shows, kept so old links land somewhere sensible.
