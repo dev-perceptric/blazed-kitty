@@ -5,6 +5,8 @@ import ProductCard from '@/components/ProductCard';
 import Slideshow, { type Slide } from '@/components/Slideshow';
 import Faq from '@/components/Faq';
 import Newsletter from '@/components/Newsletter';
+import { findAnyProduct, type Product } from '@/lib/products';
+import featured from '@/lib/featured.json';
 
 const col = (slug: string) => getCollection(slug)!;
 /** Photos from a collection, skipping a few so tiles don't repeat each other. */
@@ -12,21 +14,42 @@ function photos(slug: string, n: number, skip = 0, dept?: 'womens' | 'mens') {
   return productsIn(col(slug), dept).filter((p) => p.photos?.length).slice(skip, skip + n).map((p) => p.photos![0].src);
 }
 
+type Featured = { slides?: Record<string, string[]>; tiles?: Record<string, string[]>; circles?: Record<string, string[]>; rows?: Record<string, string[]>; themes?: Record<string, string[]>; new?: string[] };
+const F = featured as Featured;
+/** Hand-picked products for a homepage spot (lib/featured.json), skipping any already shown. */
+function picked(slugs: string[] | undefined, n: number, used?: Set<string>): Product[] {
+  const out: Product[] = [];
+  for (const s of slugs ?? []) {
+    const p = findAnyProduct(s);
+    if (!p?.photos?.length || used?.has(p.slug) || out.includes(p)) continue;
+    out.push(p);
+    if (out.length === n) break;
+  }
+  return out;
+}
+
 const Icon = ({ d }: { d: string }) => <svg viewBox="0 0 24 24" aria-hidden="true"><path d={d} fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" /></svg>;
 
 export default function Home() {
+  // Nothing appears twice on the page: slides, then tiles, then rows claim products in that order.
+  const used = new Set<string>();
+  const claim = (list: Product[]) => { list.forEach((p) => used.add(p.slug)); return list; };
+  const slideImgs = (key: string, fallback: () => string[]) => {
+    const list = claim(picked(F.slides?.[key], 3, used));
+    return list.length === 3 ? list.map((p) => p.photos![0].src) : fallback();
+  };
   const slides: Slide[] = [
-    { eyebrow: 'New Y2K drops every week', title: 'Y2K Clothing', cta: 'Shop Women', href: collectionHref('all', 'womens'), alt: { cta: 'Shop Men', href: collectionHref('all', 'mens') }, images: photos('y2k-baby-tees', 3, 4, 'womens') },
-    { eyebrow: 'Baggy, flare and low rise', title: 'Y2K Jeans & Jorts', cta: 'Shop Jeans', href: collectionHref('y2k-jeans'), alt: { cta: 'Shop Jorts', href: collectionHref('y2k-jorts') }, images: photos('y2k-baggy-jeans', 3, 2) },
-    { eyebrow: 'Rhinestones, skulls and zips', title: 'Y2K Zip Up Hoodies', cta: 'Shop Hoodies', href: collectionHref('y2k-zip-up-hoodies'), images: photos('y2k-zip-up-hoodies', 3, 30) },
-    { eyebrow: 'Washed anime and manga', title: 'Y2K Anime Tees', cta: 'Shop Anime', href: collectionHref('y2k-anime'), images: photos('y2k-anime', 3, 10) },
+    { eyebrow: 'New Y2K drops every week', title: 'Y2K Clothing', cta: 'Shop Women', href: collectionHref('all', 'womens'), alt: { cta: 'Shop Men', href: collectionHref('all', 'mens') }, images: slideImgs('womens', () => photos('y2k-baby-tees', 3, 4, 'womens')) },
+    { eyebrow: 'Baggy, flare and low rise', title: 'Y2K Jeans & Jorts', cta: 'Shop Jeans', href: collectionHref('y2k-jeans'), alt: { cta: 'Shop Jorts', href: collectionHref('y2k-jorts') }, images: slideImgs('y2k-baggy-jeans', () => photos('y2k-baggy-jeans', 3, 2)) },
+    { eyebrow: 'Rhinestones, skulls and zips', title: 'Y2K Zip Up Hoodies', cta: 'Shop Hoodies', href: collectionHref('y2k-zip-up-hoodies'), images: slideImgs('y2k-zip-up-hoodies', () => photos('y2k-zip-up-hoodies', 3, 30)) },
+    { eyebrow: 'Washed anime and manga', title: 'Y2K Anime Tees', cta: 'Shop Anime', href: collectionHref('y2k-anime'), images: slideImgs('y2k-anime', () => photos('y2k-anime', 3, 10)) },
   ].filter((s) => s.images.length);
 
   const big = [
     { slug: 'y2k-jeans', label: 'Y2K Jeans', skip: 8 },
     { slug: 'y2k-hoodies', label: 'Y2K Hoodies', skip: 3 },
     { slug: 'y2k-baby-tees', label: 'Y2K Baby Tees', skip: 12 },
-  ];
+  ].map((b) => ({ ...b, img: claim(picked(F.tiles?.[b.slug], 1, used))[0]?.photos![0].src ?? coverOf(productsIn(col(b.slug)), b.skip) }));
 
   // [collection, label, which product photo to use]
   const cats: [string, string, number][] = ([
@@ -35,11 +58,11 @@ export default function Home() {
     ['y2k-jackets', 'Jackets', 7], ['y2k-platform-shoes', 'Platforms', 0], ['y2k-rings', 'Rings', 9], ['y2k-necklaces', 'Chokers', 7],
   ] as [string, string, number][]).filter(([s]) => productsIn(col(s)).length);
 
-  // One row of 4 per category, no product shown twice on the page.
-  const used = new Set<string>();
+  // One row of 4 per category: hand-picked first, topped up from the collection.
   const row = (slug: string, title?: string) => {
-    const list = productsIn(col(slug)).filter((p) => p.photos?.length && !used.has(p.slug)).slice(0, 4);
-    list.forEach((p) => used.add(p.slug));
+    const list = picked(F.rows?.[slug], 4, used);
+    for (const p of productsIn(col(slug))) { if (list.length >= 4) break; if (p.photos?.length && !used.has(p.slug) && !list.includes(p)) list.push(p); }
+    claim(list);
     return { slug, title: title ?? col(slug).title, list };
   };
   const rowsA = [row('y2k-baby-tees'), row('y2k-graphic-tees'), row('y2k-zip-up-hoodies')].filter((r) => r.list.length === 4);
@@ -61,7 +84,8 @@ export default function Home() {
   const themes = ['y2k-anime', 'y2k-goth', 'y2k-grunge', 'y2k-coquette', 'y2k-band-merch', 'y2k-emo', 'y2k-fairy-grunge', 'y2k-harajuku', 'y2k-streetwear', 'y2k-brazil', 'y2k-rhinestone', 'y2k-acid-wash']
     .filter((s) => productsIn(col(s)).length >= 6);
 
-  const newIn = mixed(productsIn(col('y2k-new-in')).slice(0, 1200)).filter((p) => !used.has(p.slug)).slice(0, 8);
+  const newPicked = picked(F.new, 8, used);
+  const newIn = newPicked.length === 8 ? newPicked : mixed(productsIn(col('y2k-new-in')).slice(0, 1200)).filter((p) => !used.has(p.slug)).slice(0, 8);
 
   return (
     <>
@@ -71,7 +95,7 @@ export default function Home() {
         <div className="wrap big-tiles">
           {big.map((b) => (
             <Link key={b.slug} href={collectionHref(b.slug)} className="big-tile">
-              <div className="photo"><img src={coverOf(productsIn(col(b.slug)), b.skip)} alt="" loading="lazy" /></div>
+              <div className="photo"><img src={b.img} alt="" loading="lazy" /></div>
               <div className="big-tile-copy"><h3>{b.label}</h3><span className="btn btn-white">Shop now</span></div>
             </Link>
           ))}
@@ -84,7 +108,7 @@ export default function Home() {
           <div className="cat-list">
             {cats.map(([s, label, skip]) => (
               <Link key={s} href={collectionHref(s)} className="cat-item">
-                <div className="photo"><img src={coverOf(productsIn(col(s)), skip)} alt="" loading="lazy" /></div>
+                <div className="photo"><img src={picked(F.circles?.[s], 1, used)[0]?.photos![0].src ?? coverOf(productsIn(col(s)), skip)} alt="" loading="lazy" /></div>
                 <span>{label}</span>
               </Link>
             ))}
@@ -109,7 +133,7 @@ export default function Home() {
           <div className="theme-row">
             {themes.map((s, n) => (
               <Link key={s} href={collectionHref(s)} className="theme-tile">
-                <div className="photo"><img src={coverOf(productsIn(col(s)), 3 + n)} alt="" loading="lazy" /></div>
+                <div className="photo"><img src={picked(F.themes?.[s], 1, used)[0]?.photos![0].src ?? coverOf(productsIn(col(s)), 3 + n)} alt="" loading="lazy" /></div>
                 <span>{col(s).title.replace(/^Y2K /, '').replace(/ Clothing| Tops/, '')}</span>
               </Link>
             ))}
