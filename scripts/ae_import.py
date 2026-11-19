@@ -37,7 +37,8 @@ ANIME = re.compile(r'\b(anime|manga|otaku|waifu|chibi|shonen|shoujo|japanese car
 TYPES = [
     (r'\b(necklace|earrings?|rings?|bracelet|choker|pendant|jewelry|piercing|anklet|body chain)\b', 'jewelry', 'Jewelry'),
     (r'\b(shoes|boots|sneakers|heels|platforms?|sandals|loafers|mary janes)\b', 'shoes', 'Shoes'),
-    (r'\b(sunglasses|glasses|belt|scarf|gloves|arm warmers?|leg warmers?|hair clips?|hairpins?|headbands?|hair bands?|wig|garter|harness|mask)\b', 'accessories', None),
+    (r'\b(gloves?|arm warmers?|mittens?|arm sleeves?|wrist cuffs?)\b', 'arm-warmers', None),
+    (r'\b(sunglasses|glasses|belt|scarf|leg warmers?|hair clips?|hairpins?|headbands?|hair bands?|wig|garter|harness|mask)\b', 'accessories', None),
     (r'\b(bag|purse|handbag|tote|crossbody|backpack|wallet)\b', 'bags', 'Bag'),
     (r'\b(socks?|stockings?|tights|fishnets?)\b', 'socks', 'Socks'),
     (r'\b(bikini|swimsuit|swimwear)\b', 'bikinis', 'Bikini'),
