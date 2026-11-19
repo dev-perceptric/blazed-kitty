@@ -5,6 +5,7 @@ import type { Crumb } from '@/lib/catalog';
 import ProductCard from './ProductCard';
 import Crumbs from './Crumbs';
 import InfiniteGrid from './InfiniteGrid';
+import DropdownCloser from './DropdownCloser';
 import { PER_PAGE, SORTS, filterAndSort } from '@/lib/feed';
 
 export type Search = { sort?: string; page?: string; q?: string } & Partial<Record<FilterKey, string>>;
@@ -65,6 +66,7 @@ export default function CollectionView({
           </nav>
         )}
 
+        <DropdownCloser />
         <div className="coll-sticky">
         <div className="toolbar">
           <div className="filters" aria-label="Filter">
