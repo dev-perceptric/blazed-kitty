@@ -23,6 +23,23 @@ export default function CartDrawer() {
     };
   }, [open, setOpen]);
 
+  // Warm up the connection to Stripe while the bag is open so checkout opens faster.
+  useEffect(() => {
+    if (!open || document.getElementById('stripe-preconnect')) return;
+    for (const [i, href] of ['https://checkout.stripe.com', 'https://js.stripe.com'].entries()) {
+      const l = document.createElement('link');
+      l.rel = 'preconnect'; l.href = href; if (i === 0) l.id = 'stripe-preconnect';
+      document.head.appendChild(l);
+    }
+  }, [open]);
+
+  // Coming back from Stripe with the Back button restores this page from memory: un-stick the button.
+  useEffect(() => {
+    const reset = (e: PageTransitionEvent) => { if (e.persisted) { setBusy(false); setMsg(''); } };
+    window.addEventListener('pageshow', reset);
+    return () => window.removeEventListener('pageshow', reset);
+  }, []);
+
   async function checkout() {
     setBusy(true);
     setMsg('');
@@ -35,6 +52,8 @@ export default function CartDrawer() {
       const data = await res.json();
       if (data.url) {
         window.location.href = data.url;
+        // If the browser doesn't leave (blocked, very slow), give the button back after a while.
+        setTimeout(() => setBusy(false), 12000);
         return;
       }
       setMsg(data.error || 'Checkout did not start. Try again in a minute.');
