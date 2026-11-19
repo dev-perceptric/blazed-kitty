@@ -170,10 +170,17 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .chip:hover { border-color: var(--ink); }
 .chip.is-active { background: var(--ink); color: #fff; border-color: var(--ink); }
 .chip-count { font-size: 11px; opacity: 0.55; }
-.toolbar { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; padding: 14px 0; border-top: 1px solid var(--line); }
+.toolbar { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; padding: 12px 0; border-top: 1px solid var(--line); }
+/* Filter bar sticks under the header while scrolling the grid; the background is stretched to the screen edges. */
+:root { --header-h: 73px; }
+.coll-sticky { position: sticky; top: calc(var(--header-h) + env(safe-area-inset-top, 0px)); z-index: 15; }
+.coll-sticky::before, .coll-sticky::after { content: ''; position: absolute; left: 0; right: 0; z-index: -1; clip-path: inset(0 -100vmax); }
+.coll-sticky::before { top: 0; bottom: 0; background: var(--bg); box-shadow: 0 0 0 100vmax var(--bg); }
+.coll-sticky::after { bottom: 0; height: 1px; background: var(--line); box-shadow: 0 0 0 100vmax var(--line); }
+.coll-sticky .filter-active { padding-bottom: 10px; margin-bottom: 0; }
 .filters { display: flex; flex-wrap: wrap; gap: 8px; }
 .filter { position: relative; }
-.filter summary { list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 8px; min-height: 38px; padding: 0 14px; border-radius: 999px; background: #fff; border: 1px solid var(--line); text-transform: none; letter-spacing: 0; font-size: 13px; font-weight: 600; }
+.filter summary { white-space: nowrap; list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 8px; min-height: 38px; padding: 0 14px; border-radius: 999px; background: #fff; border: 1px solid var(--line); text-transform: none; letter-spacing: 0; font-size: 13px; font-weight: 600; }
 .filter summary::-webkit-details-marker { display: none; }
 .filter summary::after { content: '▾'; font-size: 10px; color: var(--muted); }
 .filter[open] summary, .filter summary:hover, .filter.is-on summary { border-color: var(--ink); }
@@ -430,6 +437,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 @media (max-width: 860px) {
   .brand { font-size: 22px; }
   .header-row { min-height: 60px; }
+  :root { --header-h: 61px; }
   .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
   .tile-info { padding: 10px 12px 12px; }
   .tile-name { font-size: 13px; }
@@ -444,7 +452,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   .slide-media img:not(:first-child) { display: none; }
   .sec { padding-block: 40px; }
   .club { padding: 28px 22px; }
-  .toolbar { flex-direction: column; }
+  .toolbar { align-items: flex-start; }
   .chips { justify-content: flex-start; }
   .search-hits { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
   .search-form input { font-size: 16px; }
@@ -452,6 +460,12 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 }
 @media (max-width: 600px) {
   .filters { flex-wrap: nowrap; overflow-x: auto; max-width: 100%; padding-bottom: 4px; }
+  .toolbar { align-items: center; padding: 8px 0; }
+  .toolbar .filters { flex: 1; min-width: 0; scrollbar-width: none; padding-bottom: 0; }
+  .toolbar .filters::-webkit-scrollbar { display: none; }
+  .toolbar .sort-menu { flex: none; }
+  .toolbar .sort-menu summary { padding: 0 12px; }
+  .coll-sticky .filter-active { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
   .filter-menu { position: fixed; left: 16px; right: 16px; top: auto; bottom: 16px; max-height: 50vh; }
   .icons-row { grid-template-columns: 1fr 1fr; gap: 10px; }
   .icon-card { padding: 18px 12px; }

@@ -65,6 +65,7 @@ export default function CollectionView({
           </nav>
         )}
 
+        <div className="coll-sticky">
         <div className="toolbar">
           <div className="filters" aria-label="Filter">
             {facets.map((f) => (
@@ -99,6 +100,7 @@ export default function CollectionView({
             <Link href={hrefWith(base, { sort: search.sort, q: search.q }, {})} className="link" scroll={false}>Clear all</Link>
           </div>
         )}
+        </div>
 
         <p className="count coll-count">{list.length} {list.length === 1 ? 'piece' : 'pieces'}</p>
 
