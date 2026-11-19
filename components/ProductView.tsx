@@ -8,8 +8,11 @@ import { shotsFor, printSrc } from '@/lib/images';
 import { AdultBlur, AdultConfirm } from './Adult';
 import { RETURN_DAYS } from '@/lib/site';
 import { useCart } from './CartProvider';
+import SizeGuide from './SizeGuide';
+import { usHint, type SizeChart } from '@/lib/sizing';
 
-export default function ProductView({ product }: { product: Product }) {
+export default function ProductView({ product, chart }: { product: Product; chart?: SizeChart }) {
+  const oversized = product.category === 'oversized-tees' || !!product.attrs?.cut?.includes('oversized');
   const [color, setColor] = useState(product.colors[0]);
   const [active, setActive] = useState(0);
   const [size, setSize] = useState(product.sizes.length === 1 ? product.sizes[0] : '');
@@ -136,7 +139,9 @@ export default function ProductView({ product }: { product: Product }) {
           <legend>Size {size ? <span>{size}</span> : null}</legend>
           <div className="size-row">
             {product.sizes.map((s) => (
-              <button key={s} type="button" id={`size-${s}`} className={`size${s === size ? ' is-on' : ''}`} onClick={() => setSize(s)} aria-pressed={s === size} disabled={!stocked(color.name, s)}>{s}</button>
+              <button key={s} type="button" id={`size-${s}`} className={`size${s === size ? ' is-on' : ''}${usHint(s, product.category, oversized) ? ' has-us' : ''}`} onClick={() => setSize(s)} aria-pressed={s === size} disabled={!stocked(color.name, s)}>
+                {s}{usHint(s, product.category, oversized) && <small>{usHint(s, product.category, oversized)}</small>}
+              </button>
             ))}
           </div>
         </fieldset>
@@ -167,9 +172,9 @@ export default function ProductView({ product }: { product: Product }) {
             {product.printful && <li>{product.printful.blank}</li>}
           </ul>
         </details>
-        <details className="acc">
+        <details className="acc" open={!!chart || undefined}>
           <summary>Size guide</summary>
-          <p>Most pieces use Asian sizing, which runs about one size small. Fitted tops and baby tees are made to be snug: size up once if you are between sizes. Oversized tees, hoodies and baggy jeans are cut big on purpose, so take your usual size.</p>
+          <SizeGuide chart={chart} sizes={product.sizes} category={product.category} oversized={oversized} />
         </details>
         <details className="acc">
           <summary>Shipping & returns</summary>

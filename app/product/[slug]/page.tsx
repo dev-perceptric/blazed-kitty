@@ -5,6 +5,8 @@ import { SHOP, productTrail } from '@/lib/catalog';
 import { SITE_URL, BRAND } from '@/lib/site';
 import ProductView from '@/components/ProductView';
 import ProductCard from '@/components/ProductCard';
+import sizeCharts from '@/lib/size-charts.json';
+import type { SizeChart } from '@/lib/sizing';
 import InfiniteGrid from '@/components/InfiniteGrid';
 import { RECS_FIRST, alsoLike, completeLook } from '@/lib/feed';
 import Crumbs from '@/components/Crumbs';
@@ -49,7 +51,7 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
       <section className="sec product">
         <div className="wrap">
           <Crumbs items={productTrail(product)} />
-          <ProductView product={product} />
+          <ProductView product={product} chart={product.ae ? (sizeCharts as Record<string, SizeChart>)[product.ae.productId] : undefined} />
         </div>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
       </section>
