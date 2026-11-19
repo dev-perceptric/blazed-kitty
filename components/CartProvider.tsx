@@ -6,6 +6,8 @@ export interface CartItem {
   slug: string;
   color: string;
   size: string;
+  /** The size as shoppers see it ("US S / EU 36"). */
+  sizeLabel?: string;
   qty: number;
   /** Shown in the bag. Checkout always re-reads the real price on the server. */
   name: string;

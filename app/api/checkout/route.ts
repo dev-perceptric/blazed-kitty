@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import { aeVariant, cjVariant, getProduct, inStock } from '@/lib/products';
+import { isOversized, sizeLabel } from '@/lib/sizing';
 
 interface Line { slug: string; color: string; size: string; qty: number }
 
@@ -36,7 +37,8 @@ export async function POST(req: Request) {
     body.append('shipping_address_collection[allowed_countries][]', c),
   );
   lines.forEach(({ i, p }, n) => {
-    const variant = p!.allOver ? i.size : `${i.color} / ${i.size}`;
+    const shown = i.size === 'One Size' ? '' : sizeLabel(i.size, p!.category, isOversized(p!)).text;
+    const variant = [/^(default|as photo)$/i.test(i.color) ? '' : i.color, shown].filter(Boolean).join(' / ') || 'One Size';
     body.append(`line_items[${n}][quantity]`, String(i.qty));
     body.append(`line_items[${n}][price_data][currency]`, 'usd');
     body.append(`line_items[${n}][price_data][unit_amount]`, String(Math.round(p!.price * 100)));

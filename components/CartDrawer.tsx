@@ -69,7 +69,7 @@ export default function CartDrawer() {
                     </Link>
                     <div className="line-info">
                       <strong>{item.name}</strong>
-                      <span className="line-opts">{[/^(default|as photo)$/i.test(item.color) ? '' : item.color, item.size === 'One Size' ? '' : item.size].filter(Boolean).join(' · ')}</span>
+                      <span className="line-opts">{[/^(default|as photo)$/i.test(item.color) ? '' : item.color, item.size === 'One Size' ? '' : item.sizeLabel ?? item.size].filter(Boolean).join(' · ')}</span>
                       <div className="qty">
                         <button type="button" onClick={() => setQty(i, item.qty - 1)} aria-label={`One less ${item.name}`}>−</button>
                         <span aria-live="polite">{item.qty}</span>

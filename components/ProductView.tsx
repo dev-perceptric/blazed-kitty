@@ -9,10 +9,11 @@ import { AdultBlur, AdultConfirm } from './Adult';
 import { RETURN_DAYS } from '@/lib/site';
 import { useCart } from './CartProvider';
 import SizeGuide from './SizeGuide';
-import { usHint, type SizeChart } from '@/lib/sizing';
+import { isOversized, sizeLabel, type SizeChart } from '@/lib/sizing';
 
 export default function ProductView({ product, chart }: { product: Product; chart?: SizeChart }) {
-  const oversized = product.category === 'oversized-tees' || !!product.attrs?.cut?.includes('oversized');
+  const oversized = isOversized(product);
+  const label = (s: string) => sizeLabel(s, product.category, oversized);
   const [color, setColor] = useState(product.colors[0]);
   const [active, setActive] = useState(0);
   const [size, setSize] = useState(product.sizes.length === 1 ? product.sizes[0] : '');
@@ -69,7 +70,7 @@ export default function ProductView({ product, chart }: { product: Product; char
 
   function addToBag() {
     if (!size) return;
-    add({ slug: product.slug, color: color.name, size, name: product.name, price: product.price, image: gallery[0] }, qty);
+    add({ slug: product.slug, color: color.name, size, sizeLabel: label(size).text, name: product.name, price: product.price, image: gallery[0] }, qty);
     setAdded(true);
     setOpen(true);
     setTimeout(() => setAdded(false), 2000);
@@ -136,11 +137,11 @@ export default function ProductView({ product, chart }: { product: Product; char
         )}
 
         <fieldset className="opt">
-          <legend>Size {size ? <span>{size}</span> : null}</legend>
+          <legend>Size {size ? <span>{label(size).text}</span> : null}</legend>
           <div className="size-row">
             {product.sizes.map((s) => (
-              <button key={s} type="button" id={`size-${s}`} className={`size${s === size ? ' is-on' : ''}${usHint(s, product.category, oversized) ? ' has-us' : ''}`} onClick={() => setSize(s)} aria-pressed={s === size} disabled={!stocked(color.name, s)}>
-                {s}{usHint(s, product.category, oversized) && <small>{usHint(s, product.category, oversized)}</small>}
+              <button key={s} type="button" id={`size-${s}`} className={`size${s === size ? ' is-on' : ''}${label(s).sub ? ' has-us' : ''}`} onClick={() => setSize(s)} aria-pressed={s === size} aria-label={label(s).text} disabled={!stocked(color.name, s)}>
+                {label(s).main}{label(s).sub && <small>{label(s).sub}</small>}
               </button>
             ))}
           </div>

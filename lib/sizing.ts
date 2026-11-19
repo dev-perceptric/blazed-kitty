@@ -1,9 +1,13 @@
-// Size help shown on product pages: Asian → US letter sizes and EU → US shoe sizes. Client-safe (no catalog imports).
+// Size help shown on product pages: US letter sizes with EU numbers, and EU → US shoe sizes. Client-safe (no catalog imports).
 
 export interface SizeChart { cols: string[]; rows: string[][]; src: string; countries?: Record<string, Record<string, string>> }
 
-const ASIAN_TO_US: Record<string, string> = {
+// Seller size → US letter size and EU number. Oversized cuts keep their letter (they're made big on purpose).
+const TO_US: Record<string, string> = {
   XXS: 'XXS', XS: 'XXS', S: 'XS', M: 'S', L: 'M', XL: 'L', '2XL': 'XL', '3XL': '2XL', '4XL': '3XL', '5XL': '4XL', '6XL': '5XL',
+};
+const US_TO_EU: Record<string, string> = {
+  XXS: '32', XS: '34', S: '36', M: '38', L: '40', XL: '42', '2XL': '44', '3XL': '46', '4XL': '48', '5XL': '50',
 };
 const EU_TO_US_W: Record<string, string> = { '34': '4', '35': '5', '36': '6', '37': '6.5', '38': '7.5', '39': '8.5', '40': '9', '41': '10', '42': '10.5', '43': '11.5', '44': '12', '45': '13', '46': '14' };
 const EU_TO_US_M: Record<string, string> = { '38': '5.5', '39': '6.5', '40': '7', '41': '8', '42': '8.5', '43': '9.5', '44': '10.5', '45': '11', '46': '12', '47': '13' };
@@ -13,13 +17,28 @@ export const normSize = (s: string) => {
   return ({ XXL: '2XL', XXXL: '3XL', XXXXL: '4XL' } as Record<string, string>)[t] ?? t;
 };
 
-/** Short US hint under a size button ("US S", "US W 7.5"), or null when it doesn't apply. */
-export function usHint(size: string, category: string, oversized: boolean): string | null {
+export const isOversized = (p: { category: string; attrs?: { cut?: string[] } }) => p.category === 'oversized-tees' || !!p.attrs?.cut?.includes('oversized');
+
+/** US letter size for a seller letter size, or null for sizes that aren't letters. */
+export function usSize(size: string, oversized: boolean): string | null {
   const s = normSize(size);
-  if (category === 'shoes') return EU_TO_US_W[s] ? `US W ${EU_TO_US_W[s]}` : null;
-  if (oversized) return null; // cut big on purpose: take your usual size
-  return ASIAN_TO_US[s] ? `US ${ASIAN_TO_US[s]}` : null;
+  if (!(s in TO_US)) return null;
+  return oversized ? s : TO_US[s];
 }
+
+/**
+ * How a size is shown to shoppers: main label + small second line. Letter sizes → US letter + EU number,
+ * shoe sizes → EU + US women's. Anything else (One Size, waist numbers) is shown as is.
+ */
+export function sizeLabel(size: string, category: string, oversized: boolean): { main: string; sub?: string; text: string } {
+  const s = normSize(size);
+  if (category === 'shoes' && EU_TO_US_W[s]) return { main: `EU ${s}`, sub: `US ${EU_TO_US_W[s]}`, text: `EU ${s} / US ${EU_TO_US_W[s]}` };
+  const us = usSize(size, oversized);
+  if (us) return { main: us, sub: `EU ${US_TO_EU[us]}`, text: `US ${us} / EU ${US_TO_EU[us]}` };
+  return { main: size, text: size };
+}
+
+export const euFor = (us: string) => US_TO_EU[us];
 
 export function shoeUS(eu: string) {
   const s = normSize(eu);
@@ -29,7 +48,7 @@ export function shoeUS(eu: string) {
 export const toInch = (v: string) => v.split('-').map((x) => (Number(x) / 2.54).toFixed(1)).join('–');
 export const cmText = (v: string) => v.replace('-', '–');
 
-/** Body measurements each standard Asian size fits (cm). Used on every size guide so S/M/L always mean something. */
+/** Body measurements each seller letter size fits (cm). Shown under the matching US / EU size. */
 export const BODY: Record<string, { bust: string; waist: string; hip: string }> = {
   XXS: { bust: '72-76', waist: '54-58', hip: '78-82' },
   XS: { bust: '76-80', waist: '58-62', hip: '82-86' },
