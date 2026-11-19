@@ -8,7 +8,7 @@ import Announcement from '@/components/Announcement';
 import Promo from '@/components/Promo';
 import CartDrawer from '@/components/CartDrawer';
 import Footer from '@/components/Footer';
-import { GOOGLE_SITE_VERIFICATION } from '@/lib/site';
+import { GOOGLE_SITE_VERIFICATION, PINTEREST_VERIFICATION } from '@/lib/site';
 
 const anton = Anton({ weight: '400', subsets: ['latin'], variable: '--font-display', display: 'swap' });
 const inter = Inter({ subsets: ['latin'], variable: '--font-body', display: 'swap' });
@@ -18,6 +18,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
   title: { default: 'BlazedKitty | Y2K Clothing, Baby Tees, Baggy Jeans & Jorts', template: '%s | BlazedKitty' },
   ...(GOOGLE_SITE_VERIFICATION ? { verification: { google: GOOGLE_SITE_VERIFICATION } } : {}),
+  other: { 'p:domain_verify': PINTEREST_VERIFICATION },
   description: 'Y2K clothing for women and men: baby tees, graphic tees, zip hoodies, baggy jeans, jorts, mini skirts, platform shoes and jewelry. Free shipping worldwide.',
 };
 

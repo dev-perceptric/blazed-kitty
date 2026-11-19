@@ -14,6 +14,8 @@ export const DELIVERY_MIN = 6;
 export const DELIVERY_MAX = 17;
 /** Google Search Console / Merchant Center site verification code (the content="..." part of the meta tag). */
 export const GOOGLE_SITE_VERIFICATION = '';
+/** Pinterest website claim (Settings → Claimed accounts → Add HTML tag). */
+export const PINTEREST_VERIFICATION = '72a79624a8762650beb7d7002895b697';
 /** First-order discount offered in the email pop-up. The code must exist as a Stripe promotion code. */
 export const WELCOME_PERCENT = 10;
 export const WELCOME_CODE = 'KITTY10';
