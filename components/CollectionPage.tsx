@@ -56,6 +56,7 @@ export default function CollectionPage({ slug, dept: deptId, search }: { slug: s
   return (
     <CollectionView
       base={collectionHref(c.slug, d)}
+      feed={`kind=collection&slug=${c.slug}${d ? `&dept=${d}` : ''}`}
       title={c === ALL && dept ? `${dept.short} Y2K Clothing` : c.title}
       eyebrow={dept && c !== ALL ? dept.short : undefined}
       intro={c === ALL && dept ? `${dept.blurb} Free shipping on every order.` : intro(c, d)}

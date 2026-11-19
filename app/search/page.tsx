@@ -16,6 +16,7 @@ export default function SearchPage({ searchParams }: Props) {
   return (
     <CollectionView
       base="/search"
+      feed={`kind=search&q=${encodeURIComponent(q)}`}
       title={q ? `Results for “${q}”` : 'Search'}
       intro={q ? undefined : 'Type in the search bar at the top to find anything in the store.'}
       crumbs={[{ label: 'Home', href: '/' }, { label: 'Search', href: '/search' }]}

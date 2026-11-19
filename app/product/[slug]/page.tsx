@@ -5,6 +5,8 @@ import { SHOP, productTrail } from '@/lib/catalog';
 import { SITE_URL, BRAND } from '@/lib/site';
 import ProductView from '@/components/ProductView';
 import ProductCard from '@/components/ProductCard';
+import InfiniteGrid from '@/components/InfiniteGrid';
+import { RECS_FIRST, alsoLike, completeLook } from '@/lib/feed';
 import Crumbs from '@/components/Crumbs';
 
 export function generateStaticParams() {
@@ -23,22 +25,6 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
   };
 }
 
-/** Pieces that share the most photo tags with this one. */
-function similar(product: Product, pool: Product[]) {
-  const a = product.attrs ?? {};
-  const score = (p: Product) => {
-    const b = p.attrs ?? {};
-    let s = 0;
-    if (b.sub && b.sub === a.sub) s += 3;
-    if (b.vibe && b.vibe === a.vibe) s += 2;
-    if (b.print && b.print === a.print) s += 1;
-    s += (b.themes ?? []).filter((t) => a.themes?.includes(t)).length;
-    s += (b.material ?? []).filter((t) => a.material?.includes(t)).length * 0.5;
-    return s;
-  };
-  return pool.map((p) => ({ p, s: score(p) })).sort((x, y) => y.s - x.s).map((x) => x.p);
-}
-
 export default function ProductPage({ params }: { params: { slug: string } }) {
   const product = getProduct(params.slug);
   if (!product) {
@@ -48,9 +34,9 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
     if (old) permanentRedirect('/collections/all');
     notFound();
   }
-  const others = SHOP.filter((p) => p.slug !== product.slug);
-  const like = similar(product, others.filter((p) => p.category === product.category)).slice(0, 8);
-  const look = similar(product, others.filter((p) => p.line !== product.line && p.attrs?.vibe === product.attrs?.vibe)).slice(0, 4);
+  const likeAll = alsoLike(product);
+  const like = likeAll.slice(0, RECS_FIRST);
+  const look = completeLook(product).slice(0, 4);
 
   const ld = {
     '@context': 'https://schema.org', '@type': 'Product', name: product.name, description: `${product.blurb} ${product.details.join('. ')}`,
@@ -79,7 +65,9 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
         <section className="sec" style={{ paddingTop: 0 }}>
           <div className="wrap">
             <div className="sec-head"><h2>You may also like</h2></div>
-            <div className="grid">{like.map((p) => <ProductCard key={p.slug} product={p} />)}</div>
+            <InfiniteGrid feed={`kind=like&slug=${product.slug}`} next={likeAll.length > RECS_FIRST ? 2 : null}>
+              {like.map((p) => <ProductCard key={p.slug} product={p} />)}
+            </InfiniteGrid>
           </div>
         </section>
       )}

@@ -1,19 +1,13 @@
 import Link from 'next/link';
 import type { Product } from '@/lib/products';
-import { FILTER_KEYS, applyFilters, facetsFor, type FilterKey, type Filters } from '@/lib/filters';
+import { FILTER_KEYS, facetsFor, type FilterKey } from '@/lib/filters';
 import type { Crumb } from '@/lib/catalog';
 import ProductCard from './ProductCard';
 import Crumbs from './Crumbs';
+import InfiniteGrid from './InfiniteGrid';
+import { PER_PAGE, SORTS, filterAndSort } from '@/lib/feed';
 
 export type Search = { sort?: string; page?: string; q?: string } & Partial<Record<FilterKey, string>>;
-
-const SORTS = [
-  { id: 'featured', label: 'Featured' },
-  { id: 'new', label: 'Newest' },
-  { id: 'price-asc', label: 'Price, low to high' },
-  { id: 'price-desc', label: 'Price, high to low' },
-];
-const PER_PAGE = 48;
 
 /** Link to the same page with search params changed (undefined removes one). Filters and sorting reset the page. */
 export function hrefWith(base: string, search: Search, change: Partial<Search>) {
@@ -29,21 +23,17 @@ export function hrefWith(base: string, search: Search, change: Partial<Search>) 
 export interface Chip { label: string; href: string; count?: number; active?: boolean }
 
 export default function CollectionView({
-  base, title, eyebrow, intro, crumbs, products, search, chips = [], tabs = [], hide = [],
+  base, feed, title, eyebrow, intro, crumbs, products, search, chips = [], tabs = [], hide = [],
 }: {
-  base: string; title: string; eyebrow?: string; intro?: string; crumbs: Crumb[]; products: Product[]; search: Search;
+  base: string; feed: string; title: string; eyebrow?: string; intro?: string; crumbs: Crumb[]; products: Product[]; search: Search;
   chips?: Chip[]; tabs?: Chip[]; hide?: FilterKey[];
 }) {
-  const filters: Filters = {};
-  for (const k of FILTER_KEYS) if (search[k]) filters[k] = search[k];
+  const { list, filters, sort } = filterAndSort(products, search);
   const facets = facetsFor(products, filters, hide);
   const active = facets.flatMap((f) => (filters[f.key] ? [{ key: f.key, label: f.options.find((o) => o.id === filters[f.key])?.label ?? filters[f.key]! }] : []));
-  const sort = SORTS.some((s) => s.id === search.sort) ? search.sort! : 'featured';
-
-  let list = applyFilters(products, filters);
-  if (sort === 'new') list = [...list].reverse();
-  if (sort === 'price-asc') list = [...list].sort((a, b) => a.price - b.price);
-  if (sort === 'price-desc') list = [...list].sort((a, b) => b.price - a.price);
+  // What the feed API needs to continue this exact list (source + filters + sort).
+  const feedQuery = new URLSearchParams(feed);
+  for (const k of [...FILTER_KEYS, 'sort'] as const) if (search[k]) feedQuery.set(k, search[k]!);
 
   const pages = Math.max(1, Math.ceil(list.length / PER_PAGE));
   const page = Math.min(pages, Math.max(1, Number(search.page) || 1));
@@ -113,15 +103,15 @@ export default function CollectionView({
         <p className="count coll-count">{list.length} {list.length === 1 ? 'piece' : 'pieces'}</p>
 
         {shown.length > 0 ? (
-          <div className="grid">
+          <InfiniteGrid feed={feedQuery.toString()} next={page < pages ? page + 1 : null}>
             {shown.map((p, i) => <ProductCard key={p.slug} product={p} eager={i < 4} />)}
-          </div>
+          </InfiniteGrid>
         ) : (
           <p className="lede empty">Nothing matches all of those. <Link href={hrefWith(base, { q: search.q }, {})} className="link">Clear the filters</Link></p>
         )}
 
         {pages > 1 && (
-          <nav className="pager" aria-label="Pages">
+          <nav className="pager sr-only" aria-label="Pages">
             {page > 1 && <Link href={hrefWith(base, search, { page: String(page - 1) })} className="pager-btn">← Previous</Link>}
             <span className="pager-info">Page {page} of {pages}</span>
             {page < pages && <Link href={hrefWith(base, search, { page: String(page + 1) })} className="pager-btn">Next →</Link>}
