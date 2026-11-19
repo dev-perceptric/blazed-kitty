@@ -84,8 +84,9 @@ export default function Home() {
   const themes = ['y2k-anime', 'y2k-goth', 'y2k-grunge', 'y2k-coquette', 'y2k-band-merch', 'y2k-emo', 'y2k-fairy-grunge', 'y2k-harajuku', 'y2k-streetwear', 'y2k-brazil', 'y2k-rhinestone', 'y2k-acid-wash']
     .filter((s) => productsIn(col(s)).length >= 6);
 
-  const newPicked = picked(F.new, 8, used);
-  const newIn = newPicked.length === 8 ? newPicked : mixed(productsIn(col('y2k-new-in')).slice(0, 1200)).filter((p) => !used.has(p.slug)).slice(0, 8);
+  // 4 hand-picked new pieces, then a mix of other recent categories so one batch doesn't take over the row.
+  const newPicked = picked(F.new, 4, used);
+  const newIn = [...newPicked, ...mixed(productsIn(col('y2k-new-in')).slice(0, 1200)).filter((p) => !used.has(p.slug) && !newPicked.includes(p) && !newPicked.some((q) => q.category === p.category))].slice(0, 8);
 
   return (
     <>
