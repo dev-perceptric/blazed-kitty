@@ -2,7 +2,7 @@
 import type { Product } from './products';
 import { formatPrice } from './money';
 import { shotsFor } from './images';
-import { SHOP, getCollection, getDept, isNew, productsIn } from './catalog';
+import { COLLECTIONS, GROUPS, SHOP, getCollection, getDept, isNew, productsIn, type GroupId } from './catalog';
 import { FILTER_KEYS, applyFilters, type Filters } from './filters';
 import { searchProducts } from './search';
 
@@ -71,6 +71,55 @@ export function alsoLike(product: Product) {
   return [...same, ...vibe];
 }
 
+const NEUTRAL = new Set(['black', 'white', 'grey', 'gray', 'silver', 'denim', 'blue']);
+const STRONG_PRINT = new Set(['graphic', 'slogan', 'photo', 'anime', 'pattern', 'music']);
+const BLING = new Set(['rhinestone', 'studs', 'lace', 'faux-fur', 'mesh', 'acid-wash', 'denim', 'faux-leather']);
+/** How eye-catching a piece is (bold print, bling, colors, photos). Used to break ties. */
+export function heroScore(p: Product) {
+  const a = p.attrs ?? {};
+  let s = 0;
+  if (a.print && STRONG_PRINT.has(a.print)) s += 2;
+  s += (a.material ?? []).filter((m) => BLING.has(m)).length;
+  s += (a.themes ?? []).length * 0.5;
+  s += Math.min(p.colors?.length ?? 0, 5) * 0.3;
+  if ((p.photos?.length ?? 0) >= 4) s += 1;
+  return s;
+}
+
+const groupTest = (g: GroupId) => COLLECTIONS.find((c) => c.group === g && c.parent)?.test;
+const WOMEN_GROUPS = new Set<GroupId>(['skirts', 'dresses'] as GroupId[]);
+
+/** Pieces from one group (Skirts, Shoes...) that go with this product: same vibe, shared themes, matching colors and materials. */
+export function pairWith(product: Product, group: GroupId) {
+  const test = groupTest(group);
+  if (!test) return [];
+  const a = product.attrs ?? {};
+  const myVibes = new Set([a.vibe, ...(a.vibes ?? [])].filter(Boolean));
+  const score = (p: Product) => {
+    const b = p.attrs ?? {};
+    let s = 0;
+    if (b.vibe && b.vibe === a.vibe) s += 4;
+    else if (b.vibe && myVibes.has(b.vibe)) s += 2;
+    s += (b.vibes ?? []).filter((v) => myVibes.has(v)).length;
+    s += (b.themes ?? []).filter((t) => a.themes?.includes(t)).length * 1.5;
+    if (b.print && b.print === a.print) s += 0.5;
+    s += (b.material ?? []).filter((m) => a.material?.includes(m)).length * 0.75;
+    if (b.color && a.color) s += b.color === a.color ? 1 : NEUTRAL.has(b.color) || NEUTRAL.has(a.color) ? 0.5 : 0;
+    return s + heroScore(p) * 0.15;
+  };
+  return SHOP.filter((p) => p.slug !== product.slug && test(p)).map((p) => ({ p, s: score(p) })).sort((x, y) => y.s - x.s).map((x) => x.p);
+}
+
+let groupCounts: Map<GroupId, number> | undefined;
+/** The choices for the "You may also like" picker, with how many pieces each has. */
+export function recOptions(product: Product) {
+  const womens = product.depts.includes('women');
+  groupCounts ??= new Map(GROUPS.map((g) => [g.id, SHOP.filter((p) => groupTest(g.id)?.(p)).length]));
+  return GROUPS.filter((g) => womens || !WOMEN_GROUPS.has(g.id))
+    .map((g) => ({ id: g.id as string, label: g.label, count: groupCounts!.get(g.id)! }))
+    .filter((o) => o.count >= 5);
+}
+
 export function completeLook(product: Product) {
   const others = SHOP.filter((p) => p.slug !== product.slug);
   return similar(product, others.filter((p) => p.line !== product.line && p.attrs?.vibe === product.attrs?.vibe));
@@ -93,7 +142,8 @@ export function feedPage(q: URLSearchParams): { cards: Card[]; next: number | nu
   } else if (kind === 'like') {
     const p = SHOP.find((x) => x.slug === q.get('slug'));
     if (!p) return null;
-    list = alsoLike(p);
+    const g = q.get('group');
+    list = g && GROUPS.some((x) => x.id === g) ? pairWith(p, g as GroupId) : alsoLike(p);
     first = RECS_FIRST; per = RECS_PER_PAGE;
   } else return null;
   const start = page === 1 ? 0 : first + (page - 2) * per;

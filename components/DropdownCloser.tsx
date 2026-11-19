@@ -20,7 +20,7 @@ export default function DropdownCloser({ selector = 'details.filter' }: { select
       const inside = t.closest(selector);
       if (!inside) closeAll();
       else if (t.closest('summary')) closeAll(inside); // opening (or closing) this one: shut the rest
-      else if (t.closest('a')) (inside as HTMLDetailsElement).open = false; // picked an option
+      else if (t.closest('a, button')) (inside as HTMLDetailsElement).open = false; // picked an option
     };
     const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') closeAll(); };
 
