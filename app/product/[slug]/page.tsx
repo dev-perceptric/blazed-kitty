@@ -5,15 +5,10 @@ import { SHOP, productTrail } from '@/lib/catalog';
 import { SITE_URL, BRAND } from '@/lib/site';
 import ProductView from '@/components/ProductView';
 import ProductCard from '@/components/ProductCard';
-<<<<<<< HEAD
 import sizeCharts from '@/lib/size-charts.json';
 import type { SizeChart } from '@/lib/sizing';
-import InfiniteGrid from '@/components/InfiniteGrid';
-import { RECS_FIRST, alsoLike, completeLook } from '@/lib/feed';
-=======
 import RecsSection from '@/components/RecsSection';
 import { RECS_FIRST, alsoLike, completeLook, recOptions } from '@/lib/feed';
->>>>>>> main
 import Crumbs from '@/components/Crumbs';
 
 export function generateStaticParams() {
