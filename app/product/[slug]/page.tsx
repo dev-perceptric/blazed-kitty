@@ -5,10 +5,15 @@ import { SHOP, productTrail } from '@/lib/catalog';
 import { SITE_URL, BRAND } from '@/lib/site';
 import ProductView from '@/components/ProductView';
 import ProductCard from '@/components/ProductCard';
+<<<<<<< HEAD
 import sizeCharts from '@/lib/size-charts.json';
 import type { SizeChart } from '@/lib/sizing';
 import InfiniteGrid from '@/components/InfiniteGrid';
 import { RECS_FIRST, alsoLike, completeLook } from '@/lib/feed';
+=======
+import RecsSection from '@/components/RecsSection';
+import { RECS_FIRST, alsoLike, completeLook, recOptions } from '@/lib/feed';
+>>>>>>> main
 import Crumbs from '@/components/Crumbs';
 
 export function generateStaticParams() {
@@ -66,10 +71,9 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
       {like.length > 0 && (
         <section className="sec" style={{ paddingTop: 0 }}>
           <div className="wrap">
-            <div className="sec-head"><h2>You may also like</h2></div>
-            <InfiniteGrid feed={`kind=like&slug=${product.slug}`} next={likeAll.length > RECS_FIRST ? 2 : null}>
+            <RecsSection slug={product.slug} options={recOptions(product)} next={likeAll.length > RECS_FIRST ? 2 : null}>
               {like.map((p) => <ProductCard key={p.slug} product={p} />)}
-            </InfiniteGrid>
+            </RecsSection>
           </div>
         </section>
       )}

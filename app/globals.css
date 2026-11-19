@@ -493,3 +493,6 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .sg-table td { padding: 9px 8px; border-top: 1px solid var(--line); white-space: nowrap; }
 .sg-table td:first-child, .sg-table th:first-child { font-weight: 700; text-align: left; }
 .sg-note { font-size: 13px; color: var(--muted); margin: 0; }
+.recs-head { align-items: center; flex-wrap: wrap; }
+.recs-head .filter-menu { min-width: 240px; }
+button.filter-opt { width: 100%; background: none; border: 0; text-align: left; cursor: pointer; font: inherit; color: inherit; }
