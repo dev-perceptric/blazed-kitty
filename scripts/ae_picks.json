@@ -134603,551 +134603,1508 @@
  {
   "id": "1005012690289747",
   "category": "arm-warmers",
-  "name": "Goth Gloves",
+  "name": "Black Studded Skull Cuff Punk Fingerless Gloves",
   "depts": [
-   "women"
-  ]
+   "women",
+   "men"
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "themes": [
+    "skulls"
+   ],
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005010121109808",
   "category": "arm-warmers",
-  "name": "Leopard Bunny Gloves",
+  "name": "Blue Faux Fur Trim Y2K Fingerless Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "blue",
+   "vibe": "y2k",
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009524662817",
   "category": "arm-warmers",
-  "name": "Leopard Gloves",
+  "name": "White Faux Fur Star Charm Y2K Fingerless Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "white",
+   "vibe": "y2k",
+   "themes": [
+    "stars",
+    "crosses"
+   ],
+   "material": [
+    "faux-fur",
+    "knit"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005004610973942",
   "category": "arm-warmers",
-  "name": "Goth Punk Gloves 2",
+  "name": "Black Faux Leather Cutout Punk Fingerless Gloves",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011905399035",
   "category": "arm-warmers",
-  "name": "Punk Gloves",
+  "name": "White Buckle Graphic Punk Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "graphic",
+   "color": "white",
+   "vibe": "punk",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005006273916191",
   "category": "arm-warmers",
-  "name": "Goth Knit Gloves",
+  "name": "Black Star Knit Y2K Fingerless Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "graphic",
+   "color": "black",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012706684993",
   "category": "arm-warmers",
-  "name": "Graphic Punk Gloves",
+  "name": "Blue Error Pop Up Print Y2K Fingerless Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "graphic",
+   "color": "blue",
+   "vibe": "y2k",
+   "themes": [
+    "memes",
+    "pop-culture"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012577432918",
   "category": "arm-warmers",
-  "name": "Punk Gloves 2",
+  "name": "Black Buckle Graphic Punk Arm Warmers",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "graphic",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005006155437083",
   "category": "arm-warmers",
-  "name": "Lace Gloves",
+  "name": "Black Lace Up Ribbon Goth Fingerless Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "knit",
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009584487821",
   "category": "arm-warmers",
-  "name": "Stripe Goth Gloves",
+  "name": "Grey Ribbed Knit Grunge Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "grunge",
+   "material": [
+    "knit",
+    "ribbed"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005005986829862",
   "category": "arm-warmers",
-  "name": "Bow Goth Gloves",
+  "name": "Pink Satin Bow Ribbed Knit Coquette Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "pink",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "knit",
+    "ribbed",
+    "satin"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009734999165",
   "category": "arm-warmers",
-  "name": "Lace Bow Gloves",
+  "name": "Black Lace Mesh Ruffle Goth Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007708749304",
   "category": "arm-warmers",
-  "name": "Goth Punk Ruffle Gloves",
+  "name": "White Bandage Ruffle Harajuku Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "white",
+   "vibe": "harajuku",
+   "cut": [
+    "layered"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005003368913832",
   "category": "arm-warmers",
-  "name": "Stripe Gloves",
+  "name": "Black Grey Stripe Knit Emo Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "pattern",
+   "color": "black",
+   "vibe": "emo",
+   "themes": [
+    "stripes"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007273079453",
   "category": "arm-warmers",
-  "name": "Gloves 2",
+  "name": "White Fishnet Lace Up Y2K Arm Warmers",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "white",
+   "vibe": "y2k",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007590664202",
-  "category": "arm-warmers",
-  "name": "Lace Bow Goth Gloves",
+  "category": "cardigans",
+  "name": "White Mesh Pink Bow Coquette Shrug",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "shrug",
+   "print": "plain",
+   "sleeve": "long",
+   "length": "cropped",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "cut": [
+    "cropped"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008348280099",
   "category": "arm-warmers",
-  "name": "Cross Lace Gloves",
+  "name": "Black Fishnet Criss Cross Goth Fingerless Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012846671462",
   "category": "arm-warmers",
-  "name": "Goth Gloves 2",
+  "name": "Black Triple Buckle Punk Arm Warmers",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "4000532864033",
   "category": "arm-warmers",
-  "name": "Lace Mesh Socks",
+  "name": "Red Floral Lace Goth Opera Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "rave"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005007448982108",
   "category": "arm-warmers",
-  "name": "Stripe Knit Emo Gloves",
+  "name": "Black White Stripe Thumbhole Emo Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "pattern",
+   "color": "black",
+   "vibe": "emo",
+   "themes": [
+    "stripes"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012932815343",
   "category": "arm-warmers",
-  "name": "Star Knit Gloves",
+  "name": "Pink Star Studded Knit Y2K Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "pink",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "material": [
+    "knit",
+    "ribbed",
+    "studs"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005003984263858",
   "category": "arm-warmers",
-  "name": "Lace Gloves 2",
+  "name": "White Fishnet Lace Ruffle Coquette Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "material": [
+    "mesh",
+    "lace"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013056220161",
   "category": "arm-warmers",
-  "name": "Lace Goth Gloves",
+  "name": "Pink Lace Ruffle Ribbon Coquette Wrist Cuffs",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "pink",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005006155412543",
   "category": "arm-warmers",
-  "name": "Lace Gloves 3",
+  "name": "White Lace Up Ribbon Coquette Fingerless Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "knit",
+    "lace"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013325731374",
   "category": "arm-warmers",
-  "name": "Knit Gloves",
+  "name": "Blue Fuzzy Angel Wing Harajuku Knit Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "graphic",
+   "color": "blue",
+   "vibe": "harajuku",
+   "themes": [
+    "angels",
+    "bows"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005006382212866",
   "category": "arm-warmers",
-  "name": "Lace Fur Gloves",
+  "name": "Rainbow Feather Black Lace Goth Wrist Cuffs",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "rave"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005006416735096",
   "category": "arm-warmers",
-  "name": "Lace Mesh Gloves",
+  "name": "Black Sheer Feather Trim Goth Opera Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "material": [
+    "mesh",
+    "faux-fur"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012378111409",
   "category": "arm-warmers",
-  "name": "Sequin Gloves",
+  "name": "Red Sequin Y2K Party Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "red",
+   "vibe": "y2k",
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "rave"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013049740235",
   "category": "arm-warmers",
-  "name": "Goth Punk Gloves 4",
+  "name": "White Triple Buckle Punk Arm Warmers",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "white",
+   "vibe": "punk",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012332600157",
   "category": "arm-warmers",
-  "name": "Lace Goth Gloves 2",
+  "name": "Black Lace Scalloped Trim Goth Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012572500137",
   "category": "arm-warmers",
-  "name": "Lace Rose Gloves",
+  "name": "Black Lace Pink Bow Pearl Coquette Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "coquette",
+   "themes": [
+    "bows",
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "satin"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010245759045",
   "category": "arm-warmers",
-  "name": "Knit Gloves 2",
+  "name": "Khaki Fuzzy Knit Y2K Fingerless Gloves",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "brown",
+   "vibe": "y2k",
+   "material": [
+    "knit",
+    "fleece"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012779319933",
   "category": "arm-warmers",
-  "name": "Lace Mesh Floral Gloves",
+  "name": "Black Floral Lace Goth Opera Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008864590673",
   "category": "arm-warmers",
-  "name": "Kitty Fur Gloves",
+  "name": "White Fluffy Pink Pad Harajuku Cat Paw Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "white",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008499261218",
   "category": "arm-warmers",
-  "name": "Knit Emo Gloves",
+  "name": "Green Manga Girls Print Harajuku Fingerless Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "anime",
+   "color": "green",
+   "vibe": "anime",
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013297710281",
   "category": "arm-warmers",
-  "name": "Knit Gloves 3",
+  "name": "Green Ombre Knit Y2K Gloves",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "green",
+   "vibe": "y2k",
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005007560489256",
   "category": "arm-warmers",
-  "name": "Kitty Gloves",
+  "name": "Brown Plush Harajuku Cat Paw Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "brown",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005009570255023",
   "category": "arm-warmers",
-  "name": "Kitty Gloves 2",
+  "name": "Grey Sheer Long Harajuku Cat Paw Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005011907951482",
   "category": "arm-warmers",
-  "name": "Kitty Fur Gloves 2",
+  "name": "White Fur Yellow Pad Harajuku Cat Paw Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "white",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005006476842663",
   "category": "arm-warmers",
-  "name": "Lace Mesh Goth Gloves",
+  "name": "Neon Green Fishnet Y2K Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "green",
+   "vibe": "rave",
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012927462244",
   "category": "arm-warmers",
-  "name": "Gloves 3",
+  "name": "Grey Faux Fur Y2K Arm Warmers",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "y2k",
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005005277667634",
   "category": "arm-warmers",
-  "name": "Heart Goth Gloves",
+  "name": "Silver Metallic Heart Cutout Y2K Fingerless Gloves",
   "depts": [
    "women"
   ],
   "tags": [
    "anime"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "grey",
+   "vibe": "y2k",
+   "themes": [
+    "hearts"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005004904807672",
   "category": "arm-warmers",
-  "name": "Goth Punk Sexy Gloves",
+  "name": "Black Faux Leather Ruched Punk Elbow Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "cut": [
+    "ruched"
+   ],
+   "material": [
+    "faux-leather"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012722028808",
   "category": "arm-warmers",
-  "name": "Lace Floral Gloves",
+  "name": "White Lace Big Bow Pearl Coquette Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows",
+    "flowers"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012587237851",
   "category": "arm-warmers",
-  "name": "Lace Bow Gloves 2",
+  "name": "White Sheer Floral Bow Coquette Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "flowers",
+    "bows"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "fairy-grunge"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013046129491",
   "category": "arm-warmers",
-  "name": "Lace Floral Bow Gloves",
+  "name": "White Lilac Lace Ruffle Coquette Wrist Cuffs",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013167361121",
   "category": "arm-warmers",
-  "name": "Rhinestone Knit Gloves",
+  "name": "Black Gem Nail Rhinestone Y2K Knit Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "y2k",
+   "material": [
+    "knit",
+    "rhinestone"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010579834342",
   "category": "arm-warmers",
-  "name": "Fur Fawn Gloves",
+  "name": "Brown Fawn Spot Faux Fur Y2K Fingerless Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "pattern",
+   "color": "brown",
+   "vibe": "y2k",
+   "themes": [
+    "leopard"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005005900201889",
   "category": "arm-warmers",
-  "name": "Lace Mesh Goth Punk Gloves",
+  "name": "Black Ruffle Cuff Lace Up Goth Fingerless Gloves",
   "depts": [
    "women"
   ],
   "tags": [
    "anime"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "knit",
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012847029107",
   "category": "arm-warmers",
-  "name": "Gloves 4",
+  "name": "Black Studded Strap Punk Fingerless Gloves",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005013553736845",
   "category": "arm-warmers",
-  "name": "Lace Mesh Sexy Gloves",
+  "name": "Black Lace Tiered Ruffle Coquette Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "coquette",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013300841139",
   "category": "arm-warmers",
-  "name": "Lace Floral Jewelry",
+  "name": "White Eyelet Pink Bow Heart Coquette Wrist Cuffs",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows",
+    "hearts"
+   ],
+   "material": [
+    "lace",
+    "satin"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012525813638",
   "category": "arm-warmers",
-  "name": "Stripe Knit Gloves 2",
+  "name": "Chunky Black White Stripe Knit Grunge Arm Warmers",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "pattern",
+   "color": "black",
+   "vibe": "grunge",
+   "themes": [
+    "stripes"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010001590052",
   "category": "arm-warmers",
-  "name": "Goth Punk Gloves 5",
+  "name": "Black Buckle Grommet Goth Arm Warmers",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005001972728089",
   "category": "arm-warmers",
-  "name": "Gloves 5",
+  "name": "Burgundy Velvet Goth Opera Gloves",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "red",
+   "vibe": "goth",
+   "material": [
+    "velvet"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005008015629813",
   "category": "arm-warmers",
-  "name": "Gloves 6",
+  "name": "Black Witch Claw Goth Gloves",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "unisex": true
+  }
  },
  {
   "id": "1005007431715032",
   "category": "arm-warmers",
-  "name": "Kitty Kawaii Gloves",
+  "name": "Beige Plush Brown Pad Harajuku Cat Paw Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "brown",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "32807880919",
   "category": "arm-warmers",
-  "name": "Punk Gloves 3",
+  "name": "Blue Mesh Studded Punk Fingerless Gloves",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "blue",
+   "vibe": "punk",
+   "material": [
+    "mesh",
+    "faux-leather",
+    "studs"
+   ],
+   "vibes": [
+    "streetwear"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005008350441923",
   "category": "arm-warmers",
-  "name": "Leopard Bunny Gloves 2",
+  "name": "Leopard Faux Fur Cuff Y2K Fingerless Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "pattern",
+   "color": "brown",
+   "vibe": "y2k",
+   "themes": [
+    "leopard"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005012838652713",
   "category": "arm-warmers",
-  "name": "Lace Goth Punk Gloves",
+  "name": "Black Lace Finger Loop Goth Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013584677006",
   "category": "arm-warmers",
-  "name": "Kitty Fur Emo Gloves",
+  "name": "Pink Fluffy Kitten Harajuku Fur Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "pink",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005013053522354",
   "category": "arm-warmers",
-  "name": "Lace Goth Sexy Gloves",
+  "name": "Black Corset Lace Up Goth Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "cut": [
+    "lace-up"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005004750680394",
   "category": "arm-warmers",
-  "name": "Heart Gloves",
+  "name": "Pink Heart Knit Y2K Arm Warmers",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "pattern",
+   "color": "pink",
+   "vibe": "y2k",
+   "themes": [
+    "hearts"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005010421186196",
   "category": "arm-warmers",
-  "name": "Kitty Fur Kawaii Gloves",
+  "name": "Brown White Fluffy Harajuku Cat Paw Gloves",
   "depts": [
    "women"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "brown",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "faux-fur"
+   ],
+   "unisex": false
+  }
  },
  {
   "id": "1005006864880707",
   "category": "arm-warmers",
-  "name": "Punk Gloves 4",
+  "name": "Black Faux Leather Buckle Wrap Punk Fingerless Gloves",
   "depts": [
    "women",
    "men"
-  ]
+  ],
+  "attrs": {
+   "sub": "gloves",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "faux-leather",
+    "studs"
+   ],
+   "unisex": true
+  }
  },
  {
   "id": "1005011701388335",
   "category": "arm-warmers",
-  "name": "Stripe Gloves 2",
+  "name": "Red Black Stripe Emo Arm Warmers",
   "depts": [
-   "women",
-   "men"
-  ]
+   "women"
+  ],
+  "attrs": {
+   "sub": "arm-warmers",
+   "print": "pattern",
+   "color": "red",
+   "vibe": "emo",
+   "themes": [
+    "stripes"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
  }
 ]
