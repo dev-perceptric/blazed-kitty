@@ -11,7 +11,7 @@ export const dynamic = 'force-static';
 const RISKY_PRINTS = new Set(['music', 'anime', 'screen', 'logo']);
 function inFeed(p: Product) {
   if (p.afterDark || p.category === 'extras') return false;
-  if (p.tags?.includes('anime')) return false;
+  if (p.tags?.includes('anime') || p.tags?.includes('nofeed')) return false;
   if (p.attrs?.print && RISKY_PRINTS.has(p.attrs.print)) return false;
   return true;
 }
