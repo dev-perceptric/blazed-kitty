@@ -45,6 +45,28 @@ export default function ProductView({ product, chart }: { product: Product; char
     return () => window.removeEventListener('keydown', onKey);
   });
 
+  // Download the other gallery photos in the background once the page has loaded,
+  // so the next photo is already there when the shopper clicks, swipes or picks a color.
+  const galleryKey = gallery.join('|');
+  useEffect(() => {
+    if (count < 2) return;
+    const preload = () => gallery.forEach((src) => {
+      const p = galleryImg(src);
+      const im = new Image();
+      im.decoding = 'async';
+      if (p.sizes) im.sizes = p.sizes;
+      if (p.srcSet) im.srcset = p.srcSet;
+      im.src = p.src;
+    });
+    if (document.readyState === 'complete') {
+      const t = setTimeout(preload, 150);
+      return () => clearTimeout(t);
+    }
+    window.addEventListener('load', preload, { once: true });
+    return () => window.removeEventListener('load', preload);
+    // gallery is rebuilt on every render; galleryKey only changes when the photos do.
+  }, [galleryKey]);
+
   // Keep the picked thumbnail in view when the row scrolls sideways.
   useEffect(() => {
     document.getElementById(`thumb-${active}`)?.scrollIntoView({ block: 'nearest', inline: 'nearest' });
@@ -109,7 +131,7 @@ export default function ProductView({ product, chart }: { product: Product; char
           <div className="thumbs" role="group" aria-label="More photos">
             {gallery.map((src, i) => (
               <button key={src} type="button" id={`thumb-${i}`} className={`thumb${i === active ? ' is-on' : ''}`} onClick={() => setActive(i)} aria-label={`Photo ${i + 1}`} aria-pressed={i === active}>
-                <img {...thumbImg(src)} alt="" loading="lazy" />
+                <img {...thumbImg(src)} alt="" loading="eager" decoding="async" />
               </button>
             ))}
           </div>
