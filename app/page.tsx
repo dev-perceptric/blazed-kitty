@@ -5,7 +5,8 @@ import ProductCard from '@/components/ProductCard';
 import Slideshow, { type Slide } from '@/components/Slideshow';
 import Faq from '@/components/Faq';
 import Newsletter from '@/components/Newsletter';
-import { cardImg, tileImg } from '@/lib/img';
+import Rail from '@/components/Rail';
+import { cardImg, heroImg, tileImg } from '@/lib/img';
 import { findAnyProduct, type Product } from '@/lib/products';
 import featured from '@/lib/featured.json';
 
@@ -15,7 +16,7 @@ function photos(slug: string, n: number, skip = 0, dept?: 'womens' | 'mens') {
   return productsIn(col(slug), dept).filter((p) => p.photos?.length).slice(skip, skip + n).map((p) => p.photos![0].src);
 }
 
-type Featured = { slides?: Record<string, string[]>; tiles?: Record<string, string[]>; circles?: Record<string, string[]>; rows?: Record<string, string[]>; themes?: Record<string, string[]>; new?: string[] };
+type Featured = { slides?: Record<string, string[]>; tiles?: Record<string, string[]>; circles?: Record<string, string[]>; rows?: Record<string, string[]>; themes?: Record<string, string[]>; new?: string[]; trending?: string[]; look?: { hero: string; photo?: number; items: string[] } };
 const F = featured as Featured;
 /** Hand-picked products for a homepage spot (lib/featured.json), skipping any already shown. */
 function picked(slugs: string[] | undefined, n: number, used?: Set<string>): Product[] {
@@ -59,15 +60,23 @@ export default function Home() {
     ['y2k-jackets', 'Jackets', 7], ['y2k-platform-shoes', 'Platforms', 0], ['y2k-rings', 'Rings', 9], ['y2k-necklaces', 'Chokers', 7],
   ] as [string, string, number][]).filter(([s]) => productsIn(col(s)).length);
 
-  // One row of 4 per category: hand-picked first, topped up from the collection.
-  const row = (slug: string, title?: string) => {
-    const list = picked(F.rows?.[slug], 4, used);
-    for (const p of productsIn(col(slug))) { if (list.length >= 4) break; if (p.photos?.length && !used.has(p.slug) && !list.includes(p)) list.push(p); }
+  // One row per category: hand-picked first, topped up from the collection.
+  const row = (slug: string, n = 4) => {
+    const list = picked(F.rows?.[slug], n, used);
+    for (const p of productsIn(col(slug))) { if (list.length >= n) break; if (p.photos?.length && !used.has(p.slug) && !list.includes(p)) list.push(p); }
     claim(list);
-    return { slug, title: title ?? col(slug).title, list };
+    return { slug, title: col(slug).title, list };
   };
+  // "Get the look": one big photo and four pieces from other categories that go with it.
+  const lookHero = F.look ? findAnyProduct(F.look.hero) : undefined;
+  const lookItems = lookHero?.photos?.length ? claim(picked(F.look?.items, 4, used)) : [];
+  if (lookHero && lookItems.length === 4) used.add(lookHero.slug);
+
+  // Hand-picked best of the store. Claimed before the rows, which top up from their own lists.
+  const trending = claim(picked(F.trending, 10, used));
+
   const rowsA = [row('y2k-baby-tees'), row('y2k-graphic-tees'), row('y2k-zip-up-hoodies')].filter((r) => r.list.length === 4);
-  const rowsB = [row('y2k-baggy-jeans'), row('y2k-jorts'), row('y2k-mini-skirts')].filter((r) => r.list.length === 4);
+  const rowsB = [row('y2k-baggy-jeans', 8), row('y2k-jorts', 8), row('y2k-mini-skirts', 8)].filter((r) => r.list.length >= 4);
   const rowsC = [row('y2k-platform-shoes'), row('y2k-rings'), row('y2k-beanies')].filter((r) => r.list.length === 4);
   const Rows = ({ rows }: { rows: typeof rowsA }) => (
     <>
@@ -77,6 +86,18 @@ export default function Home() {
             <div className="sec-head"><h2>{r.title}</h2><Link href={collectionHref(r.slug)} className="link">Shop all</Link></div>
             <div className="grid">{r.list.map((p) => <ProductCard key={p.slug} product={p} />)}</div>
           </div>
+        </section>
+      ))}
+    </>
+  );
+
+  const Rails = ({ rows }: { rows: typeof rowsB }) => (
+    <>
+      {rows.map((r, n) => (
+        <section key={r.slug} className="sec" style={n ? { paddingTop: 0 } : undefined}>
+          <Rail title={r.title} href={collectionHref(r.slug)}>
+            {r.list.map((p) => <ProductCard key={p.slug} product={p} />)}
+          </Rail>
         </section>
       ))}
     </>
@@ -104,6 +125,14 @@ export default function Home() {
         </div>
       </section>
 
+      {trending.length >= 4 && (
+        <section className="sec" style={{ paddingTop: 0 }}>
+          <Rail title="Trending now" sub="Our favorite pieces right now" href={collectionHref('all')}>
+            {trending.map((p) => <ProductCard key={p.slug} product={p} />)}
+          </Rail>
+        </section>
+      )}
+
       <section className="sec" style={{ paddingTop: 0 }}>
         <div className="wrap">
           <div className="sec-head"><h2>Shop by category</h2><Link href="/collections/all" className="link">Shop all</Link></div>
@@ -120,7 +149,23 @@ export default function Home() {
 
       <Rows rows={rowsA} />
 
-      <Rows rows={rowsB} />
+      {lookHero && lookItems.length === 4 && (
+        <section className="sec" style={{ paddingTop: 0 }}>
+          <div className="wrap look">
+            <Link href={`/product/${lookHero.slug}`} className="look-hero">
+              <div className="photo"><img {...heroImg((lookHero.photos![F.look?.photo ?? 0] ?? lookHero.photos![0]).src)} sizes="(max-width: 860px) 100vw, 50vw" alt={lookHero.name} loading="lazy" /></div>
+              <div className="look-copy">
+                <span className="eyebrow">Get the look</span>
+                <h2>Goth, head to toe</h2>
+                <span className="btn btn-white">Shop the dress</span>
+              </div>
+            </Link>
+            <div className="look-items">{lookItems.map((p) => <ProductCard key={p.slug} product={p} />)}</div>
+          </div>
+        </section>
+      )}
+
+      <Rails rows={rowsB} />
 
       <section className="sec">
         <div className="wrap">
