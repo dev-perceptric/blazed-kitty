@@ -28,6 +28,9 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from make_sizes import IMG, make_sizes  # noqa: E402
+
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PICKS = os.path.join(REPO, 'scripts', 'cj_picks.json')
 OUT = os.path.join(REPO, 'lib', 'cj-products.json')
@@ -147,7 +150,8 @@ def us_stock(v):
 
 
 def upload(src, pid):
-    """Copy a CJ photo into R2 and return its public URL. Falls back to CJ's URL if the copy fails."""
+    """Copy a CJ photo into R2, make its WebP sizes and return its URL on img.blazedkitty.com.
+    Falls back to the r2.dev URL if the sizes fail, and to CJ's URL if the copy fails."""
     ext = os.path.splitext(urllib.parse.urlparse(src).path)[1].lower() or '.jpg'
     if ext not in ('.jpg', '.jpeg', '.png', '.webp'):
         ext = '.jpg'
@@ -158,10 +162,15 @@ def upload(src, pid):
         urllib.request.urlopen(urllib.request.Request(
             f'https://api.cloudflare.com/client/v4/accounts/{R2_ACCOUNT}/r2/buckets/blazed-kitty/objects/{urllib.parse.quote(key)}',
             data=img, method='PUT', headers={'Authorization': f'Bearer {R2_TOKEN}', 'Content-Type': ctype}), timeout=120)
-        return f'{R2_PUBLIC}/{key}'
     except Exception as e:  # noqa: BLE001
         print(f'    photo copy failed, using CJ link: {e}')
         return src
+    try:
+        make_sizes(key, img)
+        return f'{IMG}/{key}'
+    except Exception as e:  # noqa: BLE001
+        print(f'    WebP sizes failed, the site will resize this photo: {e}')
+        return f'{R2_PUBLIC}/{key}'
 
 
 def shipping_estimate(from_cc, vid):

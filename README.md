@@ -61,6 +61,14 @@ Images live on Cloudflare R2 (`blazed-kitty` bucket). To refresh the catalog aft
 
 These read design data from the `brand-assets` branch.
 
+## Product photos
+
+Photos are served from `img.blazedkitty.com`, the `blazed-kitty` R2 bucket's custom domain behind Cloudflare's cache. Each photo has ready-made WebP copies at 200, 480, 828 and 1200 px wide under `w/` (for example `w/cj/ae-1/abc-480.webp`), so the site never resizes images itself. `lib/img.ts` picks the right copy for each spot.
+
+- New imports get their sizes automatically: `upload()` in `scripts/cj_catalog.py` (also used by `scripts/ae_catalog.py`) makes them and saves the photo as an `img.blazedkitty.com` URL.
+- `python3 scripts/make_sizes.py` makes sizes for every photo in `lib/ae-products.json` and `lib/cj-products.json` that doesn't have them yet, then rewrites those files. Safe to stop and run again.
+- Photos still on the old `r2.dev` URL fall back to the site's own image service (`/_next/image`).
+
 ## Orders
 
 1. Checkout sends the buyer to Stripe. Each line item carries the product slug, color and size.
