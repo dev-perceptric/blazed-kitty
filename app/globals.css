@@ -243,11 +243,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .theme-tile span { position: absolute; z-index: 2; left: 14px; right: 14px; bottom: 12px; color: #fff; font-family: var(--display); text-transform: uppercase; font-size: 1.6rem; line-height: 1; }
 .theme-tile:hover span { color: var(--pink); }
 
-/* Home: impact band and icons */
-.impact { background: var(--ink); color: #fff; padding-block: 72px; text-align: center; }
-.impact h2 { font-family: var(--display); text-transform: uppercase; font-size: clamp(2.6rem, 8vw, 7rem); line-height: 0.9; }
-.impact h2 em { font-style: normal; color: var(--pink); }
-.impact p { color: rgba(255, 255, 255, 0.7); max-width: 56ch; margin: 18px auto 0; }
+/* Home: icons */
 .icons-row { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; }
 .icon-card { background: #fff; border-radius: var(--radius); padding: 24px 20px; display: flex; flex-direction: column; gap: 8px; align-items: center; text-align: center; }
 .icon-card svg { width: 32px; height: 32px; color: var(--pink); }

@@ -120,13 +120,6 @@ export default function Home() {
 
       <Rows rows={rowsA} />
 
-      <section className="impact">
-        <div className="wrap">
-          <h2>Nine lives.<br /><em>Zero basics.</em></h2>
-          <p>Y2K baby tees, baggy jeans, rhinestone zip hoodies, goth dresses and chunky rings for women and men. Thousands of pieces, new drops every week, free shipping on every order.</p>
-        </div>
-      </section>
-
       <Rows rows={rowsB} />
 
       <section className="sec">
