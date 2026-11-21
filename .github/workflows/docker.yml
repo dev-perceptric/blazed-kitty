@@ -1,3 +1,5 @@
+# Build the store image on every push to main and publish it to ghcr.io. The server picks it up on its own:
+# autodeploy (ops/ovh-autodeploy.sh) pulls new images every 5 minutes and restarts the store.
 name: Build and deploy
 
 on:
@@ -34,20 +36,3 @@ jobs:
             ghcr.io/dev-perceptric/blazed-kitty:${{ github.sha }}
           cache-from: type=gha
           cache-to: type=gha,mode=max
-
-  # After the image is published, log into the VPS and swap the running container.
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - uses: appleboy/ssh-action@v1.2.0
-        with:
-          host: ${{ secrets.VPS_HOST }}
-          username: ${{ secrets.VPS_USER }}
-          key: ${{ secrets.VPS_SSH_KEY }}
-          script: |
-            set -e
-            cd /opt/blazed-kitty
-            docker compose pull
-            docker compose up -d --remove-orphans
-            docker image prune -f
