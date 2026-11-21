@@ -76,7 +76,20 @@ check_images() {
       log "$name: pull failed: $(echo "$out" | tail -1)"
       continue
     fi
-    if docker compose -f "$f" up -d 2>&1 | grep -q 'Recreat'; then
+    # Restart only when a pulled image is newer than what a container runs. Comparing image IDs on this server
+    # (rather than trusting compose to decide) keeps a different compose version from recreating every app.
+    stale=0
+    for c in $(docker compose -f "$f" ps -q 2>/dev/null); do
+      img=$(docker inspect -f '{{.Config.Image}}' "$c" 2>/dev/null)
+      [ "$(docker inspect -f '{{.Image}}' "$c" 2>/dev/null)" = "$(docker image inspect -f '{{.Id}}' "$img" 2>/dev/null)" ] || stale=1
+    done
+    [ "$stale" = 1 ] || continue
+    # Let compose finish before reading its output. Piping it into `grep -q` killed compose as soon as it printed
+    # "Recreate", after the old container was stopped and before the new one started, leaving apps down.
+    out=$(docker compose -f "$f" up -d 2>&1)
+    if [ $? -ne 0 ]; then
+      log "$name: restart failed: $(echo "$out" | tail -1)"
+    elif echo "$out" | grep -q 'Recreat'; then
       log "$name: updated to the newest image"
       changed=1
     fi
@@ -119,7 +132,7 @@ cat > "$D/docker-compose.yml" <<COMPOSE
 # Written by ops/ovh-autodeploy.sh in the blazed-kitty repo. See run.sh.
 services:
   autodeploy:
-    image: docker:27-cli
+    image: docker:29-cli
     container_name: autodeploy
     entrypoint: ["/bin/sh", "/docker/autodeploy/run.sh"]
     restart: unless-stopped
