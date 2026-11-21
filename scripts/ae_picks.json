@@ -136046,5 +136046,735 @@
    ],
    "unisex": false
   }
+ },
+ {
+  "id": "1005013365867753",
+  "category": "legwear",
+  "name": "Y2K Burgundy Cross Strap Back Seam Sheer Thigh Highs",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Seams up the back, straps across the front.",
+  "attrs": {
+   "sub": "stockings",
+   "print": "plain",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005008401033167",
+  "category": "legwear",
+  "name": "Y2K Spider Web Torn Punk Tights",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Shredded on purpose.",
+  "attrs": {
+   "sub": "tights",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "themes": [
+    "spiders"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005013560712671",
+  "category": "legwear",
+  "name": "Y2K Lace Up Fishnet Thigh High Stockings",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Laced up the side, made for minis.",
+  "attrs": {
+   "sub": "stockings",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "material": [
+    "mesh",
+    "lace"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005009991162721",
+  "category": "legwear",
+  "name": "Y2K Cross Lace Goth Thigh High Stockings",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Lace with a little church in it.",
+  "attrs": {
+   "sub": "stockings",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005013213282413",
+  "category": "legwear",
+  "name": "Y2K Ballet Lace Tie Coquette Over Knee Socks",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Tied with a bow, like a ballet slipper.",
+  "attrs": {
+   "sub": "socks",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005013291681540",
+  "category": "legwear",
+  "name": "Y2K Pink Kitty Paw Pad Thigh High Socks",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Toe beans included.",
+  "attrs": {
+   "sub": "socks",
+   "print": "plain",
+   "color": "white",
+   "vibe": "harajuku",
+   "themes": [
+    "cats"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005010775627657",
+  "category": "legwear",
+  "name": "Y2K Cross Garter Velvet Thigh High Stockings",
+  "depts": [
+   "women"
+  ],
+  "blurb": "The garter does the talking.",
+  "attrs": {
+   "sub": "stockings",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "velvet"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005003328064564",
+  "category": "legwear",
+  "name": "Y2K Striped Thigh High Socks",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Twenty ways to do stripes.",
+  "attrs": {
+   "sub": "socks",
+   "print": "plain",
+   "color": "multi",
+   "vibe": "y2k",
+   "themes": [
+    "stripes"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005011549578511",
+  "category": "legwear",
+  "name": "Y2K Ruffle Lace Ribbon Over Knee Socks",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Layers of lace, tied with a ribbon.",
+  "attrs": {
+   "sub": "socks",
+   "print": "plain",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005012695852716",
+  "category": "legwear",
+  "name": "Y2K Studded Garter Punk Thigh High Stockings",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Spikes up top, attitude all the way down.",
+  "attrs": {
+   "sub": "stockings",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005012308024703",
+  "category": "legwear",
+  "name": "Y2K Spike Rivet Punk Knee High Socks",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Studs where the trim should be.",
+  "attrs": {
+   "sub": "socks",
+   "print": "plain",
+   "color": "black",
+   "vibe": "punk",
+   "material": [
+    "studs"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005007278762273",
+  "category": "legwear",
+  "name": "Y2K Kawaii Face Print Thigh High Socks",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Little faces, big mood.",
+  "attrs": {
+   "sub": "socks",
+   "print": "graphic",
+   "color": "white",
+   "vibe": "harajuku",
+   "themes": [
+    "memes"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005008599707389",
+  "category": "legwear",
+  "name": "Y2K Heart Fishnet Tights",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Hearts in every hole.",
+  "attrs": {
+   "sub": "tights",
+   "print": "plain",
+   "color": "black",
+   "vibe": "coquette",
+   "themes": [
+    "hearts"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "y2k"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005012846312333",
+  "category": "legwear",
+  "name": "Y2K Music Note Print Thigh High Socks",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Sheet music, but make it legwear.",
+  "attrs": {
+   "sub": "socks",
+   "print": "music",
+   "color": "white",
+   "vibe": "harajuku",
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005008633495796",
+  "category": "legwear",
+  "name": "Y2K Wine Red Floral Hollow Out Goth Tights",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Roses, cut out and dark.",
+  "attrs": {
+   "sub": "tights",
+   "print": "plain",
+   "color": "red",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005013117300236",
+  "category": "legwear",
+  "name": "Y2K Buckle Strap Print Sheer Goth Tights",
+  "depts": [
+   "women"
+  ],
+  "blurb": "The straps are printed on. Nobody needs to know.",
+  "attrs": {
+   "sub": "tights",
+   "print": "graphic",
+   "color": "black",
+   "vibe": "goth",
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005013358546743",
+  "category": "legwear",
+  "name": "Y2K Star Jacquard Sheer Tights",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Stars from the hip down.",
+  "attrs": {
+   "sub": "tights",
+   "print": "plain",
+   "color": "black",
+   "vibe": "y2k",
+   "themes": [
+    "stars"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005008453014594",
+  "category": "legwear",
+  "name": "Y2K Leopard Sheer Tights",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Leopard, but sheer.",
+  "attrs": {
+   "sub": "tights",
+   "print": "pattern",
+   "color": "brown",
+   "vibe": "y2k",
+   "themes": [
+    "leopard"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "grunge"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005012793031552",
+  "category": "legwear",
+  "name": "Y2K Ruffle Bow Lace Top Thigh High Stockings",
+  "depts": [
+   "women"
+  ],
+  "blurb": "A bow on each thigh.",
+  "attrs": {
+   "sub": "stockings",
+   "print": "plain",
+   "color": "black",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "lace"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005011991956029",
+  "category": "legwear",
+  "name": "Y2K Velvet Suspender Thigh High Stockings",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Built-in garters, zero clips.",
+  "attrs": {
+   "sub": "stockings",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "material": [
+    "velvet"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005010319635683",
+  "category": "legwear",
+  "name": "Y2K Rhinestone Cross Tights",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Crosses that catch the light.",
+  "attrs": {
+   "sub": "tights",
+   "print": "plain",
+   "color": "black",
+   "vibe": "y2k",
+   "themes": [
+    "crosses"
+   ],
+   "material": [
+    "rhinestone"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005009675415177",
+  "category": "legwear",
+  "name": "Y2K Spider Web Bat Fishnet Tights",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Webs, bats and a lot of leg.",
+  "attrs": {
+   "sub": "tights",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "spiders",
+    "bats"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005007564402623",
+  "category": "legwear",
+  "name": "Y2K Pentagram Star Goth Fishnet Tights",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Sixteen prints, all a little witchy.",
+  "attrs": {
+   "sub": "tights",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "stars"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005012108760806",
+  "category": "legwear",
+  "name": "Y2K Rose Lace Trim Thigh High Stockings",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Wide rose lace at the top.",
+  "attrs": {
+   "sub": "stockings",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "flowers"
+   ],
+   "material": [
+    "lace",
+    "embroidery"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005013417609053",
+  "category": "legwear",
+  "name": "Y2K Lace Up Hollow Out Knee High Socks",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Laced up the back like a corset.",
+  "attrs": {
+   "sub": "socks",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "material": [
+    "lace",
+    "mesh"
+   ],
+   "vibes": [
+    "coquette"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005012841482089",
+  "category": "legwear",
+  "name": "Y2K Skull Piano Lace Calf Socks",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Skulls, piano keys and ruffles.",
+  "attrs": {
+   "sub": "socks",
+   "print": "music",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "skulls"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005012546534769",
+  "category": "legwear",
+  "name": "Y2K Layered Bow Lace Calf Socks",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Ruffle on ruffle, bow on bow.",
+  "attrs": {
+   "sub": "socks",
+   "print": "plain",
+   "color": "black",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "lace"
+   ],
+   "vibes": [
+    "goth"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005007647972497",
+  "category": "legwear",
+  "name": "Y2K Bow Print Coquette Tights",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Little bows all the way up.",
+  "attrs": {
+   "sub": "tights",
+   "print": "pattern",
+   "color": "white",
+   "vibe": "coquette",
+   "themes": [
+    "bows"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005012686616491",
+  "category": "legwear",
+  "name": "Y2K Polka Dot Sheer Tights",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Dots that pop in every color.",
+  "attrs": {
+   "sub": "tights",
+   "print": "pattern",
+   "color": "purple",
+   "vibe": "y2k",
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "harajuku"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005006746424813",
+  "category": "legwear",
+  "name": "Y2K Cobweb Floral Goth Fishnet Tights",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Flowers caught in a web.",
+  "attrs": {
+   "sub": "tights",
+   "print": "plain",
+   "color": "black",
+   "vibe": "goth",
+   "themes": [
+    "spiders",
+    "flowers"
+   ],
+   "material": [
+    "mesh"
+   ],
+   "vibes": [
+    "punk"
+   ],
+   "unisex": false
+  }
+ },
+ {
+  "id": "1005006316602398",
+  "category": "legwear",
+  "name": "Y2K Plus Size Striped Thigh High Socks",
+  "depts": [
+   "women"
+  ],
+  "blurb": "Extra long and made for thick thighs.",
+  "attrs": {
+   "sub": "socks",
+   "print": "plain",
+   "color": "multi",
+   "vibe": "y2k",
+   "themes": [
+    "stripes"
+   ],
+   "material": [
+    "knit"
+   ],
+   "vibes": [
+    "emo"
+   ],
+   "unisex": false
+  }
  }
 ]
