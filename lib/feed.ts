@@ -90,13 +90,11 @@ export function heroScore(p: Product) {
 const groupTest = (g: GroupId) => COLLECTIONS.find((c) => c.group === g && c.parent)?.test;
 const WOMEN_GROUPS = new Set<GroupId>(['skirts', 'dresses'] as GroupId[]);
 
-/** Pieces from one group (Skirts, Shoes...) that go with this product: same vibe, shared themes, matching colors and materials. */
-export function pairWith(product: Product, group: GroupId) {
-  const test = groupTest(group);
-  if (!test) return [];
+/** How well a piece goes with this product: same vibe, shared themes, matching colors and materials. */
+function pairScorer(product: Product) {
   const a = product.attrs ?? {};
   const myVibes = new Set([a.vibe, ...(a.vibes ?? [])].filter(Boolean));
-  const score = (p: Product) => {
+  return (p: Product) => {
     const b = p.attrs ?? {};
     let s = 0;
     if (b.vibe && b.vibe === a.vibe) s += 4;
@@ -108,7 +106,92 @@ export function pairWith(product: Product, group: GroupId) {
     if (b.color && a.color) s += b.color === a.color ? 1 : NEUTRAL.has(b.color) || NEUTRAL.has(a.color) ? 0.5 : 0;
     return s + heroScore(p) * 0.15;
   };
+}
+
+/** Pieces from one group (Skirts, Shoes...) that go with this product. */
+export function pairWith(product: Product, group: GroupId) {
+  const test = groupTest(group);
+  if (!test) return [];
+  const score = pairScorer(product);
   return SHOP.filter((p) => p.slug !== product.slug && test(p)).map((p) => ({ p, s: score(p) })).sort((x, y) => y.s - x.s).map((x) => x.p);
+}
+
+// ---------- Complete the look: one piece from each slot that finishes an outfit ----------
+
+interface Slot { cats: string[]; sub?: string[]; not?: RegExp }
+const TOPS = ['baby-tees', 'crop-tees', 'long-sleeves', 'oversized-tees', 'camis-tanks', 'halter-tube', 'corsets-bodysuits', 'blouses'];
+const KNITS = ['sweaters', 'cardigans', 'hoodies', 'jackets'];
+const ACCESSORIES = ['jewelry', 'bags', 'hats', 'hair', 'belts', 'arm-warmers', 'shoes', 'extras'];
+const S: Record<string, Slot> = {
+  top: { cats: TOPS },
+  skirt: { cats: ['skirts'] },
+  bottom: { cats: ['skirts', 'jeans', 'shorts'] },
+  shorts: { cats: ['shorts'] },
+  legs: { cats: ['legwear'] },
+  jewelry: { cats: ['jewelry'] },
+  shoes: { cats: ['shoes'] },
+  bag: { cats: ['bags'], not: /charm|keychain|key ring/i },
+  hatOrBag: { cats: ['hats', 'bags'], not: /charm|keychain|key ring/i },
+  belt: { cats: ['belts'], sub: ['belt'] },
+  sunglasses: { cats: ['belts'], sub: ['sunglasses'] },
+  layer: { cats: ['jackets', 'cardigans'] },
+  accessory: { cats: ['jewelry', 'bags', 'hats', 'hair', 'belts'], not: /charm|keychain|key ring/i },
+};
+const PLANS: [string[], Slot[]][] = [
+  [TOPS, [S.skirt, S.legs, S.jewelry, S.shoes]],
+  [KNITS, [S.top, S.bottom, S.legs, S.hatOrBag]],
+  [['skirts', 'shorts'], [S.top, S.legs, S.shoes, S.jewelry]],
+  [['jeans', 'pants'], [S.top, S.belt, S.shoes, S.bag]],
+  [['dresses', 'sets'], [S.legs, S.shoes, S.jewelry, S.layer]],
+  [['legwear'], [S.skirt, S.top, S.shoes, S.jewelry]],
+  [['bikinis'], [S.sunglasses, S.bag, S.jewelry, S.shorts]],
+  [ACCESSORIES, [S.top, S.skirt, S.legs, S.accessory]],
+];
+
+const SUB_LABEL: Record<string, string> = {
+  stockings: 'Stockings', tights: 'Tights', socks: 'Socks', 'leg-warmers': 'Leg Warmers',
+  choker: 'Choker', necklace: 'Necklace', earrings: 'Earrings', rings: 'Rings', bracelet: 'Bracelet', 'body-chain': 'Body Chain',
+  beanie: 'Beanie', cap: 'Cap', belt: 'Belt', scarf: 'Scarf', sunglasses: 'Sunglasses',
+};
+const CAT_LABEL: Record<string, string> = {
+  skirts: 'Skirt', shorts: 'Shorts', jeans: 'Jeans', pants: 'Pants', legwear: 'Legwear', jewelry: 'Jewelry', shoes: 'Shoes', bags: 'Bag',
+  hats: 'Hat', hair: 'Hair', belts: 'Accessory', jackets: 'Jacket', cardigans: 'Cardigan', sweaters: 'Sweater', hoodies: 'Hoodie',
+  dresses: 'Dress', sets: 'Set', 'arm-warmers': 'Arm Warmers',
+};
+/** Short name for a piece's role in the look ("Skirt", "Tights", "Choker"). */
+export function lookLabel(p: Product) {
+  const sub = p.attrs?.sub;
+  if (sub && SUB_LABEL[sub]) return SUB_LABEL[sub];
+  if (TOPS.includes(p.category)) return 'Top';
+  return CAT_LABEL[p.category] ?? 'Accessory';
+}
+
+/** Up to four pieces, one per slot, that turn this product into a full outfit. */
+export function completeLook(product: Product) {
+  const plan = PLANS.find(([cats]) => cats.includes(product.category))?.[1] ?? PLANS[0][1];
+  const score = pairScorer(product);
+  const used = new Set([product.slug]);
+  const out: Product[] = [];
+  plan.forEach((slot, i) => {
+    const ranked = SHOP
+      .filter((p) => !used.has(p.slug) && !p.afterDark && slot.cats.includes(p.category) && !(slot === S.accessory && p.category === product.category))
+      .filter((p) => (!slot.sub || slot.sub.includes(p.attrs?.sub ?? '')) && !slot.not?.test(p.name))
+      .map((p) => ({ p, s: score(p) }))
+      .sort((x, y) => y.s - x.s);
+    if (!ranked.length) return;
+    // Pick from the close matches, the same one each time for this product, so one piece doesn't show up on every page.
+    const close = ranked.filter((r) => r.s >= ranked[0].s - 1).slice(0, 6);
+    const pick = close[hash(`${product.slug}:${i}`) % close.length].p;
+    used.add(pick.slug);
+    out.push(pick);
+  });
+  return out;
+}
+
+function hash(s: string) {
+  let h = 0;
+  for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) >>> 0;
+  return h;
 }
 
 let groupCounts: Map<GroupId, number> | undefined;
@@ -119,11 +202,6 @@ export function recOptions(product: Product) {
   return GROUPS.filter((g) => womens || !WOMEN_GROUPS.has(g.id))
     .map((g) => ({ id: g.id as string, label: g.label, count: groupCounts!.get(g.id)! }))
     .filter((o) => o.count >= 5);
-}
-
-export function completeLook(product: Product) {
-  const others = SHOP.filter((p) => p.slug !== product.slug);
-  return similar(product, others.filter((p) => p.line !== product.line && p.attrs?.vibe === product.attrs?.vibe));
 }
 
 /** One page of cards for the feed API. Returns null for an unknown source. */

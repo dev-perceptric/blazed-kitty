@@ -8,7 +8,9 @@ import ProductCard from '@/components/ProductCard';
 import sizeCharts from '@/lib/size-charts.json';
 import type { SizeChart } from '@/lib/sizing';
 import RecsSection from '@/components/RecsSection';
-import { RECS_FIRST, alsoLike, completeLook, recOptions } from '@/lib/feed';
+import { RECS_FIRST, alsoLike, completeLook, lookLabel, recOptions } from '@/lib/feed';
+import { quickData } from '@/lib/quick';
+import Look, { type LookPiece } from '@/components/Look';
 import Crumbs from '@/components/Crumbs';
 
 export function generateStaticParams() {
@@ -38,7 +40,10 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
   }
   const likeAll = alsoLike(product);
   const like = likeAll.slice(0, RECS_FIRST);
-  const look = completeLook(product).slice(0, 4);
+  const look = completeLook(product)
+    .map((p) => ({ p, label: lookLabel(p), q: quickData(p) }))
+    .filter((x) => x.q.item && x.q.sizes.length > 0);
+  const pieces: LookPiece[] = look.map((x) => ({ label: x.label, item: x.q.item!, sizes: x.q.sizes }));
 
   const ld = {
     '@context': 'https://schema.org', '@type': 'Product', name: product.name, description: `${product.blurb} ${product.details.join('. ')}`,
@@ -55,12 +60,11 @@ export default function ProductPage({ params }: { params: { slug: string } }) {
         </div>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
       </section>
-      {look.length >= 4 && (
+      {look.length >= 3 && (
         <section className="sec" style={{ paddingTop: 0 }}>
-          <div className="wrap">
-            <div className="sec-head"><h2>Complete the look</h2></div>
-            <div className="grid">{look.map((p) => <ProductCard key={p.slug} product={p} />)}</div>
-          </div>
+          <Look pieces={pieces}>
+            {look.map((x) => <ProductCard key={x.p.slug} product={x.p} kicker={x.label} />)}
+          </Look>
         </section>
       )}
       {like.length > 0 && (

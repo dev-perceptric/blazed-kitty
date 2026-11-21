@@ -2,32 +2,17 @@ import Link from 'next/link';
 import type { Product } from '@/lib/products';
 import { formatPrice } from '@/lib/products';
 import { isNew } from '@/lib/catalog';
-import { inStock } from '@/lib/stock';
-import { isOversized, sizeLabel } from '@/lib/sizing';
-import { shotsFor } from '@/lib/images';
 import { ProductPhoto } from './Media';
 import { img } from '@/lib/img';
+import { quickData } from '@/lib/quick';
 import { AdultBlur } from './Adult';
-import QuickAdd, { type QuickSize } from './QuickAdd';
-
-/** The color in the card's first photo, so quick add puts the pictured piece in the bag. */
-function pictured(product: Product) {
-  const first = shotsFor(product)[0]?.color;
-  return product.colors.find((c) => c.name === first) ?? product.colors[0];
-}
+import QuickAdd from './QuickAdd';
 
 /** White product card: photo (second photo on hover), name, price, color dots and a quick add button. */
-export default function ProductCard({ product, eager = false }: { product: Product; eager?: boolean }) {
+export default function ProductCard({ product, eager = false, kicker }: { product: Product; eager?: boolean; kicker?: string }) {
   const photo = <ProductPhoto product={product} hover eager={eager} />;
   const colors = product.colors.filter((c) => !/photo|default/i.test(c.name));
-  const color = pictured(product);
-  const oversized = isOversized(product);
-  const sizes: QuickSize[] = product.afterDark || !color ? [] : product.sizes
-    .filter((s) => inStock(product, color.name, s))
-    .map((s) => {
-      const l = sizeLabel(s, product.category, oversized);
-      return { size: s, label: l.main, text: l.text };
-    });
+  const quick = quickData(product);
   return (
     <div className="tile">
       <Link href={`/product/${product.slug}`} className="tile-link">
@@ -36,6 +21,7 @@ export default function ProductCard({ product, eager = false }: { product: Produ
           {isNew(product) && <span className="badge">New</span>}
         </div>
         <div className="tile-info">
+          {kicker && <span className="tile-kicker">{kicker}</span>}
           <span className="tile-name">{product.name}</span>
           <span className="tile-price">{formatPrice(product.price)}</span>
           {colors.length > 1 && (
@@ -48,13 +34,7 @@ export default function ProductCard({ product, eager = false }: { product: Produ
           )}
         </div>
       </Link>
-      {sizes.length > 0 && (
-        <QuickAdd
-          item={{ slug: product.slug, name: product.name, price: product.price, color: color.name, image: shotsFor(product, color.name)[0]?.src }}
-          sizes={sizes}
-          showColor={colors.length > 1}
-        />
-      )}
+      {quick.item && quick.sizes.length > 0 && <QuickAdd item={quick.item} sizes={quick.sizes} showColor={quick.showColor} />}
     </div>
   );
 }
